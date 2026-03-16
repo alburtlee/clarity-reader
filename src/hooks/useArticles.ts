@@ -24,7 +24,8 @@ export function useArticles(): {
     async function load(): Promise<void> {
       try {
         setLoading(true);
-        const response = await fetch('/data/articles.json', { cache: 'no-store' });
+        const datasetUrl = `${import.meta.env.BASE_URL}data/articles.json`;
+        const response = await fetch(datasetUrl, { cache: 'no-store' });
         if (!response.ok) {
           throw new Error(`Failed to load dataset: ${response.status}`);
         }
