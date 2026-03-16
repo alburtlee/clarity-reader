@@ -1,16 +1,24 @@
 name: Daily Clarity Refresh
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: '0 23 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    concurrency:
+      group: "pages"
+      cancel-in-progress: true
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -27,6 +35,9 @@ jobs:
       - name: Refresh article dataset
         run: npm run fetch
 
+      - name: Build site
+        run: npm run build
+
       - name: Commit updated dataset
         run: |
           git config user.name "github-actions[bot]"
@@ -34,7 +45,18 @@ jobs:
           git add public/data/articles.json
           if git diff --cached --quiet; then
             echo "No dataset changes"
-            exit 0
+          else
+            git commit -m "chore: refresh daily clarity dataset"
+            git push
           fi
-          git commit -m "chore: refresh daily clarity dataset"
-          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4
