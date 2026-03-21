@@ -1,14 +1,14 @@
 {
-  "fetchedAt": "2026-03-20T23:18:06.814Z",
+  "fetchedAt": "2026-03-21T23:16:01.458Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDM4L29wZW5haS1pcy10aHJvd2luZy1ldmVyeXRoaW5nLWludG8tYnVpbGRpbmctYS1mdWxseS1hdXRvbWF0ZWQtcmVzZWFyY2hlci8",
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDY",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wbGVhc2UtbGlzdGVuLXRvLW15LXBvZGNhc3Qv",
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2ODc",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMCViMCVlYiU4YiVhYyVlYyU5YiU5MC0lZWIlOGMlODAlZWMlOGIlYTAtJWViJWExJTljJWViJWI0JTg3JWVjJTlkJWI0LSVlYSViMyU4NCVlYiU4YiVhOC0lZWMlOTglYTQlZWIlYTUlYjglZWIlOGIlYTQtJWVjJTk1JTg0JWViJWE3JTg4JWVjJWExJWI0LSVlYyU4YSVhNCVlYyU5YyU4NCVlYyU4YSVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjAlMjViMCUyNWViJTI1OGIlMjVhYyUyNWVjJTI1OWIlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjViNCUyNTg3JTI1ZWMlMjU5ZCUyNWI0LSUyNWVhJTI1YjMlMjU4NCUyNWViJTI1OGIlMjVhOC0lMjVlYyUyNTk4JTI1YTQlMjVlYiUyNWE1JTI1YjglMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjVhMSUyNWI0LSUyNWVjJTI1OGElMjVhNCUyNWVjJTI1OWMlMjU4NCUyNWVjJTI1OGElMjVhNA",
     "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LXRoZS1ldm9sdXRpb24tb2YtYml0Y2gtc2F5cy1hYm91dC1nZW5kZXItYW5kLXBvd2VyP3V0bV9zb3VyY2U9cnNzLWZlZWQ"
   ],
-  "sourceCount": 9,
-  "articleCount": 233,
+  "sourceCount": 8,
+  "articleCount": 248,
   "articles": [
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw",
@@ -68,28 +68,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDM4L29wZW5haS1pcy10aHJvd2luZy1ldmVyeXRoaW5nLWludG8tYnVpbGRpbmctYS1mdWxseS1hdXRvbWF0ZWQtcmVzZWFyY2hlci8",
-      "title": "OpenAI is throwing everything into building a fully automated researcher",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-20T11:57:16.000Z",
-      "readingMinutes": 4,
-      "score": 113,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYS1ndWlkZS10by13aGljaC1haS10by11c2UtaW4tdGhl",
       "title": "A Guide to Which AI to Use in the Agentic Era",
       "source": "One Useful Thing",
@@ -128,6 +106,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDM4L29wZW5haS1pcy10aHJvd2luZy1ldmVyeXRoaW5nLWludG8tYnVpbGRpbmctYS1mdWxseS1hdXRvbWF0ZWQtcmVzZWFyY2hlci8",
+      "title": "OpenAI is throwing everything into building a fully automated researcher",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-20T11:57:16.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "OpenAI is refocusing its research efforts and throwing its resources into a new grand challenge. The San Francisco firm has set its sights on building what it calls an AI researcher, a fully automated agent-based system that will be able to",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAxLzE5L2ltcG9ydC1haS00NDEtbXktYWdlbnRzLWFyZS13b3JraW5nLWFyZS15b3Vycy8",
       "title": "Import AI 441: My agents are working. Are yours?",
       "source": "Import AI",
@@ -146,26 +146,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDQ4L3RoZS1kb3dubG9hZC1vcGVuYWktYnVpbGRpbmctZnVsbHktYXV0b21hdGVkLXJlc2VhcmNoZXItcHN5Y2hlZGVsaWMtZHJ1Zy10cmlhbC8",
-      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-20T13:15:45.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challe",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAzLzE2L2ltcG9ydGFpLTQ0OS1sbG1zLXRyYWluaW5nLW90aGVyLWxsbXMtNzJiLWRpc3RyaWJ1dGVkLXRyYWluaW5nLXJ1bi1jb21wdXRlci12aXNpb24taXMtaGFyZGVyLXRoYW4tZ2VuZXJhdGl2ZS10ZXh0Lw",
@@ -585,24 +565,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9qZW5zZW4taHVhbmctYW5kLWFuZHktZ3JvdmUtZ3JvcS1scHVzLWFuZC12ZXJhLWNwdXMtaG90ZWwtY2FsaWZvcm5pYS8",
-      "title": "Jensen Huang and Andy Grove, Groq LPUs and Vera CPUs, Hotel California",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/jensen-huang-and-andy-grove-groq-lpus-and-vera-cpus-hotel-california/",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDQ4L3RoZS1kb3dubG9hZC1vcGVuYWktYnVpbGRpbmctZnVsbHktYXV0b21hdGVkLXJlc2VhcmNoZXItcHN5Y2hlZGVsaWMtZHJ1Zy10cmlhbC8",
+      "title": "The Download: OpenAI is building a fully automated researcher, and a psychedelic trial blind spot",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/20/1134448/the-download-openai-building-fully-automated-researcher-psychedelic-drug-trial/",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-18T10:00:00.000Z",
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-20T13:15:45.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "GTC 2026 marked an important inflection point for Nvidia, as the company is selling multiple architectures, instead of focusing on just one GPU. The motivation is serve all needs and keep all customers.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI is throwing everything into building a fully automated researcher OpenAI has a new grand challe",
       "tags": [
-        "stratechery",
-        "daily update"
+        "mit-technology-review",
+        "the download"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLWFnZW50cy1hcmUtcmVjcnVpdGluZy1odW1hbnMtdG8tb2JzZXJ2ZS10aGUtb2ZmbGluZS13b3JsZA",
@@ -642,26 +622,6 @@
         "daily update"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wbGVhc2UtbGlzdGVuLXRvLW15LXBvZGNhc3Qv",
-      "title": "2026.12: Please Listen to My Podcast",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/please-listen-to-my-podcast/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-20T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of March 16, 2026, including everything not written, what Jensen Huang has in common with Steve Jobs, and Trump's delayed trip to Beijing.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyVhMCU4NCVlYyU5ZSU5MSVlYiViMyViNCVlYiU4YiVhNC0yJWViJWIwJWIwLSVlYiViOSVhMCVlYiVhNSViOC1ncHQtNS00LSVlYiVhZiViOCVlYiU4YiU4OC0lZWMlYTAlODQlZWElYjIlYTktJWVhJWIzJWI1JWVhJWIwJTljLSVlYiVhYyViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpLSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWUlMjU5MSUyNWViJTI1YjMlMjViNCUyNWViJTI1OGIlMjVhNC0yJTI1ZWIlMjViMCUyNWIwLSUyNWViJTI1YjklMjVhMCUyNWViJTI1YTUlMjViOC1ncHQtNS00LSUyNWViJTI1YWYlMjViOCUyNWViJTI1OGIlMjU4OC0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMCUyNTljLSUyNWViJTI1YWMlMjViNA",
@@ -809,28 +769,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDE5L3BzeWNoZWRlbGljcy1vdmVyaHlwZWQtcHNpbG9jeWJpbi1kZXByZXNzaW9uLXBsYWNlYm8v",
-      "title": "Mind-altering substances are (still) falling short in clinical trials",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-20T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—ar",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "the checkup"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYiVhNyU4YyVlYiU5MyVhMC0lZWElYjAlODAlZWMlYTclOWMtJWVjJWEwJTg0JWVjJTlmJTgxLSVlYyVhNyU4NCVlYyVhNyU5YyVlYiVhNSViYy0lZWIlOGMlODAlZWMlYjIlYjQlZWQlOTUlOWMlZWIlOGIlYTQlZWIlOTQlYTUlZWQlOGUlOTglZWMlOWQlYjQlZWQlODElYWMtJWVkJTk3JTg4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWklMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNThjJTI1ZWIlMjU5MyUyNWEwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1YTclMjU5Yy0lMjVlYyUyNWEwJTI1ODQlMjVlYyUyNTlmJTI1ODEtJTI1ZWMlMjVhNyUyNTg0JTI1ZWMlMjVhNyUyNTljJTI1ZWIlMjVhNSUyNWJjLSUyNWViJTI1OGMlMjU4MCUyNWVjJTI1YjIlMjViNCUyNWVkJTI1OTUlMjU5YyUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTk3JTI1ODg",
       "title": "\"AI가 만든 가짜 전쟁, 진짜를 대체한다\"…딥페이크 허위 게시물 수백만 명 노출",
       "source": "Tech42",
@@ -895,6 +833,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9qZW5zZW4taHVhbmctYW5kLWFuZHktZ3JvdmUtZ3JvcS1scHVzLWFuZC12ZXJhLWNwdXMtaG90ZWwtY2FsaWZvcm5pYS8",
+      "title": "Jensen Huang and Andy Grove, Groq LPUs and Vera CPUs, Hotel California",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/jensen-huang-and-andy-grove-groq-lpus-and-vera-cpus-hotel-california/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-18T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "GTC 2026 marked an important inflection point for Nvidia, as the company is selling multiple architectures, instead of focusing on just one GPU. The motivation is serve all needs and keep all customers.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1udmlkaWEtY2VvLWplbnNlbi1odWFuZy1hYm91dC1hY2NlbGVyYXRlZC1jb21wdXRpbmcv",
       "title": "An Interview with Nvidia CEO Jensen Huang About Accelerated Computing",
       "source": "Stratechery",
@@ -914,6 +872,26 @@
         "interviews"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wbGVhc2UtbGlzdGVuLXRvLW15LXBvZGNhc3Qv",
+      "title": "2026.12: Please Listen to My Podcast",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/please-listen-to-my-podcast/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-20T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of March 16, 2026, including everything not written, what Jensen Huang has in common with Steve Jobs, and Trump's delayed trip to Beijing.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMCViMCVlYiU4YiVhYyVlYyU5YiU5MC0lZWIlOGMlODAlZWMlOGIlYTAtJWViJWExJTljJWViJWI0JTg3JWVjJTlkJWI0LSVlYSViMyU4NCVlYiU4YiVhOC0lZWMlOTglYTQlZWIlYTUlYjglZWIlOGIlYTQtJWVjJTk1JTg0JWViJWE3JTg4JWVjJWExJWI0LSVlYyU4YSVhNCVlYyU5YyU4NCVlYyU4YSVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjAlMjViMCUyNWViJTI1OGIlMjVhYyUyNWVjJTI1OWIlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjViNCUyNTg3JTI1ZWMlMjU5ZCUyNWI0LSUyNWVhJTI1YjMlMjU4NCUyNWViJTI1OGIlMjVhOC0lMjVlYyUyNTk4JTI1YTQlMjVlYiUyNWE1JTI1YjglMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjVhMSUyNWI0LSUyNWVjJTI1OGElMjVhNCUyNWVjJTI1OWMlMjU4NCUyNWVjJTI1OGElMjVhNA",
@@ -1127,7 +1105,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcHJpbmctYnJlYWsv",
@@ -1147,7 +1125,7 @@
         "stratechery",
         "announcements"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL3ByLSVlYyVhMCU4NCVlYiVhYyViOCVlYSViMCU4MC00JWViJWFhJTg1LSVlYyVhNCU5MS0zJWViJWFhJTg1LWFpLSVlYyU5MyViNCVlYiU4YiVhNCVlYyU4NiU4ZCVlYiU4ZiU4NCVlYiU4YSU5NC0lZWIlYjklYTglZWIlOWQlYmMlZWMlYTElOGMlZWMlYTclODAlZWIlYTclOGMtJWVkJThjJTkwJWViJThiJWE4JWVjJTlkJTgwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249cHItJTI1ZWMlMjVhMCUyNTg0JTI1ZWIlMjVhYyUyNWI4JTI1ZWElMjViMCUyNTgwLTQlMjVlYiUyNWFhJTI1ODUtJTI1ZWMlMjVhNCUyNTkxLTMlMjVlYiUyNWFhJTI1ODUtYWktJTI1ZWMlMjU5MyUyNWI0JTI1ZWIlMjU4YiUyNWE0JTI1ZWMlMjU4NiUyNThkJTI1ZWIlMjU4ZiUyNTg0JTI1ZWIlMjU4YSUyNTk0LSUyNWViJTI1YjklMjVhOCUyNWViJTI1OWQlMjViYyUyNWVjJTI1YTElMjU4YyUyNWVjJTI1YTclMjU4MCUyNWViJTI1YTclMjU4Yy0lMjVlZCUyNThjJTI1OTAlMjVlYiUyNThiJTI1YTglMjVlYyUyNTlkJTI1ODA",
@@ -1742,6 +1720,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDE5L3BzeWNoZWRlbGljcy1vdmVyaHlwZWQtcHNpbG9jeWJpbi1kZXByZXNzaW9uLXBsYWNlYm8v",
+      "title": "Mind-altering substances are (still) falling short in clinical trials",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/20/1134419/psychedelics-overhyped-psilocybin-depression-placebo/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-20T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This week I want to look at where we are with psychedelics, the mind-altering substances that have somehow made the leap from counterculture to major focus of clinical research. Compounds like psilocybin—which is found in magic mushrooms—ar",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "the checkup"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xOS8xMTM0NDEzL3RoZS1kb3dubG9hZC1xdWFudHVtLWNvbXB1dGluZy1oZWFsdGgtcmVjeWNsaW5nLW51Y2xlYXItd2FzdGUv",
       "title": "The Download: Quantum computing for health, and why the world doesn’t recycle more nuclear waste",
       "source": "MIT Technology Review",
@@ -1758,48 +1758,6 @@
       "tags": [
         "mit-technology-review",
         "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xOC8xMTM0MzcxL3RoZS1kb3dubG9hZC10aGUtcGVudGFnb25zLW5ldy1haS1wbGFucy1hbmQtbmV4dC1nZW4tbnVjbGVhci1yZWFjdG9ycy8",
-      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-18T12:38:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says The Penta",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xOC8xMTM0MzQ1L2FkdmFuY2VkLW51Y2xlYXItcmVhY3RvcnMtd2FzdGUv",
-      "title": "What do new nuclear reactors mean for waste?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
-      "thumbnailUrl": null,
-      "author": "Casey Crownhart",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-18T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as cr",
-      "tags": [
-        "mit-technology-review",
-        "climate change and energy",
-        "app",
-        "mit technology review explains"
       ],
       "isNew": false
     },
@@ -2003,6 +1961,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDY",
+      "title": "Andrej Karpathy가 말하는 코드 에이전트, AutoResearch, 그리고 AI의 루피(Loopy) 시대 [유튜브]",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27706",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "Research",
+      "publishedAt": "2026-03-21T06:17:01.000Z",
+      "readingMinutes": 4,
+      "score": 93,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "AI 코드 에이전트의 등장으로 소프트웨어 개발 방식이 근본적으로 변화했으며, 2024년 12월을 기점으로 직접 코딩 비중이 80%에서 거의 0% 로 급감한 체감적 전환이 발생 개인이 여러 에이전트를 병렬로 운영하며 기능 단위로 작업을 배분하는 방식이 새로운 개발 ...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xMi8xMTM0MjQzL2RlZmVuc2Utb2ZmaWNpYWwtbWlsaXRhcnktdXNlLWFpLWNoYXRib3RzLXRhcmdldGluZy1kZWNpc2lvbnMv",
       "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
       "source": "MIT Technology Review",
@@ -2041,7 +2018,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtYXJlLXBzeWNoZWRlbGljLWVudGl0aWVz",
@@ -2059,6 +2036,48 @@
       "excerpt": "The post What Are Psychedelic Entities? appeared first on NOEMA.",
       "tags": [
         "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xOC8xMTM0MzcxL3RoZS1kb3dubG9hZC10aGUtcGVudGFnb25zLW5ldy1haS1wbGFucy1hbmQtbmV4dC1nZW4tbnVjbGVhci1yZWFjdG9ycy8",
+      "title": "The Download: The Pentagon’s new AI plans, and next-gen nuclear reactors",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/18/1134371/the-download-the-pentagons-new-ai-plans-and-next-gen-nuclear-reactors/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-18T12:38:00.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon is planning for AI companies to train on classified data, defense official says The Penta",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xOC8xMTM0MzQ1L2FkdmFuY2VkLW51Y2xlYXItcmVhY3RvcnMtd2FzdGUv",
+      "title": "What do new nuclear reactors mean for waste?",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/18/1134345/advanced-nuclear-reactors-waste/",
+      "thumbnailUrl": null,
+      "author": "Casey Crownhart",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-18T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. The way the world currently deals with nuclear waste is as cr",
+      "tags": [
+        "mit-technology-review",
+        "climate change and energy",
+        "app",
+        "mit technology review explains"
       ],
       "isNew": false
     },
@@ -2121,6 +2140,44 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDI",
+      "title": "Cursor Composer 2는 Kimi K2.5에 RL을 적용한 모델로 확인",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27702",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T05:31:39.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "OpenAI base URL 조작을 통해 요청 경로에 kimi-k2p5-rl이 포함된 것이 발견되며, Composer 2가 Kimi K2.5 + 강화학습(RL) 기반임이 드러남 이전 버전에서는 차단되던 요청이 Composer 2에서는 노출되었고, 이후 즉시 차단 패치가 이...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDE",
+      "title": "Show GN: Cluefin-Dure - 증권사/DART API를 활용한 국내주식 멀티 AI 에이전트",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27701",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T05:20:16.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "안녕하세요. 6개월 전에 cluefin 프로젝트를 공유했었는데요, 이번에는 cluefin에 만든 openapi 패키지(증권사, DART RestAPI)를 AI 에이전트가 사용할 수 있는 도구로 연결해서 투자 리서치 멀티 에이전트 프로젝트 \"<a href=\"https://g",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2ODc",
       "title": "GPT-5.4로 세련된 프론트엔드 디자인하기",
       "source": "GeekNews",
@@ -2136,25 +2193,6 @@
       "excerpt": "OpenAI가 GPT-5.4의 프론트엔드 개발 역량을 끌어올리기 위한 실전 프롬프팅 기법과 디자인 가이드를 공개 이미지 이해력, 기능 완성도, 컴퓨터 사용(Computer Use) 능력이 핵심 개선 축으로, 이전 모델 대비 시각적으로 세련되고 야심찬 결과물 생성 가능",
       "tags": [
         "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LXRoZS1ldm9sdXRpb24tb2YtYml0Y2gtc2F5cy1hYm91dC1nZW5kZXItYW5kLXBvd2VyP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
-      "title": "Bitch: a history",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/what-the-evolution-of-bitch-says-about-gender-and-power?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/a0d2135f-8018-4d31-86a9-76ad7d9a3f5c/test-essay-all-women-are-beautiful.jpg?width=1200&quality=75&format=auto",
-      "author": "Karen Stollznow",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-20T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "The word can morph from noun to verb to adjective, from dog to human, from female to male. What will it do next? - by Karen Stollznow Read on Aeon",
-      "tags": [
-        "aeon"
       ],
       "isNew": true
     },
@@ -2570,6 +2608,63 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTA",
+      "title": "일본의 젓가락 사용 금기 용어집",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27710",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T14:33:23.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "일본 식사 예절에서 젓가락 사용 시 피해야 할 행동을 정리한 용어집으로, 이러한 행위는 ‘키라이바시(kiraibashi)’라 불림 젓가락을 입보다 높이 들거나, 국물에 씻거나, 음식을 뒤적이는 등 무례하거나 금기시되는 행동이 다수 포함됨 ...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDk",
+      "title": "Super Micro 주가, 공동창업자의 25억 달러 규모 AI 칩 밀수 혐의 기소 후 25% 급락",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27709",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T13:33:04.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Super Micro Computer 공동창업자가 25억 달러 규모 AI 칩 밀수 혐의로 기소되며 주가가 25% 하락 미국 법무부는 그가 Nvidia 등 미국산 AI 칩을 중국으로 불법 수출한 혐의를 받고 있다고 발표 기소장에는 ...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDU",
+      "title": "MacBook M5 Pro와 Qwen3.5 기반 로컬 AI 보안 시스템",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27705",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T05:45:55.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Qwen3.5-9B 모델이 MacBook Pro M5에서 완전 로컬로 실행되어 GPT-5.4 대비 4포인트 낮은 93.8% 성능을 기록 96개 테스트와 15개 스위트로 구성된 HomeSec-Bench에서 도구 사용, 보안 분류, 이벤트 중복 제거...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2ODI",
       "title": "Cursor, 코딩 특화 AI 모델 Composer 2 출시",
       "source": "GeekNews",
@@ -2604,6 +2699,25 @@
       "excerpt": "영국 규제기관 Ofcom이 온라인 안전법 위반으로 미국 기반 커뮤니티 4Chan에 총 52만 파운드의 벌금을 부과함 주요 위반 내용은 아동이 포르노그래피에 접근하지 못하도록 하는 연령 확인 미이행(45만 파운드), 불법 콘텐츠 위험 평가 미...",
       "tags": [
         "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LXRoZS1ldm9sdXRpb24tb2YtYml0Y2gtc2F5cy1hYm91dC1nZW5kZXItYW5kLXBvd2VyP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
+      "title": "Bitch: a history",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/what-the-evolution-of-bitch-says-about-gender-and-power?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/a0d2135f-8018-4d31-86a9-76ad7d9a3f5c/test-essay-all-women-are-beautiful.jpg?width=1200&quality=75&format=auto",
+      "author": "Karen Stollznow",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-20T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "The word can morph from noun to verb to adjective, from dog to human, from female to male. What will it do next? - by Karen Stollznow Read on Aeon",
+      "tags": [
+        "aeon"
       ],
       "isNew": true
     },
@@ -2684,7 +2798,7 @@
         "app",
         "summary"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9pZi13ZS1ob3BlLXRvLWJ1aWxkLWFydGlmaWNpYWwtc291bHMtd2hlcmUtc2hvdWxkLXdlLXN0YXJ0P3V0bV9zb3VyY2U9cnNzLWZlZWQ",
@@ -2703,7 +2817,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xOS8xMTM0Mzk5L251Y2xlYXItd2FzdGUtcmVwcm9jZXNzaW5nLw",
@@ -2725,7 +2839,7 @@
         "app",
         "the spark"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2MjQ",
@@ -2764,25 +2878,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9jb3VsZC1vbmUtcm9hZC1mb3JldmVyLWNoYW5nZS10aGlzLXJlbW90ZS1hbGFza2FuLXJlZnVnZT91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "Izembek",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/could-one-road-forever-change-this-remote-alaskan-refuge?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/5845a417-61b9-4464-a15f-70afcc2a08a7/izembek-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-18T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "What does true wilderness look like? A photographer captures a rare slice of it in this refuge threatened by development - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2MTM",
@@ -3187,6 +3282,25 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDg",
+      "title": "실행 중인 세션에 채널을 통해 이벤트 푸시하기",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27708",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T11:33:34.000Z",
+      "readingMinutes": 4,
+      "score": 84,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Claude Code의 Channels는 외부 시스템의 메시지나 웹훅을 실행 중인 세션으로 직접 전달해 Claude가 즉시 반응하도록 하는 기능 MCP 서버를 통해 이벤트를 주고받으며, 세션이 열려 있는 동안만 이벤트가 도착하므로 지속 실행 환경...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2Nzc",
       "title": "일상적으로 사용하는 Claude Code 팁과 모범 사례 50가지",
       "source": "GeekNews",
@@ -3376,6 +3490,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9jb3VsZC1vbmUtcm9hZC1mb3JldmVyLWNoYW5nZS10aGlzLXJlbW90ZS1hbGFza2FuLXJlZnVnZT91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "Izembek",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/could-one-road-forever-change-this-remote-alaskan-refuge?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/5845a417-61b9-4464-a15f-70afcc2a08a7/izembek-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-18T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 82,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "What does true wilderness look like? A photographer captures a rare slice of it in this refuge threatened by development - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9waG9uZXMtYXQtc2Nob29sLWluY3JlYXNlLWxvbmVsaW5lc3M",
       "title": "Phones at School: Less Learning, More Loneliness",
       "source": "After Babel",
@@ -3412,6 +3545,158 @@
         "aeon"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTc",
+      "title": "TI-82/83/83+ 계산기용 Drugwars (2011)",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27717",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T22:33:59.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "1980년대 IBM PC용 BASIC 게임을 기반으로 한 거래 시뮬레이션 게임으로, TI-82·83·83+ 계산기에서 TI-BASIC으로 실행되는 버전 플레이어는 여섯 도시를 이동하며 마약을 사고팔고 빚을 갚으며 한 달간 최대 수익을 추구, 무작위 사건과 경찰 추격...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTY",
+      "title": "Show GN: alogin – TUI, 멀티홉 게이트웨이, 암호화 저장소를 갖춘 SSH 접속 관리 도구 (Go)",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27716",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T21:35:23.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "2000년대 초부터 개인용 SSH 자동화 도구를 Bash + Expect 스크립트로 만들어 써왔습니다. https://github.com/emusal/alogin2 핵심 문제 의식: 수십 대 서버를 사용자, 포트, 게이트웨이 경로, 자격증명이 제각각",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTU",
+      "title": "Azure Entra ID 로그인 로그 우회 취약점 세 번째와 네 번째 사례 공개",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27715",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T21:33:25.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "2023년 이후 Azure Entra ID 로그인 로그 우회 취약점이 총 4건 발견되었으며, 최근 두 건은 정상 토큰 발급이 가능한 심각한 문제로 확인됨 GraphGoblin은 OAuth2 ROPC 흐름에서 scope 파라미터를 반복 입력해 로그 생성을...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTQ",
+      "title": "Wayland가 리눅스 데스크탑을 10년 뒤로 되돌렸는가?",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27714",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T18:37:42.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "1980년대 개발된 X11의 복잡성을 대체하기 위해 등장한 Wayland는 단순한 디스플레이 프로토콜을 목표로 했으나, 17년이 지난 지금도 완성도 논란이 지속됨 전체 시장의 40~60% 수준 채택에 그치며, PipeWire 등 다른 시스템 구...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTM",
+      "title": "서버용 웹 기반 그래픽 인터페이스 Cockpit",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27713",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T18:34:41.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "웹 브라우저에서 실행되는 Linux 서버 관리용 그래픽 인터페이스로, 실제 시스템 세션과 직접 상호작용하는 경량형 관리자 도구 시스템 자원, 네트워크, 스토리지, 로그 등을 시각적으로 제어할 수 있는 대화형 관리 환경 제공",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTI",
+      "title": "Bing 검색 &quot;카카오톡&quot; 상위 3개 결과가 전부 중국발 피싱",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27712",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T17:34:28.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Bing 검색 \"카카오톡\" 상위 3개 결과가 전부 중국발 피싱 Bing에서 \"카카오톡\" 검색 시 상위 3개(apps-kakaocorp[.]com, apps-kakaotalk[.]com, pc-kakaotalk[.]com)가 전부 피싱. 인프라 및 코드를 분석한 결과: 필터링",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MTE",
+      "title": "HP, 고객지원 전화에 15분 강제 대기 적용 실험 후 철회",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27711",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T17:33:22.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "HP가 유럽 일부 국가에서 고객지원 전화 연결 전 15분 대기시간을 강제로 적용하는 정책을 시행함 이 조치는 고객이 디지털 셀프솔브(self-solve) 채널을 더 많이 이용하도록 유도하기 위한 목적이었음 고객은 실제 대기 여부와 관계없이 15분 후...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3MDM",
+      "title": "Noq: n0의 새로운 Rust 기반 QUIC 구현체",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27703",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-21T05:44:27.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "n0 팀이 개발한 noq는 Rust로 작성된 범용 QUIC 구현체로, 멀티패스와 NAT 트래버설을 지원 기존 iroh의 Quinn 기반 구조 한계를 해결하기 위해 독립 코드베이스로 전환해 개발됨 ...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc2ODY",
