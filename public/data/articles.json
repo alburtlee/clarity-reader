@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-03-27T23:21:08.844Z",
+  "fetchedAt": "2026-03-28T23:21:12.952Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yOC8xMTM0NzY2L3dvbWFucy11dGVydXMta2VwdC1hbGl2ZS1vdXRzaWRlLXRoZS1ib2R5LWZpcnN0Lw",
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTQ",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL21pZGRsZS1wb3dlci1tdWx0aWxhdGVyYWxpc20taW4tYS1oYXJkLXBvd2VyLXdvcmxk",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zby1sb25nLXRvLXNvcmEv",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNy8xMTM0NzA1L2NyeW9uaWNzLXN0b3JlLWJvZGllcy1icmFpbnMtYWZ0ZXItZGVhdGgv",
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5Mjk",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViOCViMCVlYyU5NiViNSVlYSViOSU4YyVlYyVhNyU4MC0lZWMlOTglYWUlZWElYjIlYTglZWMlYTQlODAlZWIlOGIlYTQtJWVhJWI1JWFjJWVhJWI4JTgwLSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC0lZWQlODMlODAlZWMlODIlYWMtYWktJWViJThjJTgwJWVkJTk5JTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NiUyNWI1JTI1ZWElMjViOSUyNThjJTI1ZWMlMjVhNyUyNTgwLSUyNWVjJTI1OTglMjVhZSUyNWVhJTI1YjIlMjVhOCUyNWVjJTI1YTQlMjU4MCUyNWViJTI1OGIlMjVhNC0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVkJTI1ODMlMjU4MCUyNWVjJTI1ODIlMjVhYy1haS0lMjVlYiUyNThjJTI1ODAlMjVlZCUyNTk5JTI1OTQ"
   ],
-  "sourceCount": 9,
+  "sourceCount": 8,
   "articleCount": 300,
   "articles": [
     {
@@ -365,25 +365,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL21pZGRsZS1wb3dlci1tdWx0aWxhdGVyYWxpc20taW4tYS1oYXJkLXBvd2VyLXdvcmxk",
-      "title": "Middle-Power Multilateralism In A Hard Power World",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/middle-power-multilateralism-in-a-hard-power-world",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-27T16:46:46.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Middle-Power Multilateralism In A Hard Power World appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU5ZCViNCVlYyVhMCU5YyVlYiU4YSU5NC0lZWQlOTglODQlZWMlOWUlYTUlZWMlOWQlYjQlZWIlOGIlYTQlZTIlOTElYTEtJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4JWViJThhJTk0LSVlYyU4MyU4OC0lZWMlODQlYjElZWMlOWUlYTUlZWMlOTclOTQlZWMlYTclODQlZWMlOWQlYjQtJWViJTkwJWEwJWVhJWI5JThjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWktJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjU4YSUyNTk0LSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNCUyNWViJTI1OGIlMjVhNCUyNWUyJTI1OTElMjVhMS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4MyUyNTg4LSUyNWVjJTI1ODQlMjViMSUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OTclMjU5NCUyNWVjJTI1YTclMjU4NCUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNTkwJTI1YTAlMjVlYSUyNWI5JTI1OGM",
       "title": "[AI, 이제는 현장이다②] 에이전트는 새 성장엔진이 될까… AI의 무게중심, 효율에서 수익으로",
       "source": "Tech42",
@@ -691,28 +672,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNy8xMTM0NzA1L2NyeW9uaWNzLXN0b3JlLWJvZGllcy1icmFpbnMtYWZ0ZXItZGVhdGgv",
-      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-27T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevit",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "the checkup"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtdGhlLWFpLWNvbnNjaW91c25lc3MtcXVlc3Rpb24tY29uY2VhbHM",
       "title": "What The AI Consciousness Question Conceals",
       "source": "Noema",
@@ -729,7 +688,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hcm0tY2VvLXJlbmUtaGFhcy1hYm91dC1zZWxsaW5nLWNoaXBzLw",
@@ -750,7 +709,7 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNi8xMTM0NDcwL3RoZS1zbm93LWdvZHMtaG93LWEtY291cGxlLW9mLXNraS1idW1zLWJ1aWx0LXRoZS1pbnRlcm5ldHMtYmVzdC13ZWF0aGVyLWFwcC8",
@@ -771,26 +730,6 @@
         "climate change and energy",
         "app",
         "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcm0tbGF1bmNoZXMtb3duLWNwdS1hcm1zLW1vdGl2YXRpb24tY29uc3RyYWludHMtYW5kLXN5c3RlbXMv",
-      "title": "Arm Launches Own CPU, Arm’s Motivation, Constraints and Systems",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/arm-launches-own-cpu-arms-motivation-constraints-and-systems/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-25T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Arm is selling its own chips, not just licensing IP. It's a big change compared to Arm's history, but not surprising given how computing is evolving.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -834,22 +773,21 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zby1sb25nLXRvLXNvcmEv",
-      "title": "2026.13: So Long to Sora",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/so-long-to-sora/",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL21pZGRsZS1wb3dlci1tdWx0aWxhdGVyYWxpc20taW4tYS1oYXJkLXBvd2VyLXdvcmxk",
+      "title": "Middle-Power Multilateralism In A Hard Power World",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/middle-power-multilateralism-in-a-hard-power-world",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-27T17:00:00.000Z",
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-27T16:46:46.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of March 23, 2026, including saying RIP to Sora, the 2026 Bullseye list, and Arm's big shift.",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Middle-Power Multilateralism In A Hard Power World appeared first on NOEMA.",
       "tags": [
-        "stratechery",
-        "this week in stratechery"
+        "noema"
       ],
       "isNew": true
     },
@@ -1022,45 +960,26 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNy8xMTM0NzU1L3RoZS1kb3dubG9hZC1iZXN0LXdlYXRoZXItZm9yZWNhc3RpbmctYXBwLXdoeS1wZW9wbGUtZnJlZXplLWJyYWlucy8",
-      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yOC8xMTM0NzY2L3dvbWFucy11dGVydXMta2VwdC1hbGl2ZS1vdXRzaWRlLXRoZS1ib2R5LWZpcnN0Lw",
+      "title": "A woman’s uterus has been kept alive outside the body for the first time",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/28/1134766/womans-uterus-kept-alive-outside-the-body-first/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
+      "author": "Jessica Hamzelou",
       "category": "AI + Society",
-      "publishedAt": "2026-03-27T12:32:54.000Z",
+      "publishedAt": "2026-03-28T09:00:00.000Z",
       "readingMinutes": 4,
       "score": 99,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app The best snow-forecasting app for skier",
+      "excerpt": "“Think of this as a human body,” says Javier González. In front of me is essentially a metal box on wheels. Standing at around a meter in height, it reminds me of a stainless-steel counter in a restaurant kitchen. It is covered in flexible ",
       "tags": [
         "mit-technology-review",
-        "the download"
+        "biotechnology and health",
+        "app",
+        "summary"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjQyL3RoaXMtc3RhcnR1cC13YW50cy10by1jaGFuZ2UtaG93LW1hdGhlbWF0aWNpYW5zLWRvLW1hdGgv",
-      "title": "This startup wants to change how mathematicians do math",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-25T13:59:17.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a rede",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNC8xMTM0NTQwL3RoZS1kb3dubG9hZC10cmFjaW5nLWFpLWZ1ZWxlZC1kZWx1c2lvbnMtb3BlbmFpLXdhcm5zLW1pY3Jvc29mdC1yaXNrcy8",
@@ -1169,6 +1088,48 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNy8xMTM0NzA1L2NyeW9uaWNzLXN0b3JlLWJvZGllcy1icmFpbnMtYWZ0ZXItZGVhdGgv",
+      "title": "Here’s why some people choose cryonics to store their bodies and brains after death",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/27/1134705/cryonics-store-bodies-brains-after-death/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-27T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This week I reported on some rather unusual research that focuses on the brain of L. Stephen Coles. Coles was a gerontologist who died from pancreatic cancer in 2014. He had spent the latter part of his career specializing in human longevit",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "the checkup"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcm0tbGF1bmNoZXMtb3duLWNwdS1hcm1zLW1vdGl2YXRpb24tY29uc3RyYWludHMtYW5kLXN5c3RlbXMv",
+      "title": "Arm Launches Own CPU, Arm’s Motivation, Constraints and Systems",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/arm-launches-own-cpu-arms-motivation-constraints-and-systems/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-25T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Arm is selling its own chips, not just licensing IP. It's a big change compared to Arm's history, but not surprising given how computing is evolving.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4MTA",
       "title": "LiteLLM이 공급망 공격으로 해킹당했습니다.",
       "source": "GeekNews",
@@ -1269,6 +1230,26 @@
         "artificial intelligence"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zby1sb25nLXRvLXNvcmEv",
+      "title": "2026.13: So Long to Sora",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/so-long-to-sora/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-27T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of March 23, 2026, including saying RIP to Sora, the 2026 Bullseye list, and Arm's big shift.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4OC0lZWMlOTglYTQlZWIlYTUlYjQlZWIlOGElOTQtJWVhJWIyJThjLSVlYyU5NyU4NiVlYiU4NCVhNC0lZWIlODQlYjclZWQlOTQlOGMlZWIlYTYlYWQlZWMlOGElYTQtJWVhJWI0JTkxJWVhJWIzJWEwJWVkJTk4JTk1JWVhJWI5JThjJWVjJWE3JTgwLSVlYyVhMCU4NC0lZWMlOWElOTQlZWElYjglODgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1ODgtJTI1ZWMlMjU5OCUyNWE0JTI1ZWIlMjVhNSUyNWI0JTI1ZWIlMjU4YSUyNTk0LSUyNWVhJTI1YjIlMjU4Yy0lMjVlYyUyNTk3JTI1ODYlMjVlYiUyNTg0JTI1YTQtJTI1ZWIlMjU4NCUyNWI3JTI1ZWQlMjU5NCUyNThjJTI1ZWIlMjVhNiUyNWFkJTI1ZWMlMjU4YSUyNWE0LSUyNWVhJTI1YjQlMjU5MSUyNWVhJTI1YjMlMjVhMCUyNWVkJTI1OTglMjU5NSUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlYyUyNWEwJTI1ODQtJTI1ZWMlMjU5YSUyNTk0JTI1ZWElMjViOCUyNTg4",
@@ -1400,25 +1381,6 @@
         "펜타곤"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1hcmNoaXRlY3R1cmUtb2YtY29vcGVyYXRpb24",
-      "title": "How Reverse Game Theory Could Solve The Housing Shortage",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-architecture-of-cooperation",
-      "thumbnailUrl": null,
-      "author": "HennyGe Wichers",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-25T16:30:04.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How Reverse Game Theory Could Solve The Housing Shortage appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NDU",
@@ -2333,6 +2295,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNy8xMTM0NzU1L3RoZS1kb3dubG9hZC1iZXN0LXdlYXRoZXItZm9yZWNhc3RpbmctYXBwLXdoeS1wZW9wbGUtZnJlZXplLWJyYWlucy8",
+      "title": "The Download: the internet’s best weather app, and why people freeze their brains",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/27/1134755/the-download-best-weather-forecasting-app-why-people-freeze-brains/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-27T12:32:54.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How a couple of ski bums built the internet’s best weather app The best snow-forecasting app for skier",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MTc",
       "title": "Show GN: MemAware – AI 에이전트가 &quot;내가 뭘 알고 있는지&quot;를 아는지 측정하는 벤치마크",
       "source": "GeekNews",
@@ -2369,25 +2351,26 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjM2L3RoZS1kb3dubG9hZC1yZWF3YWtlbmluZy1mcm96ZW4tYnJhaW5zLWFuZC10aGUtYWktaHlwZS1pbmRleC1yZXR1cm5zLw",
-      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjQyL3RoaXMtc3RhcnR1cC13YW50cy10by1jaGFuZ2UtaG93LW1hdGhlbWF0aWNpYW5zLWRvLW1hdGgv",
+      "title": "This startup wants to change how mathematicians do math",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
+      "author": "Will Douglas Heaven",
       "category": "AI + Society",
-      "publishedAt": "2026-03-25T12:47:44.000Z",
+      "publishedAt": "2026-03-25T13:59:17.000Z",
       "readingMinutes": 4,
       "score": 95,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain L. Stephen Coles’s brai",
+      "excerpt": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a rede",
       "tags": [
         "mit-technology-review",
-        "the download"
+        "artificial intelligence",
+        "app"
       ],
       "isNew": false
     },
@@ -2572,6 +2555,44 @@
         "app"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDM",
+      "title": "Z.AI Coding Plan, GLM-5.1 모델 지원 — Claude Code·OpenClaw에서 전환 방법",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27943",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T02:45:30.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Z.AI의 GLM Coding Plan이 최신 모델인 GLM-5.1을 지원하기 시작했습니다. Max, Pro, Lite 전 플랜 사용자가 이용 가능하며, 기존에 사용하던 코딩 에이전트에서 설정 파일만 수정해 전환할 수 있습니다. Claude Code에서 전환하기 Claude Code는 내부적으로 Opus/Sonnet/Haiku 환경변수를 GLM 모델에 매...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDI",
+      "title": "Codex 플러그인 출시 — Slack, Figma, Notion, Gmail 등 주요 도구와 즉시 연동",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27942",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T02:34:01.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "OpenAI의 코딩 에이전트 Codex가 플러그인 기능을 출시하며, 개발자가 이미 사용 중인 주요 협업·생산성 도구와 즉시 연동 가능한 플랫폼으로 전환 Slack, Figma, Notion, Gmail, Google Drive 등 핵심 도구가 기본 지원되며, Codex 앱·CLI·IDE 확장 모두에서 플러...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MjA",
@@ -2834,45 +2855,21 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjY0L3JvdW5kdGFibGVzLXRoZS1uZXh0LWVyYS1vZi1zcGFjZS1leHBsb3JhdGlvbi8",
-      "title": "Roundtables: The Next Era of Space Exploration",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1hcmNoaXRlY3R1cmUtb2YtY29vcGVyYXRpb24",
+      "title": "How Reverse Game Theory Could Solve The Housing Shortage",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-architecture-of-cooperation",
       "thumbnailUrl": null,
-      "author": "MIT Technology Review",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-25T17:26:26.000Z",
+      "author": "HennyGe Wichers",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-25T16:30:04.000Z",
       "readingMinutes": 4,
       "score": 92,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about wh",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post How Reverse Game Theory Could Solve The Housing Shortage appeared first on NOEMA.",
       "tags": [
-        "mit-technology-review",
-        "space",
-        "roundtables",
-        "subscriber-only stories"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjU3L2JhdHRlcnktY29tcGFueS1haS1waXZvdC1zZXMv",
-      "title": "Why this battery company is pivoting to AI",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
-      "thumbnailUrl": null,
-      "author": "Casey Crownhart",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-25T15:02:50.000Z",
-      "readingMinutes": 4,
-      "score": 92,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based ",
-      "tags": [
-        "mit-technology-review",
-        "climate change and energy",
-        "app"
+        "noema"
       ],
       "isNew": false
     },
@@ -3133,6 +3130,26 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjM2L3RoZS1kb3dubG9hZC1yZWF3YWtlbmluZy1mcm96ZW4tYnJhaW5zLWFuZC10aGUtYWktaHlwZS1pbmRleC1yZXR1cm5zLw",
+      "title": "The Download: reawakening frozen brains, and the AI Hype Index returns",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134636/the-download-reawakening-frozen-brains-and-the-ai-hype-index-returns/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-25T12:47:44.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This scientist rewarmed and studied pieces of his friend’s cryopreserved brain L. Stephen Coles’s brai",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMC8xMTM0NDE5L3BzeWNoZWRlbGljcy1vdmVyaHlwZWQtcHNpbG9jeWJpbi1kZXByZXNzaW9uLXBsYWNlYm8v",
       "title": "Mind-altering substances are (still) falling short in clinical trials",
       "source": "MIT Technology Review",
@@ -3275,6 +3292,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTQ",
+      "title": "이란 학교 폭격의 책임을 AI에 돌린 사건, 더 근본적인 문제",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27954",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T14:33:25.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "2026년 2월 미군이 이란 미나브 초등학교를 폭격해 175명 이상이 사망했으며, 초기에는 Anthropic의 Claude가 표적을 선택했다는 오보가 확산됨 실제 표적 결정은 Palantir의 Maven 시스템이 수행했으며, 오래된 군사 데이터 갱신 실패...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5Mjk",
       "title": "AI 에이전트를 $7/월 VPS에 배치하고 IRC를 전송 계층으로 사용한 디지털 도어맨 구축",
       "source": "GeekNews",
@@ -3328,25 +3364,6 @@
       "excerpt": "1. SaaS가 죽었다는 주장의 배경 최근 Claude Code, Copilot, Codex 같은 AI 코딩 도구가 빠르게 발전하면서, “이제 소프트웨어는 프롬프트 몇 줄이면 만들 수 있으니 SaaS는 끝난 것 아니냐”는 주장이 힘을 얻고 있음. 실제로 리드 호프만은, Claude Code 관련 트윗 하나가 SaaS 주가를 5...",
       "tags": [
         "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LWlzLXRoZS1yZWFsLWNvc3Qtb2YtYmV0dGluZy1vbi13ZWF0aGVyLWNhdGFzdHJvcGhlcz91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "Catastrophe markets",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/what-is-the-real-cost-of-betting-on-weather-catastrophes?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/a832f551-0b45-4597-a28a-2c8ef71967bd/essay-wildfire-burbank-calif.jpg?width=1200&quality=75&format=auto",
-      "author": "Jamie L Pietruska",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-27T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Americans love to gamble. But placing bets on wildfires, floods and storms comes with serious moral and social costs - by Jamie L Pietruska Read on Aeon",
-      "tags": [
-        "aeon"
       ],
       "isNew": true
     },
@@ -3956,6 +3973,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDY",
+      "title": "Show GN: 31개의 LLM을 교차검증 체계로 엮은 100% 자율 주식 매매 시스템",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27946",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T04:48:03.000Z",
+      "readingMinutes": 4,
+      "score": 89,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "안녕하세요. 개인 포트폴리오를 관리하기 위해 토이 프로젝트로 시작했다가, 점차 판이 커져 31개의 LLM 에이전트 시스템을 구축하게 된 학생 개발자입니다. 초기에는 사용자를 모으기 위한 B2C 종목 추천 웹서비스로 기획했습니다. 하지만 막대한 API 통신 비용 문제와 효용성 검증 문제에 부딪혔습니다. 그래",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9kZXNpZ25lZC1mb3Itc2FmZXR5LWluZG9uZXNpYQ",
       "title": "How Indonesia is Protecting 80 Million Children from Online Harm",
       "source": "After Babel",
@@ -3971,25 +4007,6 @@
       "excerpt": "Their first-of-its-kind regulation cracks down on harmful design and incentivizes safer technology.",
       "tags": [
         "after-babel"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9hcy10ZWNobm9sb2dpZXMtbWluZS1vdXItYXR0ZW50aW9uLXdlLW11c3QtbG9vay10by1hcnRpc3RzP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
-      "title": "Being in the world: technology and humanity",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/as-technologies-mine-our-attention-we-must-look-to-artists?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/b58f85e3-e0a7-4355-aeb7-2f513eba9631/being-in-the-world-technology-and-humanity-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-25T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 89,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "If technology threatens to flatten our humanity, artists can deepen it. Hear how, from a flamenco musician and a juggler - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
       ],
       "isNew": false
     },
@@ -4047,6 +4064,49 @@
       "excerpt": "Two new projects catalogue research on social media’s many harms to adolescents. Some of the strongest evidence comes from Meta.",
       "tags": [
         "after-babel"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjY0L3JvdW5kdGFibGVzLXRoZS1uZXh0LWVyYS1vZi1zcGFjZS1leHBsb3JhdGlvbi8",
+      "title": "Roundtables: The Next Era of Space Exploration",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/",
+      "thumbnailUrl": null,
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-25T17:26:26.000Z",
+      "readingMinutes": 4,
+      "score": 88,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Listen to the session or watch below Whether it’s the race to find life on Mars, the campaign to outsmart killer asteroids, or the quest to make the moon a permanent home to astronauts, scientists’ efforts in space can tell us more about wh",
+      "tags": [
+        "mit-technology-review",
+        "space",
+        "roundtables",
+        "subscriber-only stories"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNS8xMTM0NjU3L2JhdHRlcnktY29tcGFueS1haS1waXZvdC1zZXMv",
+      "title": "Why this battery company is pivoting to AI",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/",
+      "thumbnailUrl": null,
+      "author": "Casey Crownhart",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-25T15:02:50.000Z",
+      "readingMinutes": 4,
+      "score": 88,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Qichao Hu doesn’t mince words about how he sees the state of the battery industry. “Almost every Western battery company has either died or is going to die. It’s kind of the reality,” he says. Hu is the CEO of SES AI, a Massachusetts-based ",
+      "tags": [
+        "mit-technology-review",
+        "climate change and energy",
+        "app"
       ],
       "isNew": false
     },
@@ -4203,6 +4263,25 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LWlzLXRoZS1yZWFsLWNvc3Qtb2YtYmV0dGluZy1vbi13ZWF0aGVyLWNhdGFzdHJvcGhlcz91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "Catastrophe markets",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/what-is-the-real-cost-of-betting-on-weather-catastrophes?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/a832f551-0b45-4597-a28a-2c8ef71967bd/essay-wildfire-burbank-calif.jpg?width=1200&quality=75&format=auto",
+      "author": "Jamie L Pietruska",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-27T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Americans love to gamble. But placing bets on wildfires, floods and storms comes with serious moral and social costs - by Jamie L Pietruska Read on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9hLWpveWZ1bC1kYW5jZS1jZWxlYnJhdGlvbi1vZi1pbmRpZ2Vub3VzLW1hdHJpYXJjaHk/dXRtX3NvdXJjZT1yc3MtZmVlZA",
       "title": "She never dances alone",
       "source": "Aeon",
@@ -4219,7 +4298,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aHktY2hpbmEtaW5zaXN0cy1vbi1pbnRlcm5hbC11bml0eS1hbmQtaW50ZXJuYXRpb25hbC1oYXJtb255P3V0bV9zb3VyY2U9cnNzLWZlZWQ",
@@ -4238,7 +4317,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNi8xMTM0Njc3L2dhcy1wcmljZXMtZWxlY3RyaWMtdmVoaWNsZXMv",
@@ -4260,7 +4339,7 @@
         "app",
         "the spark"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NTM",
@@ -5048,6 +5127,25 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9hcy10ZWNobm9sb2dpZXMtbWluZS1vdXItYXR0ZW50aW9uLXdlLW11c3QtbG9vay10by1hcnRpc3RzP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
+      "title": "Being in the world: technology and humanity",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/as-technologies-mine-our-attention-we-must-look-to-artists?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/b58f85e3-e0a7-4355-aeb7-2f513eba9631/being-in-the-world-technology-and-humanity-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-25T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 85,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "If technology threatens to flatten our humanity, artists can deepen it. Hear how, from a flamenco musician and a juggler - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4MDc",
       "title": "Show GN: 자연어로 말하면 쉘 명령어를 알아서 실행해주는 CLI 도구 `pls`",
       "source": "GeekNews",
@@ -5156,6 +5254,44 @@
       "score": 85,
       "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
       "excerpt": "최신 대형 언어 모델(LLM) 들의 구조 도식과 핵심 사양을 한눈에 정리한 온라인 갤러리로, 2024~2026년 공개된 주요 모델들을 포함 각 모델은 파라미터 규모, 디코더 유형, 어텐션 방식, 주요 설계 포인트를 요약한 표 형태로 구성 자료는 Sebastian Rasc...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTg",
+      "title": "웹에서 작업 예약 실행",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27958",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T22:33:07.000Z",
+      "readingMinutes": 4,
+      "score": 84,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Claude Code의 클라우드 예약 기능으로 반복 업무를 자동화하고, 컴퓨터가 꺼져 있어도 백그라운드에서 실행 가능 예약 방식은 Cloud, Desktop, /loop 세 가지로, 실행 위치와 주기 설정 단위가 다름 웹...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDE",
+      "title": ".claude/ 폴더 구조 분석",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27941",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T00:53:17.000Z",
+      "readingMinutes": 4,
+      "score": 84,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": ".claude/ 폴더는 Claude Code의 핵심 제어 디렉터리로, 프로젝트별 규칙·명령·권한·메모리 상태를 관리함 CLAUDE.md는 Claude의 행동 원칙과 프로젝트 규칙을 정의하는 중심 파일로, 여러 계층의 설정을 병합해 적용함",
       "tags": [
         "geeknews"
       ],
@@ -5328,6 +5464,25 @@
       "excerpt": "Article URL: https://stopsloppypasta.ai/ Comments URL: https://news.ycombinator.com/item?id=47389570 Points: 444 # Comments: 181",
       "tags": [
         "hacker-news"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTM",
+      "title": "Show GN: 접근성 떨어지는 KOCW 같은 국내 강의들을 YouTube로 옮기고 있습니다",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27953",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T14:06:44.000Z",
+      "readingMinutes": 4,
+      "score": 83,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "KOCW에 있는 한국 대학 공개강의들을 비롯해 여러 강의를 YouTube에 올리는 프로젝트를 시작했습니다 목표는 접근성이 떨어지면서 재업로드해도 저작권 문제가 없는 국내 강의들을 아카이브하려고 합니다. KOCW 웹사이트에는 훌륭한 강의로 가득하지만, HTTPS를 미지원하며 모바일 환경 접속이 비교적 불",
+      "tags": [
+        "geeknews"
       ],
       "isNew": true
     },
@@ -5528,6 +5683,158 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTc",
+      "title": "Meow.camera",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27957",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T21:33:06.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "중국의 Hello Street Cat(街猫) 앱에서 제공하는 고양이 급식소 카메라 피드를 볼 수 있는 비공식 웹 뷰어 원 개발사와는 무관한 개인 프로젝트로, 단순히 재미와 편의를 위해 제작됨 사용자는 앱을 통해 원격...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTY",
+      "title": "유럽인들이 가정에서 미니 태양광 발전소를 설치하며 ‘에너지 자립’을 현실로 만들다",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27956",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T17:33:23.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "유럽 전역에서 에너지 위기 이후 가정용 태양광 설치가 급증하며, 수입 화석연료 의존을 줄이는 움직임이 확산 중임 시간대별 전기요금제와 배터리 저장 기술을 활용해, 낮에 생산한 전력을 저녁 피크 시간대에 사용하는 방식이 보편화되고 있음",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTU",
+      "title": "FBI 국장 개인 이메일, 이란 연계 해커 침해 주장",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27955",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T16:33:02.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "이란과 연계된 해커 그룹이 FBI 국장의 개인 이메일 계정을 침해했다고 주장하며, 미국 법무부가 조사에 착수함 침해된 계정은 FBI 공식 시스템이 아닌 개인 이메일로, 정부 네트워크나 기밀 정보 유출은 없다고 확인...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NTI",
+      "title": "바보야, 문제는 경계야",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27952",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T12:59:12.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "소프트웨어 개발의 핵심 난제들은 대부분 코드 내부가 아니라 코드와 코드, 시스템과 시스템이 만나는 경계(Boundary) 에서 발생한다는 주장 경계 = 서로 다른 관심사·책임·맥락이 만나는 지점 함수 분리, 모듈화, 마이크로서비스 등 개발의 거의 모든 행위가 경계를 만드는...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDk",
+      "title": "Show GN: messagetolink — 서버에 아무것도 남지 않는 Markdown 메시지 공유 도구",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27949",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T07:49:55.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "비밀번호, 접속 정보, 안내 메모 등 글 형태로 된 정보들을 누군가에게 전달할 때 링크 하나로 보낼 수 있습니다. 마크다운으로 메시지를 작성하면 전체 내용이 URL의 해시 프래그먼트(#)에 인코딩됩니다. 해시 프래그먼트는 서버로 전송되지 않으므로 서버에는 메시지 데이터가 일절 남지 않습니다. 비밀번호",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDg",
+      "title": "MacOS 26을 일관되게 나쁘게 만들기 (진심으로)",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27948",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T07:33:09.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "MacOS 26에서는 창 모서리의 불일치와 과도한 둥근 디자인이 주요 문제로 지적됨 일부 사용자는 System Integrity Protection(SIP) 을 비활성화해 시스템 루트 접근 후 수정 작업을 수행함 작성자는 기존 해킹 코드를 수정해 모든 창의 모서리를 ...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDU",
+      "title": "고양이와 함께 재택근무하는 사람을 위한 책상",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27945",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T03:33:02.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "일본 가구 브랜드 Bibilab이 사람과 반려묘가 함께 사용할 수 있도록 설계한 Neko House Desk를 출시 책상 오른쪽에는 2단 구조의 고양이 전용 공간이 있어, 고양이가 위아래로 자유롭게 이동 가능 사용자의 무릎 앞쪽에도 고양...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NDA",
+      "title": "jq보다 빠른 jsongrep",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=27940",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-03-28T00:50:17.000Z",
+      "readingMinutes": 4,
+      "score": 80,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "JSON 문서를 경로 기반으로 탐색하는 Rust CLI 도구로, 기존 jq, jmespath, jsonpath-rust, jql보다 검색 속도가 빠름 쿼리를 정규 언어로 표현해 DFA로 컴파일하고, JSON 트리를 단일 패스...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MzE",
       "title": "인스타그램과 유튜브가 아동 중독을 유발하도록 설계되었다는 로스앤젤레스 배심원단의 판결",
       "source": "GeekNews",
@@ -5693,310 +6000,6 @@
       "score": 80,
       "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
       "excerpt": "1940년대 산업 제어실과 공장 내부에서는 시각적 피로를 줄이고 안정감을 주기 위한 목적으로 Seafoam Green 계열 색상이 널리 사용됨 이 색상 체계는 색채 이론가 Faber Birren이 제안한 산업 색상 코드에서 비롯되어, DuPont과 협력해 산업 안전과 효율 ...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4OTM",
-      "title": "배심원단, 자사 플랫폼에서의 아동 성착취 사건에 대해 Meta의 책임 인정",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27893",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T21:33:21.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "뉴멕시코 주 배심원단이 Meta가 Facebook과 Instagram에서 아동을 성범죄자로부터 보호하지 못했다며 주법 위반 판결을 내림 Meta는 ‘불공정·기만적 상행위’ 및 ‘비양심적 행위’ 로 인정되어 3억7,500만 달러 배상 명령을 받았으며, 항소 방침...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4OTI",
-      "title": "Apple, 사용자가 직접 ‘미수정 확인’을 하지 않으면 버그 리포트를 임의로 닫는 문제",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27892",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T19:33:20.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "Apple이 Feedback Assistant를 통해 보고된 버그를, 사용자가 “아직 수정되지 않았음”을 직접 확인(verify) 하지 않으면 자동으로 종료함 3년간 응답이 없던 네트워크 필터 확장 관련 개인정보 유출 버그(FB12088655) 에 대해, Apple이 갑자기 ...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4OTE",
-      "title": "Apple이 나를 잃었다",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27891",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T16:38:14.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "오랜 기간 Apple 제품을 사용해 온 사용자가 개인 용도로 Apple 생태계를 떠나고 Linux·Android로 전환을 선언 이탈 이유로 Gatekeeper 정책의 제약, macOS 26의 디자인 실패, 신용카드 기반 나이 인증 문제를 지적 ma...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4ODk",
-      "title": "개인 백과사전",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27889",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T14:33:28.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "팬데믹 이후 발견한 1,351장의 가족 사진을 정리하며 기억을 구조화하기 위해 MediaWiki 기반 개인 위키를 구축함 위키 형식으로 사진, 인물, 사건을 연결하면서 가족사와 개인사를 기사 형태로 재구성함 이후 Google Photos, 위...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4ODg",
-      "title": "Show GN: Arxivify - 아무 문장이나 넣으면 논문 초록 이미지를 만들어줍니다",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27888",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T13:47:52.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "아무 문장 (헛소리라도) 넣으면 그럴싸한 논문 초록 이미지를 만들어주는 기능입니다 예를 들어 \"후각 자극에 의한 위장관 연동운동 항진 및",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4ODc",
-      "title": "Meta와 YouTube, 소셜미디어 중독 유발 과실로 유죄 판결",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27887",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T13:33:53.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "로스앤젤레스 카운티 배심원단이 Meta와 YouTube가 중독적 기능을 설계해 사용자에게 정신적 피해를 초래했다고 판단 Meta는 420만 달러, YouTube는 180만 달러의 배상 명령을 받았으며, 이는 소셜미디어 중독을 개인 상해로 인정한 첫 판...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4ODQ",
-      "title": "Show GN: 유튜브 중독을 벗어나기 위한 디톡스 확장프로그램을 만들었습니다.",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27884",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T11:43:48.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "생산적인 하루를 보내고 싶은데 어떤 날은 집중이 잘 되고, 어떤 날은 하루종일 산만합니다. 왜 그런가 제 행동을 되짚어 가면서 고민해 봤더니, 아침에 유튜브를 안 본 날이 집중력이 더 좋다는 걸 깨닫게 되었습니다. 처음에는 개인용으로 유튜브 전체를 차단하는 스크립트를 만들어 썼는데요. 제 사용 패",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4Nzk",
-      "title": "Show GN: 전국 새마을금고 금리와 경영평가등급/BIS등을 한눈에 비교하는 웹 앱",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27879",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T06:33:45.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "안녕하세요, 전국 새마을금고의 예/적금 금리와 해당 지점의 경영 안정성을 함께 비교할 수 있는 웹 서비스(https://mgija.com)를 만들어 공유해 봅니다. 만든 계기 새마을금고는 각 법인(지점)마다 금리가 다르고 특판도 자주 나오지만, 이를 한곳에서 편하게 비교하기가 쉽지 않았습니다. 게다가 최근",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NTI",
-      "title": "해충 방제용 Vertical SaaS를 만들고 싶어 기술자로 취업했다",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27852",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T20:33:15.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "전통 산업 기업들이 외부 컨설팅보다 자체 솔루션 구축에 집중하는 현실을 보고, 사무직을 떠나 현장 직종으로 복귀함 해충 방제 산업이 반복 수익 구조와 분산된 시장, 규제 기반의 안정성을 가진다는 점에 매력을 느껴 직접 지...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NTE",
-      "title": "Gemini의 비디오 임베딩 기능을 활용한 초단위 이하 의미 기반 영상 검색 도구 SentrySearch",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27851",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T19:33:09.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "대시캠 등 영상 파일에서 자연어로 장면을 검색해 해당 구간을 자동으로 잘라내는 의미 기반 검색 시스템 Google Gemini Embedding 2 모델을 이용해 비디오 자체를 벡터로 임베딩하고, ChromaDB 에 저장해 ...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NDI",
-      "title": "미국 FCC, 해외 생산 소비자용 라우터 신규 모델 수입 전면 금지",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27842",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T06:16:14.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "미국 연방통신위원회 FCC가 국가안보를 이유로 해외에서 생산된 소비자용 라우터의 신규 모델 수입과 판매를 사실상 전면 금지했다. 이번 조치는 백악관 주도의 행정부 부처 간 협의체가 해외 생산 라우터가 미국의 국가안보와 국민 안전에 용납할 수 없는 위험을 초래한다고 판단한 데 따른 것이다. FCC는 해",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4Mzc",
-      "title": "Ziptable — 소규모 데이터셋을 링크 하나로 공유하는 도구",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27837",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T03:13:01.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "CSV나 JSON 파일을 URL 자체에 압축·인코딩하여 서버 업로드나 계정 없이 브라우저만으로 데이터를 공유할 수 있는 웹 도구 데이터는 URL의 프래그먼트(# 이후 부분) 에 저장되며, 브라우저가 이 부분을 서버로 전송하지 않아 서버는 데이터를 수신하지 않...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4MzY",
-      "title": "TypeScript 6.0 발표",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27836",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T03:11:02.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "JavaScript 기반 현재 코드베이스의 마지막 릴리스이자, Go로 작성된 네이티브 포트인 TypeScript 7.0으로의 전환을 준비하는 브릿지 릴리스 this를 사용하지 않는 함수의 컨텍스트 민감도 완화, #/로 시작하는",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4MTg",
-      "title": "비밀 상자: 아파트 인터폰을 Apple Home과 연동한 은밀한 개조",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27818",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-24T22:33:08.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "기존 Doorking 인터폰 시스템의 셀룰러 서비스 중단으로 게이트 개폐 기능이 멈춘 상황에서, 원격 제어를 복원하기 위한 하드웨어 해킹 진행 ESP32 Wi-Fi 릴레이 보드를 이용해 솔레노이드 제어선을 직접 제어하고, Apple Home과 연동되는 Matter 프로토콜...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4MTY",
-      "title": "Windows 3.1 타일형 배경화면 BMP 아카이브",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27816",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-24T19:37:21.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "1990년대 Windows 3.1 운영체제의 기본 배경 패턴을 .bmp 형식으로 보존한 아카이브 저장소 각 배경은 비트맵 이미지로 구성되어 있으며, 원본 외에 잘라낸 버전과 스크린샷 예시도 포함 crop.py 스크립트를...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4MTQ",
-      "title": "협업은 헛소리다",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27814",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-24T18:33:10.000Z",
-      "readingMinutes": 4,
-      "score": 80,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "현대 조직에서 협업은 생산성의 상징처럼 여겨지지만, 실제로는 책임 회피와 비효율을 낳는 구조로 작동함 기술 산업은 이를 해결하기 위해 수많은 협업 도구를 도입했지만, 결과보다 활동과 참여의 시뮬레이션만 증가함 ...",
       "tags": [
         "geeknews"
       ],
