@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-04-01T23:28:46.337Z",
+  "fetchedAt": "2026-04-02T23:24:51.595Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hc3ltY29zLWhvcmFjZS1kZWRpdS1hYm91dC1hcHBsZS1hdC01MC8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xpbWl0aW5nLW5vdC1qdXN0LXNjcmVlbi10aW1lLWJ1dC1zY3JlZW4tc3BhY2U",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ5L3RoZS1kb3dubG9hZC1wbGFzdGljLXByb2JsZW0tZnVlbC1wcmljZXMtc3BhY2V4LWlwby8",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWRpc3BhdGNoLWFuZC10aGUtcG93ZXItb2Y",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9heGlvcy1zdXBwbHktY2hhaW4tYXR0YWNrLWNsYXVkZS1jb2RlLWNvZGUtbGVha2VkLWFpLWFuZC1zZWN1cml0eS8",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMS8xMTM0ODYzL2h1bWFub2lkLWRhdGEtdHJhaW5pbmctZ2lnLWVjb25vbXktMjAyNi1icmVha3Rocm91Z2gtdGVjaG5vbG9neS8",
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwOTI",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4MSViNCVlYiVhMSU5YyVlYiU5MyU5Yy0lZWMlYmQlOTQlZWIlOTMlOWMtJWVjJTg2JThjJWVjJThhJWE0JWVjJWJkJTk0JWViJTkzJTljLTUxJWViJWE3JThjLSVlYyVhNCU4NC0lZWMlOWMlYTAlZWMlYjYlOWMtJWVjJTk1JWE0JWVkJThhJWI4JWViJWExJTljJWVkJTk0JWJkLSVlYyU5ZCViOCVlYyVhMCU4MS0lZWMlOTglYTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWMlMjViZCUyNTk0JTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1ODYlMjU4YyUyNWVjJTI1OGElMjVhNCUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTMlMjU5Yy01MSUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNWE0JTI1ODQtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViNiUyNTljLSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNWEwJTI1ODEtJTI1ZWMlMjU5OCUyNWE0"
+    "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy93aGF0LWEtcGxhbnRzLWRlY2lzaW9uLW1ha2luZy1yZXZlYWxzLWFib3V0LWludGVsbGlnZW5jZT91dG1fc291cmNlPXJzcy1mZWVk"
   ],
   "sourceCount": 8,
   "articleCount": 300,
@@ -27,7 +27,7 @@
       "tags": [
         "one-useful-thing"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw",
@@ -87,26 +87,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAzLzMwL2ltcG9ydC1haS00NTEtcG9saXRpY2FsLXN1cGVyaW50ZWxsaWdlbmNlLWdvb2dsZXMtc29jaWV0eS1vZi1taW5kcy1hbmQtYS1yb2JvdC1kcnVtbWVyLw",
-      "title": "Import AI 451: Political superintelligence; Google’s society of minds, and a robot drummer",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/03/30/import-ai-451-political-superintelligence-googles-society-of-minds-and-a-robot-drummer/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/03/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-JoxtPN.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-30T12:28:13.000Z",
-      "readingMinutes": 4,
-      "score": 114,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI might let us build “political superintelligence”:…But turning this in",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYS1ndWlkZS10by13aGljaC1haS10by11c2UtaW4tdGhl",
       "title": "A Guide to Which AI to Use in the Agentic Era",
       "source": "One Useful Thing",
@@ -126,24 +106,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9heGlvcy1zdXBwbHktY2hhaW4tYXR0YWNrLWNsYXVkZS1jb2RlLWNvZGUtbGVha2VkLWFpLWFuZC1zZWN1cml0eS8",
-      "title": "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-01T10:00:00.000Z",
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAzLzMwL2ltcG9ydC1haS00NTEtcG9saXRpY2FsLXN1cGVyaW50ZWxsaWdlbmNlLWdvb2dsZXMtc29jaWV0eS1vZi1taW5kcy1hbmQtYS1yb2JvdC1kcnVtbWVyLw",
+      "title": "Import AI 451: Political superintelligence; Google’s society of minds, and a robot drummer",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/03/30/import-ai-451-political-superintelligence-googles-society-of-minds-and-a-robot-drummer/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/03/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-JoxtPN.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-30T12:28:13.000Z",
       "readingMinutes": 4,
       "score": 110,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "AI is going to be bad for security in the short-term, but much better than humans in the long-term.",
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI might let us build “political superintelligence”:…But turning this in",
       "tags": [
-        "stratechery",
-        "daily update"
+        "import-ai",
+        "uncategorized"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -225,6 +205,47 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hc3ltY29zLWhvcmFjZS1kZWRpdS1hYm91dC1hcHBsZS1hdC01MC8",
+      "title": "An Interview with Asymco’s Horace Dediu About Apple at 50",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9heGlvcy1zdXBwbHktY2hhaW4tYXR0YWNrLWNsYXVkZS1jb2RlLWNvZGUtbGVha2VkLWFpLWFuZC1zZWN1cml0eS8",
+      "title": "Axios Supply Chain Attack, Claude Code Code Leaked, AI and Security",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/axios-supply-chain-attack-claude-code-code-leaked-ai-and-security/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-01T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "AI is going to be bad for security in the short-term, but much better than humans in the long-term.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAyLzAyL2ltcG9ydC1haS00NDMtaW50by10aGUtbWlzdC1tb2x0Ym9vay1hZ2VudC1lY29sb2dpZXMtYW5kLXRoZS1pbnRlcm5ldC1pbi10cmFuc2l0aW9uLw",
@@ -422,28 +443,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMS8xMTM0ODYzL2h1bWFub2lkLWRhdGEtdHJhaW5pbmctZ2lnLWVjb25vbXktMjAyNi1icmVha3Rocm91Z2gtdGVjaG5vbG9neS8",
-      "title": "The gig workers who are training humanoid robots at home",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-01T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raise",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "tr10 2026"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU5ZCViNCVlYyVhMCU5YyVlYiU4YSU5NC0lZWQlOTglODQlZWMlOWUlYTUlZWMlOWQlYjQlZWIlOGIlYTQlZTIlOTElYTEtJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4JWViJThhJTk0LSVlYyU4MyU4OC0lZWMlODQlYjElZWMlOWUlYTUlZWMlOTclOTQlZWMlYTclODQlZWMlOWQlYjQtJWViJTkwJWEwJWVhJWI5JThjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWktJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjU4YSUyNTk0LSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNCUyNWViJTI1OGIlMjVhNCUyNWUyJTI1OTElMjVhMS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4MyUyNTg4LSUyNWVjJTI1ODQlMjViMSUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OTclMjU5NCUyNWVjJTI1YTclMjU4NCUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNTkwJTI1YTAlMjVlYSUyNWI5JTI1OGM",
@@ -753,26 +752,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMS8xMTM0OTkzL3RoZS1kb3dubG9hZC1naWctd29ya2Vycy10cmFpbmluZy1odW1hbm9pZHMtYmV0dGVyLWFpLWJlbmNobWFya3Mv",
-      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-01T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, retu",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMS8xMTM0ODMzL2FpLWJlbmNobWFya3MtYXJlLWJyb2tlbi1oZXJlcy13aGF0LXdlLW5lZWQtaW5zdGVhZC8",
       "title": "AI benchmarks are broken. Here’s what we need instead.",
       "source": "MIT Technology Review",
@@ -792,7 +771,7 @@
         "ai",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZXMtNTAteWVhcnMtb2YtaW50ZWdyYXRpb24v",
@@ -811,26 +790,6 @@
       "tags": [
         "stratechery",
         "articles"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcHJpbmctYnJlYWsv",
-      "title": "Spring Break",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/spring-break/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-30T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out: I will return to my usual posting schedule on Tuesday, March 31. All other Stratechery Plus content, including my podcasts, will stay on schedule",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -852,7 +811,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC1haS0lZWQlOTUlOWMtJWViJWFhJTg1LSVlYyU4YiU5YyVlYiU4YyU4MC0lZWMlYTAlOTElZWElYjMlYTAtJWVjJWE3JTkxJWViJThiJWE4LSVlYSViMiU4MCVlZCU4NiVhMCVlYiVhMSU5Yy0lZWElYjAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE3JTI1ODglMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWExJTI1OWMlMjVlYyUyNTg2JTI1OGMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtYWktJTI1ZWQlMjU5NSUyNTljLSUyNWViJTI1YWElMjU4NS0lMjVlYyUyNThiJTI1OWMlMjVlYiUyNThjJTI1ODAtJTI1ZWMlMjVhMCUyNTkxJTI1ZWElMjViMyUyNWEwLSUyNWVjJTI1YTclMjU5MSUyNWViJTI1OGIlMjVhOC0lMjVlYSUyNWIyJTI1ODAlMjVlZCUyNTg2JTI1YTAlMjVlYiUyNWExJTI1OWMtJTI1ZWElMjViMCUyNTg0",
@@ -916,6 +875,47 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xpbWl0aW5nLW5vdC1qdXN0LXNjcmVlbi10aW1lLWJ1dC1zY3JlZW4tc3BhY2U",
+      "title": "Limiting Not Just Screen Time, But Screen Space",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space",
+      "thumbnailUrl": null,
+      "author": "Laura J. Martin",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-02T13:09:19.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Limiting Not Just Screen Time, But Screen Space appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMS8xMTM0ODYzL2h1bWFub2lkLWRhdGEtdHJhaW5pbmctZ2lnLWVjb25vbXktMjAyNi1icmVha3Rocm91Z2gtdGVjaG5vbG9neS8",
+      "title": "The gig workers who are training humanoid robots at home",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/",
+      "thumbnailUrl": null,
+      "author": "Michelle Kim",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-01T11:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "When Zeus, a medical student living in a hilltop city in central Nigeria, returns to his studio apartment from a long day at the hospital, he turns on his ring light, straps his iPhone to his forehead, and starts recording himself. He raise",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "tr10 2026"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4MSViNCVlYiVhMSU5YyVlYiU5MyU5Yy0lZWMlYmQlOTQlZWIlOTMlOWMtJWVjJTg2JThjJWVjJThhJWE0JWVjJWJkJTk0JWViJTkzJTljLTUxJWViJWE3JThjLSVlYyVhNCU4NC0lZWMlOWMlYTAlZWMlYjYlOWMtJWVjJTk1JWE0JWVkJThhJWI4JWViJWExJTljJWVkJTk0JWJkLSVlYyU5ZCViOCVlYyVhMCU4MS0lZWMlOTglYTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWMlMjViZCUyNTk0JTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1ODYlMjU4YyUyNWVjJTI1OGElMjVhNCUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTMlMjU5Yy01MSUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNWE0JTI1ODQtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViNiUyNTljLSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNWEwJTI1ODEtJTI1ZWMlMjU5OCUyNWE0",
       "title": "클로드 코드 소스코드 51만 줄 유출...앤트로픽 \"인적 오류, 고객 데이터 무관\"",
       "source": "Tech42",
@@ -958,50 +958,6 @@
         "아티"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0Nzk1L3RoZXJlLWFyZS1tb3JlLWFpLWhlYWx0aC10b29scy10aGFuLWV2ZXItYnV0LWhvdy13ZWxsLWRvLXRoZXktd29yay8",
-      "title": "There are more AI health tools than ever—but how well do they work?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-30T16:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announce",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0ODgxL3RoZS1wZW50YWdvbnMtY3VsdHVyZS13YXItdGFjdGljLWFnYWluc3QtYW50aHJvcGljLWhhcy1iYWNrZmlyZWQv",
-      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
-      "thumbnailUrl": null,
-      "author": "James O'Donnell",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-30T15:42:50.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply ch",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0NzgwL3IzLWJpby1icmFpbmxlc3MtaHVtYW4tY2xvbmVzLWZ1bGwtYm9keS1yZXBsYWNlbWVudC1qb2huLXNjaGxvZW5kb3JuLWFnaW5nLWxvbmdldml0eS8",
@@ -1173,6 +1129,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ5L3RoZS1kb3dubG9hZC1wbGFzdGljLXByb2JsZW0tZnVlbC1wcmljZXMtc3BhY2V4LWlwby8",
+      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-02T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next. As the war in Iran continues, one of the most visible ",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhYyViOCVlYyU4NCU5Yy0lZWMlYTclODAlZWMlOTglYTUlZWMlOWQlYjQtJWVjJThiJWFiJWVjJTk3JTg4JWViJThiJWE0JWViJWI5JTg0JWVjJWEwJTg0JWVhJWIzJWI1LSVlYSViMyViNSVlYiVhYyViNCVlYyU5YiU5MC0lZWQlOTglYmMlZWMlOWUlOTAlZWMlODQlOWMtJWVjJTkzJWI0LSVlYSViMyViNSVlYyVhNyU4MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YWMlMjViOCUyNWVjJTI1ODQlMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTk4JTI1YTUlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU4YiUyNWFiJTI1ZWMlMjU5NyUyNTg4JTI1ZWIlMjU4YiUyNWE0JTI1ZWIlMjViOSUyNTg0JTI1ZWMlMjVhMCUyNTg0JTI1ZWElMjViMyUyNWI1LSUyNWVhJTI1YjMlMjViNSUyNWViJTI1YWMlMjViNCUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTk4JTI1YmMlMjVlYyUyNTllJTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjMlMjViNSUyNWVjJTI1YTclMjU4MQ",
       "title": "\"문서 지옥이 싫었다\"…비전공 공무원 혼자서 쓴 공직사회 AI 혁신",
       "source": "Tech42",
@@ -1301,42 +1277,42 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtdGhlLWFpLWNvbnNjaW91c25lc3MtcXVlc3Rpb24tY29uY2VhbHM",
-      "title": "The Hidden Value In The Human-AI Arrangement",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/what-the-ai-consciousness-question-conceals",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMS8xMTM0OTkzL3RoZS1kb3dubG9hZC1naWctd29ya2Vycy10cmFpbmluZy1odW1hbm9pZHMtYmV0dGVyLWFpLWJlbmNobWFya3Mv",
+      "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
       "thumbnailUrl": null,
-      "author": "Barton Friedland",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-26T13:40:30.000Z",
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-01T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 98,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Hidden Value In The Human-AI Arrangement appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, retu",
       "tags": [
-        "noema"
+        "mit-technology-review",
+        "the download"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hcm0tY2VvLXJlbmUtaGFhcy1hYm91dC1zZWxsaW5nLWNoaXBzLw",
-      "title": "An Interview with Arm CEO Rene Haas About Selling Chips",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcHJpbmctYnJlYWsv",
+      "title": "Spring Break",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/",
+      "articleUrl": "https://stratechery.com/2026/spring-break/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-03-26T10:06:36.000Z",
+      "publishedAt": "2026-03-30T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 98,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips.",
+      "excerpt": "Stratechery is on a bit of a disjointed Spring Break, as my usual week off will be spread out: I will return to my usual posting schedule on Tuesday, March 31. All other Stratechery Plus content, including my podcasts, will stay on schedule",
       "tags": [
         "stratechery",
-        "daily update",
-        "interviews"
+        "daily update"
       ],
       "isNew": false
     },
@@ -1422,26 +1398,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0ODM2L3RoZS1kb3dubG9hZC1icmFpbmxlc3MtaHVtYW4tY2xvbmVzLWZpcnN0LXV0ZXJ1cy1rZXB0LWFsaXZlLW91dHNpZGUtYm9keS8",
-      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-30T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones After operating in secrecy for years, ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNC8xMTM0NTMxL2V4Y2x1c2l2ZS1lYm9vay1hcmUtd2UtcmVhZHktdG8taGFuZC1haS1hZ2VudHMtdGhlLWtleXMv",
       "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
       "source": "MIT Technology Review",
@@ -1485,6 +1441,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ1L3BsYXN0aWMtZWNvbm9taWMtZWZmZWN0cy8",
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+      "thumbnailUrl": null,
+      "author": "Casey Crownhart",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of",
+      "tags": [
+        "mit-technology-review",
+        "climate change and energy",
+        "app",
+        "the spark"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1yZXR1cm4tb2YtdGhlLW1vcmFsLXN0YXRl",
       "title": "The Return Of The Moral State",
       "source": "Noema",
@@ -1501,7 +1479,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhYSViOCVlYSViMCU5Mi0zJWVjJWExJWIwLSVlYyU5YyVhMSVlYiViMCU5NS1rLSVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NC0lZWIlOTYlYjQlZWIlOGIlYTQtJWViJWE2JWFjJWViJWIyJWE4JWViJWE2JWFjJWVjJTk4JWE4LTQlZWMlOTYlYjUtJWViJThiJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhYSUyNWI4JTI1ZWElMjViMCUyNTkyLTMlMjVlYyUyNWExJTI1YjAtJTI1ZWMlMjU5YyUyNWExJTI1ZWIlMjViMCUyNTk1LWstJTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0JTI1ZWMlMjU5NSUyNTg0LSUyNWViJTI1OTYlMjViNCUyNWViJTI1OGIlMjVhNC0lMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWIyJTI1YTglMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk4JTI1YTgtNCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNThiJTI1YWM",
@@ -1636,6 +1614,50 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0Nzk1L3RoZXJlLWFyZS1tb3JlLWFpLWhlYWx0aC10b29scy10aGFuLWV2ZXItYnV0LWhvdy13ZWxsLWRvLXRoZXktd29yay8",
+      "title": "There are more AI health tools than ever—but how well do they work?",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
+      "thumbnailUrl": null,
+      "author": "Grace Huckins",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-30T16:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Earlier this month, Microsoft launched Copilot Health, a new space within its Copilot app where users will be able to connect their medical records and ask specific questions about their health. A couple of days earlier, Amazon had announce",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0ODgxL3RoZS1wZW50YWdvbnMtY3VsdHVyZS13YXItdGFjdGljLWFnYWluc3QtYW50aHJvcGljLWhhcy1iYWNrZmlyZWQv",
+      "title": "The Pentagon’s culture war tactic against Anthropic has backfired",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/30/1134881/the-pentagons-culture-war-tactic-against-anthropic-has-backfired/",
+      "thumbnailUrl": null,
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-30T15:42:50.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Thursday, a California judge temporarily blocked the Pentagon from labeling Anthropic a supply ch",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL21pZGRsZS1wb3dlci1tdWx0aWxhdGVyYWxpc20taW4tYS1oYXJkLXBvd2VyLXdvcmxk",
       "title": "Middle-Power Multilateralism In A Hard Power World",
       "source": "Noema",
@@ -1672,6 +1694,46 @@
         "tech42",
         "ai요약",
         "제미나이"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtdGhlLWFpLWNvbnNjaW91c25lc3MtcXVlc3Rpb24tY29uY2VhbHM",
+      "title": "The Hidden Value In The Human-AI Arrangement",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/what-the-ai-consciousness-question-conceals",
+      "thumbnailUrl": null,
+      "author": "Barton Friedland",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-26T13:40:30.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Hidden Value In The Human-AI Arrangement appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hcm0tY2VvLXJlbmUtaGFhcy1hYm91dC1zZWxsaW5nLWNoaXBzLw",
+      "title": "An Interview with Arm CEO Rene Haas About Selling Chips",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-arm-ceo-rene-haas-about-selling-chips/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-26T10:06:36.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Arm CEO Rene Haas about the company's decision to not just license IP but make their own chips.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
       ],
       "isNew": false
     },
@@ -2608,6 +2670,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy93aGF0LWEtcGxhbnRzLWRlY2lzaW9uLW1ha2luZy1yZXZlYWxzLWFib3V0LWludGVsbGlnZW5jZT91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "The hidden world of plant roots",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/what-a-plants-decision-making-reveals-about-intelligence?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/c8cc6457-fd09-45bc-b31e-143922582d4f/the-hidden-world-of-plant-roots-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-02T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Plant roots don’t have a nervous system, yet can produce sophisticated responses. What does that say about intelligence? - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwOTI",
       "title": "Show GN: Soul Spec - AI 에이전트를 위한 페르소나 표준",
       "source": "GeekNews",
@@ -3039,6 +3120,45 @@
       "excerpt": "The post The Climate Won’t Bend To Trump’s Will To Power appeared first on NOEMA.",
       "tags": [
         "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9mcmFuay1sbG95ZC13cmlnaHQtYXMtYS1taXJyb3Itb2YtdGhlLWFtZXJpY2FuLWNvbmRpdGlvbj91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "The house is a work of art",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/38ec910f-8938-4496-8861-3bbaf9420bd1/essay-master-pnp-highsm-04200-04261u.jpg?width=1200&quality=75&format=auto",
+      "author": "Andrew Deming",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 93,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Frank Lloyd Wright exalted the individual and made ordinary life beautiful. But his life was marked by scandal and grief - by Andrew Deming Read on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0ODM2L3RoZS1kb3dubG9hZC1icmFpbmxlc3MtaHVtYW4tY2xvbmVzLWZpcnN0LXV0ZXJ1cy1rZXB0LWFsaXZlLW91dHNpZGUtYm9keS8",
+      "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/30/1134836/the-download-brainless-human-clones-first-uterus-kept-alive-outside-body/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-30T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 93,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the stealthy startup that pitched brainless human clones After operating in secrecy for years, ",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": false
     },
@@ -3810,25 +3930,6 @@
         "the download"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy90aGUtcmlzZS1hbmQtZmFsbC1vZi1wcmF0b2xpbm8tdHVzY2FueXMtcHJvdG8tdGhlbWUtcGFyaz91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "The Medici’s lost garden of wonders",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/the-rise-and-fall-of-pratolino-tuscanys-proto-theme-park?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/a736aaef-ee3e-4d26-a7f8-0f6cbc181fdf/the-medici_s-lost-garden-of-wonders-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-01T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "The rise and fall of the Medici’s ingeniously engineered ‘Garden of Wonders’: the Pratolino ‘proto-theme park’ in Tuscany - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwODY",
@@ -4639,25 +4740,6 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9pbi1zZWFyY2gtb2YtdHJ1dGgtYW5kLWZ1bi1hdC1wcmluY2V0b24tdW5pdmVyc2l0eS0xOTczP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
-      "title": "A search for answers",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/in-search-of-truth-and-fun-at-princeton-university-1973?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/da7f4c07-5e3e-4dac-844c-038876be234f/a-search-for-answers-landscape-2.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-30T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 89,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "When Princeton University asked two directors to produce a marketing video, it became a work of art – and a time capsule - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
       "isNew": false
     },
     {
@@ -5014,6 +5096,44 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxMjI",
+      "title": "Show GN: 2026년 지정학 시뮬레이션 게임: 씽크탱크",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28122",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-02T10:57:44.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "씽크탱크는 AI를 활용한 전략 시뮬레이션 게임 플랫폼입니다. 요즘 세계 곳곳에서 전쟁이 일어나고 있고, 국가들간의 긴장 관계가 뉴스를 보는 저를 피로하게 만들고 있는데요. 뉴스를 자주 접하다보니 여러가지 가능성에 대한 상",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxMTk",
+      "title": "나는 그만둔다. 클랭커들이 이겼다",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28119",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-02T06:33:12.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "AI와 자동화된 콘텐츠가 인간 창작을 대체하고 있다는 회의감이 확산되며, 많은 개발자들이 블로깅과 코딩의 의미를 잃고 있음 알고리듬과 표절 기계가 지배하는 환경 속에서 인간적 대화와 진정성 있는 목소리가 사라지고 있음 AI 산업은 과대광...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwOTk",
       "title": "Show GN: 반품랩탑 - AI가 다나와 데이터와 오픈마켓 반품 특가를 매핑해 진짜 가성비 반품 노트북을 찾아주는 서...",
       "source": "GeekNews",
@@ -5048,6 +5168,25 @@
       "excerpt": "https://selfview.me/ AI 와 대화하며 자기 자신을 인터뷰 해보고 (아티클은 기본 비공개로 생성되며 작성자가 변경 가능합니다. https:",
       "tags": [
         "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy90aGUtcmlzZS1hbmQtZmFsbC1vZi1wcmF0b2xpbm8tdHVzY2FueXMtcHJvdG8tdGhlbWUtcGFyaz91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "The Medici’s lost garden of wonders",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/the-rise-and-fall-of-pratolino-tuscanys-proto-theme-park?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/a736aaef-ee3e-4d26-a7f8-0f6cbc181fdf/the-medici_s-lost-garden-of-wonders-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-01T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "The rise and fall of the Medici’s ingeniously engineered ‘Garden of Wonders’: the Pratolino ‘proto-theme park’ in Tuscany - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
       ],
       "isNew": true
     },
@@ -5126,25 +5265,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9ob3ctdGhlLWh5cGVyY3VyaW9zaXR5LW9mLWFkaGQtbWF5LWhhdmUtaGVscGVkLWh1bWFucy10aHJpdmU/dXRtX3NvdXJjZT1yc3MtZmVlZA",
-      "title": "The hypercurious mind",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/how-the-hypercuriosity-of-adhd-may-have-helped-humans-thrive?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/aaa3e45d-40b6-4dee-a51c-3956d13b481b/essay-lon48608.jpg?width=1200&quality=75&format=auto",
-      "author": "Anne-Laure Le Cunff",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-30T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "ADHD isn’t merely a dysfunction. It’s best understood as an impulsive motivational drive for novel information - by Anne-Laure Le Cunff Read on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwMDc",
@@ -5933,120 +6053,6 @@
         "aeon"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9haS1jYW50LWZpeC1zdHVkZW50LWVuZ2FnZW1lbnQ",
-      "title": "AI Can't Fix Student Engagement",
-      "source": "After Babel",
-      "sourceUrl": "https://www.afterbabel.com/feed",
-      "articleUrl": "https://www.afterbabel.com/p/ai-cant-fix-student-engagement",
-      "thumbnailUrl": null,
-      "author": "Jenny Anderson",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-04T12:03:16.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Only a third of American kids are highly engaged in school. Developing students' curiosity and agency is the solution.",
-      "tags": [
-        "after-babel"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9ob3ctZG8td2UtZGVhbC13aXRoLXRoZS1jYXRhc3Ryb3BoZS1vZi11bmluc3VyYWJpbGl0eT91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "The insurance catastrophe",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/how-do-we-deal-with-the-catastrophe-of-uninsurability?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/8701ef43-1a3d-4eaa-8e83-c95ed030b9a9/essay-final-gettyimages-1052463818.jpg?width=1200&quality=75&format=auto",
-      "author": "Gavin Evans",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-03T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Whole regions of the world are now uninsurable, bringing radical uncertainty to the economy. How do we fix the problem? - by Gavin Evans Read on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy93aHktdGhpcy1vbmNlLWJhbm5lZC1ydXNzaWFuLXBhaW50aW5nLXJlbWFpbnMtY29udHJvdmVyc2lhbD91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "Great art explained: Ivan the Terrible and His Son Ivan on 16 November 1581",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/why-this-once-banned-russian-painting-remains-controversial?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/473a2a46-b933-4bb8-abdd-c1878c69eae9/ivan-the-terrible-and-his-son-ivan-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-02T11:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Why Ilya Repin’s masterpiece of Ivan the Terrible, first banned in 1885, remains one of Russia’s most controversial paintings - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9lZHRlY2gtYm9ycm93aW5nLXp1Y2tlcmJlcmdzLXBsYXlib29r",
-      "title": "EdTech is Borrowing Zuckerberg's Playbook",
-      "source": "After Babel",
-      "sourceUrl": "https://www.afterbabel.com/feed",
-      "articleUrl": "https://www.afterbabel.com/p/edtech-borrowing-zuckerbergs-playbook",
-      "thumbnailUrl": null,
-      "author": "Jared Cooney Horvath",
-      "category": "AI + Society",
-      "publishedAt": "2026-02-26T12:02:46.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The \"No Evidence of Harm\" Refrain is a Familiar Deflection",
-      "tags": [
-        "after-babel"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9saXZlLXdpdGgta2F0aWUtY291cmlj",
-      "title": "Live with Katie Couric",
-      "source": "After Babel",
-      "sourceUrl": "https://www.afterbabel.com/feed",
-      "articleUrl": "https://www.afterbabel.com/p/live-with-katie-couric",
-      "thumbnailUrl": null,
-      "author": "Jon Haidt",
-      "category": "AI + Society",
-      "publishedAt": "2025-12-19T20:40:29.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "A recording from Jon Haidt and Katie Couric's live video",
-      "tags": [
-        "after-babel"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MjQ",
-      "title": "LiteLLM 공급망 공격에 대한 분 단위 대응 기록",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27924",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-27T17:37:26.000Z",
-      "readingMinutes": 4,
-      "score": 85,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "PyPI를 통해 배포된 LiteLLM 1.82.8 악성 패키지 감염을 실시간으로 탐지하고 분석한 분 단위 대응 일지 감염은 Cursor IDE 자동 업데이트 중 발생했으며, litellm_init.pth 파일이 실행되어 자격 증명 탈취와 시스템 감염...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
     }
   ]
 }
