@@ -1,34 +1,15 @@
 {
-  "fetchedAt": "2026-04-02T23:24:51.595Z",
+  "fetchedAt": "2026-04-03T23:25:05.634Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hc3ltY29zLWhvcmFjZS1kZWRpdS1hYm91dC1hcHBsZS1hdC01MC8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xpbWl0aW5nLW5vdC1qdXN0LXNjcmVlbi10aW1lLWJ1dC1zY3JlZW4tc3BhY2U",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ5L3RoZS1kb3dubG9hZC1wbGFzdGljLXByb2JsZW0tZnVlbC1wcmljZXMtc3BhY2V4LWlwby8",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWRpc3BhdGNoLWFuZC10aGUtcG93ZXItb2Y",
-    "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy93aGF0LWEtcGxhbnRzLWRlY2lzaW9uLW1ha2luZy1yZXZlYWxzLWFib3V0LWludGVsbGlnZW5jZT91dG1fc291cmNlPXJzcy1mZWVk"
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hY2NlbGVyYXRpb24tYW5kLWFpLw",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2lyYW4tY291bGQtYmVjb21lLWxpa2UtZWd5cHQtbXlhbm1hci1vci1wYWtpc3Rhbg",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMy8xMTM1MDczL2ZvdXItdGhpbmdzLXdlZC1uZWVkLXRvLXB1dC1kYXRhLWNlbnRlcnMtaW4tc3BhY2Uv",
+    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9ob3ctbWlnaHQtaHVtYW5pdGFyaWFuLWpvdXJuYWxpc20tYmUtZG9uZS1iZXR0ZXI/dXRtX3NvdXJjZT1yc3MtZmVlZA",
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxNzI"
   ],
   "sourceCount": 8,
   "articleCount": 300,
   "articles": [
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWRpc3BhdGNoLWFuZC10aGUtcG93ZXItb2Y",
-      "title": "Claude Dispatch and the Power of Interfaces",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-31T22:34:37.000Z",
-      "readingMinutes": 4,
-      "score": 120,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "We often lack the tools for the job, even if the AI is capable enough",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw",
       "title": "Real AI Agents and Real Work",
@@ -43,6 +24,25 @@
       "score": 118,
       "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
       "excerpt": "The race between human-centered work and infinite PowerPoints",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWRpc3BhdGNoLWFuZC10aGUtcG93ZXItb2Y",
+      "title": "Claude Dispatch and the Power of Interfaces",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/claude-dispatch-and-the-power-of",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-31T22:34:37.000Z",
+      "readingMinutes": 4,
+      "score": 116,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "We often lack the tools for the job, even if the AI is capable enough",
       "tags": [
         "one-useful-thing"
       ],
@@ -207,23 +207,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hc3ltY29zLWhvcmFjZS1kZWRpdS1hYm91dC1hcHBsZS1hdC01MC8",
-      "title": "An Interview with Asymco’s Horace Dediu About Apple at 50",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hY2NlbGVyYXRpb24tYW5kLWFpLw",
+      "title": "2026.14: Apple, Acceleration, and AI",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
+      "articleUrl": "https://stratechery.com/2026/apple-acceleration-and-ai/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "publishedAt": "2026-04-03T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The best Stratechery content from the week of March 30, 2026, including Formula 1 spinning off track, Apple's first and next 50 years, and security and AI.",
       "tags": [
         "stratechery",
-        "daily update",
-        "interviews"
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -245,7 +244,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAyLzAyL2ltcG9ydC1haS00NDMtaW50by10aGUtbWlzdC1tb2x0Ym9vay1hZ2VudC1lY29sb2dpZXMtYW5kLXRoZS1pbnRlcm5ldC1pbi10cmFuc2l0aW9uLw",
@@ -752,66 +751,25 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMS8xMTM0ODMzL2FpLWJlbmNobWFya3MtYXJlLWJyb2tlbi1oZXJlcy13aGF0LXdlLW5lZWQtaW5zdGVhZC8",
-      "title": "AI benchmarks are broken. Here’s what we need instead.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-      "thumbnailUrl": null,
-      "author": "Angela Aristidou",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-31T12:01:08.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against t",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "app"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZXMtNTAteWVhcnMtb2YtaW50ZWdyYXRpb24v",
-      "title": "Apple’s 50 Years of Integration",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1hc3ltY29zLWhvcmFjZS1kZWRpdS1hYm91dC1hcHBsZS1hdC01MC8",
+      "title": "An Interview with Asymco’s Horace Dediu About Apple at 50",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apples-50-years-of-integration/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-asymcos-horace-dediu-about-apple-at-50/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-03-31T10:00:00.000Z",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes.",
+      "excerpt": "An interview with Asymco's Horace Dediu about his career in tech, Apple's first 50 years, and the prospects for the next 50, particularly in the face of AI",
       "tags": [
         "stratechery",
-        "articles"
+        "daily update",
+        "interviews"
       ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMS8xMTM0OTM0L3RoZS1kb3dubG9hZC10ZXN0aW5nLWFpLWhlYWx0aC10b29scy1wZW50YWdvbi1hbnRocm9waWMtY3VsdHVyZS13YXItYmFja2ZpcmVzLw",
-      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-31T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work? In the last few months alone, Micr",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC1haS0lZWQlOTUlOWMtJWViJWFhJTg1LSVlYyU4YiU5YyVlYiU4YyU4MC0lZWMlYTAlOTElZWElYjMlYTAtJWVjJWE3JTkxJWViJThiJWE4LSVlYSViMiU4MCVlZCU4NiVhMCVlYiVhMSU5Yy0lZWElYjAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE3JTI1ODglMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWExJTI1OWMlMjVlYyUyNTg2JTI1OGMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtYWktJTI1ZWQlMjU5NSUyNTljLSUyNWViJTI1YWElMjU4NS0lMjVlYyUyNThiJTI1OWMlMjVlYiUyNThjJTI1ODAtJTI1ZWMlMjVhMCUyNTkxJTI1ZWElMjViMyUyNWEwLSUyNWVjJTI1YTclMjU5MSUyNWViJTI1OGIlMjVhOC0lMjVlYSUyNWIyJTI1ODAlMjVlZCUyNTg2JTI1YTAlMjVlYiUyNWExJTI1OWMtJTI1ZWElMjViMCUyNTg0",
@@ -875,19 +833,19 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xpbWl0aW5nLW5vdC1qdXN0LXNjcmVlbi10aW1lLWJ1dC1zY3JlZW4tc3BhY2U",
-      "title": "Limiting Not Just Screen Time, But Screen Space",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2lyYW4tY291bGQtYmVjb21lLWxpa2UtZWd5cHQtbXlhbm1hci1vci1wYWtpc3Rhbg",
+      "title": "Iran Could Become Like Egypt, Myanmar or Pakistan",
       "source": "Noema",
       "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space",
+      "articleUrl": "https://www.noemamag.com/iran-could-become-like-egypt-myanmar-or-pakistan",
       "thumbnailUrl": null,
-      "author": "Laura J. Martin",
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-04-02T13:09:19.000Z",
+      "publishedAt": "2026-04-03T16:50:25.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Limiting Not Just Screen Time, But Screen Space appeared first on NOEMA.",
+      "excerpt": "The post Iran Could Become Like Egypt, Myanmar or Pakistan appeared first on NOEMA.",
       "tags": [
         "noema"
       ],
@@ -913,7 +871,7 @@
         "app",
         "tr10 2026"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4MSViNCVlYiVhMSU5YyVlYiU5MyU5Yy0lZWMlYmQlOTQlZWIlOTMlOWMtJWVjJTg2JThjJWVjJThhJWE0JWVjJWJkJTk0JWViJTkzJTljLTUxJWViJWE3JThjLSVlYyVhNCU4NC0lZWMlOWMlYTAlZWMlYjYlOWMtJWVjJTk1JWE0JWVkJThhJWI4JWViJWExJTljJWVkJTk0JWJkLSVlYyU5ZCViOCVlYyVhMCU4MS0lZWMlOTglYTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWMlMjViZCUyNTk0JTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1ODYlMjU4YyUyNWVjJTI1OGElMjVhNCUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTMlMjU5Yy01MSUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNWE0JTI1ODQtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViNiUyNTljLSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNWEwJTI1ODEtJTI1ZWMlMjU5OCUyNWE0",
@@ -1129,22 +1087,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ5L3RoZS1kb3dubG9hZC1wbGFzdGljLXByb2JsZW0tZnVlbC1wcmljZXMtc3BhY2V4LWlwby8",
-      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMy8xMTM1MDczL2ZvdXItdGhpbmdzLXdlZC1uZWVkLXRvLXB1dC1kYXRhLWNlbnRlcnMtaW4tc3BhY2Uv",
+      "title": "Four things we’d need to put data centers in space",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
+      "author": "Tereza Pultarova",
       "category": "AI + Society",
-      "publishedAt": "2026-04-02T12:10:00.000Z",
+      "publishedAt": "2026-04-03T17:03:19.000Z",
       "readingMinutes": 4,
       "score": 99,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next. As the war in Iran continues, one of the most visible ",
+      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the ",
       "tags": [
         "mit-technology-review",
-        "the download"
+        "space",
+        "app"
       ],
       "isNew": true
     },
@@ -1294,7 +1253,49 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMS8xMTM0ODMzL2FpLWJlbmNobWFya3MtYXJlLWJyb2tlbi1oZXJlcy13aGF0LXdlLW5lZWQtaW5zdGVhZC8",
+      "title": "AI benchmarks are broken. Here’s what we need instead.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+      "thumbnailUrl": null,
+      "author": "Angela Aristidou",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-31T12:01:08.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI models and applications is tested against t",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZXMtNTAteWVhcnMtb2YtaW50ZWdyYXRpb24v",
+      "title": "Apple’s 50 Years of Integration",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apples-50-years-of-integration/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-31T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Apple has survived 50 years by being the only company integrating hardware and software; if the company loses because of AI it will be because the point of integration changes.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcHJpbmctYnJlYWsv",
@@ -1398,6 +1399,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMS8xMTM0OTM0L3RoZS1kb3dubG9hZC10ZXN0aW5nLWFpLWhlYWx0aC10b29scy1wZW50YWdvbi1hbnRocm9waWMtY3VsdHVyZS13YXItYmFja2ZpcmVzLw",
+      "title": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-03-31T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 97,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There are more AI health tools than ever—but how well do they work? In the last few months alone, Micr",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yNC8xMTM0NTMxL2V4Y2x1c2l2ZS1lYm9vay1hcmUtd2UtcmVhZHktdG8taGFuZC1haS1hZ2VudHMtdGhlLWtleXMv",
       "title": "Exclusive eBook: Are we ready to hand AI agents the keys?",
       "source": "MIT Technology Review",
@@ -1441,45 +1462,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ1L3BsYXN0aWMtZWNvbm9taWMtZWZmZWN0cy8",
-      "title": "Fuel prices are soaring. Plastic could be next.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
-      "thumbnailUrl": null,
-      "author": "Casey Crownhart",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-02T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of",
-      "tags": [
-        "mit-technology-review",
-        "climate change and energy",
-        "app",
-        "the spark"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1yZXR1cm4tb2YtdGhlLW1vcmFsLXN0YXRl",
-      "title": "The Return Of The Moral State",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xpbWl0aW5nLW5vdC1qdXN0LXNjcmVlbi10aW1lLWJ1dC1zY3JlZW4tc3BhY2U",
+      "title": "Limiting Not Just Screen Time, But Screen Space",
       "source": "Noema",
       "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-return-of-the-moral-state",
+      "articleUrl": "https://www.noemamag.com/limiting-not-just-screen-time-but-screen-space",
       "thumbnailUrl": null,
-      "author": "Alexandre Lefebvre",
+      "author": "Laura J. Martin",
       "category": "Philosophy",
-      "publishedAt": "2026-03-31T16:35:56.000Z",
+      "publishedAt": "2026-04-02T13:09:19.000Z",
       "readingMinutes": 4,
       "score": 96,
       "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Return Of The Moral State appeared first on NOEMA.",
+      "excerpt": "The post Limiting Not Just Screen Time, But Screen Space appeared first on NOEMA.",
       "tags": [
         "noema"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhYSViOCVlYSViMCU5Mi0zJWVjJWExJWIwLSVlYyU5YyVhMSVlYiViMCU5NS1rLSVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NC0lZWIlOTYlYjQlZWIlOGIlYTQtJWViJWE2JWFjJWViJWIyJWE4JWViJWE2JWFjJWVjJTk4JWE4LTQlZWMlOTYlYjUtJWViJThiJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhYSUyNWI4JTI1ZWElMjViMCUyNTkyLTMlMjVlYyUyNWExJTI1YjAtJTI1ZWMlMjU5YyUyNWExJTI1ZWIlMjViMCUyNTk1LWstJTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0JTI1ZWMlMjU5NSUyNTg0LSUyNWViJTI1OTYlMjViNCUyNWViJTI1OGIlMjVhNC0lMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWIyJTI1YTglMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk4JTI1YTgtNCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNThiJTI1YWM",
@@ -1654,25 +1653,6 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL21pZGRsZS1wb3dlci1tdWx0aWxhdGVyYWxpc20taW4tYS1oYXJkLXBvd2VyLXdvcmxk",
-      "title": "Middle-Power Multilateralism In A Hard Power World",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/middle-power-multilateralism-in-a-hard-power-world",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-27T16:46:46.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Middle-Power Multilateralism In A Hard Power World appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": false
     },
@@ -2670,21 +2650,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy93aGF0LWEtcGxhbnRzLWRlY2lzaW9uLW1ha2luZy1yZXZlYWxzLWFib3V0LWludGVsbGlnZW5jZT91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "The hidden world of plant roots",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/what-a-plants-decision-making-reveals-about-intelligence?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/c8cc6457-fd09-45bc-b31e-143922582d4f/the-hidden-world-of-plant-roots-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-02T10:01:00.000Z",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ5L3RoZS1kb3dubG9hZC1wbGFzdGljLXByb2JsZW0tZnVlbC1wcmljZXMtc3BhY2V4LWlwby8",
+      "title": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-02T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 95,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Plant roots don’t have a nervous system, yet can produce sophisticated responses. What does that say about intelligence? - by Aeon Video Watch on Aeon",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Fuel prices are soaring. Plastic could be next. As the war in Iran continues, one of the most visible ",
       "tags": [
-        "aeon"
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     },
@@ -2968,6 +2949,25 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL21pZGRsZS1wb3dlci1tdWx0aWxhdGVyYWxpc20taW4tYS1oYXJkLXBvd2VyLXdvcmxk",
+      "title": "Middle-Power Multilateralism In A Hard Power World",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/middle-power-multilateralism-in-a-hard-power-world",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-27T16:46:46.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Middle-Power Multilateralism In A Hard Power World appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MjA",
       "title": "Show GN: Geas - Claude Code 멀티 에이전트 장기 작업을 위한 계약 기반 거버넌스 harness",
       "source": "GeekNews",
@@ -3124,25 +3124,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9mcmFuay1sbG95ZC13cmlnaHQtYXMtYS1taXJyb3Itb2YtdGhlLWFtZXJpY2FuLWNvbmRpdGlvbj91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "The house is a work of art",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/38ec910f-8938-4496-8861-3bbaf9420bd1/essay-master-pnp-highsm-04200-04261u.jpg?width=1200&quality=75&format=auto",
-      "author": "Andrew Deming",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-02T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 93,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Frank Lloyd Wright exalted the individual and made ordinary life beautiful. But his life was marked by scandal and grief - by Andrew Deming Read on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8zMC8xMTM0ODM2L3RoZS1kb3dubG9hZC1icmFpbmxlc3MtaHVtYW4tY2xvbmVzLWZpcnN0LXV0ZXJ1cy1rZXB0LWFsaXZlLW91dHNpZGUtYm9keS8",
       "title": "The Download: brainless human clones and the first uterus kept alive outside a body",
       "source": "MIT Technology Review",
@@ -3245,6 +3226,47 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wMi8xMTM1MDQ1L3BsYXN0aWMtZWNvbm9taWMtZWZmZWN0cy8",
+      "title": "Fuel prices are soaring. Plastic could be next.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/",
+      "thumbnailUrl": null,
+      "author": "Casey Crownhart",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "As the war in Iran continues to engulf the Middle East and the Strait of Hormuz stays closed, one of the most visible global economic ripple effects has been fossil-fuel prices. In particular, you can’t get away from news about the price of",
+      "tags": [
+        "mit-technology-review",
+        "climate change and energy",
+        "app",
+        "the spark"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1yZXR1cm4tb2YtdGhlLW1vcmFsLXN0YXRl",
+      "title": "The Return Of The Moral State",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-return-of-the-moral-state",
+      "thumbnailUrl": null,
+      "author": "Alexandre Lefebvre",
+      "category": "Philosophy",
+      "publishedAt": "2026-03-31T16:35:56.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Return Of The Moral State appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwNTY",
       "title": "Show GN: 한국 주식시장 뉴스 분석 및 투자 리서치를 위해 특화된 7B 파라미터 에이전트 LLM",
       "source": "GeekNews",
@@ -3262,26 +3284,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zby1sb25nLXRvLXNvcmEv",
-      "title": "2026.13: So Long to Sora",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/so-long-to-sora/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-27T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 92,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of March 23, 2026, including saying RIP to Sora, the 2026 Bullseye list, and Arm's big shift.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4OC0lZWMlOTglYTQlZWIlYTUlYjQlZWIlOGElOTQtJWVhJWIyJThjLSVlYyU5NyU4NiVlYiU4NCVhNC0lZWIlODQlYjclZWQlOTQlOGMlZWIlYTYlYWQlZWMlOGElYTQtJWVhJWI0JTkxJWVhJWIzJWEwJWVkJTk4JTk1JWVhJWI5JThjJWVjJWE3JTgwLSVlYyVhMCU4NC0lZWMlOWElOTQlZWElYjglODgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1ODgtJTI1ZWMlMjU5OCUyNWE0JTI1ZWIlMjVhNSUyNWI0JTI1ZWIlMjU4YSUyNTk0LSUyNWVhJTI1YjIlMjU4Yy0lMjVlYyUyNTk3JTI1ODYlMjVlYiUyNTg0JTI1YTQtJTI1ZWIlMjU4NCUyNWI3JTI1ZWQlMjU5NCUyNThjJTI1ZWIlMjVhNiUyNWFkJTI1ZWMlMjU4YSUyNWE0LSUyNWVhJTI1YjQlMjU5MSUyNWVhJTI1YjMlMjVhMCUyNWVkJTI1OTglMjU5NSUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlYyUyNWEwJTI1ODQtJTI1ZWMlMjU5YSUyNTk0JTI1ZWElMjViOCUyNTg4",
@@ -3632,6 +3634,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy93aGF0LWEtcGxhbnRzLWRlY2lzaW9uLW1ha2luZy1yZXZlYWxzLWFib3V0LWludGVsbGlnZW5jZT91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "The hidden world of plant roots",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/what-a-plants-decision-making-reveals-about-intelligence?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/c8cc6457-fd09-45bc-b31e-143922582d4f/the-hidden-world-of-plant-roots-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-02T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Plant roots don’t have a nervous system, yet can produce sophisticated responses. What does that say about intelligence? - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwOTM",
       "title": "1-bit Bonsai - 상업적으로 실용 가능한 최초의 1비트 LLM",
       "source": "GeekNews",
@@ -3932,6 +3953,63 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9ob3ctbWlnaHQtaHVtYW5pdGFyaWFuLWpvdXJuYWxpc20tYmUtZG9uZS1iZXR0ZXI/dXRtX3NvdXJjZT1yc3MtZmVlZA",
+      "title": "When trauma becomes trope",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/how-might-humanitarian-journalism-be-done-better?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/f2d8fe96-4646-4174-aeb5-eec1b2e53666/essay-panos_00271902.jpg?width=1200&quality=75&format=auto",
+      "author": "Cathy Otten",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-03T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Humanitarian journalism is a moral calling to document human suffering. But in practice, it’s an ethically murky undertaking - by Cathy Otten Read on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxNTk",
+      "title": "marmonitor - tmux 상태바에서 AI 코딩 에이전트 세션을 실시간 추적",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28159",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-03T04:54:39.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "tmux에서 여러 AI 코딩 에이전트를 동시에 실행할 때, 각 세션의 상태를 확인하려면 pane을 하나씩 전환해야 함. 1 ⏳Cl my-project allow와 같은 형태로 에이전트별",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxNTg",
+      "title": "Claude Dispatch와 인터페이스의 힘 | Ethan Mollick",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28158",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-03T03:46:07.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "한 줄 요약: 더 나은 인터페이스이며, Claude Dispatch는 그 방향을 보여주는 대표적인 사례. AI 모델 자체는 이미 매우 강력하지만, 인터페이스(사용자가 AI와 상호작용하는 방식) 가 제대",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwODY",
       "title": "OpenAI, 8,520억 달러 기업가치로 자금 조달 라운드 마무리",
       "source": "GeekNews",
@@ -4063,6 +4141,26 @@
         "geeknews"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zby1sb25nLXRvLXNvcmEv",
+      "title": "2026.13: So Long to Sora",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/so-long-to-sora/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-03-27T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of March 23, 2026, including saying RIP to Sora, the 2026 Bullseye list, and Arm's big shift.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MjI",
@@ -4705,6 +4803,44 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxNjY",
+      "title": "지금 가장 중요한 AI 아이디어들 (2026년 4월)",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28166",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "Research",
+      "publishedAt": "2026-04-03T09:45:04.000Z",
+      "readingMinutes": 4,
+      "score": 89,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "AI 시대의 핵심 변화로 자율적 구성 요소 개선, 의도 기반 엔지니어링, 투명성 전환, 스캐폴딩 인식, 전문지식 확산 등 5가지 아이디어가 상호 강화하며 모든 조직의 운영 방식을 근본적으로 재편하는 중 Karpathy의 Autoresearch 프로젝트에서 영...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9mcmFuay1sbG95ZC13cmlnaHQtYXMtYS1taXJyb3Itb2YtdGhlLWFtZXJpY2FuLWNvbmRpdGlvbj91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "The house is a work of art",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/frank-lloyd-wright-as-a-mirror-of-the-american-condition?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/38ec910f-8938-4496-8861-3bbaf9420bd1/essay-master-pnp-highsm-04200-04261u.jpg?width=1200&quality=75&format=auto",
+      "author": "Andrew Deming",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-02T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 89,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Frank Lloyd Wright exalted the individual and made ordinary life beautiful. But his life was marked by scandal and grief - by Andrew Deming Read on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwNjI",
       "title": "Claude Code 내부 동작 방식 완전 해부 — Agentic Loop부터 컨텍스트 로딩까지",
       "source": "GeekNews",
@@ -4722,25 +4858,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy90aGUtdW5kZXJncm91bmQtYmFua2Vycy13aG8tcmVzaGFwZS10aGUtZmxvdy1vZi1nbG9iYWwtbW9uZXk/dXRtX3NvdXJjZT1yc3MtZmVlZA",
-      "title": "Banking beyond the law",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/the-underground-bankers-who-reshape-the-flow-of-global-money?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/91f5f191-d18f-48c2-a208-4b436ffd9e27/essay-terrorlaunder2.jpg?width=1200&quality=75&format=auto",
-      "author": "Miles Kellerman",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-31T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 89,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "A centuries-old network of secret codes and shadowy brokers continues to outpace financial systems controlled by the state - by Miles Kellerman Read on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5NzY",
@@ -5096,6 +5213,44 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxNzI",
+      "title": "라라벨 기반 그누보드7 오픈베타 출시",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28172",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-03T15:04:55.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "백엔드로 Laravel 12.x와 프론트엔드로 React 19, Vite, Tailwind CSS 4를 기반으로 하는 오픈소스 CMS 2026년 4월 1일 첫 버전 공개 기존 그누보드5와 달리 \"AI 친화적인 구조\"를 핵심으로 내세움. 공식 개발 문서를",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxNjc",
+      "title": "Physical AI가 지금 주목받는 이유와 과거와의 차이점",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28167",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-03T09:46:02.000Z",
+      "readingMinutes": 4,
+      "score": 86,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Physical AI 분야에 VC 투자가 의미 있게 증가하며 NVIDIA GTC, Bessemer Robotics Day, Unitree IPO, Amazon의 Fauna Robotics 인수, Figure 휴머노이드의 백악관 등장 등 연이은 이벤트가 업계 모멘텀을 형성 중 과거 로보틱스 투자 실패의 트라우마가 남아 있으나, 이번 사이클은...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgxMjI",
       "title": "Show GN: 2026년 지정학 시뮬레이션 게임: 씽크탱크",
       "source": "GeekNews",
@@ -5188,7 +5343,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgwODU",
@@ -5898,161 +6053,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc1Nzk",
-      "title": "오라클의 쿠키 안에 담긴 진짜 의미 [유튜브]",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27579",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-17T02:10:14.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "AI의 마음을 알수있는? 좋은 유튜브 추천해 드립니다. 제가 유튜브 운영자는 아니고 AI를 탐구하고 나서 드는 의문점 철학적 내용을 영화 매트릭스에 빗대서 설명해주는 영상입니다. 저는 보고 나서 개발할때 많이 도움이 되어 공유합니다.",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU5ZCViYyVlYyU5ZCViNCVlYiU5MyU5YyVlZCU5NCU4YyVlYiU5ZiVhZCVlYyU4YSVhNC0xMSVlZCU4NiVhNC0lZWQlOTklOTQlZWIlYWMlYmMtJWVjJThiJWEzJWVhJWIzJWEwLSVlYyU4NCU5YyVlYyU5YSViOCVlYyVhNyU4NCVlYyViMiU5Yy0yMjRrbS0lZWMlYTMlYmMlZWQlOTYlODklZWIlYWMlYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNTlkJTI1YmMlMjVlYyUyNTlkJTI1YjQlMjVlYiUyNTkzJTI1OWMlMjVlZCUyNTk0JTI1OGMlMjVlYiUyNTlmJTI1YWQlMjVlYyUyNThhJTI1YTQtMTElMjVlZCUyNTg2JTI1YTQtJTI1ZWQlMjU5OSUyNTk0JTI1ZWIlMjVhYyUyNWJjLSUyNWVjJTI1OGIlMjVhMyUyNWVhJTI1YjMlMjVhMC0lMjVlYyUyNTg0JTI1OWMlMjVlYyUyNTlhJTI1YjglMjVlYyUyNWE3JTI1ODQlMjVlYyUyNWIyJTI1OWMtMjI0a20tJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NiUyNTg5JTI1ZWIlMjVhYyUyNWI0",
-      "title": "라이드플럭스, 11톤 화물 싣고 서울~진천 224km 주행…‘무개입’ 자율주행 영상 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%9d%bc%ec%9d%b4%eb%93%9c%ed%94%8c%eb%9f%ad%ec%8a%a4-11%ed%86%a4-%ed%99%94%eb%ac%bc-%ec%8b%a3%ea%b3%a0-%ec%84%9c%ec%9a%b8%ec%a7%84%ec%b2%9c-224km-%ec%a3%bc%ed%96%89%eb%ac%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%259d%25bc%25ec%259d%25b4%25eb%2593%259c%25ed%2594%258c%25eb%259f%25ad%25ec%258a%25a4-11%25ed%2586%25a4-%25ed%2599%2594%25eb%25ac%25bc-%25ec%258b%25a3%25ea%25b3%25a0-%25ec%2584%259c%25ec%259a%25b8%25ec%25a7%2584%25ec%25b2%259c-224km-%25ec%25a3%25bc%25ed%2596%2589%25eb%25ac%25b4",
-      "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-03-17T00:52:31.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "자율주행 소프트웨어 스타트업 라이드플럭스가 대형 화물트럭의 장거리 자율주행 성과를 공개했다. 17일 라이드플럭스는 11톤 화물을 실은 트럭이 서울과 충북 진천을 오가는...",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "대형 화물트럭",
-        "자율주행소프트웨어 스타트업"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc1NTQ",
-      "title": "AI 보조 코딩이 당신의 업무에 어떤 영향을 주고 있나요?",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27554",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-16T04:33:37.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "AI 코딩 도구가 실제 업무 환경에서 어떻게 활용되고 있는지에 대한 경험 공유 요청 개발자들이 생산성 향상, 코드 품질, 학습 효과 등에 어떤 변화를 느끼는지 논의 대상 일부는 GitHub Copilot, ChatGPT, Codeium 등 도구 사용 경험을...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc1NTA",
-      "title": "AI 시대에도 프로그래밍을 배워야 하는가",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27550",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-16T01:51:43.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "Montana State University 컴퓨터공학과 교수이자 htmx 창시자인 Carson Gross가 \"AI 시대에도 프로그래밍을 커리어로 추구해야 하는가?\"에 대해 \"Yes, and…(그렇다, 그리고…)\"라고 답하는 에세이. \"Yes\" — 그렇다 프로그래밍의 본질은 컴퓨터를 이용한 문제",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9hbi1hcnRpc3RzLXdpc3RmdWwtc3VydmV5LW9mLWhpcy1kZW1vbGlzaGVkLWNoaWxkaG9vZC1ob21lP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
-      "title": "Ever behind the sunset",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/an-artists-wistful-survey-of-his-demolished-childhood-home?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/d9aed5b8-f295-4583-b8ba-0963e3df0b2d/ever-behind-the-sunset-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-09T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "This hand-painted stop motion animation recalls the textures of a family home demolished to make way for a widened road - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9ob3ctc2hvdWxkLXdlLWRlZmluZS1tYXRoZW1hdGljYWwtYmVhdXR5LWluLXRoZS1haS1hZ2U/dXRtX3NvdXJjZT1yc3MtZmVlZA",
-      "title": "The eye of the mathematician",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/how-should-we-define-mathematical-beauty-in-the-ai-age?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/b42b6b39-e030-4c79-ad77-f269c1246092/essay-.jpg?width=1200&quality=75&format=auto",
-      "author": "Rita Ahmadi",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-09T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Is mathematical beauty real? Or is it just a subjective, human ‘wow’ that is becoming redundant in an AI age? - by Rita Ahmadi Read on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy90aGUtam95cy10aGF0LWZvbGxvdy1yYWluLWFuLWFuaW1hdGVkLWFib3JpZ2luYWwtYXJ0d29yaz91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "After rain",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/the-joys-that-follow-rain-an-animated-aboriginal-artwork?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/94aaa831-31d5-4b81-a766-cd3f9a781d40/after-rain-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-05T11:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "A family swim, share meals and tell stories by a creek in Central Australia in a joyous celebration of much-needed rain - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LXdlLWNhbi1sZWFybi1mcm9tLWRvcmlzLWxlc3NpbmdzLWV4cGVyaW1lbnRzLWluLWxpdmluZz91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "On her own terms",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/what-we-can-learn-from-doris-lessings-experiments-in-living?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/68f5e838-7377-4260-843b-6b0f32e96893/essay-gettyimages-77268755.jpg?width=1200&quality=75&format=auto",
-      "author": "Catherine Taylor",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-05T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 86,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Doris Lessing’s Golden Notebook remains shocking, necessary and imperfect – a dazzling experiment in living as a woman - by Catherine Taylor Read on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
     }
   ]
 }
