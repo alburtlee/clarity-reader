@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-04-11T23:21:38.651Z",
+  "fetchedAt": "2026-04-12T23:25:02.915Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0NDc",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teXRoLWFuZC1teXRob3Mv",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3F1YW50dW0tZXhpc3RlbnRpYWxpc20",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMC8xMTM1NjE4L3RoZS1kb3dubG9hZC1qZWZmLXZhbmRlcm1lZXItc2hvcnQtc3RvcnktYW5kLWFpLW1vZGVscy10b28tZGFuZ2VyLXRvLXJlbGVhc2Uv",
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0MDY",
     "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9jb3VsZC1haS1yZXBsYWNlLWh1bWFuLWFydC1leHBlcnRzLWluLWF0dHJpYnV0aW5nLXBhaW50aW5ncz91dG1fc291cmNlPXJzcy1mZWVk"
   ],
-  "sourceCount": 9,
+  "sourceCount": 8,
   "articleCount": 300,
   "articles": [
     {
@@ -225,25 +225,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1hLWxpYmVyYWwtYXJ0cy1lZHVjYXRpb24td2lsbC1zb29uLWJlLW1vcmUtdmFsdWFibGUtdGhhbi1ldmVy",
-      "title": "How To Future-Proof Your Career In The Age Of AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/why-a-liberal-arts-education-will-soon-be-more-valuable-than-ever",
-      "thumbnailUrl": null,
-      "author": "Nils Gilman",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-09T12:59:30.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How To Future-Proof Your Career In The Age Of AI appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": false
     },
@@ -831,25 +812,24 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1uZXcteW9yay10aW1lcy1jZW8tbWVyZWRpdGgta29waXQtbGV2aWVuLWFib3V0LWJldHRpbmctb24taHVtYW5zLXdpdGgtZXhwZXJ0aXNlLw",
-      "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1hLWxpYmVyYWwtYXJ0cy1lZHVjYXRpb24td2lsbC1zb29uLWJlLW1vcmUtdmFsdWFibGUtdGhhbi1ldmVy",
+      "title": "How To Future-Proof Your Career In The Age Of AI",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/why-a-liberal-arts-education-will-soon-be-more-valuable-than-ever",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-09T10:00:00.000Z",
+      "author": "Nils Gilman",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-09T12:59:30.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post How To Future-Proof Your Career In The Age Of AI appeared first on NOEMA.",
       "tags": [
-        "stratechery",
-        "daily update"
+        "noema"
       ],
       "isNew": false
     },
@@ -1423,7 +1403,27 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1uZXcteW9yay10aW1lcy1jZW8tbWVyZWRpdGgta29waXQtbGV2aWVuLWFib3V0LWJldHRpbmctb24taHVtYW5zLXdpdGgtZXhwZXJ0aXNlLw",
+      "title": "An Interview with New York Times CEO Meredith Kopit Levien About Betting on Humans With Expertise",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-new-york-times-ceo-meredith-kopit-levien-about-betting-on-humans-with-expertise/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-09T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with New York Times Company CEO Meredith Kopit Levien about human expertise as a moat against Aggregators and AI.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLW5ldy10cHUtZGVhbC1hbnRocm9waWNzLWNvbXB1dGluZy1jcnVuY2gtdGhlLWFudGhyb3BpYy1nb29nbGUtYWxsaWFuY2Uv",
@@ -1647,7 +1647,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYyU5NyVhYyVlYyU4YiVhMC0lZWMlOWQlOTglZWMlODIlYWMlZWElYjIlYjAlZWMlYTAlOTUlZWElYjklOGMlZWMlYTclODAtJWViJWIwJTk0JWVhJWJlJWJjJWViJThiJWE0JWVhJWI4JTg4JWVjJTljJWI1LSVlYiVhNiVhYyVlYyU4YSVhNCVlZCU4MSVhYy0lZWElYjQlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haSUyNWVhJTI1YjAlMjU4MC0lMjVlYyUyNTk3JTI1YWMlMjVlYyUyNThiJTI1YTAtJTI1ZWMlMjU5ZCUyNTk4JTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMiUyNWIwJTI1ZWMlMjVhMCUyNTk1JTI1ZWElMjViOSUyNThjJTI1ZWMlMjVhNyUyNTgwLSUyNWViJTI1YjAlMjU5NCUyNWVhJTI1YmUlMjViYyUyNWViJTI1OGIlMjVhNCUyNWVhJTI1YjglMjU4OCUyNWVjJTI1OWMlMjViNS0lMjVlYiUyNWE2JTI1YWMlMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgxJTI1YWMtJTI1ZWElMjViNCUyNTgw",
@@ -1670,25 +1670,6 @@
         "pfct"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9zZXZlbi1saW5lcy1vZi1ldmlkZW5jZS1hZ2FpbnN0LXNvY2lhbC1tZWRpYQ",
-      "title": "The Case Against Social Media: Seven Lines of Evidence",
-      "source": "After Babel",
-      "sourceUrl": "https://www.afterbabel.com/feed",
-      "articleUrl": "https://www.afterbabel.com/p/seven-lines-of-evidence-against-social-media",
-      "thumbnailUrl": null,
-      "author": "Jon Haidt",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-09T17:15:56.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Your guide to the evidence that will help decide thousands of future court cases.",
-      "tags": [
-        "after-babel"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViYSU5NCVlYiViMCU5NC1haS0lZWElYjglYjAlZWMlOTclODUtJWVjJTk3JWIwJWVjJTg3JTg0LSVlYyU5ZCViOCVlYyU4OCU5OCVlYiVhMSU5Yy0lZWElYjglODAlZWIlYTElOWMlZWIlYjIlOGMtJWViJWE3JTg4JWVjJWJjJTgwJWVkJThjJTg1LSVlYSViMyViNSVlYiVhMyVhMS0lZWIlOTMlYjElZWElYjclYjkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJhJTI1OTQlMjVlYiUyNWIwJTI1OTQtYWktJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTclMjViMCUyNWVjJTI1ODclMjU4NC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNTg4JTI1OTglMjVlYiUyNWExJTI1OWMtJTI1ZWElMjViOCUyNTgwJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjViMiUyNThjLSUyNWViJTI1YTclMjU4OCUyNWVjJTI1YmMlMjU4MCUyNWVkJTI1OGMlMjU4NS0lMjVlYSUyNWIzJTI1YjUlMjVlYiUyNWEzJTI1YTEtJTI1ZWIlMjU5MyUyNWIxJTI1ZWElMjViNyUyNWI5",
@@ -3552,6 +3533,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0NDc",
+      "title": "Cirrus Labs, OpenAI 합류 발표",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28447",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-12T17:37:50.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "2017년 설립된 Cirrus Labs는 클라우드 시대의 엔지니어 생산성을 높이는 툴과 환경을 개발해 온 회사임 외부 투자 없이 독립적으로 운영하며 CI/CD 시스템과 가상화 기술 등에서 혁신을 지속해 옴 2026년 Cirrus Labs는 OpenAI의 Agent Infrastr...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgzOTA",
       "title": "Muse Spark: 개인 초지능으로 확장하는 Meta의 멀티모달 추론 모델",
       "source": "GeekNews",
@@ -3588,26 +3588,6 @@
         "mit-technology-review",
         "culture",
         "app"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wOS8xMTM1NTE0L3RoZS1kb3dubG9hZC1hc3Ryb3R1cmYtd2Fycy1leHBvbmVudGlhbC1haS1ncm93dGgtZGVzYWxpbmF0aW9uLW51bWJlcnMv",
-      "title": "The Download: AstroTurf wars and exponential AI growth",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-09T12:25:10.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over",
-      "tags": [
-        "mit-technology-review",
-        "the download"
       ],
       "isNew": false
     },
@@ -4472,7 +4452,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4NSU4MCVlZCU5NCViYy0lZWQlOTUlOWMtJWViJWIyJTg4JWVjJTljJWJjJWViJWExJTljLSVlYyU5NSU4NCVlYiViMCU5NCVlZCU4MyU4MC0lZWMlODMlOWQlZWMlODQlYjElZWMlOWMlYTAlZWQlOGElOWMlZWIlYjglOGMtJWVjJTg3JWJjJWVjJWI4JWEwLWFpLSVlYyU5NSU4NCVlYiViMCU5NCVlZCU4MyU4MC0lZWElYjglYjAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTg1JTI1ODAlMjVlZCUyNTk0JTI1YmMtJTI1ZWQlMjU5NSUyNTljLSUyNWViJTI1YjIlMjU4OCUyNWVjJTI1OWMlMjViYyUyNWViJTI1YTElMjU5Yy0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWIwJTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjU4MyUyNTlkJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjU5YyUyNWEwJTI1ZWQlMjU4YSUyNTljJTI1ZWIlMjViOCUyNThjLSUyNWVjJTI1ODclMjViYyUyNWVjJTI1YjglMjVhMC1haS0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWIwJTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWElMjViOCUyNWIw",
@@ -4583,6 +4563,25 @@
         "김원희 투이컨설팅 컨설턴트"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cuYWZ0ZXJiYWJlbC5jb20vcC9zZXZlbi1saW5lcy1vZi1ldmlkZW5jZS1hZ2FpbnN0LXNvY2lhbC1tZWRpYQ",
+      "title": "The Case Against Social Media: Seven Lines of Evidence",
+      "source": "After Babel",
+      "sourceUrl": "https://www.afterbabel.com/feed",
+      "articleUrl": "https://www.afterbabel.com/p/seven-lines-of-evidence-against-social-media",
+      "thumbnailUrl": null,
+      "author": "Jon Haidt",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-09T17:15:56.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Your guide to the evidence that will help decide thousands of future court cases.",
+      "tags": [
+        "after-babel"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1lcmFkaWNhdGlvbi1vZi1ncmllZg",
@@ -5100,6 +5099,26 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wOS8xMTM1NTE0L3RoZS1kb3dubG9hZC1hc3Ryb3R1cmYtd2Fycy1leHBvbmVudGlhbC1haS1ncm93dGgtZGVzYWxpbmF0aW9uLW51bWJlcnMv",
+      "title": "The Download: AstroTurf wars and exponential AI growth",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-09T12:25:10.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Is fake grass a bad idea? The AstroTurf wars are far from over. In 2001, Americans installed just over",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgzNDk",
       "title": "모든 것은 거짓으로 향하는가",
       "source": "GeekNews",
@@ -5538,6 +5557,25 @@
         "the download"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0NDA",
+      "title": "AI 에이전트 벤치마크를 무너뜨린 방법과 그 다음 단계",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28440",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-12T12:32:54.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "주요 AI 에이전트 벤치마크 8종이 실제 문제 해결 없이도 최고 점수를 얻을 수 있는 구조적 취약점을 가진 것으로 드러남 연구팀은 자동화된 스캐닝 에이전트를 통해 SWE-bench, WebArena, OSWorld, GAIA 등에서 점수 계산 로직을 악용해 100%에 가까운 점...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0MDY",
@@ -6156,44 +6194,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc3NzU",
-      "title": "Pinterest가 AI에이전트를 위한 프로덕션 MCP 에코시스템을 구축한 방법",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27775",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-23T04:34:02.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "MCP를 AI 에이전트의 도구 연결 표준으로 채택해, IDE·내부 챗·AI 에이전트 등 실제 엔지니어링 워크플로우에 프로덕션 수준으로 통합한 Pinterest의 구축 경험 단일 모놀리식 서버 대신 도메인별 다수의 MCP 서버(Presto, Spark, Airflow 등)와 중앙 레지...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2JlZm9yZS13YWdpbmctd2FyLWNvbnN1bHQtaGlzdG9yaWFucy1maXJzdA",
-      "title": "Before Waging War, Consult Historians First",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/before-waging-war-consult-historians-first",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-19T14:03:08.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Before Waging War, Consult Historians First appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
     }
   ]
 }
