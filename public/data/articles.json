@@ -1,15 +1,35 @@
 {
-  "fetchedAt": "2026-04-12T23:25:02.915Z",
+  "fetchedAt": "2026-04-13T23:35:32.070Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0NDc",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teXRoLWFuZC1teXRob3Mv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3F1YW50dW0tZXhpc3RlbnRpYWxpc20",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMC8xMTM1NjE4L3RoZS1kb3dubG9hZC1qZWZmLXZhbmRlcm1lZXItc2hvcnQtc3RvcnktYW5kLWFpLW1vZGVscy10b28tZGFuZ2VyLXRvLXJlbGVhc2Uv",
-    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9jb3VsZC1haS1yZXBsYWNlLWh1bWFuLWFydC1leHBlcnRzLWluLWF0dHJpYnV0aW5nLXBhaW50aW5ncz91dG1fc291cmNlPXJzcy1mZWVk"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teXRob3MtbXVzZS1hbmQtdGhlLW9wcG9ydHVuaXR5LWNvc3Qtb2YtY29tcHV0ZS8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMy8xMTM1NzIwL3doeS1vcGluaW9uLW9uLWFpLWlzLXNvLWRpdmlkZWQv",
+    "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9yZWluZGVlci1wb2xpdGljcy13aHktc29tZS1zYW1pLXN0cnVnZ2xlLWZvci1yZWNvZ25pdGlvbj91dG1fc291cmNlPXJzcy1mZWVk",
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0NDc"
   ],
   "sourceCount": 8,
   "articleCount": 300,
   "articles": [
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
+      "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/04/13/import-ai-453-breaking-ai-agents-mirrorcode-and-ten-views-on-gradual-disempowerment/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/04/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-sOUOOa.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-04-13T10:02:22.000Z",
+      "readingMinutes": 4,
+      "score": 118,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. A shorter issue than usual as I was attending the 2026 Bilderberg conference this week",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw",
       "title": "Real AI Agents and Real Work",
@@ -104,6 +124,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teXRob3MtbXVzZS1hbmQtdGhlLW9wcG9ydHVuaXR5LWNvc3Qtb2YtY29tcHV0ZS8",
+      "title": "Mythos, Muse, and the Opportunity Cost of Compute",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/mythos-muse-and-the-opportunity-cost-of-compute/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Does Aggregation Theory survive in a world of constrained compute? Yes, insomuch as controlling demand will give power over supply.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -379,26 +419,6 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktYnV5cy10YnBuLXRlY2gtYW5kLXRoZS10b2tlbi10c3VuYW1pLw",
-      "title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-06T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -694,6 +714,47 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMy8xMTM1MTU2L2pvYi10aXRsZXMtd2lsZGxpZmUtZmlyc3QtcmVzcG9uZGVyLXdlc2xleS1zYXJtZW50by8",
+      "title": "Job titles of the future: Wildlife first responder",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/",
+      "thumbnailUrl": null,
+      "author": "Emily Senkosky",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Grizzly bears have made such a comeback across eastern Montana that in 2017, the state hired its first-ever prairie-based grizzly manager: wildlife biologist Wesley Sarmento. For some seven years, Sarmento worked to keep both the bears, whi",
+      "tags": [
+        "mit-technology-review",
+        "climate change and energy",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktYnV5cy10YnBuLXRlY2gtYW5kLXRoZS10b2tlbi10c3VuYW1pLw",
+      "title": "OpenAI Buys TBPN, Tech and the Token Tsunami",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/openai-buys-tbpn-tech-and-the-token-tsunami/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-06T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "OpenAI's purchase of TBPN makes no sense, which may be par for the course for OpenAI. Then, AI is breaking stuff, starting with tech services.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8yMy8xMTM0NDkxL3RoZS1iYXktYXJlYXMtYW5pbWFsLXdlbGZhcmUtbW92ZW1lbnQtd2FudHMtdG8tcmVjcnVpdC1haS8",
       "title": "The Bay Area’s animal welfare movement wants to recruit AI",
       "source": "MIT Technology Review",
@@ -795,24 +856,25 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teXRoLWFuZC1teXRob3Mv",
-      "title": "2026.15: Myth and Mythos",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/myth-and-mythos/",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMy8xMTM1MTYyL3VyaS1tYW96LWRvZXMtZnJlZS13aWxsLWV4aXN0Lw",
+      "title": "You have no choice in reading this article—maybe",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/13/1135162/uri-maoz-does-free-will-exist/",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-10T17:00:00.000Z",
+      "author": "Sarah Scoles",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of April 6, 2026, including Anthropic, The New York Times and another paradigm shift, and The New Yorker explains Sam Altman.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Uri Maoz loved doing his human research, back when he was getting his PhD. He was studying a very specific topic in computational neuroscience: how the brain instructs our arms to move and how our gray matter in turn perceives that motion. ",
       "tags": [
-        "stratechery",
-        "this week in stratechery"
+        "mit-technology-review",
+        "culture",
+        "app"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1hLWxpYmVyYWwtYXJ0cy1lZHVjYXRpb24td2lsbC1zb29uLWJlLW1vcmUtdmFsdWFibGUtdGhhbi1ldmVy",
@@ -832,6 +894,50 @@
         "noema"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMy8xMTM1NzIwL3doeS1vcGluaW9uLW9uLWFpLWlzLXNvLWRpdmlkZWQv",
+      "title": "Why opinion on AI is so divided",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/13/1135720/why-opinion-on-ai-is-so-divided/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-13T15:48:28.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. In an industry that doesn’t stand still, Stanford’s AI Index, an annual roundup of key results and tre",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMy8xMTM1Njc1L3dhbnQtdG8tdW5kZXJzdGFuZC10aGUtY3VycmVudC1zdGF0ZS1vZi1haS1jaGVjay1vdXQtdGhlc2UtY2hhcnRzLw",
+      "title": "Want to understand the current state of AI? Check out these charts.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/",
+      "thumbnailUrl": null,
+      "author": "Michelle Kim",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-13T13:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "If you’re following AI news, you’re probably getting whiplash. AI is a gold rush. AI is a bubble. AI is taking your job. AI can’t even read a clock. The 2026 AI Index from Stanford University’s Institute for Human-Centered Artificial Intell",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU5ZCViYyVlYiVhNyU4OC0lZWMlOGIlYTQlZWQlOGMlYTglZWIlOGElOTQtJWVjJTllJThhJWVjJTk2JWI0JWViJTlkJWJjLSVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlODMlOWQlZWElYjAlODElZWQlOTUlOTglZWIlOGElOTQtYWktJWViJWFlJWE0JWVjJWE2JTg4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjVhNyUyNTg4LSUyNWVjJTI1OGIlMjVhNCUyNWVkJTI1OGMlMjVhOCUyNWViJTI1OGElMjU5NC0lMjVlYyUyNTllJTI1OGElMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTlkJTI1YmMtJTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1ODMlMjU5ZCUyNWVhJTI1YjAlMjU4MSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGElMjU5NC1haS0lMjVlYiUyNWFlJTI1YTQlMjVlYyUyNWE2JTI1ODg",
@@ -854,26 +960,6 @@
         "메타"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzA2L2ltcG9ydC1haS00NTItc2NhbGluZy1sYXdzLWZvci1jeWJlcndhci1yaXNpbmctdGlkZXMtb2YtYWktYXV0b21hdGlvbi1hbmQtYS1wdXp6bGUtb3Zlci1nZHAtZm9yZWNhc3Rpbmcv",
-      "title": "Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/04/06/import-ai-452-scaling-laws-for-cyberwar-rising-tides-of-ai-automation-and-a-puzzle-over-gdp-forecasting/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/04/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-dgJUIy.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-04-06T12:31:31.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Uh oh, there’s a scaling war for cyberattacks as well!:…The smarter the ",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC1haS0lZWQlOTUlOWMtJWViJWFhJTg1LSVlYyU4YiU5YyVlYiU4YyU4MC0lZWMlYTAlOTElZWElYjMlYTAtJWVjJWE3JTkxJWViJThiJWE4LSVlYSViMiU4MCVlZCU4NiVhMCVlYiVhMSU5Yy0lZWElYjAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE3JTI1ODglMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWExJTI1OWMlMjVlYyUyNTg2JTI1OGMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtYWktJTI1ZWQlMjU5NSUyNTljLSUyNWViJTI1YWElMjU4NS0lMjVlYyUyNThiJTI1OWMlMjVlYiUyNThjJTI1ODAtJTI1ZWMlMjVhMCUyNTkxJTI1ZWElMjViMyUyNWEwLSUyNWVjJTI1YTclMjU5MSUyNWViJTI1OGIlMjVhOC0lMjVlYSUyNWIyJTI1ODAlMjVlZCUyNTg2JTI1YTAlMjVlYiUyNWExJTI1OWMtJTI1ZWElMjViMCUyNTg0",
@@ -1236,6 +1322,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMy8xMTM1NzA3L3RoZS1kb3dubG9hZC1ob3ctaHVtYW5zLW1ha2UtZGVjaXNpb25zLWFuZC1tb2Rlcm5hcy12YWNjaW5lLXdvcmQtZ2FtZXMv",
+      "title": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-13T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. You have no choice in reading this article—maybe How do humans make decisions? The question has been o",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNSVlYyU4YSVhYyVlYiU5ZSU5OSVlYyU5NyU5MC0lZWIlOTMlYTQlZWMlOTYlYjQlZWMlOTglYTgtJWVjJThiJWE0JWVkJTk2JTg5JWVkJTk4JTk1LWFpJWVjJTg0JWI4JWVjJTlkJWJjJWVjJWE2JTg4JWVkJThmJWFjJWVjJThhJWE0LSVlZCU5NSU5YyVlYSViNSVhZC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OGElMjVhYyUyNWViJTI1OWUlMjU5OSUyNWVjJTI1OTclMjU5MC0lMjVlYiUyNTkzJTI1YTQlMjVlYyUyNTk2JTI1YjQlMjVlYyUyNTk4JTI1YTgtJTI1ZWMlMjU4YiUyNWE0JTI1ZWQlMjU5NiUyNTg5JTI1ZWQlMjU5OCUyNTk1LWFpJTI1ZWMlMjU4NCUyNWI4JTI1ZWMlMjU5ZCUyNWJjJTI1ZWMlMjVhNiUyNTg4JTI1ZWQlMjU4ZiUyNWFjJTI1ZWMlMjU4YSUyNWE0LSUyNWVkJTI1OTUlMjU5YyUyNWVhJTI1YjUlMjVhZA",
       "title": "[현장]슬랙에 들어온 ‘실행형 AI’…세일즈포스, 한국서 에이전틱 엔터프라이즈 본격화",
       "source": "Tech42",
@@ -1256,6 +1362,26 @@
         "ai 에이전트"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzA2L2ltcG9ydC1haS00NTItc2NhbGluZy1sYXdzLWZvci1jeWJlcndhci1yaXNpbmctdGlkZXMtb2YtYWktYXV0b21hdGlvbi1hbmQtYS1wdXp6bGUtb3Zlci1nZHAtZm9yZWNhc3Rpbmcv",
+      "title": "Import AI 452: Scaling laws for cyberwar; rising tides of AI automation; and a puzzle over gDP forecasting",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/04/06/import-ai-452-scaling-laws-for-cyberwar-rising-tides-of-ai-automation-and-a-puzzle-over-gdp-forecasting/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/04/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-dgJUIy.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-04-06T12:31:31.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Uh oh, there’s a scaling war for cyberattacks as well!:…The smarter the ",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhYyViOCVlYyU4NCU5Yy0lZWMlYTclODAlZWMlOTglYTUlZWMlOWQlYjQtJWVjJThiJWFiJWVjJTk3JTg4JWViJThiJWE0JWViJWI5JTg0JWVjJWEwJTg0JWVhJWIzJWI1LSVlYSViMyViNSVlYiVhYyViNCVlYyU5YiU5MC0lZWQlOTglYmMlZWMlOWUlOTAlZWMlODQlOWMtJWVjJTkzJWI0LSVlYSViMyViNSVlYyVhNyU4MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YWMlMjViOCUyNWVjJTI1ODQlMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTk4JTI1YTUlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU4YiUyNWFiJTI1ZWMlMjU5NyUyNTg4JTI1ZWIlMjU4YiUyNWE0JTI1ZWIlMjViOSUyNTg0JTI1ZWMlMjVhMCUyNTg0JTI1ZWElMjViMyUyNWI1LSUyNWVhJTI1YjMlMjViNSUyNWViJTI1YWMlMjViNCUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTk4JTI1YmMlMjVlYyUyNTllJTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjMlMjViNSUyNWVjJTI1YTclMjU4MQ",
@@ -1386,22 +1512,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMC8xMTM1NjE4L3RoZS1kb3dubG9hZC1qZWZmLXZhbmRlcm1lZXItc2hvcnQtc3RvcnktYW5kLWFpLW1vZGVscy10b28tZGFuZ2VyLXRvLXJlbGVhc2Uv",
-      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teXRoLWFuZC1teXRob3Mv",
+      "title": "2026.15: Myth and Mythos",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/myth-and-mythos/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-10T12:10:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-10T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 98,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically accla",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of April 6, 2026, including Anthropic, The New York Times and another paradigm shift, and The New Yorker explains Sam Altman.",
       "tags": [
-        "mit-technology-review",
-        "the download"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": false
     },
@@ -1627,25 +1753,6 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3F1YW50dW0tZXhpc3RlbnRpYWxpc20",
-      "title": "Quantum Existentialism",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/quantum-existentialism",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-10T16:44:58.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Quantum Existentialism appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": false
     },
@@ -3571,27 +3678,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMC8xMTM1MTA2L2plZmYtdmFuZGVybWVlci1jb25zdGVsbGF0aW9ucy1zY2llbmNlLWZpY3Rpb24v",
-      "title": "Constellations",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
-      "thumbnailUrl": null,
-      "author": "Jeff VanderMeer",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-10T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left. Outside, the atmosph",
-      "tags": [
-        "mit-technology-review",
-        "culture",
-        "app"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8wNy8xMTM1MjA4L3RoZS1kb3dubG9hZC1haS1pbXBhY3Qtam9icy1kYXRhLWNlbnRyZXMtc3BhY2Uv",
       "title": "The Download: AI’s impact on jobs, and data centres in space",
       "source": "MIT Technology Review",
@@ -3908,6 +3994,26 @@
         "mit-technology-review",
         "computing",
         "app"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMC8xMTM1NjE4L3RoZS1kb3dubG9hZC1qZWZmLXZhbmRlcm1lZXItc2hvcnQtc3RvcnktYW5kLWFpLW1vZGVscy10b28tZGFuZ2VyLXRvLXJlbGVhc2Uv",
+      "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-10T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically accla",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": false
     },
@@ -4436,21 +4542,21 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9jb3VsZC1haS1yZXBsYWNlLWh1bWFuLWFydC1leHBlcnRzLWluLWF0dHJpYnV0aW5nLXBhaW50aW5ncz91dG1fc291cmNlPXJzcy1mZWVk",
-      "title": "Patterns without desires",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/could-ai-replace-human-art-experts-in-attributing-paintings?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/d655235b-0cce-49cc-aa13-8628f4b97717/essay-petersburg-badminton-wildenstein-caravaggio-.jpg?width=1200&quality=75&format=auto",
-      "author": "Noah Charney",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3F1YW50dW0tZXhpc3RlbnRpYWxpc20",
+      "title": "Quantum Existentialism",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/quantum-existentialism",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-04-10T10:00:00.000Z",
+      "publishedAt": "2026-04-10T16:44:58.000Z",
       "readingMinutes": 4,
       "score": 92,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "The art expert is the fulcrum of all value and significance in the museum and auction world. Could AI supplant them? - by Noah Charney Read on Aeon",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Quantum Existentialism appeared first on NOEMA.",
       "tags": [
-        "aeon"
+        "noema"
       ],
       "isNew": false
     },
@@ -5080,6 +5186,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8xMC8xMTM1MTA2L2plZmYtdmFuZGVybWVlci1jb25zdGVsbGF0aW9ucy1zY2llbmNlLWZpY3Rpb24v",
+      "title": "Constellations",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/10/1135106/jeff-vandermeer-constellations-science-fiction/",
+      "thumbnailUrl": null,
+      "author": "Jeff VanderMeer",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-10T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "I. We had crash-landed on the planet. We were far from home. The spaceship could not be repaired, and the rescue beacon had failed. Besides me, only the astrogator, part of the captain, and the ship’s AI mind were left. Outside, the atmosph",
+      "tags": [
+        "mit-technology-review",
+        "culture",
+        "app"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgzODA",
       "title": "Show GN: 지식 검증과 캐릭터 성장을 결합한 새로운 집단지성 커뮤니티 Crowdians를 소개합니다.",
       "source": "GeekNews",
@@ -5557,6 +5684,44 @@
         "the download"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9yZWluZGVlci1wb2xpdGljcy13aHktc29tZS1zYW1pLXN0cnVnZ2xlLWZvci1yZWNvZ25pdGlvbj91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "I am Sámi",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/reindeer-politics-why-some-sami-struggle-for-recognition?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/f49b2a5a-2225-40c5-ab5e-4fc5d3f25fdd/i-am-sami-landscape-1.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-13T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "This short documentary asks what it means to be Sámi today, following decades-long state-mandated assimilation attempts - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aHktZGlkLWRpc2FibGVkLXBlb3BsZS1zdXBwb3J0LWV1Z2VuaWNzLWluLXRoZS0xOTMwcz91dG1fc291cmNlPXJzcy1mZWVk",
+      "title": "The sterilisation-seekers",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/why-did-disabled-people-support-eugenics-in-the-1930s?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/17da9ab8-7dd6-4f2f-b2b0-c49899fdce9c/v2-essay-stranglehold.jpg?width=1200&quality=75&format=auto",
+      "author": "Coreen McGuire & Alex Aylward",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 90,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "In the story of eugenics, disabled people are often depicted as passive victims. But for some it seemed an opportunity - by Coreen McGuire & Alex Aylward Read on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg0NDA",
@@ -6042,158 +6207,6 @@
         "this week in stratechery"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MjI",
-      "title": "$500 GPU가 코딩 벤치마크에서 Claude Sonnet을 능가",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27922",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-27T16:33:22.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "A.T.L.A.S (Adaptive Test-time Learning and Autonomous Specialization) 은 소비자용 GPU 한 대로 대형 모델 수준의 코드 생성 성능을 구현하는 자체 호스팅 AI 시스템 LiveCodeBench v5 기준 74.6% pass@1-v(k=3)...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc5MTg",
-      "title": "SaaS 는 죽지 않았다",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27918",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-27T11:48:02.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "1. SaaS가 죽었다는 주장의 배경 최근 Claude Code, Copilot, Codex 같은 AI 코딩 도구가 빠르게 발전하면서, “이제 소프트웨어는 프롬프트 몇 줄이면 만들 수 있으니 SaaS는 끝난 것 아니냐”는 주장이 힘을 얻고 있음. 실제로 리드 호프만은, Claude Code 관련 트윗 하나가 SaaS 주가를 5...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4OTA",
-      "title": "ARC-AGI-3",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27890",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T16:35:13.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "ARC-AGI-3는 AI 에이전트의 인간 수준 지능을 측정하기 위한 최초의 상호작용형 추론 벤치마크로, 환경 탐색과 적응 학습 능력을 평가함 모든 과제는 인간이 해결 가능한 환경으로 구성되며, 시간에 따른 기술 습득 효율성과 장기 계획 ...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NzY",
-      "title": "Show GN: aicasebook.dev | AI 개발 환경 사례집 (볼만한 정보를 지향)",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27876",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-26T04:55:46.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "배경 작년에 Claude Code 커맨드 위주 세팅을 하고 만족하면서 썼음. 남들은 어떻게 쓰고, 커뮤니티 의견은 어떠한가? <a",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1hcmNoaXRlY3R1cmUtb2YtY29vcGVyYXRpb24",
-      "title": "How Reverse Game Theory Could Solve The Housing Shortage",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-architecture-of-cooperation",
-      "thumbnailUrl": null,
-      "author": "HennyGe Wichers",
-      "category": "Philosophy",
-      "publishedAt": "2026-03-25T16:30:04.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How Reverse Game Theory Could Solve The Housing Shortage appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NDY",
-      "title": "Show GN: AI 검색(Perplexity)에서 내 사이트가 언급되는지 확인하는 도구 만들었습니다",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27846",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T09:53:57.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "구글 SEO랑 다르게 AI 검색은 \"언급되거나 안 되거나\" 둘 중 하나입니다. 동작 방식: Claude가 브랜드/카테고리에 맞는 질문 자동 생성 Perplexity API에 실제 질문을 던져",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4NDE",
-      "title": "Show GN: make-slide – AI 코딩 에이전트용 프레젠테이션 생성 스킬 (10개 테마, PPTX 지원)",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27841",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T05:20:50.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "AI에게 발표 자료를 만들어달라고 하면 매번 다른 결과가 나옵니다. make-slide는 이 문제를 해결하기 위해 만든 오픈소스 AI 스킬입니다. AI가 매번 새롭게 디자인을 생성하는 대신, 미리 만들어둔 테마 레퍼런스 코드를 참고",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjc4Mzk",
-      "title": "OpenAI, Sora 서비스 종료",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=27839",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-03-25T03:33:17.000Z",
-      "readingMinutes": 4,
-      "score": 90,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "OpenAI의 AI 영상 생성 플랫폼 Sora가 공식 계정을 통해 앱과 API 종료를 발표하며 서비스 중단 예고 종료 사유와 구체적 일정은 공개되지 않았으며, 사용자 작업물 보존 방법은 추후 안내 예정 커뮤니티에서는 실망과 비판, 냉...",
-      "tags": [
-        "geeknews"
-      ],
-      "isNew": true
     }
   ]
 }
