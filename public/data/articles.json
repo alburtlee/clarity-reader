@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-04-24T23:29:48.021Z",
+  "fetchedAt": "2026-04-25T23:26:59.795Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg4ODI",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2NDIyL3doeS1kZWVwc2Vla3MtdjQtbWF0dGVycy8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1odW1pbGl0eS1vZi1iaW9zY2llbnRpc3Rz",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZS1jYW1lLWhlLXNhdy1oZS1jb29rZWQv",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3Avc2lnbi1vZi10aGUtZnV0dXJlLWdwdC01NQ",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiViNC0lZWIlYjklODQlZWMlODQlOWMlZWElYjAlODAtJWViJTkzJWIxJWVjJTgyJWIwLSVlYyViZCU5NCVlYyU4YSVhNC0lZWMlYTclOWMlZWElYjMlYTAtJWVjJTlkJThjJWVjJTk1JTg1JWVhJWI5JThjJWVjJWE3JTgwLSVlZCU4YSViYyVlYiU4YiVhNC1haS0lZWQlODElYjQlZWIlYTElOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNTgyJTI1YjQtJTI1ZWIlMjViOSUyNTg0JTI1ZWMlMjU4NCUyNTljJTI1ZWElMjViMCUyNTgwLSUyNWViJTI1OTMlMjViMSUyNWVjJTI1ODIlMjViMC0lMjVlYyUyNWJkJTI1OTQlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjVhNyUyNTljJTI1ZWElMjViMyUyNWEwLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1OTUlMjU4NSUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlZCUyNThhJTI1YmMlMjVlYiUyNThiJTI1YTQtYWktJTI1ZWQlMjU4MSUyNWI0JTI1ZWIlMjVhMSUyNTlj"
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1odW1pbGl0eS1vZi1iaW9zY2llbnRpc3Rz",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZS1jYW1lLWhlLXNhdy1oZS1jb29rZWQv"
   ],
-  "sourceCount": 9,
+  "sourceCount": 8,
   "articleCount": 300,
   "articles": [
     {
@@ -122,7 +122,7 @@
       "tags": [
         "one-useful-thing"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -307,7 +307,7 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAzLzIzL2ltcG9ydC1haS00NTAtY2hpbmFzLWVsZWN0cm9uaWMtd2FyZmFyZS1tb2RlbC10cmF1bWF0aXplZC1sbG1zLWFuZC1hLXNjYWxpbmctbGF3LWZvci1jeWJlcmF0dGFja3Mv",
@@ -326,26 +326,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9qb2huLXRlcm51cy1hbmQtYXBwbGVzLWhhcmR3YXJlLWRlZmluZWQtZnV0dXJlLXNwYWNleGFpLWFuZC1jdXJzb3Iv",
-      "title": "John Ternus and Apple’s Hardware-Defined Future, SpaceXAI and Cursor",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -586,27 +566,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2NDIyL3doeS1kZWVwc2Vla3MtdjQtbWF0dGVycy8",
-      "title": "Three reasons why DeepSeek’s new model V4 matters",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
-      "thumbnailUrl": null,
-      "author": "Caiwei Chen",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-24T21:40:58.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of tex",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiViNC0lZWIlYjklODQlZWMlODQlOWMlZWElYjAlODAtJWViJTkzJWIxJWVjJTgyJWIwLSVlYyViZCU5NCVlYyU4YSVhNC0lZWMlYTclOWMlZWElYjMlYTAtJWVjJTlkJThjJWVjJTk1JTg1JWVhJWI5JThjJWVjJWE3JTgwLSVlZCU4YSViYyVlYiU4YiVhNC1haS0lZWQlODElYjQlZWIlYTElOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNTgyJTI1YjQtJTI1ZWIlMjViOSUyNTg0JTI1ZWMlMjU4NCUyNTljJTI1ZWElMjViMCUyNTgwLSUyNWViJTI1OTMlMjViMSUyNWVjJTI1ODIlMjViMC0lMjVlYyUyNWJkJTI1OTQlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjVhNyUyNTljJTI1ZWElMjViMyUyNWEwLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1OTUlMjU4NSUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlZCUyNThhJTI1YmMlMjVlYiUyNThiJTI1YTQtYWktJTI1ZWQlMjU4MSUyNWI0JTI1ZWIlMjVhMSUyNTlj",
@@ -1022,6 +981,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9qb2huLXRlcm51cy1hbmQtYXBwbGVzLWhhcmR3YXJlLWRlZmluZWQtZnV0dXJlLXNwYWNleGFpLWFuZC1jdXJzb3Iv",
+      "title": "John Ternus and Apple’s Hardware-Defined Future, SpaceXAI and Cursor",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/john-ternus-and-apples-hardware-defined-future-spacexai-and-cursor/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-22T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The elevation of John Ternus suggests that Apple's future is about hardware differentiation; then, the SpaceX-Cursor deal makes a lot of sense.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMC8xMTM2MTU0L3RoZS1kb3dubG9hZC1tdXJkZXJvdXMtbWlycm9yLWJhY3RlcmlhLWNoaW5lc2Utd29ya2Vycy1maWdodC1haS1hZ2VudHMv",
       "title": "The Download: murderous ‘mirror’ bacteria, and Chinese workers fighting AI doubles",
       "source": "MIT Technology Review",
@@ -1167,41 +1146,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1odW1pbGl0eS1vZi1iaW9zY2llbnRpc3Rz",
-      "title": "The Humility Of Bioscientists",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-humility-of-bioscientists",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2NDIyL3doeS1kZWVwc2Vla3MtdjQtbWF0dGVycy8",
+      "title": "Three reasons why DeepSeek’s new model matters",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-24T17:01:30.000Z",
+      "author": "Caiwei Chen",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-24T21:40:58.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Humility Of Bioscientists appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship model. Notably, the model can process much longer prompts than its last generation, thanks to a new design that helps it handle large amounts of tex",
       "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZS1jYW1lLWhlLXNhdy1oZS1jb29rZWQv",
-      "title": "2026.17: He Came, He Saw, He Cooked",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/he-came-he-saw-he-cooked/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-24T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of April 27, 2026, including the end of the Tim Cook era, Cursor and SpaceX, and the various fronts of Cold War 2.0.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
+        "mit-technology-review",
+        "artificial intelligence",
+        "app"
       ],
       "isNew": true
     },
@@ -1738,48 +1699,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2NDAwL3RoZS1kb3dubG9hZC1zdXBlcmNoYXJnZWQtc2NhbXMtcXVlc3Rpb25hYmxlLWFpLWhlYWx0aGNhcmUv",
-      "title": "The Download: supercharged scams and studying AI healthcare",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-24T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily gen",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2MzUyL2hlYWx0aC1jYXJlLWFpLWRvbnQta25vdy1hY3R1YWxseS1oZWxwcy1wYXRpZW50cy8",
-      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-24T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require ce",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "the checkup"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg4MTc",
@@ -2366,6 +2285,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1odW1pbGl0eS1vZi1iaW9zY2llbnRpc3Rz",
+      "title": "The Humility Of Bioscientists",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-humility-of-bioscientists",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-24T17:01:30.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Humility Of Bioscientists appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZS1jYW1lLWhlLXNhdy1oZS1jb29rZWQv",
+      "title": "2026.17: He Came, He Saw, He Cooked",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/he-came-he-saw-he-cooked/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-24T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of April 27, 2026, including the end of the Tim Cook era, Cursor and SpaceX, and the various fronts of Cold War 2.0.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNiVhYyVlYiViOSU4NCVlYyU5NSU4OC0lZWIlYjAlOTglZWElYjAlOTItc3V2LXIyLSVlYyU5NiU5MSVlYyU4MiViMC0lZWIlOGYlOGMlZWMlOWUlODUlZWMlOTclOTAtJWVjJWEwJTg0JWVhJWI4JWIwJWVjJWIwJWE4LSVlZCU4YyU5MCVlYiU4ZiU4NC0lZWQlOWQlOTQlZWIlOTMlYTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTk1JTI1ODgtJTI1ZWIlMjViMCUyNTk4JTI1ZWElMjViMCUyNTkyLXN1di1yMi0lMjVlYyUyNTk2JTI1OTElMjVlYyUyNTgyJTI1YjAtJTI1ZWIlMjU4ZiUyNThjJTI1ZWMlMjU5ZSUyNTg1JTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1YTAlMjU4NCUyNWVhJTI1YjglMjViMCUyNWVjJTI1YjAlMjVhOC0lMjVlZCUyNThjJTI1OTAlMjVlYiUyNThmJTI1ODQtJTI1ZWQlMjU5ZCUyNTk0JTI1ZWIlMjU5MyUyNWE0",
       "title": "리비안, ‘반값 SUV’ R2 양산 돌입에 전기차 판도 흔들",
       "source": "Tech42",
@@ -2470,7 +2428,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMS8xMTM0OTM4L2FpLWF0LW1pdC8",
@@ -4690,6 +4648,67 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg4ODI",
+      "title": "Gemini Enterprise Agent Platform — 구글 클라우드의 차세대 AI 에이전트 통합 플랫폼",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28882",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-25T13:44:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "구글 클라우드가 기존 Vertex AI를 확장·진화시킨 새로운 플랫폼 'Gemini Enterprise Agent Platform'을 공식 출시했습니다. 이 플랫폼은 AI 에이전트(사람의 개입 없이 스스로 판단하고 행동하는 AI 소프트웨어)를 만들고, 확장하고, 통제하고, 최적화하는 전 과정을 하나의 환경에서 처리할 수 있도록 설계되었습니...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2NDAwL3RoZS1kb3dubG9hZC1zdXBlcmNoYXJnZWQtc2NhbXMtcXVlc3Rpb25hYmxlLWFpLWhlYWx0aGNhcmUv",
+      "title": "The Download: supercharged scams and studying AI healthcare",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-24T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re in a new era of AI-driven scams When ChatGPT was released in late 2022, it showed how easily gen",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNC8xMTM2MzUyL2hlYWx0aC1jYXJlLWFpLWRvbnQta25vdy1hY3R1YWxseS1oZWxwcy1wYXRpZW50cy8",
+      "title": "Health-care AI is here. We don’t know if it actually helps patients.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/24/1136352/health-care-ai-dont-know-actually-helps-patients/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-24T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "I don’t need to tell you that AI is everywhere. Or that it is being used, increasingly, in hospitals. Doctors are using AI to help them with notetaking. AI-based tools are trawling through patient records, flagging people who may require ce",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "the checkup"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMy8xMTM2MzQ2L3RoZS1kb3dubG9hZC1pbnRyb2R1Y2luZy1uYXR1cmUtaXNzdWUv",
       "title": "The Download: introducing the Nature issue",
       "source": "MIT Technology Review",
@@ -4703,26 +4722,6 @@
       "score": 95,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
       "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Nature issue When we talk about “nature,” we usually mean something untouched by huma",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMi8xMTM2MzEwL3RoZS1kb3dubG9hZC0xMC10aGluZ3MtdGhhdC1tYXR0ZXItaW4tYWktcmlnaHQtbm93Lw",
-      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-22T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting",
       "tags": [
         "mit-technology-review",
         "the download"
@@ -5248,7 +5247,7 @@
         "app",
         "the spark"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg4MTU",
@@ -6039,6 +6038,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg4NzI",
+      "title": "Google Cloud가 제시하는 멀티 에이전트 시스템의 5가지 통합 패턴: A2A와 MCP",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=28872",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-04-25T04:13:15.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Google Cloud는 Cloud Next 26에서 멀티 에이전트 시스템을 엔터프라이즈 규모로 구축하기 위한 인프라를 공개했습니다. 핵심은 두 가지 프로토콜입니다. 에이전트 간 통신을 담당하는 A2A(Agent-to-Agent)와 에이전트가 외부 도구·데이터에 접근할 때 사용하는 MCP(Model Context Protocol)입니다. 이 글은 두 프로토...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWIlYjklODQlZWMlODMlODElZWMlOWUlYTUtJWVjJWEzJWJjJWVjJThiJTlkJWVjJThiJTljJWVjJTllJWE1JWVjJTg0JTljLSVlYSViOCViMCVlYyU5NyU4NS0lZWElYjAlODAlZWMlYjklOTgtMSVlYyVhMSViMC0lZWIlOGIlYWMlZWIlOWYlYWMtJWViJThmJThjJWVkJThjJThjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODMlMjU4MSUyNWVjJTI1OWUlMjVhNS0lMjVlYyUyNWEzJTI1YmMlMjVlYyUyNThiJTI1OWQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNTllJTI1YTUlMjVlYyUyNTg0JTI1OWMtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NyUyNTg1LSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1YjklMjU5OC0xJTI1ZWMlMjVhMSUyNWIwLSUyNWViJTI1OGIlMjVhYyUyNWViJTI1OWYlMjVhYy0lMjVlYiUyNThmJTI1OGMlMjVlZCUyNThjJTI1OGM",
       "title": "앤트로픽, 비상장 주식시장서 기업 가치 1조 달러 돌파…오픈AI 첫 추월",
       "source": "Tech42",
@@ -6100,46 +6118,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy90aGUtc3dpbW1lci13aG8td2VudC1mcm9tLXRoZS1vbHltcGljcy10by1hdXNjaHdpdHotYW5kLWJhY2stYWdhaW4/dXRtX3NvdXJjZT1yc3MtZmVlZA",
-      "title": "Butterfly (Papillon)",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/the-swimmer-who-went-from-the-olympics-to-auschwitz-and-back-again?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/42bf9a4b-d0d7-4eac-b18e-4e3e360c98d9/butterfly-papillon-landscape-1.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-22T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 92,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Crafting each frame by hand, an animator paints the story of an Olympic swimmer’s return after surviving the Holocaust - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMi8xMTM1NDIzLzMtdGhpbmdzLW1pY2hlbGxlLWtpbS8",
-      "title": "3 things Michelle Kim is into right now",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/22/1135423/3-things-michelle-kim/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-22T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 92,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Isegye Idol If you thought K-pop was weird, virtual idols—humans who perform as anime-style digital characters via motion capture—will blow your mind. My favorite is a girl group called Isegye Idol, created by Woowakgood, a Korean VTuber (a",
-      "tags": [
-        "mit-technology-review",
-        "culture",
-        "app"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMi8xMTM1NDQ5L2xvcy1hbmdlbGVzLXN1YndheS1nb2luZy11bmRlcmdyb3VuZC8",
@@ -6244,6 +6222,26 @@
         "ai 탐색 기술"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMi8xMTM2MzEwL3RoZS1kb3dubG9hZC0xMC10aGluZ3MtdGhhdC1tYXR0ZXItaW4tYWktcmlnaHQtbm93Lw",
+      "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-22T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 91,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: 10 Things That Matter in AI Right Now What actually matters in AI right now? It’s getting",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
     }
   ]
 }
