@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-01T23:40:25.465Z",
+  "fetchedAt": "2026-05-02T23:32:27.108Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2ODAwL211c2stdi1hbHRtYW4td2Vlay0xLW11c2stc2F5cy1oZS13YXMtZHVwZWQtd2FybnMtYWktY291bGQta2lsbC11cy1hbGwtYW5kLWFkbWl0cy10aGF0LXhhaS1kaXN0aWxscy1vcGVuYWlzLW1vZGVscy8",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9sb25nLXRlcm0tcGVyaXBoZXJhbC1teW9waWMtdmlzaW9ucy8",
@@ -106,26 +106,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9sb25nLXRlcm0tcGVyaXBoZXJhbC1teW9waWMtdmlzaW9ucy8",
-      "title": "2026.18: Long-term, Peripheral & Myopic Visions",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/long-term-peripheral-myopic-visions/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-05-01T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of April 27, 2026, including Amazon and AI, the future of AR devices, and Beijing's myopia.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2NzIxL3RoaXMtc3RhcnR1cHMtbmV3LW1lY2hhbmlzdGljLWludGVycHJldGFiaWxpdHktdG9vbC1sZXRzLXlvdS1kZWJ1Zy1sbG1zLw",
       "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
       "source": "MIT Technology Review",
@@ -144,7 +124,7 @@
         "artificial intelligence",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -229,27 +209,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2ODAwL211c2stdi1hbHRtYW4td2Vlay0xLW11c2stc2F5cy1oZS13YXMtZHVwZWQtd2FybnMtYWktY291bGQta2lsbC11cy1hbGwtYW5kLWFkbWl0cy10aGF0LXhhaS1kaXN0aWxscy1vcGVuYWlzLW1vZGVscy8",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-01T22:08:19.000Z",
-      "readingMinutes": 4,
-      "score": 108,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along t",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
       "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
       "source": "Import AI",
@@ -312,26 +271,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzYyL3RoZS1kb3dubG9hZC1jaHJpc3RpYW4tcGhvbmUtbmV0d29yay1kZWJ1Z2dpbmctbGxtcy8",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-01T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tZWFybmluZ3MtdHJhaW5pdW0tYW5kLWNvbW1vZGl0eS1tYXJrZXRzLWFkZGl0aW9uYWwtYW1hem9uLW5vdGVzLw",
       "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
       "source": "Stratechery",
@@ -349,7 +288,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktY2VvLXNhbS1hbHRtYW4tYW5kLWF3cy1jZW8tbWF0dC1nYXJtYW4tYWJvdXQtYmVkcm9jay1tYW5hZ2VkLWFnZW50cy8",
@@ -411,6 +350,26 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9sb25nLXRlcm0tcGVyaXBoZXJhbC1teW9waWMtdmlzaW9ucy8",
+      "title": "2026.18: Long-term, Peripheral & Myopic Visions",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/long-term-peripheral-myopic-visions/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-05-01T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of April 27, 2026, including Amazon and AI, the future of AR devices, and Beijing's myopia.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAyLzAyL2ltcG9ydC1haS00NDMtaW50by10aGUtbWlzdC1tb2x0Ym9vay1hZ2VudC1lY29sb2dpZXMtYW5kLXRoZS1pbnRlcm5ldC1pbi10cmFuc2l0aW9uLw",
@@ -651,24 +610,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzM5L2EtbmV3LXQtbW9iaWxlLW5ldHdvcmstZm9yLWNocmlzdGlhbnMtYWltcy10by1ibG9jay1wb3JuLWFuZC1nZW5kZXItcmVsYXRlZC1jb250ZW50Lw",
-      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2ODAwL211c2stdi1hbHRtYW4td2Vlay0xLW11c2stc2F5cy1oZS13YXMtZHVwZWQtd2FybnMtYWktY291bGQta2lsbC11cy1hbGwtYW5kLWFkbWl0cy10aGF0LXhhaS1kaXN0aWxscy1vcGVuYWlzLW1vZGVscy8",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
       "thumbnailUrl": null,
-      "author": "James O'Donnell",
+      "author": "Michelle Kim",
       "category": "AI + Society",
-      "publishedAt": "2026-05-01T09:00:00.000Z",
+      "publishedAt": "2026-05-01T22:08:19.000Z",
       "readingMinutes": 4,
       "score": 104,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be tur",
+      "excerpt": "In the first week of the landmark trial between Elon Musk and OpenAI, Musk took the stand in a crisp black suit and tie and argued that OpenAI CEO Sam Altman and president Greg Brockman had deceived him into bankrolling the company. Along t",
       "tags": [
         "mit-technology-review",
         "artificial intelligence",
-        "app",
-        "artificial intelligence"
+        "app"
       ],
       "isNew": true
     },
@@ -940,6 +898,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzYyL3RoZS1kb3dubG9hZC1jaHJpc3RpYW4tcGhvbmUtbmV0d29yay1kZWJ1Z2dpbmctbGxtcy8",
+      "title": "The Download: a new Christian phone network, and debugging LLMs",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-01T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yOC8xMTM2NDc5L3RoZS1kb3dubG9hZC1tdXNrLWFsdG1hbi1vcGVuYWktdHJpYWwtYWktcHJvZml0LXByb2JsZW0v",
       "title": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
       "source": "MIT Technology Review",
@@ -1120,26 +1098,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pbnRlbC1lYXJuaW5ncy1pbnRlbHMtZGlmZmVyZW50aWF0aW9uLXdoaXRoZXItdGVyYWZhYi8",
-      "title": "Intel Earnings, Intel’s Differentiation?, Whither Terafab",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-29T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMC8xMTM2MTU0L3RoZS1kb3dubG9hZC1tdXJkZXJvdXMtbWlycm9yLWJhY3RlcmlhLWNoaW5lc2Utd29ya2Vycy1maWdodC1haS1hZ2VudHMv",
@@ -1351,21 +1309,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtc2VwYXJhdGVzLXRoZS1ncmVhdC1mcm9tLXRoZS1wZXR0eS1pbi1oaXN0b3J5",
-      "title": "What Separates The Great From The Petty In History",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/what-separates-the-great-from-the-petty-in-history",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzM5L2EtbmV3LXQtbW9iaWxlLW5ldHdvcmstZm9yLWNocmlzdGlhbnMtYWltcy10by1ibG9jay1wb3JuLWFuZC1nZW5kZXItcmVsYXRlZC1jb250ZW50Lw",
+      "title": "A new US phone network for Christians aims to block porn and gender-related content",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136739/a-new-t-mobile-network-for-christians-aims-to-block-porn-and-gender-related-content/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-05-01T12:37:55.000Z",
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-01T09:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post What Separates The Great From The Petty In History appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "A new US-wide cell phone network marketed to Christians is set to launch next week. It blocks porn, which experts in network security say marks the first time a US cell plan has used network-level blocking for such content that can’t be tur",
       "tags": [
-        "noema"
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
       ],
       "isNew": true
     },
@@ -1386,7 +1347,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yOS8xMTM2NjY2L3RoZS1kb3dubG9hZC1udWNsZWFyLXdhc3RlLW9yY2hlc3RyYXRlZC1haS1hZ2VudHMv",
@@ -2026,27 +1987,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzM0L2luZXhwZW5zaXZlLXNlYWZsb29yLWhvcHBpbmctc3VibWVyc2libGVzLWNvdWxkLXN0b2tlLWRlZXAtc2VhLXNjaWVuY2UtYW5kLW1pbmluZy8",
-      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
-      "thumbnailUrl": null,
-      "author": "Hannah Richter",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-01T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of",
-      "tags": [
-        "mit-technology-review",
-        "engineering",
-        "app"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2NzEzL3RoZS1kb3dubG9hZC1ub3J0aC1wb2xlLWZ1dHVyZS1odW1hbm9pZC1kYXRhLw",
       "title": "The Download: the North Pole’s future and humanoid data",
       "source": "MIT Technology Review",
@@ -2064,7 +2004,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYyU5MyViNC0lZWElYjglODAtJWVjJTk2JWI0JWViJTk2JWJiJWVhJWIyJThjLSVlZCU4YyU5MCVlYiU4YiVhOCVlZCU5NSVhMCVlYSViOSU4YyVlYiVhYyViNCVlZCU5NSU5OCVlYyU5YyVhMC1haS1leHBvLTIwMjYlZWMlODQlOWMtJWVjJTg0JWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWklMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjglMjU4MC0lMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTk2JTI1YmIlMjVlYSUyNWIyJTI1OGMtJTI1ZWQlMjU4YyUyNTkwJTI1ZWIlMjU4YiUyNWE4JTI1ZWQlMjU5NSUyNWEwJTI1ZWElMjViOSUyNThjJTI1ZWIlMjVhYyUyNWI0JTI1ZWQlMjU5NSUyNTk4JTI1ZWMlMjU5YyUyNWEwLWFpLWV4cG8tMjAyNiUyNWVjJTI1ODQlMjU5Yy0lMjVlYyUyNTg0JTI1YTQ",
@@ -2384,6 +2324,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pbnRlbC1lYXJuaW5ncy1pbnRlbHMtZGlmZmVyZW50aWF0aW9uLXdoaXRoZXItdGVyYWZhYi8",
+      "title": "Intel Earnings, Intel’s Differentiation?, Whither Terafab",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/intel-earnings-intels-differentiation-whither-terafab/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-29T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Intel's earnings were very impressive, but the chief driver was a structural shift in demand for CPUs for AI. Plus, what is going on with Terafab?",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9haS1oYXJkd2FyZS1tZXRhLWRpc3BsYXktcmVkZWZpbmluZy12ci1hbmQtYXIv",
       "title": "AI Hardware, Meta Display, Redefining VR and AR",
       "source": "Stratechery",
@@ -2695,21 +2655,21 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9sdWNpZW4tbGV2eS1icnVobC1hbmQtdGhlLWVtZXJnZW5jZS1vZi1wZXJzb25ob29kP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
-      "title": "To be is to participate",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood?utm_source=rss-feed",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/e56cea07-3b2b-477a-984c-f92e0bc430d8/sz-par453185.jpg?width=1200&quality=75&format=auto",
-      "author": "João de Pina-Cabral",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtc2VwYXJhdGVzLXRoZS1ncmVhdC1mcm9tLXRoZS1wZXR0eS1pbi1oaXN0b3J5",
+      "title": "What Separates The Great From The Petty In History",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/what-separates-the-great-from-the-petty-in-history",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-05-01T10:00:00.000Z",
+      "publishedAt": "2026-05-01T12:37:55.000Z",
       "readingMinutes": 4,
       "score": 96,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I - by João de Pina-Cabral Read on Aeon",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post What Separates The Great From The Petty In History appeared first on NOEMA.",
       "tags": [
-        "aeon"
+        "noema"
       ],
       "isNew": true
     },
@@ -2734,25 +2694,6 @@
         "마이크로소프트"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLWV0ZXJuaXR5LWdsYWNpZXJzLWRpc2FwcGVhcg",
-      "title": "When The ‘Eternity Glaciers’ Disappear",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/when-the-eternity-glaciers-disappear",
-      "thumbnailUrl": null,
-      "author": "Klaus Thymann",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-29T16:39:06.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post When The ‘Eternity Glaciers’ Disappear appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU5NSU4OCVlYyVhMCU4NCVlYyU4NCViMS0lZWIlODUlYmMlZWMlOWQlOTgtJWVjJTlkJWI0JWVjJWEwJTljLSVlYiVhYyViYyVlYiVhNiVhYy0lZWMlODQlYjglZWElYjMlODQlZWIlYTElOWMtJWVkJTk5JTk1JWVjJTllJWE1JWVjJTk3JTkwJWVjJTllJTg0JWVjJTlkJWI4JWVkJTg1JTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWktJTI1ZWMlMjU5NSUyNTg4JTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU4NCUyNWIxLSUyNWViJTI1ODUlMjViYyUyNWVjJTI1OWQlMjU5OC0lMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1OWMtJTI1ZWIlMjVhYyUyNWJjJTI1ZWIlMjVhNiUyNWFjLSUyNWVjJTI1ODQlMjViOCUyNWVhJTI1YjMlMjU4NCUyNWViJTI1YTElMjU5Yy0lMjVlZCUyNTk5JTI1OTUlMjVlYyUyNTllJTI1YTUlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTllJTI1ODQlMjVlYyUyNTlkJTI1YjglMjVlZCUyNTg1JTI1OTQ",
@@ -5410,6 +5351,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzM0L2luZXhwZW5zaXZlLXNlYWZsb29yLWhvcHBpbmctc3VibWVyc2libGVzLWNvdWxkLXN0b2tlLWRlZXAtc2VhLXNjaWVuY2UtYW5kLW1pbmluZy8",
+      "title": "Inexpensive seafloor-hopping submersibles could stoke deep-sea science—and mining",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136734/inexpensive-seafloor-hopping-submersibles-could-stoke-deep-sea-science-and-mining/",
+      "thumbnailUrl": null,
+      "author": "Hannah Richter",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-01T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Smack dab between Australia and South America, the US National Oceanic and Atmospheric Administration (NOAA) research vessel Rainier is currently on a mission to map more than 8,000 square nautical miles of the Pacific seafloor in search of",
+      "tags": [
+        "mit-technology-review",
+        "engineering",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjkwNDA",
       "title": "Show GN: Geas - AI Agent가 실수하지 않도록 엄격한 업무 프로토콜을 지키게 하기",
       "source": "GeekNews",
@@ -5984,7 +5946,7 @@
         "subscriber ebooks",
         "subscriber-only stories"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNy8xMTM2NDM4L3RoZS1kb3dubG9hZC1kZWVwc2Vlay12NC1haS13b3JsZC1tb2RlbHMv",
@@ -6257,6 +6219,44 @@
       "excerpt": "Z.AI의 GLM Coding Plan이 최신 모델인 GLM-5.1을 지원하기 시작했습니다. Max, Pro, Lite 전 플랜 사용자가 이용 가능하며, 기존에 사용하던 코딩 에이전트에서 설정 파일만 수정해 전환할 수 있습니다. Claude Code에서 전환하기 Claude Code는 내부적으로 Opus/Sonnet/Haiku 환경변수를 GLM 모델에 매...",
       "tags": [
         "geeknews"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS12dWxuZXJhYmlsaXR5LW9mLXRoZS1saWJlcmFsLW5ldXRyYWwtc3RhdGU",
+      "title": "Culture Wars & The Myth Of The Neutral State",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-vulnerability-of-the-liberal-neutral-state",
+      "thumbnailUrl": null,
+      "author": "Michael Sandel",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-14T16:40:17.000Z",
+      "readingMinutes": 4,
+      "score": 93,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Culture Wars & The Myth Of The Neutral State appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9sdWNpZW4tbGV2eS1icnVobC1hbmQtdGhlLWVtZXJnZW5jZS1vZi1wZXJzb25ob29kP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
+      "title": "To be is to participate",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood?utm_source=rss-feed",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/e56cea07-3b2b-477a-984c-f92e0bc430d8/sz-par453185.jpg?width=1200&quality=75&format=auto",
+      "author": "João de Pina-Cabral",
+      "category": "Philosophy",
+      "publishedAt": "2026-05-01T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I - by João de Pina-Cabral Read on Aeon",
+      "tags": [
+        "aeon"
       ],
       "isNew": true
     }
