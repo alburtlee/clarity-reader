@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-05-02T23:32:27.108Z",
+  "fetchedAt": "2026-05-03T23:32:44.644Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4YyU4MCVlZCU5OSU5NCVlZCU5OCU5NS0lZWElYjIlODAlZWMlODMlODktJWVjJTliJTkwJWVjJWExJWIwLSVlYyU5NSVhMCVlYyU4YSVhNCVlZCU4MSVhYy0lZWMlYTclODAlZWIlYjglOGMlZWMlOGElYTQtMzAlZWIlODUlODQtJWViJWE3JThjJWVjJTk3JTkwLSVlYyVhMiU4NSVlYiVhMyU4Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1OGMlMjU4MCUyNWVkJTI1OTklMjU5NCUyNWVkJTI1OTglMjU5NS0lMjVlYSUyNWIyJTI1ODAlMjVlYyUyNTgzJTI1ODktJTI1ZWMlMjU5YiUyNTkwJTI1ZWMlMjVhMSUyNWIwLSUyNWVjJTI1OTUlMjVhMCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODElMjVhYy0lMjVlYyUyNWE3JTI1ODAlMjVlYiUyNWI4JTI1OGMlMjVlYyUyNThhJTI1YTQtMzAlMjVlYiUyNTg1JTI1ODQtJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1YTIlMjU4NSUyNWViJTI1YTMlMjU4Yw",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2ODAwL211c2stdi1hbHRtYW4td2Vlay0xLW11c2stc2F5cy1oZS13YXMtZHVwZWQtd2FybnMtYWktY291bGQta2lsbC11cy1hbGwtYW5kLWFkbWl0cy10aGF0LXhhaS1kaXN0aWxscy1vcGVuYWlzLW1vZGVscy8",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9sb25nLXRlcm0tcGVyaXBoZXJhbC1teW9waWMtdmlzaW9ucy8",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtc2VwYXJhdGVzLXRoZS1ncmVhdC1mcm9tLXRoZS1wZXR0eS1pbi1oaXN0b3J5",
-    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9sdWNpZW4tbGV2eS1icnVobC1hbmQtdGhlLWVtZXJnZW5jZS1vZi1wZXJzb25ob29kP3V0bV9zb3VyY2U9cnNzLWZlZWQ",
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjkwNDM"
+    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9sdWNpZW4tbGV2eS1icnVobC1hbmQtdGhlLWVtZXJnZW5jZS1vZi1wZXJzb25ob29kP3V0bV9zb3VyY2U9cnNzLWZlZWQ"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -102,27 +102,6 @@
       "excerpt": "It's not just chatbots anymore",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2NzIxL3RoaXMtc3RhcnR1cHMtbmV3LW1lY2hhbmlzdGljLWludGVycHJldGFiaWxpdHktdG9vbC1sZXRzLXlvdS1kZWJ1Zy1sbG1zLw",
-      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-30T15:59:41.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This cou",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
       ],
       "isNew": false
     },
@@ -271,26 +250,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tZWFybmluZ3MtdHJhaW5pdW0tYW5kLWNvbW1vZGl0eS1tYXJrZXRzLWFkZGl0aW9uYWwtYW1hem9uLW5vdGVzLw",
-      "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-04-30T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktY2VvLXNhbS1hbHRtYW4tYW5kLWF3cy1jZW8tbWF0dC1nYXJtYW4tYWJvdXQtYmVkcm9jay1tYW5hZ2VkLWFnZW50cy8",
       "title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
       "source": "Stratechery",
@@ -369,7 +328,28 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2NzIxL3RoaXMtc3RhcnR1cHMtbmV3LW1lY2hhbmlzdGljLWludGVycHJldGFiaWxpdHktdG9vbC1sZXRzLXlvdS1kZWJ1Zy1sbG1zLw",
+      "title": "This startup’s new mechanistic interpretability tool lets you debug LLMs",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/30/1136721/this-startups-new-mechanistic-interpretability-tool-lets-you-debug-llms/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-30T15:59:41.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The San Francisco–based startup Goodfire just released a new tool, called Silico, that lets researchers and engineers peer inside an AI model and adjust its parameters—the settings that determine a model’s behavior—during training. This cou",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzAyLzAyL2ltcG9ydC1haS00NDMtaW50by10aGUtbWlzdC1tb2x0Ym9vay1hZ2VudC1lY29sb2dpZXMtYW5kLXRoZS1pbnRlcm5ldC1pbi10cmFuc2l0aW9uLw",
@@ -628,7 +608,7 @@
         "artificial intelligence",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3Avc2lnbi1vZi10aGUtZnV0dXJlLWdwdC01NQ",
@@ -915,7 +895,27 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tZWFybmluZ3MtdHJhaW5pdW0tYW5kLWNvbW1vZGl0eS1tYXJrZXRzLWFkZGl0aW9uYWwtYW1hem9uLW5vdGVzLw",
+      "title": "Amazon Earnings, Trainium and Commodity Markets, Additional Amazon Notes",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/amazon-earnings-trainium-and-commodity-markets-additional-amazon-notes/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-04-30T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Amazon's earnings suggest that the shift away from training towards inference and agents means their bet on Trainium is paying off. Plus, additional notes on ads, agents, and sports rights.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yOC8xMTM2NDc5L3RoZS1kb3dubG9hZC1tdXNrLWFsdG1hbi1vcGVuYWktdHJpYWwtYWktcHJvZml0LXByb2JsZW0v",
@@ -1327,25 +1327,6 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtYW1lcmljYS1vd2VzLXRoZS1udWNsZWFyLWZ1dHVyZQ",
-      "title": "What America Owes The Nuclear Future",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/what-america-owes-the-nuclear-future",
-      "thumbnailUrl": null,
-      "author": "Vincent Ialenti",
-      "category": "Philosophy",
-      "publishedAt": "2026-04-30T13:40:50.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post What America Owes The Nuclear Future appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": false
     },
@@ -1983,26 +1964,6 @@
       "excerpt": "Does process matter? We are about to find out.",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2NzEzL3RoZS1kb3dubG9hZC1ub3J0aC1wb2xlLWZ1dHVyZS1odW1hbm9pZC1kYXRhLw",
-      "title": "The Download: the North Pole’s future and humanoid data",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-30T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treach",
-      "tags": [
-        "mit-technology-review",
-        "the download"
       ],
       "isNew": false
     },
@@ -2655,6 +2616,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4YyU4MCVlZCU5OSU5NCVlZCU5OCU5NS0lZWElYjIlODAlZWMlODMlODktJWVjJTliJTkwJWVjJWExJWIwLSVlYyU5NSVhMCVlYyU4YSVhNCVlZCU4MSVhYy0lZWMlYTclODAlZWIlYjglOGMlZWMlOGElYTQtMzAlZWIlODUlODQtJWViJWE3JThjJWVjJTk3JTkwLSVlYyVhMiU4NSVlYiVhMyU4Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1OGMlMjU4MCUyNWVkJTI1OTklMjU5NCUyNWVkJTI1OTglMjU5NS0lMjVlYSUyNWIyJTI1ODAlMjVlYyUyNTgzJTI1ODktJTI1ZWMlMjU5YiUyNTkwJTI1ZWMlMjVhMSUyNWIwLSUyNWVjJTI1OTUlMjVhMCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODElMjVhYy0lMjVlYyUyNWE3JTI1ODAlMjVlYiUyNWI4JTI1OGMlMjVlYyUyNThhJTI1YTQtMzAlMjVlYiUyNTg1JTI1ODQtJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1YTIlMjU4NSUyNWViJTI1YTMlMjU4Yw",
+      "title": "대화형 검색 원조 '애스크 지브스' 30년 만에 종료",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%8c%80%ed%99%94%ed%98%95-%ea%b2%80%ec%83%89-%ec%9b%90%ec%a1%b0-%ec%95%a0%ec%8a%a4%ed%81%ac-%ec%a7%80%eb%b8%8c%ec%8a%a4-30%eb%85%84-%eb%a7%8c%ec%97%90-%ec%a2%85%eb%a3%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258c%2580%25ed%2599%2594%25ed%2598%2595-%25ea%25b2%2580%25ec%2583%2589-%25ec%259b%2590%25ec%25a1%25b0-%25ec%2595%25a0%25ec%258a%25a4%25ed%2581%25ac-%25ec%25a7%2580%25eb%25b8%258c%25ec%258a%25a4-30%25eb%2585%2584-%25eb%25a7%258c%25ec%2597%2590-%25ec%25a2%2585%25eb%25a3%258c",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-05-03T23:31:55.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "대화형 검색의 원조 애스크 지브스(Ask Jeeves)가 2026년 5월 1일 공식 서비스를 종료했다. 모회사 IAC가 검색 사업 철수를 결정하면서 약 30년 역사가 막을 내렸다. 오늘날 AI 챗봇의 선구자로 평가받는다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "애스크닷컴"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtc2VwYXJhdGVzLXRoZS1ncmVhdC1mcm9tLXRoZS1wZXR0eS1pbi1oaXN0b3J5",
       "title": "What Separates The Great From The Petty In History",
       "source": "Noema",
@@ -2671,7 +2653,26 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtYW1lcmljYS1vd2VzLXRoZS1udWNsZWFyLWZ1dHVyZQ",
+      "title": "What America Owes The Nuclear Future",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/what-america-owes-the-nuclear-future",
+      "thumbnailUrl": null,
+      "author": "Vincent Ialenti",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-30T13:40:50.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post What America Owes The Nuclear Future appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4YyVlZCU4YyU4YyVlYiViMiViMyVjMiViNyVlYiVhOSU5NCVlZCU4MyU4MCVjMiViNyVlYyU5NSU4NCVlYiVhNyU4OCVlYyVhMSViNCVjMiViNyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC0lZWIlOTMlYjEtJWViJWI5JTg1JWVkJTg1JThjJWVkJTgxJWFjLTIwMjYvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1OGMlMjVlZCUyNThjJTI1OGMlMjVlYiUyNWIyJTI1YjMlMjVjMiUyNWI3JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwJTI1YzIlMjViNyUyNWVjJTI1OTUlMjU4NCUyNWViJTI1YTclMjU4OCUyNWVjJTI1YTElMjViNCUyNWMyJTI1YjclMjVlYiUyNWE3JTI1ODglMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWExJTI1OWMlMjVlYyUyNTg2JTI1OGMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWIlMjU5MyUyNWIxLSUyNWViJTI1YjklMjU4NSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0yMDI2",
@@ -5369,7 +5370,27 @@
         "engineering",
         "app"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2NzEzL3RoZS1kb3dubG9hZC1ub3J0aC1wb2xlLWZ1dHVyZS1odW1hbm9pZC1kYXRhLw",
+      "title": "The Download: the North Pole’s future and humanoid data",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/04/30/1136713/the-download-north-pole-future-humanoid-data/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-04-30T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Digging for clues about the North Pole’s past In the past, getting to the North Pole involved a treach",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjkwNDA",
@@ -5928,27 +5949,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8zMC8xMTM2Njg0L2V4Y2x1c2l2ZS1lYm9vay1pbnNpZGUtdGhlLXN0ZWFsdGh5LXN0YXJ0dXAtdGhhdC1waXRjaGVkLWJyYWlubGVzcy1odW1hbi1jbG9uZXMv",
-      "title": "Exclusive eBook: Inside the stealthy startup that pitched brainless human clones",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/04/30/1136684/exclusive-ebook-inside-the-stealthy-startup-that-pitched-brainless-human-clones/",
-      "thumbnailUrl": null,
-      "author": "MIT Technology Review",
-      "category": "AI + Society",
-      "publishedAt": "2026-04-30T18:42:50.000Z",
-      "readingMinutes": 4,
-      "score": 94,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The ultimate plan to live forever is a brand new body. This subscriber-only eBook explores R3 Bio, a small startup that has pitched a startling and ethically charged vision for “brainless clones” to serve the role of backup human bodies. by",
-      "tags": [
-        "mit-technology-review",
-        "subscriber ebooks",
-        "subscriber-only stories"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yNy8xMTM2NDM4L3RoZS1kb3dubG9hZC1kZWVwc2Vlay12NC1haS13b3JsZC1tb2RlbHMv",
       "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
       "source": "MIT Technology Review",
@@ -6258,7 +6258,7 @@
       "tags": [
         "aeon"
       ],
-      "isNew": true
+      "isNew": false
     }
   ]
 }
