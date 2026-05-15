@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-05-14T23:43:16.248Z",
+  "fetchedAt": "2026-05-15T23:42:57.972Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1iZW4tdGhvbXBzb24tYXQtdGhlLW1vZmZldHRuYXRoYW5zb24tbWVkaWEtaW50ZXJuZXQtY29tbXVuaWNhdGlvbnMtY29uZmVyZW5jZS8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYTclODElZWMlOWIlOTAtODAwMCVlYiVhYSU4NS0lZWQlOTUlYjQlZWElYjMlYTAlZWMlOTclYWQlZWIlOGMlODAtJWVjJWI1JTljJWVhJWIzJWEwLSVlYyU4YiVhNCVlYyVhMCU4MSVlYyU5NyU5MCVlYiU4ZiU4NC1haS0lZWQlODglYWMlZWMlOWUlOTAtJWVjJTljJTg0JWVkJTk1JWI0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1OWIlMjU5MC04MDAwJTI1ZWIlMjVhYSUyNTg1LSUyNWVkJTI1OTUlMjViNCUyNWVhJTI1YjMlMjVhMCUyNWVjJTI1OTclMjVhZCUyNWViJTI1OGMlMjU4MC0lMjVlYyUyNWI1JTI1OWMlMjVlYSUyNWIzJTI1YTAtJTI1ZWMlMjU4YiUyNWE0JTI1ZWMlMjVhMCUyNTgxJTI1ZWMlMjU5NyUyNTkwJTI1ZWIlMjU4ZiUyNTg0LWFpLSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MC0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTk1JTI1YjQ",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1kb29tc2RheS1vcmdhbmlzbQ",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNC8xMTM3MjU3L3RoZS1kb3dubG9hZC1kZWVwZmFrZS1wb3JuLWJvZGllcy1haS1leHBvc2luZy1waG9uZS1udW1iZXJzLw",
-    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjk0NjI"
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGlmdGluZy1hbGxpYW5jZXMtaW4tYS1jaGFuZ2luZy13b3JsZC8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZXJlLWlzLWEtc291bC1idXQtbm90LWEtdHJhbnNjZW5kZW50LW9uZQ",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYiU5NCVhNSVlYiU5ZiVhYyVlYiU4YiU5ZC0lZWIlOTQlYTUlZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtZ3MlZWMlOWQlYjglZWMlYTYlOWQtMSVlYiU5MyViMSVlYSViOCU4OS0lZWQlOWElOGQlZWIlOTMlOWQlZWElYjMlYjUlZWElYjMlYjUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYiUyNTk0JTI1YTUlMjVlYiUyNTlmJTI1YWMlMjVlYiUyNThiJTI1OWQtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LWdzJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjVhNiUyNTlkLTElMjVlYiUyNTkzJTI1YjElMjVlYSUyNWI4JTI1ODktJTI1ZWQlMjU5YSUyNThkJTI1ZWIlMjU5MyUyNTlkJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzI2L2NoaW5lc2Utc2hvcnQtZHJhbWFzLWFpLw",
+    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy95b3VuZy1wZW9wbGUtbm93LWFuZC10aGUtbWFsLWR1LXNpZWNsZS1vZi0xOXRoLWNlbnR1cnktZnJhbmNl"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -142,7 +142,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMC8xMTM2MTQ5L2NoaW5lc2UtdGVjaC13b3JrZXJzLWFpLWNvbGxlYWd1ZXMv",
@@ -206,6 +206,28 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYiU5NCVhNSVlYiU5ZiVhYyVlYiU4YiU5ZC0lZWIlOTQlYTUlZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtZ3MlZWMlOWQlYjglZWMlYTYlOWQtMSVlYiU5MyViMSVlYSViOCU4OS0lZWQlOWElOGQlZWIlOTMlOWQlZWElYjMlYjUlZWElYjMlYjUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYiUyNTk0JTI1YTUlMjVlYiUyNTlmJTI1YWMlMjVlYiUyNThiJTI1OWQtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LWdzJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjVhNiUyNTlkLTElMjVlYiUyNTkzJTI1YjElMjVlYSUyNWI4JTI1ODktJTI1ZWQlMjU5YSUyNThkJTI1ZWIlMjU5MyUyNTlkJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1",
+      "title": "한국딥러닝 ‘딥에이전트’, GS인증 1등급 획득…공공 문서 AI 시장 공략 속도",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%95%9c%ea%b5%ad%eb%94%a5%eb%9f%ac%eb%8b%9d-%eb%94%a5%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-gs%ec%9d%b8%ec%a6%9d-1%eb%93%b1%ea%b8%89-%ed%9a%8d%eb%93%9d%ea%b3%b5%ea%b3%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad%25eb%2594%25a5%25eb%259f%25ac%25eb%258b%259d-%25eb%2594%25a5%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-gs%25ec%259d%25b8%25ec%25a6%259d-1%25eb%2593%25b1%25ea%25b8%2589-%25ed%259a%258d%25eb%2593%259d%25ea%25b3%25b5%25ea%25b3%25b5",
+      "thumbnailUrl": null,
+      "author": "김한수 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-05-15T00:34:02.000Z",
+      "readingMinutes": 4,
+      "score": 108,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "15일 한국딥러닝은 자사 문서 AI 에이전트 플랫폼 ‘딥에이전트(DEEP Agent)’가 GS인증 1등급을 획득했다고 밝혔다.",
+      "tags": [
+        "tech42",
+        "테크놀로지",
+        "gs인증 1등급",
+        "딥에이전트"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
@@ -306,46 +328,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1iZW4tdGhvbXBzb24tYXQtdGhlLW1vZmZldHRuYXRoYW5zb24tbWVkaWEtaW50ZXJuZXQtY29tbXVuaWNhdGlvbnMtY29uZmVyZW5jZS8",
-      "title": "An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-ben-thompson-at-the-moffettnathanson-media-internet-communications-conference/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-05-14T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with me about the implications of the compute shortage on Aggregation Theory, consumer AI, and more.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYW5kLWFudGhyb3BpYy14YWlzLXR3by1jb21wYW5pZXMtZWxvbi1tdXNrLWFuZC1zcGFjZXhhaXMtZnV0dXJlLw",
-      "title": "SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-05-12T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -1004,28 +986,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNC8xMTM3MTYxL2FpLXBvcm4tbm9uY29uc2Vuc3VhbC1kZWVwZmFrZXMtdGFrZWRvd24tcGlyYWN5LWNvcHlyaWdodC8",
-      "title": "The shock of seeing your body used in deepfake porn",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
-      "thumbnailUrl": null,
-      "author": "Jessica Klein",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-14T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, wh",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "the big story"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMi8xMTM3MTM0L3dvcmxkLW1vZGVscy0xMC10aGluZ3MtdGhhdC1tYXR0ZXItaW4tYWktcmlnaHQtbm93Lw",
       "title": "World Models: 10 Things That Matter in AI Right Now",
       "source": "MIT Technology Review",
@@ -1211,24 +1171,44 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNC8xMTM3MjU3L3RoZS1kb3dubG9hZC1kZWVwZmFrZS1wb3JuLWJvZGllcy1haS1leHBvc2luZy1waG9uZS1udW1iZXJzLw",
-      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1iZW4tdGhvbXBzb24tYXQtdGhlLW1vZmZldHRuYXRoYW5zb24tbWVkaWEtaW50ZXJuZXQtY29tbXVuaWNhdGlvbnMtY29uZmVyZW5jZS8",
+      "title": "An Interview with Ben Thompson at the MoffettNathanson Media, Internet & Communications Conference",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-ben-thompson-at-the-moffettnathanson-media-internet-communications-conference/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-14T12:10:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-05-14T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran ",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with me about the implications of the compute shortage on Aggregation Theory, consumer AI, and more.",
       "tags": [
-        "mit-technology-review",
-        "the download"
+        "stratechery",
+        "daily update"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYW5kLWFudGhyb3BpYy14YWlzLXR3by1jb21wYW5pZXMtZWxvbi1tdXNrLWFuZC1zcGFjZXhhaXMtZnV0dXJlLw",
+      "title": "SpaceX and Anthropic, xAI’s Two Companies, Elon Musk and SpaceXAI’s Future",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/spacex-and-anthropic-xais-two-companies-elon-musk-and-spacexais-future/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-05-12T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The Anthropic xAI deal is shocking but not surprising: Musk should double down on serving other companies.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjkwNDM",
@@ -1312,6 +1292,27 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzI2L2NoaW5lc2Utc2hvcnQtZHJhbWFzLWFpLw",
+      "title": "How Chinese short dramas became AI content machines",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
+      "thumbnailUrl": null,
+      "author": "Caiwei Chen",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-15T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears a",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMy8xMTM3MTc2L3RoZS1kb3dubG9hZC1kcnVncy1pbi1vcmJpdC1uYXNhLW51Y2xlYXItc3BhY2VjcmFmdC8",
       "title": "The Download: making drugs in orbit and NASA’s nuclear-powered spacecraft",
       "source": "MIT Technology Review",
@@ -1329,7 +1330,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4NCViOCVlYSViMyU4NC0lZWMlYjUlOWMlZWElYjMlYTAtYWktOSVlYyVhMiU4NS0lZWMlOGIlOWMlZWQlOTclOTgtJWViJWI0JWE0JWViJThkJTk0JWViJThiJTg4MjAwJWVhJWIwJTljLSVlYSViMyViYyVlYyVhMCU5Yy0lZWMlOTklODQlZWMlYTAlODQtJWVjJWEwJTk1JWViJWIzJWI1LSVlYiU4YiVhOC0lZWQlOTUlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTg0JTI1YjglMjVlYSUyNWIzJTI1ODQtJTI1ZWMlMjViNSUyNTljJTI1ZWElMjViMyUyNWEwLWFpLTklMjVlYyUyNWEyJTI1ODUtJTI1ZWMlMjU4YiUyNTljJTI1ZWQlMjU5NyUyNTk4LSUyNWViJTI1YjQlMjVhNCUyNWViJTI1OGQlMjU5NCUyNWViJTI1OGIlMjU4ODIwMCUyNWVhJTI1YjAlMjU5Yy0lMjVlYSUyNWIzJTI1YmMlMjVlYyUyNWEwJTI1OWMtJTI1ZWMlMjU5OSUyNTg0JTI1ZWMlMjVhMCUyNTg0LSUyNWVjJTI1YTAlMjU5NSUyNWViJTI1YjMlMjViNS0lMjVlYiUyNThiJTI1YTgtJTI1ZWQlMjU5NSUyNTk4",
@@ -1541,19 +1542,39 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1kb29tc2RheS1vcmdhbmlzbQ",
-      "title": "The Doomsday Organism",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGlmdGluZy1hbGxpYW5jZXMtaW4tYS1jaGFuZ2luZy13b3JsZC8",
+      "title": "2026.20: Shifting Alliances in a Changing World",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/shifting-alliances-in-a-changing-world/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-05-15T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of May 11, 2026, including a new kind of computing, Elon Musk, and 360 degrees of US-China relations.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZXJlLWlzLWEtc291bC1idXQtbm90LWEtdHJhbnNjZW5kZW50LW9uZQ",
+      "title": "There Is A Soul, But Not A Transcendent One",
       "source": "Noema",
       "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-doomsday-organism",
+      "articleUrl": "https://www.noemamag.com/there-is-a-soul-but-not-a-transcendent-one",
       "thumbnailUrl": null,
-      "author": "Joe Zadeh",
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-05-14T16:24:45.000Z",
+      "publishedAt": "2026-05-15T16:04:41.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Doomsday Organism appeared first on NOEMA.",
+      "excerpt": "The post There Is A Soul, But Not A Transcendent One appeared first on NOEMA.",
       "tags": [
         "noema"
       ],
@@ -2521,6 +2542,48 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzQxL3RoZS1kb3dubG9hZC1jaGluYS1zaG9ydC1kcmFtYS1haS13aG8taGVhbHRoLXRhcmdldHMv",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-15T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-siz",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNC8xMTM3MTYxL2FpLXBvcm4tbm9uY29uc2Vuc3VhbC1kZWVwZmFrZXMtdGFrZWRvd24tcGlyYWN5LWNvcHlyaWdodC8",
+      "title": "The shock of seeing your body used in deepfake porn",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/14/1137161/ai-porn-nonconsensual-deepfakes-takedown-piracy-copyright/",
+      "thumbnailUrl": null,
+      "author": "Jessica Klein",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-14T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "When Jennifer got a job doing research for a nonprofit in 2023, she ran her new professional headshot through a facial recognition program. She wanted to see if the tech would pull up the porn videos she’d made more than 10 years before, wh",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "the big story"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjk0NjI",
       "title": "The AI Agent Complexity Ratchet: Why 90% Test Coverage Is Required",
       "source": "GeekNews",
@@ -2941,6 +3004,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNC8xMTM3MjU3L3RoZS1kb3dubG9hZC1kZWVwZmFrZS1wb3JuLWJvZGllcy1haS1leHBvc2luZy1waG9uZS1udW1iZXJzLw",
+      "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-14T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran ",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMS8xMTM0ODYyL3RoaXMtdG9vbC1jb3VsZC1zaG93LWhvdy1jb25zY2lvdXNuZXNzLXdvcmtzLw",
       "title": "This tool could show how consciousness works",
       "source": "MIT Technology Review",
@@ -3105,7 +3188,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMS8xMTM3MDkwL3RocmVlLXRoaW5ncy1pbi1haS10by13YXRjaC1hY2NvcmRpbmctdG8tYS1ub2JlbC13aW5uaW5nLWVjb25vbWlzdC8",
@@ -3339,90 +3422,106 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYTclODElZWMlOWIlOTAtODAwMCVlYiVhYSU4NS0lZWQlOTUlYjQlZWElYjMlYTAlZWMlOTclYWQlZWIlOGMlODAtJWVjJWI1JTljJWVhJWIzJWEwLSVlYyU4YiVhNCVlYyVhMCU4MSVlYyU5NyU5MCVlYiU4ZiU4NC1haS0lZWQlODglYWMlZWMlOWUlOTAtJWVjJTljJTg0JWVkJTk1JWI0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1OWIlMjU5MC04MDAwJTI1ZWIlMjVhYSUyNTg1LSUyNWVkJTI1OTUlMjViNCUyNWVhJTI1YjMlMjVhMCUyNWVjJTI1OTclMjVhZCUyNWViJTI1OGMlMjU4MC0lMjVlYyUyNWI1JTI1OWMlMjVlYSUyNWIzJTI1YTAtJTI1ZWMlMjU4YiUyNWE0JTI1ZWMlMjVhMCUyNTgxJTI1ZWMlMjU5NyUyNTkwJTI1ZWIlMjU4ZiUyNTg0LWFpLSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MC0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTk1JTI1YjQ",
-      "title": "메타, 직원 8,000명 해고…역대 최고 실적에도 AI 투자 위해 감원",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%a9%94%ed%83%80-%ec%a7%81%ec%9b%90-8000%eb%aa%85-%ed%95%b4%ea%b3%a0%ec%97%ad%eb%8c%80-%ec%b5%9c%ea%b3%a0-%ec%8b%a4%ec%a0%81%ec%97%90%eb%8f%84-ai-%ed%88%ac%ec%9e%90-%ec%9c%84%ed%95%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%25a7%2581%25ec%259b%2590-8000%25eb%25aa%2585-%25ed%2595%25b4%25ea%25b3%25a0%25ec%2597%25ad%25eb%258c%2580-%25ec%25b5%259c%25ea%25b3%25a0-%25ec%258b%25a4%25ec%25a0%2581%25ec%2597%2590%25eb%258f%2584-ai-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%2584%25ed%2595%25b4",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-14T23:39:03.000Z",
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy95b3VuZy1wZW9wbGUtbm93LWFuZC10aGUtbWFsLWR1LXNpZWNsZS1vZi0xOXRoLWNlbnR1cnktZnJhbmNl",
+      "title": "Gen Z but two centuries ago",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/young-people-now-and-the-mal-du-siecle-of-19th-century-france",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/0b67748e-5785-4d72-bf8e-d4ed38024894/new-essay.jpg?width=1200&quality=75&format=auto",
+      "author": "Emily Herring",
+      "category": "Philosophy",
+      "publishedAt": "2026-05-15T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "메타가 5월 20일부터 전 직원의 10%인 8,000명을 감원한다. 역대 최고 분기 실적에도 AI 인프라 투자를 위한 결정으로, 직원 사기 급락과 내부 반발이 이어지고 있다.",
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "A generation of young people with ‘full hearts in an empty world’ sought hope in the face of insurmountable malaise - by Emily Herring Read on Aeon",
       "tags": [
-        "tech42",
-        "ai요약",
-        "구조조정",
-        "메타"
+        "aeon"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4MyVhMCVlYyU4YSVhNCVlZCU4MyU5ZC0lZWMlOTglYTQlZWQlOTQlODglZWMlODYlOGMlZWMlOGElYTQtJWVhJWIzJWI1JWVhJWI4JTg5JWViJWE3JTlkLSVlYSViMyViNSVlYSViMiVhOS0lZWMlOTglYTQlZWQlOTQlODhhaSVlYSViOSU4YyVlYyVhNyU4MC0lZWQlOTQlYmMlZWQlOTUlYjQtJWVjJTgyJWFjJWVjJTlhJWE5Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU4MyUyNWEwJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTlkLSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OCUyNWVjJTI1ODYlMjU4YyUyNWVjJTI1OGElMjVhNC0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWI4JTI1ODklMjVlYiUyNWE3JTI1OWQtJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMiUyNWE5LSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpJTI1ZWElMjViOSUyNThjJTI1ZWMlMjVhNyUyNTgwLSUyNWVkJTI1OTQlMjViYyUyNWVkJTI1OTUlMjViNC0lMjVlYyUyNTgyJTI1YWMlMjVlYyUyNTlhJTI1YTk",
-      "title": "탠스택 오픈소스 공급망 공격, 오픈AI까지 피해...\"사용자 데이터는 안전\"",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWQlODglYWMlZWMlOWUlOTAtJWVjJTljJWEwJWVjJWI5JTk4LSVlYiVhMSU5YyVlYiU5MyU5YyVlYiVhNyViNS0lZWElYjMlODQlZWQlOWElOGQlZWIlYjYlODAlZWQlODQlYjAtJWVkJTk4JTkxJWVjJTgzJTgxJWVhJWI5JThjJWVjJWE3JTgwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MC0lMjVlYyUyNTljJTI1YTAlMjVlYyUyNWI5JTI1OTgtJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjVhNyUyNWI1LSUyNWVhJTI1YjMlMjU4NCUyNWVkJTI1OWElMjU4ZCUyNWViJTI1YjYlMjU4MCUyNWVkJTI1ODQlMjViMC0lMjVlZCUyNTk4JTI1OTElMjVlYyUyNTgzJTI1ODElMjVlYSUyNWI5JTI1OGMlMjVlYyUyNWE3JTI1ODA",
+      "title": "스타트업 투자 유치 로드맵: 계획부터 협상까지",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%83%a0%ec%8a%a4%ed%83%9d-%ec%98%a4%ed%94%88%ec%86%8c%ec%8a%a4-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ea%b3%b5%ea%b2%a9-%ec%98%a4%ed%94%88ai%ea%b9%8c%ec%a7%80-%ed%94%bc%ed%95%b4-%ec%82%ac%ec%9a%a9/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2583%25a0%25ec%258a%25a4%25ed%2583%259d-%25ec%2598%25a4%25ed%2594%2588%25ec%2586%258c%25ec%258a%25a4-%25ea%25b3%25b5%25ea%25b8%2589%25eb%25a7%259d-%25ea%25b3%25b5%25ea%25b2%25a9-%25ec%2598%25a4%25ed%2594%2588ai%25ea%25b9%258c%25ec%25a7%2580-%25ed%2594%25bc%25ed%2595%25b4-%25ec%2582%25ac%25ec%259a%25a9",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ed%88%ac%ec%9e%90-%ec%9c%a0%ec%b9%98-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ea%b3%84%ed%9a%8d%eb%b6%80%ed%84%b0-%ed%98%91%ec%83%81%ea%b9%8c%ec%a7%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-%25eb%25a1%259c%25eb%2593%259c%25eb%25a7%25b5-%25ea%25b3%2584%25ed%259a%258d%25eb%25b6%2580%25ed%2584%25b0-%25ed%2598%2591%25ec%2583%2581%25ea%25b9%258c%25ec%25a7%2580",
       "thumbnailUrl": null,
-      "author": "버트",
+      "author": "ZUZU",
       "category": "AI + Korea",
-      "publishedAt": "2026-05-14T23:32:58.000Z",
+      "publishedAt": "2026-05-15T00:42:44.000Z",
       "readingMinutes": 4,
       "score": 96,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "오픈소스 라이브러리 탠스택을 겨냥한 공급망 공격으로 오픈AI 직원 기기 2대가 침해됐다. 사용자 데이터와 핵심 시스템은 안전하나 일부 소스코드가 탈취됐으며, 맥OS 앱 업데이트가 필요하다.",
+      "excerpt": "AI 요약 투자는 우리 회사의 성장을 믿어줄 ‘강력한 파트너’를 구하는 긴 여정입니다. 투자 유치의 전체 로드맵을 통해 지금 내가 어디에...",
       "tags": [
         "tech42",
-        "ai요약",
-        "공급망 공격",
-        "오픈ai"
+        "리플루언서",
+        "로드맵",
+        "투자 유치"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4ZiVhYyVlYiU5MyU5Yy0lZWMlOTclOTAlZWIlODQlODglZWMlYTclODAtJWVjJWEwJTgwJWVjJTllJWE1LSVlYyU4MiVhYyVlYyU5NyU4NS0lZWMlYTclODQlZWMlYjYlOWMtJWVjJTg0JWEwJWVjJTk2JWI4LWFpLSVlYiU4ZCViMCVlYyU5ZCViNCVlZCU4NCViMCVlYyU4NCViYyVlZCU4NCViMC0lZWQlOGElYjklZWMlODglOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNThmJTI1YWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWMlMjU5NyUyNTkwJTI1ZWIlMjU4NCUyNTg4JTI1ZWMlMjVhNyUyNTgwLSUyNWVjJTI1YTAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYyUyNTgyJTI1YWMlMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjVhNyUyNTg0JTI1ZWMlMjViNiUyNTljLSUyNWVjJTI1ODQlMjVhMCUyNWVjJTI1OTYlMjViOC1haS0lMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTg0JTI1YjAlMjVlYyUyNTg0JTI1YmMlMjVlZCUyNTg0JTI1YjAtJTI1ZWQlMjU4YSUyNWI5JTI1ZWMlMjU4OCUyNTk4",
-      "title": "포드, 에너지 저장 사업 진출 선언...AI 데이터센터 특수 전환 기대감",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4ZCU5NCVlYyU5NyU5MCVlYyU4YSVhNCVlYyU5NyVhMCVlYyU5NCVhOC1haSVlYiVhMSU5Yy0lZWQlODElYWMlZWIlYTYlYWMlZWMlOTclOTAlZWMlOWQlYjQlZWQlODQlYjAtJWVjJWEwJTgxJWVkJTk1JWE5JWViJThmJTg0LSVlYiViNiU4NCVlYyU4NCU5ZCVlZCU5NSU5YyVlYiU4YiVhNGxlbnMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNThkJTI1OTQlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNThhJTI1YTQlMjVlYyUyNTk3JTI1YTAlMjVlYyUyNTk0JTI1YTgtYWklMjVlYiUyNWExJTI1OWMtJTI1ZWQlMjU4MSUyNWFjJTI1ZWIlMjVhNiUyNWFjJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4NCUyNWIwLSUyNWVjJTI1YTAlMjU4MSUyNWVkJTI1OTUlMjVhOSUyNWViJTI1OGYlMjU4NC0lMjVlYiUyNWI2JTI1ODQlMjVlYyUyNTg0JTI1OWQlMjVlZCUyNTk1JTI1OWMlMjVlYiUyNThiJTI1YTRsZW5z",
+      "title": "더에스엠씨, AI로 크리에이터 적합도 분석한다…‘Lens’ 공개",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%8f%ac%eb%93%9c-%ec%97%90%eb%84%88%ec%a7%80-%ec%a0%80%ec%9e%a5-%ec%82%ac%ec%97%85-%ec%a7%84%ec%b6%9c-%ec%84%a0%ec%96%b8-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%8a%b9%ec%88%98/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%258f%25ac%25eb%2593%259c-%25ec%2597%2590%25eb%2584%2588%25ec%25a7%2580-%25ec%25a0%2580%25ec%259e%25a5-%25ec%2582%25ac%25ec%2597%2585-%25ec%25a7%2584%25ec%25b6%259c-%25ec%2584%25a0%25ec%2596%25b8-ai-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0-%25ed%258a%25b9%25ec%2588%2598",
+      "articleUrl": "https://www.tech42.co.kr/%eb%8d%94%ec%97%90%ec%8a%a4%ec%97%a0%ec%94%a8-ai%eb%a1%9c-%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0-%ec%a0%81%ed%95%a9%eb%8f%84-%eb%b6%84%ec%84%9d%ed%95%9c%eb%8b%a4lens/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258d%2594%25ec%2597%2590%25ec%258a%25a4%25ec%2597%25a0%25ec%2594%25a8-ai%25eb%25a1%259c-%25ed%2581%25ac%25eb%25a6%25ac%25ec%2597%2590%25ec%259d%25b4%25ed%2584%25b0-%25ec%25a0%2581%25ed%2595%25a9%25eb%258f%2584-%25eb%25b6%2584%25ec%2584%259d%25ed%2595%259c%25eb%258b%25a4lens",
       "thumbnailUrl": null,
-      "author": "앨리스",
+      "author": "황정호 기자",
       "category": "AI + Korea",
-      "publishedAt": "2026-05-14T23:26:06.000Z",
+      "publishedAt": "2026-05-15T00:32:10.000Z",
       "readingMinutes": 4,
       "score": 96,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "포드가 에너지 저장 사업 진출을 선언한 후 이틀간 주가 21% 급등. 약 2조 8,960억원(20억 달러)을 투자해 켄터키 공장을 전환하고, 2027년 납품을 목표로 한다. 모건스탠리는 사업가치 약 100억 달러를 전망했다.",
+      "excerpt": "더에스엠씨는 소셜, 브랜드, 크리에이터 데이터를 연결해 캠페인 목적에 맞는 크리에이터를 찾는 AI 솔루션 ‘렌즈 바이 더에스엠씨(Lens by The SMC)’를 공개했다고 15일 밝혔다.",
       "tags": [
         "tech42",
-        "ai요약",
-        "ai 데이터센터",
-        "에너지 저장"
+        "디지털마케팅",
+        "ai",
+        "lens"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViOCVlZCU4NSU5NC0lZWMlOTUlYTAlZWQlOTQlOGMtJWVjJWI5JWE5LSVlYyU4YiU5YyVlZCU5NyU5OC0lZWMlODMlOWQlZWMlODIlYjAtJWVjJWIwJWE5JWVjJTg4JTk4MjAyNyVlYiU4NSU4NC0lZWMlOTYlOTElZWMlODIlYjAtJWViJWFhJWE5JWVkJTkxJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU4NSUyNTk0LSUyNWVjJTI1OTUlMjVhMCUyNWVkJTI1OTQlMjU4Yy0lMjVlYyUyNWI5JTI1YTktJTI1ZWMlMjU4YiUyNTljJTI1ZWQlMjU5NyUyNTk4LSUyNWVjJTI1ODMlMjU5ZCUyNWVjJTI1ODIlMjViMC0lMjVlYyUyNWIwJTI1YTklMjVlYyUyNTg4JTI1OTgyMDI3JTI1ZWIlMjU4NSUyNTg0LSUyNWVjJTI1OTYlMjU5MSUyNWVjJTI1ODIlMjViMC0lMjVlYiUyNWFhJTI1YTklMjVlZCUyNTkxJTI1OWM",
-      "title": "인텔, 애플 칩 시험 생산 착수…2027년 양산 목표",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL21zJWVhJWI5JThjJWVjJWE3JTgwLSVlYSViMCU4MCVlYyU4NCViOCVlZCU5NSU5Yy1haS0lZWIlYjMlYjQlZWMlOTUlODgtMyVlZCU4YyU4YyVlYyVhMCU4NCVlYiViMyViNCVlYyU5NSU4OCVlYyU5NyU4NSVlYSViMyU4NC0lZWMlODglOTgtJWVhJWIwJTljJWVjJTliJTk0LSVlYyU5NSU4OCVlYyU5NyU5MC1haS0lZWQlOTUlYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1tcyUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlYSUyNWIwJTI1ODAlMjVlYyUyNTg0JTI1YjglMjVlZCUyNTk1JTI1OWMtYWktJTI1ZWIlMjViMyUyNWI0JTI1ZWMlMjU5NSUyNTg4LTMlMjVlZCUyNThjJTI1OGMlMjVlYyUyNWEwJTI1ODQlMjVlYiUyNWIzJTI1YjQlMjVlYyUyNTk1JTI1ODglMjVlYyUyNTk3JTI1ODUlMjVlYSUyNWIzJTI1ODQtJTI1ZWMlMjU4OCUyNTk4LSUyNWVhJTI1YjAlMjU5YyUyNWVjJTI1OWIlMjU5NC0lMjVlYyUyNTk1JTI1ODglMjVlYyUyNTk3JTI1OTAtYWktJTI1ZWQlMjU5NSUyNWI0",
+      "title": "MS까지 가세한 AI 보안 3파전…보안업계 \"수 개월 안에 AI 해킹이 뉴노멀 된다\"",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%9d%b8%ed%85%94-%ec%95%a0%ed%94%8c-%ec%b9%a9-%ec%8b%9c%ed%97%98-%ec%83%9d%ec%82%b0-%ec%b0%a9%ec%88%982027%eb%85%84-%ec%96%91%ec%82%b0-%eb%aa%a9%ed%91%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259d%25b8%25ed%2585%2594-%25ec%2595%25a0%25ed%2594%258c-%25ec%25b9%25a9-%25ec%258b%259c%25ed%2597%2598-%25ec%2583%259d%25ec%2582%25b0-%25ec%25b0%25a9%25ec%2588%25982027%25eb%2585%2584-%25ec%2596%2591%25ec%2582%25b0-%25eb%25aa%25a9%25ed%2591%259c",
+      "articleUrl": "https://www.tech42.co.kr/ms%ea%b9%8c%ec%a7%80-%ea%b0%80%ec%84%b8%ed%95%9c-ai-%eb%b3%b4%ec%95%88-3%ed%8c%8c%ec%a0%84%eb%b3%b4%ec%95%88%ec%97%85%ea%b3%84-%ec%88%98-%ea%b0%9c%ec%9b%94-%ec%95%88%ec%97%90-ai-%ed%95%b4/?utm_source=rss&utm_medium=rss&utm_campaign=ms%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b0%2580%25ec%2584%25b8%25ed%2595%259c-ai-%25eb%25b3%25b4%25ec%2595%2588-3%25ed%258c%258c%25ec%25a0%2584%25eb%25b3%25b4%25ec%2595%2588%25ec%2597%2585%25ea%25b3%2584-%25ec%2588%2598-%25ea%25b0%259c%25ec%259b%2594-%25ec%2595%2588%25ec%2597%2590-ai-%25ed%2595%25b4",
       "thumbnailUrl": null,
-      "author": "버트",
+      "author": "정재엽 기자",
       "category": "AI + Korea",
-      "publishedAt": "2026-05-14T23:19:22.000Z",
+      "publishedAt": "2026-05-15T00:26:43.000Z",
       "readingMinutes": 4,
       "score": 96,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인텔이 애플 칩 위탁 생산 테스트를 시작했다. 밍치 궈 분석가에 따르면 2027년 양산을 목표로 18A-P 공정을 활용하며, 물량의 80%는 아이폰용이다. TSMC는 여전히 90% 이상 공급을 담당한다.",
+      "excerpt": "MS 'MDASH'가 CyberGym 벤치마크에서 미토스(83.1%)와 GPT-5.5(81.8%)를 제치고 88.4%로 1위를 기록했다. 팰로앨토는 AI로 한 달 만에 CVE 26건을 발굴했다. AI 보안 경쟁이 성능에서 거버넌스로 이동하고 있다.",
       "tags": [
         "tech42",
-        "ai요약",
-        "반도체",
-        "반도체 칩"
+        "테크놀로지",
+        "ai 해킹",
+        "gpt-5.5-사이버"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1kb29tc2RheS1vcmdhbmlzbQ",
+      "title": "The Doomsday Organism",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-doomsday-organism",
+      "thumbnailUrl": null,
+      "author": "Joe Zadeh",
+      "category": "Philosophy",
+      "publishedAt": "2026-05-14T16:24:45.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Doomsday Organism appeared first on NOEMA.",
+      "tags": [
+        "noema"
       ],
       "isNew": true
     },
@@ -3710,25 +3809,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dlLW1heS1iZS1lbnRlcmluZy1hLXNlY29uZC1heGlhbC1hZ2U",
-      "title": "We May Be Entering A Second Axial Age",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/we-may-be-entering-a-second-axial-age",
-      "thumbnailUrl": null,
-      "author": "Otto Scharmer",
-      "category": "Philosophy",
-      "publishedAt": "2026-05-12T13:12:26.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post We May Be Entering A Second Axial Age appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLzUlZWMlOWIlOTQtJWVjJWEyJTg1JWVjJTg2JThjJWVjJTg0JWI4LSVlYyU4YiVhMCVlYSViMyVhMC0lZWMlYTAlODglZWMlODQlYjglZWIlOGElOTQtJWViJThkJWIwJWVjJTlkJWI0JWVkJTg0JWIwJWVjJTk3JTkwJWVjJTg0JTljLSVlYyU4YiU5YyVlYyU5ZSU5MSVlYiU5MCU5YyVlYiU4YiVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPTUlMjVlYyUyNTliJTI1OTQtJTI1ZWMlMjVhMiUyNTg1JTI1ZWMlMjU4NiUyNThjJTI1ZWMlMjU4NCUyNWI4LSUyNWVjJTI1OGIlMjVhMCUyNWVhJTI1YjMlMjVhMC0lMjVlYyUyNWEwJTI1ODglMjVlYyUyNTg0JTI1YjglMjVlYiUyNThhJTI1OTQtJTI1ZWIlMjU4ZCUyNWIwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4NCUyNWIwJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU4NCUyNTljLSUyNWVjJTI1OGIlMjU5YyUyNWVjJTI1OWUlMjU5MSUyNWViJTI1OTAlMjU5YyUyNWViJTI1OGIlMjVhNA",
       "title": "“5월 종소세 신고, 절세는 데이터에서 시작된다”…비즈넵, 15만건 상담 분석 공개",
       "source": "Tech42",
@@ -3859,25 +3939,6 @@
         "rcs"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3ZpcnR1YWwtY2l2aWwtc29jaWV0eS1pcy1jb21pbmctdG8tY2hpbmE",
-      "title": "Virtual Civil Society Is Coming To China",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/virtual-civil-society-is-coming-to-china",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-08T16:45:43.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Virtual Civil Society Is Coming To China appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWQlYjglZWMlOGElYTQlZWQlODMlODAlZWElYjclYjglZWIlOWUlYTgtJWVjJWEwJTg0JWVjJTlhJWE5LSVlYyU4NyViYyVlZCU5NSU5MS1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtJWVkJTk1JWI0JWVjJWI5JTk4LSVlYSViMCU5YyVlYiViMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlYSUyNWI3JTI1YjglMjVlYiUyNTllJTI1YTgtJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5YSUyNWE5LSUyNWVjJTI1ODclMjViYyUyNWVkJTI1OTUlMjU5MS1haS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWQlMjU5NSUyNWI0JTI1ZWMlMjViOSUyNTk4LSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjU5Yw",
@@ -6284,67 +6345,6 @@
         "커서"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMCU5NCVlYyU5ZCViNCVlYiViOCU4Yy0lZWMlYmQlOTQlZWIlOTQlYTklZWMlOWQlYjQtJWViJWIwJTk0JWVhJWJlJWJjLSVlYSViMCU5YyVlYiViMCU5Yy0lZWQlOTglODQlZWMlOWUlYTUlZWQlODElYjQlZWIlYTElOWMlZWIlOTMlOWMtJWVkJTk1JTg0JWViJTkzJTljLSVlZCU5OCU4NCVlYyU4MyU4MSVlYyU5NyU5MC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjAlMjU5NCUyNWVjJTI1OWQlMjViNCUyNWViJTI1YjglMjU4Yy0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTklMjVlYyUyNTlkJTI1YjQtJTI1ZWIlMjViMCUyNTk0JTI1ZWElMjViZSUyNWJjLSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjU5Yy0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUlMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWQlMjU5NSUyNTg0JTI1ZWIlMjU5MyUyNTljLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1ODMlMjU4MSUyNWVjJTI1OTclMjU5MA",
-      "title": "바이브 코딩이 바꾼 개발 현장…'클로드 필드' 현상에 SaaS 주가 흔들",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9d%b4-%eb%b0%94%ea%be%bc-%ea%b0%9c%eb%b0%9c-%ed%98%84%ec%9e%a5%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%95%84%eb%93%9c-%ed%98%84%ec%83%81%ec%97%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b0%2594%25ec%259d%25b4%25eb%25b8%258c-%25ec%25bd%2594%25eb%2594%25a9%25ec%259d%25b4-%25eb%25b0%2594%25ea%25be%25bc-%25ea%25b0%259c%25eb%25b0%259c-%25ed%2598%2584%25ec%259e%25a5%25ed%2581%25b4%25eb%25a1%259c%25eb%2593%259c-%25ed%2595%2584%25eb%2593%259c-%25ed%2598%2584%25ec%2583%2581%25ec%2597%2590",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-03-23T00:02:42.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "앤트로픽 클로드 코드·커서·오픈AI 코덱스 등 AI 코딩 툴이 개발 방식을 바꾸는 '바이브 코딩' 시대가 열렸다. 세일즈포스·어도비 등 SaaS 기업 주가는 AI 충격에 두 자릿수 하락 중이다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "바이브 코딩"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL3ByLSVlYyVhMCU4NCVlYiVhYyViOCVlYSViMCU4MC00JWViJWFhJTg1LSVlYyVhNCU5MS0zJWViJWFhJTg1LWFpLSVlYyU5MyViNCVlYiU4YiVhNCVlYyU4NiU4ZCVlYiU4ZiU4NCVlYiU4YSU5NC0lZWIlYjklYTglZWIlOWQlYmMlZWMlYTElOGMlZWMlYTclODAlZWIlYTclOGMtJWVkJThjJTkwJWViJThiJWE4JWVjJTlkJTgwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249cHItJTI1ZWMlMjVhMCUyNTg0JTI1ZWIlMjVhYyUyNWI4JTI1ZWElMjViMCUyNTgwLTQlMjVlYiUyNWFhJTI1ODUtJTI1ZWMlMjVhNCUyNTkxLTMlMjVlYiUyNWFhJTI1ODUtYWktJTI1ZWMlMjU5MyUyNWI0JTI1ZWIlMjU4YiUyNWE0JTI1ZWMlMjU4NiUyNThkJTI1ZWIlMjU4ZiUyNTg0JTI1ZWIlMjU4YSUyNTk0LSUyNWViJTI1YjklMjVhOCUyNWViJTI1OWQlMjViYyUyNWVjJTI1YTElMjU4YyUyNWVjJTI1YTclMjU4MCUyNWViJTI1YTclMjU4Yy0lMjVlZCUyNThjJTI1OTAlMjVlYiUyNThiJTI1YTglMjVlYyUyNTlkJTI1ODA",
-      "title": "PR 전문가 4명 중 3명 AI 쓴다…\"속도는 빨라졌지만 판단은 여전히 사람 몫\"",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/pr-%ec%a0%84%eb%ac%b8%ea%b0%80-4%eb%aa%85-%ec%a4%91-3%eb%aa%85-ai-%ec%93%b4%eb%8b%a4%ec%86%8d%eb%8f%84%eb%8a%94-%eb%b9%a8%eb%9d%bc%ec%a1%8c%ec%a7%80%eb%a7%8c-%ed%8c%90%eb%8b%a8%ec%9d%80/?utm_source=rss&utm_medium=rss&utm_campaign=pr-%25ec%25a0%2584%25eb%25ac%25b8%25ea%25b0%2580-4%25eb%25aa%2585-%25ec%25a4%2591-3%25eb%25aa%2585-ai-%25ec%2593%25b4%25eb%258b%25a4%25ec%2586%258d%25eb%258f%2584%25eb%258a%2594-%25eb%25b9%25a8%25eb%259d%25bc%25ec%25a1%258c%25ec%25a7%2580%25eb%25a7%258c-%25ed%258c%2590%25eb%258b%25a8%25ec%259d%2580",
-      "thumbnailUrl": null,
-      "author": "조상돈 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-03-18T23:08:16.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "전 세계 PR 전문가 4명 중 3명이 AI를 업무에 활용하며 93%가 속도 향상을 체감했다. 국내 PR 전문가 94%는 AI 도입을 최우선 과제로 꼽아 아시아 평균을 크게 웃돌았다. 그러나 성과 증명과 거버넌스 정비는 도입 속도를 따라가지 못하고 있다.",
-      "tags": [
-        "tech42",
-        "디지털마케팅"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9qZW5zZW4taHVhbmctYW5kLWFuZHktZ3JvdmUtZ3JvcS1scHVzLWFuZC12ZXJhLWNwdXMtaG90ZWwtY2FsaWZvcm5pYS8",
-      "title": "Jensen Huang and Andy Grove, Groq LPUs and Vera CPUs, Hotel California",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/jensen-huang-and-andy-grove-groq-lpus-and-vera-cpus-hotel-california/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-03-18T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "GTC 2026 marked an important inflection point for Nvidia, as the company is selling multiple architectures, instead of focusing on just one GPU. The motivation is serve all needs and keep all customers.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
     }
   ]
 }
