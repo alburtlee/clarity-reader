@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-05-15T23:42:57.972Z",
+  "fetchedAt": "2026-05-16T23:39:21.728Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzU3L211c2stdi1hbHRtYW4td2Vlay0zLw",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGlmdGluZy1hbGxpYW5jZXMtaW4tYS1jaGFuZ2luZy13b3JsZC8",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZXJlLWlzLWEtc291bC1idXQtbm90LWEtdHJhbnNjZW5kZW50LW9uZQ",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYiU5NCVhNSVlYiU5ZiVhYyVlYiU4YiU5ZC0lZWIlOTQlYTUlZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtZ3MlZWMlOWQlYjglZWMlYTYlOWQtMSVlYiU5MyViMSVlYSViOCU4OS0lZWQlOWElOGQlZWIlOTMlOWQlZWElYjMlYjUlZWElYjMlYjUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYiUyNTk0JTI1YTUlMjVlYiUyNTlmJTI1YWMlMjVlYiUyNThiJTI1OWQtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LWdzJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjVhNiUyNTlkLTElMjVlYiUyNTkzJTI1YjElMjVlYSUyNWI4JTI1ODktJTI1ZWQlMjU5YSUyNThkJTI1ZWIlMjU5MyUyNTlkJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzI2L2NoaW5lc2Utc2hvcnQtZHJhbWFzLWFpLw",
     "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy95b3VuZy1wZW9wbGUtbm93LWFuZC10aGUtbWFsLWR1LXNpZWNsZS1vZi0xOXRoLWNlbnR1cnktZnJhbmNl"
   ],
   "sourceCount": 9,
@@ -125,26 +125,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZGVwbG95bWVudC1jb21wYW55LWJhY2stdG8tdGhlLTcwcy1hcHBsZS1hbmQtaW50ZWwv",
-      "title": "The Deployment Company, Back to the 70s, Apple and Intel",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-05-13T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "OpenAI is forming a new company to deploy AI, and the other labs aren't far behind, reinforcing the thesis that AI's impact will require top-down implementation. Then, Apple has economic reasons to work with Intel.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMC8xMTM2MTQ5L2NoaW5lc2UtdGVjaC13b3JrZXJzLWFpLWNvbGxlYWd1ZXMv",
       "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
       "source": "MIT Technology Review",
@@ -206,28 +186,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYiU5NCVhNSVlYiU5ZiVhYyVlYiU4YiU5ZC0lZWIlOTQlYTUlZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtZ3MlZWMlOWQlYjglZWMlYTYlOWQtMSVlYiU5MyViMSVlYSViOCU4OS0lZWQlOWElOGQlZWIlOTMlOWQlZWElYjMlYjUlZWElYjMlYjUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYiUyNTk0JTI1YTUlMjVlYiUyNTlmJTI1YWMlMjVlYiUyNThiJTI1OWQtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LWdzJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjVhNiUyNTlkLTElMjVlYiUyNTkzJTI1YjElMjVlYSUyNWI4JTI1ODktJTI1ZWQlMjU5YSUyNThkJTI1ZWIlMjU5MyUyNTlkJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1",
-      "title": "한국딥러닝 ‘딥에이전트’, GS인증 1등급 획득…공공 문서 AI 시장 공략 속도",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%95%9c%ea%b5%ad%eb%94%a5%eb%9f%ac%eb%8b%9d-%eb%94%a5%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-gs%ec%9d%b8%ec%a6%9d-1%eb%93%b1%ea%b8%89-%ed%9a%8d%eb%93%9d%ea%b3%b5%ea%b3%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad%25eb%2594%25a5%25eb%259f%25ac%25eb%258b%259d-%25eb%2594%25a5%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-gs%25ec%259d%25b8%25ec%25a6%259d-1%25eb%2593%25b1%25ea%25b8%2589-%25ed%259a%258d%25eb%2593%259d%25ea%25b3%25b5%25ea%25b3%25b5",
-      "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-15T00:34:02.000Z",
-      "readingMinutes": 4,
-      "score": 108,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "15일 한국딥러닝은 자사 문서 AI 에이전트 플랫폼 ‘딥에이전트(DEEP Agent)’가 GS인증 1등급을 획득했다고 밝혔다.",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "gs인증 1등급",
-        "딥에이전트"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
@@ -487,6 +445,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzU3L211c2stdi1hbHRtYW4td2Vlay0zLw",
+      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+      "thumbnailUrl": null,
+      "author": "Michelle Kim",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-15T23:39:35.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk’s and OpenAI CEO Sam Altman’s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with Open",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhMCVlZCU5NCU4YyVlYyU5ZCViNC0lZWIlOGIlYWMlZWIlOWQlYmMlZWMlYTElOGMlZWIlOGIlYTQlZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjglZWQlOTglOTUtYWktJWVjJTk1JWIxJWVjJThhJWE0JWVkJTg2JWEwJWVjJTk2JWI0LSVlYSViMCU5YyVlYiViMCVhOS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTUlMjVhMCUyNWVkJTI1OTQlMjU4YyUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YWMlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNWExJTI1OGMlMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjglMjVlZCUyNTk4JTI1OTUtYWktJTI1ZWMlMjU5NSUyNWIxJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4NiUyNWEwJTI1ZWMlMjU5NiUyNWI0LSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjVhOQ",
       "title": "\"애플이 달라졌다?\"…‘에이전트형 AI’ 앱스토어 개방 검토",
       "source": "Tech42",
@@ -506,6 +485,26 @@
         "애플"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZGVwbG95bWVudC1jb21wYW55LWJhY2stdG8tdGhlLTcwcy1hcHBsZS1hbmQtaW50ZWwv",
+      "title": "The Deployment Company, Back to the 70s, Apple and Intel",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-deployment-company-back-to-the-70s-apple-and-intel/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "OpenAI is forming a new company to deploy AI, and the other labs aren't far behind, reinforcing the thesis that AI's impact will require top-down implementation. Then, Apple has economic reasons to work with Intel.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtMzY1LSVlYyVhMCU5NSVlYyU4YiU5ZC0lZWMlYjYlOWMlZWMlOGIlOWNhaS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE3JTI1ODglMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWExJTI1OWMlMjVlYyUyNTg2JTI1OGMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LTM2NS0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNThiJTI1OWQtJTI1ZWMlMjViNiUyNTljJTI1ZWMlMjU4YiUyNTljYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0",
@@ -653,6 +652,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYiU5NCVhNSVlYiU5ZiVhYyVlYiU4YiU5ZC0lZWIlOTQlYTUlZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtZ3MlZWMlOWQlYjglZWMlYTYlOWQtMSVlYiU5MyViMSVlYSViOCU4OS0lZWQlOWElOGQlZWIlOTMlOWQlZWElYjMlYjUlZWElYjMlYjUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYiUyNTk0JTI1YTUlMjVlYiUyNTlmJTI1YWMlMjVlYiUyNThiJTI1OWQtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LWdzJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjVhNiUyNTlkLTElMjVlYiUyNTkzJTI1YjElMjVlYSUyNWI4JTI1ODktJTI1ZWQlMjU5YSUyNThkJTI1ZWIlMjU5MyUyNTlkJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1",
+      "title": "한국딥러닝 ‘딥에이전트’, GS인증 1등급 획득…공공 문서 AI 시장 공략 속도",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%95%9c%ea%b5%ad%eb%94%a5%eb%9f%ac%eb%8b%9d-%eb%94%a5%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-gs%ec%9d%b8%ec%a6%9d-1%eb%93%b1%ea%b8%89-%ed%9a%8d%eb%93%9d%ea%b3%b5%ea%b3%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ea%25b5%25ad%25eb%2594%25a5%25eb%259f%25ac%25eb%258b%259d-%25eb%2594%25a5%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-gs%25ec%259d%25b8%25ec%25a6%259d-1%25eb%2593%25b1%25ea%25b8%2589-%25ed%259a%258d%25eb%2593%259d%25ea%25b3%25b5%25ea%25b3%25b5",
+      "thumbnailUrl": null,
+      "author": "김한수 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-05-15T00:34:02.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "15일 한국딥러닝은 자사 문서 AI 에이전트 플랫폼 ‘딥에이전트(DEEP Agent)’가 GS인증 1등급을 획득했다고 밝혔다.",
+      "tags": [
+        "tech42",
+        "테크놀로지",
+        "gs인증 1등급",
+        "딥에이전트"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlODYlOGMlZWMlODMlODElZWElYjMlYjUlZWMlOWQlYjgtJWVhJWIyJWE4JWViJTgzJWE1LSVlZCU4MSViNCVlYiVhMSU5YyVlYiU5MyU5Yy0lZWMlYTAlODQlZWElYjIlYTktJWVjJWI2JTljJWVjJThiJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWVjJTI1ODYlMjU4YyUyNWVjJTI1ODMlMjU4MSUyNWVhJTI1YjMlMjViNSUyNWVjJTI1OWQlMjViOC0lMjVlYSUyNWIyJTI1YTglMjVlYiUyNTgzJTI1YTUtJTI1ZWQlMjU4MSUyNWI0JTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1YTAlMjU4NCUyNWVhJTI1YjIlMjVhOS0lMjVlYyUyNWI2JTI1OWMlMjVlYyUyNThiJTI1OWM",
@@ -1188,7 +1209,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYW5kLWFudGhyb3BpYy14YWlzLXR3by1jb21wYW5pZXMtZWxvbi1tdXNrLWFuZC1zcGFjZXhhaXMtZnV0dXJlLw",
@@ -1288,27 +1309,6 @@
         "space",
         "app",
         "mit technology review explains"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzI2L2NoaW5lc2Utc2hvcnQtZHJhbWFzLWFpLw",
-      "title": "How Chinese short dramas became AI content machines",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
-      "thumbnailUrl": null,
-      "author": "Caiwei Chen",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-15T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears a",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
       ],
       "isNew": true
     },
@@ -1540,45 +1540,6 @@
         "daily update"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGlmdGluZy1hbGxpYW5jZXMtaW4tYS1jaGFuZ2luZy13b3JsZC8",
-      "title": "2026.20: Shifting Alliances in a Changing World",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/shifting-alliances-in-a-changing-world/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-05-15T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of May 11, 2026, including a new kind of computing, Elon Musk, and 360 degrees of US-China relations.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZXJlLWlzLWEtc291bC1idXQtbm90LWEtdHJhbnNjZW5kZW50LW9uZQ",
-      "title": "There Is A Soul, But Not A Transcendent One",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/there-is-a-soul-but-not-a-transcendent-one",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-05-15T16:04:41.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post There Is A Soul, But Not A Transcendent One appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViMSU5N2dwdCVlYSViMCU4MC0lZWIlYWQlOTAlZWMlOTglODglZWMlOWElOTQtJWVhJWIzJWE4JWViJWFhJWE5JWVjJTgzJTgxJWVhJWI2JThjJWVjJTlkJTk4LSVlYyU5ZSU5NCVlYyU5ZCViOCVlZCU5NSU5Yy0lZWQlOTglODQlZWMlOGIlYTQtYWktJWViJThjJTgwJWVjJWEwJTg0JWVkJTk5JTk4LSVlYyU4YiU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1YjElMjU5N2dwdCUyNWVhJTI1YjAlMjU4MC0lMjVlYiUyNWFkJTI1OTAlMjVlYyUyNTk4JTI1ODglMjVlYyUyNTlhJTI1OTQtJTI1ZWElMjViMyUyNWE4JTI1ZWIlMjVhYSUyNWE5JTI1ZWMlMjU4MyUyNTgxJTI1ZWElMjViNiUyNThjJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1OWUlMjU5NCUyNWVjJTI1OWQlMjViOCUyNWVkJTI1OTUlMjU5Yy0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNThiJTI1YTQtYWktJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU5OSUyNTk4LSUyNWVjJTI1OGIlMjU5Yw",
@@ -2542,26 +2503,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzQxL3RoZS1kb3dubG9hZC1jaGluYS1zaG9ydC1kcmFtYS1haS13aG8taGVhbHRoLXRhcmdldHMv",
-      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-15T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-siz",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNC8xMTM3MTYxL2FpLXBvcm4tbm9uY29uc2Vuc3VhbC1kZWVwZmFrZXMtdGFrZWRvd24tcGlyYWN5LWNvcHlyaWdodC8",
       "title": "The shock of seeing your body used in deepfake porn",
       "source": "MIT Technology Review",
@@ -2581,7 +2522,7 @@
         "app",
         "the big story"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjk0NjI",
@@ -3021,7 +2962,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMS8xMTM0ODYyL3RoaXMtdG9vbC1jb3VsZC1zaG93LWhvdy1jb25zY2lvdXNuZXNzLXdvcmtzLw",
@@ -3169,26 +3110,25 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMy8xMTM3MjAzL2FpLWNoYXRib3RzLWFyZS1naXZpbmctb3V0LXBlb3BsZXMtcmVhbC1waG9uZS1udW1iZXJzLw",
-      "title": "AI chatbots are giving out people’s real phone numbers",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzI2L2NoaW5lc2Utc2hvcnQtZHJhbWFzLWFpLw",
+      "title": "How Chinese short dramas became AI content machines",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/",
       "thumbnailUrl": null,
-      "author": "Eileen Guo",
+      "author": "Caiwei Chen",
       "category": "AI + Society",
-      "publishedAt": "2026-05-13T18:09:03.000Z",
+      "publishedAt": "2026-05-15T09:00:00.000Z",
       "readingMinutes": 4,
       "score": 97,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdire",
+      "excerpt": "In a dimly lit bedroom, a frightened young woman is thrown onto a bed by a tall, muscular man. He grabs her hand, and flame-like vines crawl across her body, fusing with her flesh. She levitates, then drops. A dragon-shaped tattoo appears a",
       "tags": [
         "mit-technology-review",
         "artificial intelligence",
-        "app",
-        "artificial intelligence"
+        "app"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMS8xMTM3MDkwL3RocmVlLXRoaW5ncy1pbi1haS10by13YXRjaC1hY2NvcmRpbmctdG8tYS1ub2JlbC13aW5uaW5nLWVjb25vbWlzdC8",
@@ -3422,87 +3362,41 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy95b3VuZy1wZW9wbGUtbm93LWFuZC10aGUtbWFsLWR1LXNpZWNsZS1vZi0xOXRoLWNlbnR1cnktZnJhbmNl",
-      "title": "Gen Z but two centuries ago",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/young-people-now-and-the-mal-du-siecle-of-19th-century-france",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/0b67748e-5785-4d72-bf8e-d4ed38024894/new-essay.jpg?width=1200&quality=75&format=auto",
-      "author": "Emily Herring",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGlmdGluZy1hbGxpYW5jZXMtaW4tYS1jaGFuZ2luZy13b3JsZC8",
+      "title": "2026.20: Shifting Alliances in a Changing World",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/shifting-alliances-in-a-changing-world/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-05-15T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of May 11, 2026, including a new kind of computing, Elon Musk, and 360 degrees of US-China relations.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZXJlLWlzLWEtc291bC1idXQtbm90LWEtdHJhbnNjZW5kZW50LW9uZQ",
+      "title": "There Is A Soul, But Not A Transcendent One",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/there-is-a-soul-but-not-a-transcendent-one",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-05-15T10:00:00.000Z",
+      "publishedAt": "2026-05-15T16:04:41.000Z",
       "readingMinutes": 4,
       "score": 96,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "A generation of young people with ‘full hearts in an empty world’ sought hope in the face of insurmountable malaise - by Emily Herring Read on Aeon",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post There Is A Soul, But Not A Transcendent One appeared first on NOEMA.",
       "tags": [
-        "aeon"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWQlODglYWMlZWMlOWUlOTAtJWVjJTljJWEwJWVjJWI5JTk4LSVlYiVhMSU5YyVlYiU5MyU5YyVlYiVhNyViNS0lZWElYjMlODQlZWQlOWElOGQlZWIlYjYlODAlZWQlODQlYjAtJWVkJTk4JTkxJWVjJTgzJTgxJWVhJWI5JThjJWVjJWE3JTgwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MC0lMjVlYyUyNTljJTI1YTAlMjVlYyUyNWI5JTI1OTgtJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjVhNyUyNWI1LSUyNWVhJTI1YjMlMjU4NCUyNWVkJTI1OWElMjU4ZCUyNWViJTI1YjYlMjU4MCUyNWVkJTI1ODQlMjViMC0lMjVlZCUyNTk4JTI1OTElMjVlYyUyNTgzJTI1ODElMjVlYSUyNWI5JTI1OGMlMjVlYyUyNWE3JTI1ODA",
-      "title": "스타트업 투자 유치 로드맵: 계획부터 협상까지",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ed%88%ac%ec%9e%90-%ec%9c%a0%ec%b9%98-%eb%a1%9c%eb%93%9c%eb%a7%b5-%ea%b3%84%ed%9a%8d%eb%b6%80%ed%84%b0-%ed%98%91%ec%83%81%ea%b9%8c%ec%a7%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598-%25eb%25a1%259c%25eb%2593%259c%25eb%25a7%25b5-%25ea%25b3%2584%25ed%259a%258d%25eb%25b6%2580%25ed%2584%25b0-%25ed%2598%2591%25ec%2583%2581%25ea%25b9%258c%25ec%25a7%2580",
-      "thumbnailUrl": null,
-      "author": "ZUZU",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-15T00:42:44.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "AI 요약 투자는 우리 회사의 성장을 믿어줄 ‘강력한 파트너’를 구하는 긴 여정입니다. 투자 유치의 전체 로드맵을 통해 지금 내가 어디에...",
-      "tags": [
-        "tech42",
-        "리플루언서",
-        "로드맵",
-        "투자 유치"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4ZCU5NCVlYyU5NyU5MCVlYyU4YSVhNCVlYyU5NyVhMCVlYyU5NCVhOC1haSVlYiVhMSU5Yy0lZWQlODElYWMlZWIlYTYlYWMlZWMlOTclOTAlZWMlOWQlYjQlZWQlODQlYjAtJWVjJWEwJTgxJWVkJTk1JWE5JWViJThmJTg0LSVlYiViNiU4NCVlYyU4NCU5ZCVlZCU5NSU5YyVlYiU4YiVhNGxlbnMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNThkJTI1OTQlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNThhJTI1YTQlMjVlYyUyNTk3JTI1YTAlMjVlYyUyNTk0JTI1YTgtYWklMjVlYiUyNWExJTI1OWMtJTI1ZWQlMjU4MSUyNWFjJTI1ZWIlMjVhNiUyNWFjJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4NCUyNWIwLSUyNWVjJTI1YTAlMjU4MSUyNWVkJTI1OTUlMjVhOSUyNWViJTI1OGYlMjU4NC0lMjVlYiUyNWI2JTI1ODQlMjVlYyUyNTg0JTI1OWQlMjVlZCUyNTk1JTI1OWMlMjVlYiUyNThiJTI1YTRsZW5z",
-      "title": "더에스엠씨, AI로 크리에이터 적합도 분석한다…‘Lens’ 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%8d%94%ec%97%90%ec%8a%a4%ec%97%a0%ec%94%a8-ai%eb%a1%9c-%ed%81%ac%eb%a6%ac%ec%97%90%ec%9d%b4%ed%84%b0-%ec%a0%81%ed%95%a9%eb%8f%84-%eb%b6%84%ec%84%9d%ed%95%9c%eb%8b%a4lens/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%258d%2594%25ec%2597%2590%25ec%258a%25a4%25ec%2597%25a0%25ec%2594%25a8-ai%25eb%25a1%259c-%25ed%2581%25ac%25eb%25a6%25ac%25ec%2597%2590%25ec%259d%25b4%25ed%2584%25b0-%25ec%25a0%2581%25ed%2595%25a9%25eb%258f%2584-%25eb%25b6%2584%25ec%2584%259d%25ed%2595%259c%25eb%258b%25a4lens",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-15T00:32:10.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "더에스엠씨는 소셜, 브랜드, 크리에이터 데이터를 연결해 캠페인 목적에 맞는 크리에이터를 찾는 AI 솔루션 ‘렌즈 바이 더에스엠씨(Lens by The SMC)’를 공개했다고 15일 밝혔다.",
-      "tags": [
-        "tech42",
-        "디지털마케팅",
-        "ai",
-        "lens"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL21zJWVhJWI5JThjJWVjJWE3JTgwLSVlYSViMCU4MCVlYyU4NCViOCVlZCU5NSU5Yy1haS0lZWIlYjMlYjQlZWMlOTUlODgtMyVlZCU4YyU4YyVlYyVhMCU4NCVlYiViMyViNCVlYyU5NSU4OCVlYyU5NyU4NSVlYSViMyU4NC0lZWMlODglOTgtJWVhJWIwJTljJWVjJTliJTk0LSVlYyU5NSU4OCVlYyU5NyU5MC1haS0lZWQlOTUlYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1tcyUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlYSUyNWIwJTI1ODAlMjVlYyUyNTg0JTI1YjglMjVlZCUyNTk1JTI1OWMtYWktJTI1ZWIlMjViMyUyNWI0JTI1ZWMlMjU5NSUyNTg4LTMlMjVlZCUyNThjJTI1OGMlMjVlYyUyNWEwJTI1ODQlMjVlYiUyNWIzJTI1YjQlMjVlYyUyNTk1JTI1ODglMjVlYyUyNTk3JTI1ODUlMjVlYSUyNWIzJTI1ODQtJTI1ZWMlMjU4OCUyNTk4LSUyNWVhJTI1YjAlMjU5YyUyNWVjJTI1OWIlMjU5NC0lMjVlYyUyNTk1JTI1ODglMjVlYyUyNTk3JTI1OTAtYWktJTI1ZWQlMjU5NSUyNWI0",
-      "title": "MS까지 가세한 AI 보안 3파전…보안업계 \"수 개월 안에 AI 해킹이 뉴노멀 된다\"",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ms%ea%b9%8c%ec%a7%80-%ea%b0%80%ec%84%b8%ed%95%9c-ai-%eb%b3%b4%ec%95%88-3%ed%8c%8c%ec%a0%84%eb%b3%b4%ec%95%88%ec%97%85%ea%b3%84-%ec%88%98-%ea%b0%9c%ec%9b%94-%ec%95%88%ec%97%90-ai-%ed%95%b4/?utm_source=rss&utm_medium=rss&utm_campaign=ms%25ea%25b9%258c%25ec%25a7%2580-%25ea%25b0%2580%25ec%2584%25b8%25ed%2595%259c-ai-%25eb%25b3%25b4%25ec%2595%2588-3%25ed%258c%258c%25ec%25a0%2584%25eb%25b3%25b4%25ec%2595%2588%25ec%2597%2585%25ea%25b3%2584-%25ec%2588%2598-%25ea%25b0%259c%25ec%259b%2594-%25ec%2595%2588%25ec%2597%2590-ai-%25ed%2595%25b4",
-      "thumbnailUrl": null,
-      "author": "정재엽 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-15T00:26:43.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "MS 'MDASH'가 CyberGym 벤치마크에서 미토스(83.1%)와 GPT-5.5(81.8%)를 제치고 88.4%로 1위를 기록했다. 팰로앨토는 AI로 한 달 만에 CVE 26건을 발굴했다. AI 보안 경쟁이 성능에서 거버넌스로 이동하고 있다.",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "ai 해킹",
-        "gpt-5.5-사이버"
+        "noema"
       ],
       "isNew": true
     },
@@ -3523,7 +3417,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlYiVhYSVhOCVlYiVhNiVhYy0lZWElYjAlODAlZWElYjIlYTktJWVkJThmJWFkJWViJTkzJWIxJWVjJTlkJWI0LSVlYiViNiU4MCVlYiVhNSViOC1haS0lZWMlODQlYTQlZWIlYjklODQlZWQlODglYWMlZWMlOWUlOTAtJWVjJWIwJWE5JWVjJThiJTljLSVlZCU4NSU4YyVlZCU4MSVhYy0lZWQlODglYWMlZWMlOWUlOTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlYiUyNWFhJTI1YTglMjVlYiUyNWE2JTI1YWMtJTI1ZWElMjViMCUyNTgwJTI1ZWElMjViMiUyNWE5LSUyNWVkJTI1OGYlMjVhZCUyNWViJTI1OTMlMjViMSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWI2JTI1ODAlMjVlYiUyNWE1JTI1YjgtYWktJTI1ZWMlMjU4NCUyNWE0JTI1ZWIlMjViOSUyNTg0JTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwLSUyNWVjJTI1YjAlMjVhOSUyNWVjJTI1OGIlMjU5Yy0lMjVlZCUyNTg1JTI1OGMlMjVlZCUyNTgxJTI1YWMtJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkw",
@@ -6343,6 +6237,105 @@
         "ai요약",
         "ai",
         "커서"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzQxL3RoZS1kb3dubG9hZC1jaGluYS1zaG9ydC1kcmFtYS1haS13aG8taGVhbHRoLXRhcmdldHMv",
+      "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-15T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-siz",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3ZpcnR1YWwtY2l2aWwtc29jaWV0eS1pcy1jb21pbmctdG8tY2hpbmE",
+      "title": "Virtual Civil Society Is Coming To China",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/virtual-civil-society-is-coming-to-china",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-08T16:45:43.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Virtual Civil Society Is Coming To China appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtYW1lcmljYS1vd2VzLXRoZS1udWNsZWFyLWZ1dHVyZQ",
+      "title": "What America Owes The Nuclear Future",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/what-america-owes-the-nuclear-future",
+      "thumbnailUrl": null,
+      "author": "Vincent Ialenti",
+      "category": "Philosophy",
+      "publishedAt": "2026-04-30T13:40:50.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post What America Owes The Nuclear Future appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMy8xMTM3MjAzL2FpLWNoYXRib3RzLWFyZS1naXZpbmctb3V0LXBlb3BsZXMtcmVhbC1waG9uZS1udW1iZXJzLw",
+      "title": "AI chatbots are giving out people’s real phone numbers",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/13/1137203/ai-chatbots-are-giving-out-peoples-real-phone-numbers/",
+      "thumbnailUrl": null,
+      "author": "Eileen Guo",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-13T18:09:03.000Z",
+      "readingMinutes": 4,
+      "score": 93,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "A Redditor recently wrote that he was “desperate for help”: for about a month, he said, his phone had been inundated by calls from “strangers” who were “looking for a lawyer, a product designer, a locksmith.” Callers were apparently misdire",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy95b3VuZy1wZW9wbGUtbm93LWFuZC10aGUtbWFsLWR1LXNpZWNsZS1vZi0xOXRoLWNlbnR1cnktZnJhbmNl",
+      "title": "Gen Z but two centuries ago",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/young-people-now-and-the-mal-du-siecle-of-19th-century-france",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/0b67748e-5785-4d72-bf8e-d4ed38024894/new-essay.jpg?width=1200&quality=75&format=auto",
+      "author": "Emily Herring",
+      "category": "Philosophy",
+      "publishedAt": "2026-05-15T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "A generation of young people with ‘full hearts in an empty world’ sought hope in the face of insurmountable malaise - by Emily Herring Read on Aeon",
+      "tags": [
+        "aeon"
       ],
       "isNew": true
     }
