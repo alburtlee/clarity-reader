@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-05-23T23:44:55.114Z",
+  "fetchedAt": "2026-05-24T23:48:51.826Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZGF0YS1jZW50ZXItdmV0by8",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMi8xMTM3ODQ1L3RoZS1kb3dubG9hZC1jb2RpbmctZnV0dXJlLXN0ZXJvaWQtb2x5bXBpY3MtYWktc2NpZW5jZS8",
@@ -250,27 +250,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1wYXJhbGxlbC1mb3VuZGVyLXBhcmFnLWFnYXJ3YWwtYWJvdXQtdmFsdWluZy1jb250ZW50LW9uLXRoZS1hZ2VudGljLXdlYi8",
-      "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-05-21T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzIwL2ltcG9ydC1haS00NTQtYXV0b21hdGluZy1hbGlnbm1lbnQtcmVzZWFyY2gtc2FmZXR5LXN0dWR5LW9mLWEtY2hpbmVzZS1tb2RlbC1oaWZsb2F0NC8",
       "title": "Import AI 454: Automating alignment research; safety study of a Chinese model; HiFloat4",
       "source": "Import AI",
@@ -482,28 +461,6 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMS8xMTM3NzU2L3JvdW5kdGFibGVzLWNhbi1haS1sZWFybi10by11bmRlcnN0YW5kLXRoZS13b3JsZC8",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
-      "thumbnailUrl": null,
-      "author": "MIT Technology Review",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-21T20:41:05.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a co",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "artificial intelligence",
-        "roundtables"
       ],
       "isNew": false
     },
@@ -1046,7 +1003,28 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1wYXJhbGxlbC1mb3VuZGVyLXBhcmFnLWFnYXJ3YWwtYWJvdXQtdmFsdWluZy1jb250ZW50LW9uLXRoZS1hZ2VudGljLXdlYi8",
+      "title": "An Interview with Parallel Founder Parag Agarwal About Valuing Content on the Agentic Web",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-parallel-founder-parag-agarwal-about-valuing-content-on-the-agentic-web/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-05-21T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Parallel founder Parag Agarwal about valuing content and incentivizing its creation in a world of agents (plus questions about Twitter).",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZGVwbG95bWVudC1jb21wYW55LWJhY2stdG8tdGhlLTcwcy1hcHBsZS1hbmQtaW50ZWwv",
@@ -1254,45 +1232,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RvLXVuZGVyc3RhbmQtYWktdGhpbmstbGlrZS1hLWRyYWdvbmZseQ",
-      "title": "To Understand AI, Think Like A Dragonfly",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly",
-      "thumbnailUrl": null,
-      "author": "Anthea Roberts",
-      "category": "Philosophy",
-      "publishedAt": "2026-05-21T14:32:05.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post To Understand AI, Think Like A Dragonfly appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMS8xMTM3NzMzL3RoZS1kb3dubG9hZC1vbmxpbmUtc2FmZXR5LWNsaW1hdGUtdGVjaC1waXZvdC8",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-21T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the T",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wZXJzb25hbC1kYXktMy8",
       "title": "Personal Day",
       "source": "Stratechery",
@@ -1411,7 +1350,7 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMi8xMTM3ODEzL2dvb2dsZS1pLW8tc2hvd2VkLWhvdy10aGUtcGF0aC1mb3ItYWktc2NpZW5jZS1pcy1zaGlmdGluZy8",
@@ -1433,7 +1372,29 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMS8xMTM3NzU2L3JvdW5kdGFibGVzLWNhbi1haS1sZWFybi10by11bmRlcnN0YW5kLXRoZS13b3JsZC8",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/",
+      "thumbnailUrl": null,
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-21T20:41:05.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Listen to the session or watch below AI companies want to build systems that understand the external world and overcome the limitations of LLMs. Recent developments have brought world models to the forefront of the AI discussion. Watch a co",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "artificial intelligence",
+        "roundtables"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nb29nbGUtaS1vLXdvcmxkLW1vZGVscy1pLW8tc3BhZ2hldHRpLw",
@@ -2926,28 +2887,6 @@
         "비즈니스",
         "기업 인프라"
       ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMS8xMTM3NzM1L2FudGhyb3BpY3MtY29kZS13aXRoLWNsYXVkZS1zaG93ZWQtb2ZmLWNvZGluZ3MtZnV0dXJlLXdoZXRoZXIteW91LWxpa2UtaXQtb3Itbm90Lw",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-21T14:30:45.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who he",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "summary"
-      ],
       "isNew": false
     },
     {
@@ -3433,6 +3372,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RvLXVuZGVyc3RhbmQtYWktdGhpbmstbGlrZS1hLWRyYWdvbmZseQ",
+      "title": "To Understand AI, Think Like A Dragonfly",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/to-understand-ai-think-like-a-dragonfly",
+      "thumbnailUrl": null,
+      "author": "Anthea Roberts",
+      "category": "Philosophy",
+      "publishedAt": "2026-05-21T14:32:05.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post To Understand AI, Think Like A Dragonfly appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMS8xMTM3NzMzL3RoZS1kb3dubG9hZC1vbmxpbmUtc2FmZXR5LWNsaW1hdGUtdGVjaC1waXZvdC8",
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-21T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Tech researchers are suing the Trump administration over the future of online safety For months, the T",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNC8yMS8xMTM0ODYyL3RoaXMtdG9vbC1jb3VsZC1zaG93LWhvdy1jb25zY2lvdXNuZXNzLXdvcmtzLw",
       "title": "This tool could show how consciousness works",
       "source": "MIT Technology Review",
@@ -3872,49 +3850,6 @@
         "디지털마케팅",
         "b2b abm",
         "geo브랜딩"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YiU5YyVlYiU5ZiViZC0lZWQlOTUlOWMtJWViJWIzJTkxJWVjJTk3JTkwLSVlYiVhYyViNCVlYiVhNiU4ZS0lZWElYmYlODclZWMlOTclODglZWIlOGIlYTQtJWVjJThhJWE0JWVkJTgzJTgwJWViJWIyJTg1JWVjJThhJWE0LSVlYyU5ZSVhNSVlYiViMCU4YiVlYiViOSU5Yi1haS0lZWMlOWUlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThiJTI1OWMlMjVlYiUyNTlmJTI1YmQtJTI1ZWQlMjU5NSUyNTljLSUyNWViJTI1YjMlMjU5MSUyNWVjJTI1OTclMjU5MC0lMjVlYiUyNWFjJTI1YjQlMjVlYiUyNWE2JTI1OGUtJTI1ZWElMjViZiUyNTg3JTI1ZWMlMjU5NyUyNTg4JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWViJTI1YjIlMjU4NSUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTllJTI1YTUlMjVlYiUyNWIwJTI1OGIlMjVlYiUyNWI5JTI1OWItYWktJTI1ZWMlMjU5ZSUyNWFj",
-      "title": "“시럽 한 병에 무릎 꿇었다”… 스타벅스, 장밋빛 AI 재고 관리 시스템 9개월 만에 ‘전격 폐기’",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8b%9c%eb%9f%bd-%ed%95%9c-%eb%b3%91%ec%97%90-%eb%ac%b4%eb%a6%8e-%ea%bf%87%ec%97%88%eb%8b%a4-%ec%8a%a4%ed%83%80%eb%b2%85%ec%8a%a4-%ec%9e%a5%eb%b0%8b%eb%b9%9b-ai-%ec%9e%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258b%259c%25eb%259f%25bd-%25ed%2595%259c-%25eb%25b3%2591%25ec%2597%2590-%25eb%25ac%25b4%25eb%25a6%258e-%25ea%25bf%2587%25ec%2597%2588%25eb%258b%25a4-%25ec%258a%25a4%25ed%2583%2580%25eb%25b2%2585%25ec%258a%25a4-%25ec%259e%25a5%25eb%25b0%258b%25eb%25b9%259b-ai-%25ec%259e%25ac",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-21T23:44:23.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "글로벌 커피 체인 스타벅스가 야심 차게 도입했던 인공지능(AI) 기반 재고 관리 시스템을 잦은 전산 오류와 현장 부적응 문제로 도입 9개월 만에 전면 폐기했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "스타벅스"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlZCU4YyU4YyVlYyU5YiU4YyVlZCU4ZiVhYyVlYyU5ZCViOCVlZCU4YSViOCVlYyU5NyU5MC0lZWMlYjElOTdncHQtJWVjJWEwJTg0JWVhJWIyJWE5LSVlZCU4MyU5MSVlYyU5ZSVhYyVlZCU5NSU5OCVlYiVhOSViMC0lZWMlOTglYTQlZWQlOTQlYmMlZWMlOGElYTQtYWktJWVjJWEwJTk1JWVjJWExJWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5YiUyNThjJTI1ZWQlMjU4ZiUyNWFjJTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1YjElMjU5N2dwdC0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWQlMjU4MyUyNTkxJTI1ZWMlMjU5ZSUyNWFjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjVhOSUyNWIwLSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjViYyUyNWVjJTI1OGElMjVhNC1haS0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNWExJTI1YjA",
-      "title": "오픈AI, 파워포인트에 챗GPT 전격 탑재하며 오피스 AI 정조준",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%98%a4%ed%94%88ai-%ed%8c%8c%ec%9b%8c%ed%8f%ac%ec%9d%b8%ed%8a%b8%ec%97%90-%ec%b1%97gpt-%ec%a0%84%ea%b2%a9-%ed%83%91%ec%9e%ac%ed%95%98%eb%a9%b0-%ec%98%a4%ed%94%bc%ec%8a%a4-ai-%ec%a0%95%ec%a1%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-%25ed%258c%258c%25ec%259b%258c%25ed%258f%25ac%25ec%259d%25b8%25ed%258a%25b8%25ec%2597%2590-%25ec%25b1%2597gpt-%25ec%25a0%2584%25ea%25b2%25a9-%25ed%2583%2591%25ec%259e%25ac%25ed%2595%2598%25eb%25a9%25b0-%25ec%2598%25a4%25ed%2594%25bc%25ec%258a%25a4-ai-%25ec%25a0%2595%25ec%25a1%25b0",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-21T23:41:49.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "오픈AI가 자사의 생성형 인공지능(AI) 챗봇 ‘챗GPT’를 마이크로소프트(MS) 파워포인트에 전격 이식하며 전 세계 오피스 생산성 도구 시장의 지각변동을 예고했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "오픈ai",
-        "오피스ai"
       ],
       "isNew": false
     },
@@ -6301,6 +6236,28 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMS8xMTM3NzM1L2FudGhyb3BpY3MtY29kZS13aXRoLWNsYXVkZS1zaG93ZWQtb2ZmLWNvZGluZ3MtZnV0dXJlLXdoZXRoZXIteW91LWxpa2UtaXQtb3Itbm90Lw",
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-21T14:30:45.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The vibes were strong at Code with Claude, Anthropic’s two-day event for software developers in London that kicked off on May 19, the same day as Google’s I/O in Palo Alto. (A coincidence, not a flex, Anthropic staffers assured me.) “Who he",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaW5mZXJlbmNlLXNoaWZ0Lw",
       "title": "The Inference Shift",
       "source": "Stratechery",
@@ -6355,6 +6312,50 @@
       "excerpt": "The post What America Owes The Nuclear Future appeared first on NOEMA.",
       "tags": [
         "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMC8xMTM3NTIzL2Jvc3Rvbi1tZXRhbC1mdW5kaW5nLWNyaXRpY2FsLW1ldGFscy8",
+      "title": "Green steel startup Boston Metal is doubling down on critical metals",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/",
+      "thumbnailUrl": null,
+      "author": "Casey Crownhart",
+      "category": "AI + Society",
+      "publishedAt": "2026-05-20T13:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 93,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The startup Boston Metal has raised a $75 million funding round to produce critical metals, MIT Technology Review can exclusively report. The company has been known largely for its efforts to clean up steel production, an industry that’s re",
+      "tags": [
+        "mit-technology-review",
+        "climate change and energy",
+        "app",
+        "summary"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4ZiVhYyVlZCU4YiViMCVlZCU4YyU4YyVlYyU5ZCViNC0lZWQlOTQlODQlZWIlYTElYWMlZWQlOTQlODQlZWQlOGElYjgtJWVjJTllJTg1JWViJWEwJWE1JWVkJTk1JTk4JWViJWE5JWI0LSVlYiU4OSViNCVlYyU4YSVhNCVjMiViNyVlYyViZCU5OCVlYyU4NCU5YyVlZCU4YSViOC0lZWMlYTAlOTUlZWIlYjMlYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNThmJTI1YWMlMjVlZCUyNThiJTI1YjAlMjVlZCUyNThjJTI1OGMlMjVlYyUyNTlkJTI1YjQtJTI1ZWQlMjU5NCUyNTg0JTI1ZWIlMjVhMSUyNWFjJTI1ZWQlMjU5NCUyNTg0JTI1ZWQlMjU4YSUyNWI4LSUyNWVjJTI1OWUlMjU4NSUyNWViJTI1YTAlMjVhNSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1YTklMjViNC0lMjVlYiUyNTg5JTI1YjQlMjVlYyUyNThhJTI1YTQlMjVjMiUyNWI3JTI1ZWMlMjViZCUyNTk4JTI1ZWMlMjU4NCUyNTljJTI1ZWQlMjU4YSUyNWI4LSUyNWVjJTI1YTAlMjU5NSUyNWViJTI1YjMlMjViNA",
+      "title": "스포티파이, 프롬프트 입력하면 뉴스·콘서트 정보 읊어주는 ‘나만의 팟캐스트’ 출시",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%8f%ac%ed%8b%b0%ed%8c%8c%ec%9d%b4-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%ec%9e%85%eb%a0%a5%ed%95%98%eb%a9%b4-%eb%89%b4%ec%8a%a4%c2%b7%ec%bd%98%ec%84%9c%ed%8a%b8-%ec%a0%95%eb%b3%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%258f%25ac%25ed%258b%25b0%25ed%258c%258c%25ec%259d%25b4-%25ed%2594%2584%25eb%25a1%25ac%25ed%2594%2584%25ed%258a%25b8-%25ec%259e%2585%25eb%25a0%25a5%25ed%2595%2598%25eb%25a9%25b4-%25eb%2589%25b4%25ec%258a%25a4%25c2%25b7%25ec%25bd%2598%25ec%2584%259c%25ed%258a%25b8-%25ec%25a0%2595%25eb%25b3%25b4",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-05-21T23:57:39.000Z",
+      "readingMinutes": 4,
+      "score": 92,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "글로벌 최대 음원 스트리밍 플랫폼 스포티파이가 사용자가 텍스트나 문서를 입력하면 AI가 맞춤형 방송을 제작해 주는 ‘개인 맞춤형 팟캐스트’ 생성 기능을 전격 발표했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "스포티파이",
+        "팟개스트"
       ],
       "isNew": false
     }
