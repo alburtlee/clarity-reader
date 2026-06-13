@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-06-13T00:11:18.989Z",
+  "fetchedAt": "2026-06-13T23:55:04.965Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzA0NjE",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZXktc2lyaS10ZWxsLW1lLWEtZmFibGUv",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODk5L3RoZS1kb3dubG9hZC1yZXByb2dyYW1taW5nLXJldmVyc2UtYWdpbmctaW50ZXJvY2VwdGlvbi8",
-    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LWFuY2llbnQtcGhpbG9zb3BoeS1yZWFsbHktdGhvdWdodC1hYm91dC1kb21lc3RpYy1saWZl",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWIlYTclODglZWIlODglODQlZWMlOGElYTQtJWViJThkJWIwJWVjJTlkJWI0JWVkJTg0JWIwLSVlYyViMCVhOCVlYiU4YiVhOCVjMiViNyVlYyU4NCU5YyVlYiViOSU4NCVlYyU4YSVhNC0lZWMlYTIlODUlZWIlYTMlOGMtJWVjJWE3JTgwJWVjJThiJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWViJTI1YTclMjU4OCUyNWViJTI1ODglMjU4NCUyNWVjJTI1OGElMjVhNC0lMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjViMCUyNWE4JTI1ZWIlMjU4YiUyNWE4JTI1YzIlMjViNyUyNWVjJTI1ODQlMjU5YyUyNWViJTI1YjklMjU4NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNWEyJTI1ODUlMjVlYiUyNWEzJTI1OGMtJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjU4YiUyNTlj",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hlcml0YWdlLWV4aXN0cy1iZXlvbmQtaHVtYW5raW5k"
   ],
@@ -163,7 +163,7 @@
         "app",
         "summary"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -183,26 +183,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZXktc2lyaS10ZWxsLW1lLWEtZmFibGUv",
-      "title": "2026.24: Hey Siri, Tell Me a Fable",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-06-12T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of June 8, 2026, including Apple finally shipping Intelligence, Anthropic's fable, and the future of European industry.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -350,26 +330,6 @@
         "ai hype index"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mYWJsZS01LWFudGhyb3BpYy1hbGlnbm1lbnQtYWktdGllcnMv",
-      "title": "Fable 5, Anthropic Alignment, AI Tiers",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Alignment",
-      "publishedAt": "2026-06-10T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wMi8xMTM4MjI3L2hvdy1zbWFsbC1idXNpbmVzc2VzLWNhbi1sZXZlcmFnZS1haS8",
@@ -586,6 +546,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9oZXktc2lyaS10ZWxsLW1lLWEtZmFibGUv",
+      "title": "2026.24: Hey Siri, Tell Me a Fable",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/hey-siri-tell-me-a-fable/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-12T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of June 8, 2026, including Apple finally shipping Intelligence, Anthropic's fable, and the future of European industry.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzA4L2ltcG9ydC1haS00NjAtcmV3YXJkLWhhY2tpbmctc29jaWV0eS1yc2ktZGF0YS1mcm9tLWFudGhyb3BpYy1hbmQtcmwtYmFzZWQtcXVhZGNvcHRlci1yYWNpbmcv",
@@ -1278,6 +1258,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mYWJsZS01LWFudGhyb3BpYy1hbGlnbm1lbnQtYWktdGllcnMv",
+      "title": "Fable 5, Anthropic Alignment, AI Tiers",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/fable-5-anthropic-alignment-ai-tiers/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Alignment",
+      "publishedAt": "2026-06-10T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Fable 5 is the public version of Mythos, and while it is very capable it sets some troubling new precedents.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1lcmljLXNldWZlcnQtYWJvdXQtbW9kZWxzLWFuZC1hZHMtYW5kLWFpcy11cHNpZGUtZm9yLWh1bWFuaXR5Lw",
       "title": "An Interview with Eric Seufert About Models and Ads, and AI’s Upside for Humanity",
       "source": "Stratechery",
@@ -1522,7 +1522,7 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzAxL2ltcG9ydC1haS00NTktYWktb3ZlcnNpZ2h0LWlzLWRpZmZpY3VsdC1zY2FsaW5nLWxhd3MtZm9yLXByb3RlaW4tZm9sZGluZy1tb2RlbHMtYW5kLXByaWNpbmctdGhlLWV4dGluY3Rpb24tcmlzay1vZi1haS1zeXN0ZW1zLw",
@@ -3688,70 +3688,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODk5L3RoZS1kb3dubG9hZC1yZXByb2dyYW1taW5nLXJldmVyc2UtYWdpbmctaW50ZXJvY2VwdGlvbi8",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-12T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Bios",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODI5L3JlcHJvZ3JhbW1pbmctYnV6emllc3QtYXBwcm9hY2gtcmV2ZXJzaW5nLWFnaW5nLXJpZ2h0LW5vdy8",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODMzL2luc2lkZS1pbnRlcm9jZXB0aW9uLWJyYWluLWJvZHkv",
-      "title": "Inside interoception: The hidden sense of how you feel inside",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
-      "thumbnailUrl": null,
-      "author": "Katherine W. Isaacs",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-12T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull.",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "biotech"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wOC8xMTM4NDg1L3RoZS1kb3dubG9hZC13b3JsZC1jdXAtYmFsbC1vcGVuYWktc3VwZXItYXBwLw",
       "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
       "source": "MIT Technology Review",
@@ -4399,26 +4335,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMC8xMTM4NzM5L3RoZS1kb3dubG9hZC1zdGVyb2lkLW9seW1waWNzLWVuaGFuY2VkLWdhbWVzLWFudGhyb3BpYy1teXRob3Mv",
-      "title": "The Download: the “steroid olympics” and a safer Mythos",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-10T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1uZXh0LXVzLXByZXNpZGVudGlhbC1lbGVjdGlvbi13aWxsLWJlLWFib3V0LWFp",
       "title": "The Next US Presidential Election Will Be About AI",
       "source": "Noema",
@@ -5027,7 +4943,7 @@
         "마누스",
         "메타"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJThjJTgwJWViJWE2JWFjJWViJWFmJWI4JWVkJThiJWIwJWViJTkzJTljLTI1JWVjJTk2JWI1LSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOWMlYTAlZWMlYjklOTglZWQlOTUlOTglZWMlOWQlYjQlZWMlOTglYTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVkJTI1OGMlMjU4MCUyNWViJTI1YTYlMjVhYyUyNWViJTI1YWYlMjViOCUyNWVkJTI1OGIlMjViMCUyNWViJTI1OTMlMjU5Yy0yNSUyNWVjJTI1OTYlMjViNS0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViOSUyNTk4JTI1ZWQlMjU5NSUyNTk4JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE4",
@@ -5049,7 +4965,7 @@
         "grand-k 창업학교",
         "kaist 로봇 창업경진대회"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hlcml0YWdlLWV4aXN0cy1iZXlvbmQtaHVtYW5raW5k",
@@ -5068,7 +4984,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2V1LSVlYiVhOSU5NCVlZCU4MyU4MCVlYyU5NyU5MC0lZWMlOTklOTMlZWMlYjglYTAlZWMlOTUlYjEtJWVkJTgzJTgwJWVjJTgyJWFjLWFpLSVlYyViMSU5NyVlYiViNCU4Ny0lZWMlYjAlYTglZWIlOGIlYTgtJWVjJWE2JTg5JWVhJWIwJTgxLSVlYyVhNCU5MSVlYiU4YiVhOC0lZWIlYWElODUlZWIlYTAlYjkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1ldS0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAlMjVlYyUyNTk3JTI1OTAtJTI1ZWMlMjU5OSUyNTkzJTI1ZWMlMjViOCUyNWEwJTI1ZWMlMjU5NSUyNWIxLSUyNWVkJTI1ODMlMjU4MCUyNWVjJTI1ODIlMjVhYy1haS0lMjVlYyUyNWIxJTI1OTclMjVlYiUyNWI0JTI1ODctJTI1ZWMlMjViMCUyNWE4JTI1ZWIlMjU4YiUyNWE4LSUyNWVjJTI1YTYlMjU4OSUyNWVhJTI1YjAlMjU4MS0lMjVlYyUyNWE0JTI1OTElMjVlYiUyNThiJTI1YTgtJTI1ZWIlMjVhYSUyNTg1JTI1ZWIlMjVhMCUyNWI5",
@@ -5090,7 +5006,7 @@
         "ai 챗봇",
         "메타"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVlYSViMCU4MC0lZWQlOGYlYWQlZWIlOGYlOTktJWVkJTgyJWE0JWVjJTliJWEwJWViJThiJWE0LSVlYyU5OCU4MS0lZWElYjclOWMlZWMlYTAlOWMlZWIlOGIlYjklZWElYjUlYWQteC0lZWIlOTMlYjEtc25zJWVjJTk3JTkwLSVlYyVhNiU5ZCVlYyU5OCVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTglMjViOCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODElMjVhYyUyNWVhJTI1YjAlMjU4MC0lMjVlZCUyNThmJTI1YWQlMjVlYiUyNThmJTI1OTktJTI1ZWQlMjU4MiUyNWE0JTI1ZWMlMjU5YiUyNWEwJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTglMjU4MS0lMjVlYSUyNWI3JTI1OWMlMjVlYyUyNWEwJTI1OWMlMjVlYiUyNThiJTI1YjklMjVlYSUyNWI1JTI1YWQteC0lMjVlYiUyNTkzJTI1YjEtc25zJTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1YTYlMjU5ZCUyNWVjJTI1OTglMjVhNA",
@@ -5244,25 +5160,6 @@
         "ai 오버뷰"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2RlbW9jcmFjeS1uZWVkcy1mcmljdGlvbi10by1mdW5jdGlvbg",
-      "title": "Democracy Needs Friction To Function",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/democracy-needs-friction-to-function",
-      "thumbnailUrl": null,
-      "author": "HennyGe Wichers",
-      "category": "Philosophy",
-      "publishedAt": "2026-06-10T16:17:20.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Democracy Needs Friction To Function appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4MiViYyVlYyU4NCViMS0lZWElYjAlYTQlZWQlOGYlYjQlZWIlOTMlOWMtJWViJWI5JTg0JWVjJTgzJTgxLSVlYiViMiVhMCVlYyU5ZCViYy0lZWIlYjIlOTclZWMlOWQlODAtaW9zLTI3LSVlYyViZCU5NCVlYiU5NCVhOSVlYyU4NCU5Yy0lZWQlOGYlYjQlZWIlOGQlOTQlZWIlYjglOTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTgyJTI1YmMlMjVlYyUyNTg0JTI1YjEtJTI1ZWElMjViMCUyNWE0JTI1ZWQlMjU4ZiUyNWI0JTI1ZWIlMjU5MyUyNTljLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODMlMjU4MS0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YmMtJTI1ZWIlMjViMiUyNTk3JTI1ZWMlMjU5ZCUyNTgwLWlvcy0yNy0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTklMjVlYyUyNTg0JTI1OWMtJTI1ZWQlMjU4ZiUyNWI0JTI1ZWIlMjU4ZCUyNTk0JTI1ZWIlMjViOCUyNTk0",
@@ -6237,6 +6134,70 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODk5L3RoZS1kb3dubG9hZC1yZXByb2dyYW1taW5nLXJldmVyc2UtYWdpbmctaW50ZXJvY2VwdGlvbi8",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-12T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why “reprogramming” is the buzziest approach to reversing aging right now Earlier this week, Life Bios",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODI5L3JlcHJvZ3JhbW1pbmctYnV6emllc3QtYXBwcm9hY2gtcmV2ZXJzaW5nLWFnaW5nLXJpZ2h0LW5vdy8",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-12T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Earlier this week, Life Biosciences, a biotech company focused on reversing age-related diseases, announced that it had dosed its first volunteer. A person with glaucoma has had an experimental treatment injected straight into their eyeball",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "summary"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMi8xMTM4ODMzL2luc2lkZS1pbnRlcm9jZXB0aW9uLWJyYWluLWJvZHkv",
+      "title": "Inside interoception: The hidden sense of how you feel inside",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/12/1138833/inside-interoception-brain-body/",
+      "thumbnailUrl": null,
+      "author": "Katherine W. Isaacs",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-12T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Your brain lives in the dark space of your skull.",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "biotech"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMS8xMTM4ODA5L3RoZS1kb3dubG9hZC1zb2NjZXItZm9vdGJhbGwtZGF0YS1hbmFseXRpY3MtY2hpbmEtbnVjbGVhci1wb3dlci8",
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "source": "MIT Technology Review",
@@ -6254,7 +6215,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMS8xMTM4NTA2L2luc2lkZS1zb2NjZXItZGF0YS1yZW5haXNzYW5jZS1qZXNzZS1kYXZpcy8",
@@ -6275,7 +6236,7 @@
         "culture",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lcy1sYXN0LXN0YW5kLw",
@@ -6298,23 +6259,43 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy93aGF0LWFuY2llbnQtcGhpbG9zb3BoeS1yZWFsbHktdGhvdWdodC1hYm91dC1kb21lc3RpYy1saWZl",
-      "title": "A philosophy of home",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/2f713181-1d82-4d40-b885-c6050f57e6ac/v1-essay-woman-cooking-watched-by-a-girl-cr9155-d1.jpg?width=1200&quality=75&format=auto",
-      "author": "Sandrine Bergès",
-      "category": "Philosophy",
-      "publishedAt": "2026-06-12T10:00:00.000Z",
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzA0NjE",
+      "title": "macOS에서 로컬 코딩 에이전트 설정하는 방법",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=30461",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-06-13T13:45:09.000Z",
       "readingMinutes": 4,
       "score": 94,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "The household is a community, as much as the state, and ancient philosophy had much more to say about it than we think - by Sandrine Bergès Read on Aeon",
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "로컬 코딩 에이전트 구성은 인터넷 장애 때도 macOS에서 OpenAI 호환 API로 모델을 실행하고 Pi에서 텍스트와 이미지 입력을 처리하도록 만드는 설정임 Apple M1 Max 64GB, macOS 15.7.7에서 llama.cpp Metal과 Gemma 4 26B-A4B GGUF 모델을 사용했으며, 기본 생성...",
       "tags": [
-        "aeon"
+        "geeknews"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xMC8xMTM4NzM5L3RoZS1kb3dubG9hZC1zdGVyb2lkLW9seW1waWNzLWVuaGFuY2VkLWdhbWVzLWFudGhyb3BpYy1teXRob3Mv",
+      "title": "The Download: the “steroid olympics” and a safer Mythos",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-10T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The “steroid olympics” were a circus—and a window into our culture —Amit Katwala A couple of weeks ago",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wb3dlci1zaGlmdHMv",
@@ -6333,6 +6314,26 @@
       "tags": [
         "stratechery",
         "this week in stratechery"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZ29vZ2xlLWNhcGl0YWwtY29tcGFueS8",
+      "title": "The Google Capital Company",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-google-capital-company/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-02T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 94,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Google has issued equity to Berkshire Hathaway in a deal that signals far more demand and a future where capital is the ultimate commodity.",
+      "tags": [
+        "stratechery",
+        "articles"
       ],
       "isNew": false
     }
