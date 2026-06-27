@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-06-26T23:52:17.202Z",
+  "fetchedAt": "2026-06-27T23:50:42.520Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdW1tZXItdmliZXMv",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzgwL3RoZS1kb3dubG9hZC1oZWF0d2F2ZXMtYnJhaW4taGVhbHRoLW9wZW5haS1yZXN0cmljdGlvbnMv",
     "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzA4NTQ",
-    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9vcmdhbmlzZWQtdmlvbGVuY2UtaXMtYS10cmFkZS13aGV0aGVyLWxlZ2FsLW9yLWlsbGVnYWw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4"
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS13aWxsLWNoYW5nZS11cw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -369,26 +369,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdW1tZXItdmliZXMv",
-      "title": "2026.26: Summer Vibes",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/summer-vibes/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-06-26T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of June 22, 2026, including a vibe coding adventure, Apple in Europe, and a midsummer mailbag.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
@@ -1302,26 +1282,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzgwL3RoZS1kb3dubG9hZC1oZWF0d2F2ZXMtYnJhaW4taGVhbHRoLW9wZW5haS1yZXN0cmljdGlvbnMv",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-26T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1wcmljZS1pbmNyZWFzZXMtYXBwbGUtaW50ZWxsaWdlbmNlLWFuZC10aGUtZS11Lw",
       "title": "Apple Price Increases, Apple Intelligence and the E.U.",
       "source": "Stratechery",
@@ -1608,6 +1568,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdW1tZXItdmliZXMv",
+      "title": "2026.26: Summer Vibes",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/summer-vibes/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-26T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of June 22, 2026, including a vibe coding adventure, Apple in Europe, and a midsummer mailbag.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS13aWxsLWNoYW5nZS11cw",
       "title": "How AI Will Change Us",
       "source": "Noema",
@@ -1624,7 +1604,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1maWdtYS1jZW8tZHlsYW4tZmllbGQtYWJvdXQtZGVzaWduLWFuZC1haS8",
@@ -1644,26 +1624,6 @@
         "stratechery",
         "daily update",
         "interviews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teS12aWJlLWNvZGluZy1hZHZlbnR1cmUtdGhlLWFwcC1hbmQtdGhlLWV4cGVyaWVuY2UtdGVuLXRha2Vhd2F5cy8",
-      "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-06-24T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -1805,28 +1765,6 @@
         "space",
         "app",
         "mit technology review explains"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4",
-      "title": "\"LLM이 아니라 '현장'이 답\"…버티컬 AI IPO, 왜 지금 주목받나",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/llm%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ed%98%84%ec%9e%a5%ec%9d%b4-%eb%8b%b5%eb%b2%84%ed%8b%b0%ec%bb%ac-ai-ipo-%ec%99%9c-%ec%a7%80%ea%b8%88-%ec%a3%bc%eb%aa%a9%eb%b0%9b%eb%82%98/?utm_source=rss&utm_medium=rss&utm_campaign=llm%25ec%259d%25b4-%25ec%2595%2584%25eb%258b%2588%25eb%259d%25bc-%25ed%2598%2584%25ec%259e%25a5%25ec%259d%25b4-%25eb%258b%25b5%25eb%25b2%2584%25ed%258b%25b0%25ec%25bb%25ac-ai-ipo-%25ec%2599%259c-%25ec%25a7%2580%25ea%25b8%2588-%25ec%25a3%25bc%25eb%25aa%25a9%25eb%25b0%259b%25eb%2582%2598",
-      "thumbnailUrl": null,
-      "author": "정재엽 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-26T00:51:33.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "매드업(3305대 1)·마키나락스(2807대 1) 등 버티컬 AI 기업들이 2026년 국내 IPO 시장을 주도하고 있다. 범용 LLM 대신 도메인 특화 데이터와 실무 자동화 성과를 앞세운 버티컬 AI의 상장 전략을 분석한다.",
-      "tags": [
-        "tech42",
-        "비즈니스",
-        "ipo",
-        "마키나락스"
       ],
       "isNew": true
     },
@@ -2313,25 +2251,6 @@
         "geeknews"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RydW1wcy1pcmFuLXdhci10aGUtbWlkd2lmZS10by1hLXJlbmV3YWJsZS1lbmVyZ3ktZnV0dXJl",
-      "title": "Trump’s Iran War: The Midwife To A Renewable Energy Future",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/trumps-iran-war-the-midwife-to-a-renewable-energy-future",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-06-24T16:20:45.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Trump’s Iran War: The Midwife To A Renewable Energy Future appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OCVlYyU4NCU5YyVlYiViMiVhMCVlYyU5ZCViNC0lZWIlOGQlYjAlZWMlOWQlYjQlZWQlODQlYjAlZWMlOGElYTQlZWQlOGUlOTglZWMlOWQlYjQlZWMlOGElYTQtYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LSVlYyViMiViNCVlYyVhMCU5YyVlYiVhMSU5Yy0lZWElYjAlOWMlZWQlOGUlYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODglMjVlYyUyNTg0JTI1OWMlMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQtJTI1ZWIlMjU4ZCUyNWIwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4NCUyNWIwJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4ZSUyNTk4JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU4YSUyNWE0LWFpLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU4NCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNWIyJTI1YjQlMjVlYyUyNWEwJTI1OWMlMjVlYiUyNWExJTI1OWMtJTI1ZWElMjViMCUyNTljJTI1ZWQlMjU4ZSUyNWI4",
@@ -4411,24 +4330,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzYwL2hlYXQtd2F2ZXMtbWVzcy13aXRoLXlvdXItYnJhaW4tc2NpZW50aXN0cy1hcmUtdHJ5aW5nLXRvLWZpZ3VyZS1vdXQtd2h5Lw",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzgwL3RoZS1kb3dubG9hZC1oZWF0d2F2ZXMtYnJhaW4taGVhbHRoLW9wZW5haS1yZXN0cmljdGlvbnMv",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
       "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
+      "author": "Thomas Macaulay",
       "category": "AI + Society",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
+      "publishedAt": "2026-06-26T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 99,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 3",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been ",
       "tags": [
         "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
+        "the download"
       ],
       "isNew": true
     },
@@ -4449,28 +4366,6 @@
       "tags": [
         "mit-technology-review",
         "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNC8xMTM5NjIxL3N0cmlwZS1hbnRocm9waWMtYW5kLW9wZW5haS1hcmUtYmFja2luZy1hbi1lZmZvcnQtdG8tc3RvcC1yZXNwaXJhdG9yeS1pbmZlY3Rpb25zLw",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "thumbnailUrl": null,
-      "author": "Antonio Regalado",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick ",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
       ],
       "isNew": false
     },
@@ -5502,6 +5397,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teS12aWJlLWNvZGluZy1hZHZlbnR1cmUtdGhlLWFwcC1hbmQtdGhlLWV4cGVyaWVuY2UtdGVuLXRha2Vhd2F5cy8",
+      "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/my-vibe-coding-adventure-the-app-and-the-experience-ten-takeaways/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-24T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "My experience and reflections on vibe coding an app that I plan on actually using regularly.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xOS8xMTM5MzI3L3RoZS1kb3dubG9hZC1sbG1zLWJvdHRsZW5lY2stYnJlYWt0aHJvdWdoLWJjaS10cmlhbHMtdGFrZS1vZmYv",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "source": "MIT Technology Review",
@@ -5730,21 +5645,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9vcmdhbmlzZWQtdmlvbGVuY2UtaXMtYS10cmFkZS13aGV0aGVyLWxlZ2FsLW9yLWlsbGVnYWw",
-      "title": "The violence specialists",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/d7bcb365-f341-4e6e-9d30-b20fd92bad09/v1-essay-panos_00354613.jpg?width=1200&quality=75&format=auto",
-      "author": "Raúl Zepeda Gil",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-26T10:00:00.000Z",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4",
+      "title": "\"LLM이 아니라 '현장'이 답\"…버티컬 AI IPO, 왜 지금 주목받나",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/llm%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ed%98%84%ec%9e%a5%ec%9d%b4-%eb%8b%b5%eb%b2%84%ed%8b%b0%ec%bb%ac-ai-ipo-%ec%99%9c-%ec%a7%80%ea%b8%88-%ec%a3%bc%eb%aa%a9%eb%b0%9b%eb%82%98/?utm_source=rss&utm_medium=rss&utm_campaign=llm%25ec%259d%25b4-%25ec%2595%2584%25eb%258b%2588%25eb%259d%25bc-%25ed%2598%2584%25ec%259e%25a5%25ec%259d%25b4-%25eb%258b%25b5%25eb%25b2%2584%25ed%258b%25b0%25ec%25bb%25ac-ai-ipo-%25ec%2599%259c-%25ec%25a7%2580%25ea%25b8%2588-%25ec%25a3%25bc%25eb%25aa%25a9%25eb%25b0%259b%25eb%2582%2598",
+      "thumbnailUrl": null,
+      "author": "정재엽 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-06-26T00:51:33.000Z",
       "readingMinutes": 4,
       "score": 97,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "Every society depends on violence workers, but what makes young men take a job that risks their lives and harms others? - by Raúl Zepeda Gil Read on Aeon",
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "매드업(3305대 1)·마키나락스(2807대 1) 등 버티컬 AI 기업들이 2026년 국내 IPO 시장을 주도하고 있다. 범용 LLM 대신 도메인 특화 데이터와 실무 자동화 성과를 앞세운 버티컬 AI의 상장 전략을 분석한다.",
       "tags": [
-        "aeon"
+        "tech42",
+        "비즈니스",
+        "ipo",
+        "마키나락스"
       ],
       "isNew": true
     },
@@ -6133,72 +6051,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC1haS0lZWIlOWQlYmMlZWMlOWQlYjQlZWMlODQlYTAlZWMlOGIlYjEtJWVkJTk4JTkxJWVjJTgzJTgxJWVjJTg0JTljLSVlYyU5NiViOCVlYiVhMSVhMCVlYyU4MiVhYyVlYyU5NyU5MC0lZWElYjAlOTUlZWElYjIlYmQlZWIlODklYjQlZWMlOGElYTQtJWVjJTk3JTg1JWVhJWIzJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLWFpLSUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWQlMjViNCUyNWVjJTI1ODQlMjVhMCUyNWVjJTI1OGIlMjViMS0lMjVlZCUyNTk4JTI1OTElMjVlYyUyNTgzJTI1ODElMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjU5NiUyNWI4JTI1ZWIlMjVhMSUyNWEwJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5NyUyNTkwLSUyNWVhJTI1YjAlMjU5NSUyNWVhJTI1YjIlMjViZCUyNWViJTI1ODklMjViNCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTk3JTI1ODUlMjVlYSUyNWIzJTI1ODQ",
-      "title": "구글, AI 라이선싱 협상서 언론사에 '강경'…뉴스 업계 반발",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ea%b5%ac%ea%b8%80-ai-%eb%9d%bc%ec%9d%b4%ec%84%a0%ec%8b%b1-%ed%98%91%ec%83%81%ec%84%9c-%ec%96%b8%eb%a1%a0%ec%82%ac%ec%97%90-%ea%b0%95%ea%b2%bd%eb%89%b4%ec%8a%a4-%ec%97%85%ea%b3%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ac%25ea%25b8%2580-ai-%25eb%259d%25bc%25ec%259d%25b4%25ec%2584%25a0%25ec%258b%25b1-%25ed%2598%2591%25ec%2583%2581%25ec%2584%259c-%25ec%2596%25b8%25eb%25a1%25a0%25ec%2582%25ac%25ec%2597%2590-%25ea%25b0%2595%25ea%25b2%25bd%25eb%2589%25b4%25ec%258a%25a4-%25ec%2597%2585%25ea%25b3%2584",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-26T00:10:45.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "구글이 퍼블리셔와의 AI 라이선싱 협상에서 강경 기조를 유지하고 있다. AI 오버뷰발 트래픽 급감 속 퍼블리셔들은 구글의 조건을 거부도, 수용도 하기 어려운 딜레마에 빠졌다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "ai 라이선싱",
-        "구글"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWQlOGMlOGMlZWMlOWQlYjQlZWIlODIlYjglZWMlOGElYTQtJWVjJTk1JWIxLSVlYSViMyViNSVlYSViMCU5Y2FpLSVlZCU4ZiVhYyVlZCU4YSViOCVlZCU4ZiViNCVlYiVhNiVhYyVlYyU5OCVhNC0lZWIlYjYlODQlZWMlODQlOWQlYzIlYjclZWMlOGIlYTQlZWMlOGIlOWMlZWElYjAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjU4MiUyNWI4JTI1ZWMlMjU4YSUyNWE0LSUyNWVjJTI1OTUlMjViMS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWNhaS0lMjVlZCUyNThmJTI1YWMlMjVlZCUyNThhJTI1YjglMjVlZCUyNThmJTI1YjQlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk4JTI1YTQtJTI1ZWIlMjViNiUyNTg0JTI1ZWMlMjU4NCUyNTlkJTI1YzIlMjViNyUyNWVjJTI1OGIlMjVhNCUyNWVjJTI1OGIlMjU5YyUyNWVhJTI1YjAlMjU4NA",
-      "title": "구글 '파이낸스 앱' 공개…AI 포트폴리오 분석·실시간 시세 한 곳에",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ea%b5%ac%ea%b8%80-%ed%8c%8c%ec%9d%b4%eb%82%b8%ec%8a%a4-%ec%95%b1-%ea%b3%b5%ea%b0%9cai-%ed%8f%ac%ed%8a%b8%ed%8f%b4%eb%a6%ac%ec%98%a4-%eb%b6%84%ec%84%9d%c2%b7%ec%8b%a4%ec%8b%9c%ea%b0%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ac%25ea%25b8%2580-%25ed%258c%258c%25ec%259d%25b4%25eb%2582%25b8%25ec%258a%25a4-%25ec%2595%25b1-%25ea%25b3%25b5%25ea%25b0%259cai-%25ed%258f%25ac%25ed%258a%25b8%25ed%258f%25b4%25eb%25a6%25ac%25ec%2598%25a4-%25eb%25b6%2584%25ec%2584%259d%25c2%25b7%25ec%258b%25a4%25ec%258b%259c%25ea%25b0%2584",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-26T00:04:28.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "구글이 파이낸스 안드로이드 앱을 출시했다. 실시간 시세·AI 주가 분석·포트폴리오 관리를 한 앱에서 제공하며 야후 파이낸스·로빈후드와 정면 경쟁한다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "구글",
-        "파이낸스 앱"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhMCVlZCU5NCU4Yy0lZWIlYTclYTUlYzIlYjclZWMlOTUlODQlZWMlOWQlYjQlZWQlOGMlYTglZWIlOTMlOWMtJWVhJWIwJTgwJWVhJWIyJWE5LSVlYyVhMCU4NCVlYiVhOSViNC0lZWMlOWQlYjglZWMlODMlODElZWMlYjUlOWMlZWIlOGMlODAtMzMtJWVjJTlkJWI4JWVjJTgzJTgxLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNWEwJTI1ZWQlMjU5NCUyNThjLSUyNWViJTI1YTclMjVhNSUyNWMyJTI1YjclMjVlYyUyNTk1JTI1ODQlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNThjJTI1YTglMjVlYiUyNTkzJTI1OWMtJTI1ZWElMjViMCUyNTgwJTI1ZWElMjViMiUyNWE5LSUyNWVjJTI1YTAlMjU4NCUyNWViJTI1YTklMjViNC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNTgzJTI1ODElMjVlYyUyNWI1JTI1OWMlMjVlYiUyNThjJTI1ODAtMzMtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4MyUyNTgx",
-      "title": "애플, 맥·아이패드 가격 전면 인상…최대 33% 인상",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%95%a0%ed%94%8c-%eb%a7%a5%c2%b7%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ea%b0%80%ea%b2%a9-%ec%a0%84%eb%a9%b4-%ec%9d%b8%ec%83%81%ec%b5%9c%eb%8c%80-33-%ec%9d%b8%ec%83%81/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a0%25ed%2594%258c-%25eb%25a7%25a5%25c2%25b7%25ec%2595%2584%25ec%259d%25b4%25ed%258c%25a8%25eb%2593%259c-%25ea%25b0%2580%25ea%25b2%25a9-%25ec%25a0%2584%25eb%25a9%25b4-%25ec%259d%25b8%25ec%2583%2581%25ec%25b5%259c%25eb%258c%2580-33-%25ec%259d%25b8%25ec%2583%2581",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-25T23:56:11.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "애플이 AI 데이터센터발 메모리 부족을 이유로 맥과 아이패드 가격을 전면 인상했다. 맥북 에어는 최대 200달러, 아이패드 에어는 150달러 올랐다. 아이폰 가격은 현행 유지.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "맥",
-        "아이패드"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS1haSVlYSViMCU4MC0lZWIlODklYjQlZWMlOGElYTQlZWIlYTUlYmMtJWVjJTlhJTk0JWVjJTk1JWJkJWVkJTk1JTk4JWViJThhJTk0LSVlYyU4YiU5YyVlYiU4YyU4MC0lZWMlYTAlODAlZWIlODQlOTAlZWIlYTYlYWMlZWMlYTYlOTglZWMlOWQlODAtJWViJWFjJWI0JWVjJTk3JTg3JWVjJTljJWJjJWViJWExJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LWFpJTI1ZWElMjViMCUyNTgwLSUyNWViJTI1ODklMjViNCUyNWVjJTI1OGElMjVhNCUyNWViJTI1YTUlMjViYy0lMjVlYyUyNTlhJTI1OTQlMjVlYyUyNTk1JTI1YmQlMjVlZCUyNTk1JTI1OTglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU4YyUyNTgwLSUyNWVjJTI1YTAlMjU4MCUyNWViJTI1ODQlMjU5MCUyNWViJTI1YTYlMjVhYyUyNWVjJTI1YTYlMjU5OCUyNWVjJTI1OWQlMjU4MC0lMjVlYiUyNWFjJTI1YjQlMjVlYyUyNTk3JTI1ODclMjVlYyUyNTljJTI1YmMlMjVlYiUyNWExJTI1OWM",
       "title": "[현장] AI가 뉴스를 요약하는 시대, 저널리즘은 무엇으로 살아남나",
       "source": "Tech42",
@@ -6218,7 +6070,7 @@
         "테크놀로지",
         "ai"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NC0lZWIlOGYlODUlZWIlYTYlYmQtJWVjJTg0JWEwJWVjJTk2JWI4JWVjJTk4JWE0JWVkJTk0JTg4YWktJWVjJWIyJWFiLSVlYyU5ZSU5MCVlYyViMiViNC0lZWMlYjklYTktJWVkJTk1JWEwJWViJTlkJWJjJWVkJThlJTk4JWViJTg3JWE4LSVlYyVhMCU4NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTclMjU5NCUyNWViJTI1YjklMjU4NCUyNWViJTI1OTQlMjU5NCUyNWVjJTI1OTUlMjU4NC0lMjVlYiUyNThmJTI1ODUlMjVlYiUyNWE2JTI1YmQtJTI1ZWMlMjU4NCUyNWEwJTI1ZWMlMjU5NiUyNWI4JTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWMlMjViMiUyNWFiLSUyNWVjJTI1OWUlMjU5MCUyNWVjJTI1YjIlMjViNC0lMjVlYyUyNWI5JTI1YTktJTI1ZWQlMjU5NSUyNWEwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWQlMjU4ZSUyNTk4JTI1ZWIlMjU4NyUyNWE4LSUyNWVjJTI1YTAlMjU4NA",
@@ -6240,7 +6092,7 @@
         "브로드컴",
         "엔비디아"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyViMSU5NyVlYiViNCU4Ny0lZWMlYTAlOTUlZWMlYjklOTgtJWVkJThlJWI4JWVkJTk2JWE1LSVlYyU4YiVhNCVlZCU5NyU5OC0lZWMlYjElOTdncHQtODAtJWVjJWE3JTg0JWViJWIzJWI0LSVlYyU4NCViMSVlZCU5NiVhNSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNCVlYiVhNyU4Yy0lZWElYjclYTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYyUyNWIxJTI1OTclMjVlYiUyNWI0JTI1ODctJTI1ZWMlMjVhMCUyNTk1JTI1ZWMlMjViOSUyNTk4LSUyNWVkJTI1OGUlMjViOCUyNWVkJTI1OTYlMjVhNS0lMjVlYyUyNThiJTI1YTQlMjVlZCUyNTk3JTI1OTgtJTI1ZWMlMjViMSUyNTk3Z3B0LTgwLSUyNWVjJTI1YTclMjU4NCUyNWViJTI1YjMlMjViNC0lMjVlYyUyNTg0JTI1YjElMjVlZCUyNTk2JTI1YTUlMjVlYyUyNWEwJTI1OWMlMjVlYiUyNWFmJTI1YjglMjVlYiUyNTgyJTI1OTglMjVlYyUyNTlkJTI1YjQlMjVlYiUyNWE3JTI1OGMtJTI1ZWElMjViNyUyNWEw",
@@ -6287,24 +6139,21 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNC8xMTM5Njc2L2V1cm9wZS1oZWF0LXBvd2VyLXBsYW50cy8",
-      "title": "Europe’s extreme heat is shutting down power plants",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RydW1wcy1pcmFuLXdhci10aGUtbWlkd2lmZS10by1hLXJlbmV3YWJsZS1lbmVyZ3ktZnV0dXJl",
+      "title": "Trump’s Iran War: The Midwife To A Renewable Energy Future",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/trumps-iran-war-the-midwife-to-a-renewable-energy-future",
       "thumbnailUrl": null,
-      "author": "Casey Crownhart",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-24T15:25:28.000Z",
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-06-24T16:20:45.000Z",
       "readingMinutes": 4,
       "score": 96,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Europe is in the middle of a record-breaking heat wave, and the grid is being pushed to its limits as people turn to fans and air-conditioning to try to stay cool. Some power plants won’t be online to help handle the load. On June 23, Franc",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Trump’s Iran War: The Midwife To A Renewable Energy Future appeared first on NOEMA.",
       "tags": [
-        "mit-technology-review",
-        "climate change and energy",
-        "app",
-        "summary"
+        "noema"
       ],
       "isNew": false
     },
@@ -6328,6 +6177,150 @@
         "app"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtc3R1ZmYtb2YtbXl0aG9zLw",
+      "title": "2026.25: The Stuff of Myth(os)",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-stuff-of-mythos/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-19T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of June 15, 2026, including Anthropic, e-commerce in the age of AI, and the NBA Finals being a perfect 10.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtc3RhdGUtb2YtZmFibGUtdGhlLWphaWxicmVhay1wcm9ibGVtLXNwYWNleC1hY3F1aXJlcy1jdXJzb3Iv",
+      "title": "The State of Fable, The Jailbreak Problem, SpaceX Acquires Cursor",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-state-of-fable-the-jailbreak-problem-spacex-acquires-cursor/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-17T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The administration is very likely wrong about Fable, but that is ultimately Anthropic's responsibility.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLWRyb25lcy1lcmljLXNjaG1pZHQtb24tdGhlLWJpZ2dlc3QtcmV2b2x1dGlvbi1pbi10aGUtaGlzdG9yeS1vZi13YXJmYXJl",
+      "title": "AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/ai-drones-eric-schmidt-on-the-biggest-revolution-in-the-history-of-warfare",
+      "thumbnailUrl": null,
+      "author": "Eric Schmidt",
+      "category": "Philosophy",
+      "publishedAt": "2026-06-16T14:08:54.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1uZXh0LXVzLXByZXNpZGVudGlhbC1lbGVjdGlvbi13aWxsLWJlLWFib3V0LWFp",
+      "title": "The Next US Presidential Election Will Be About AI",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-next-us-presidential-election-will-be-about-ai",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-06-09T16:08:56.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Next US Presidential Election Will Be About AI appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzYwL2hlYXQtd2F2ZXMtbWVzcy13aXRoLXlvdXItYnJhaW4tc2NpZW50aXN0cy1hcmUtdHJ5aW5nLXRvLWZpZ3VyZS1vdXQtd2h5Lw",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-26T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 3",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "summary"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNS8xMTM5Njk2L2libS11bnZlaWxzLXN1YjFubS1jaGlwLw",
+      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+      "thumbnailUrl": null,
+      "author": "Sophia Chen",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-25T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way fo",
+      "tags": [
+        "mit-technology-review",
+        "computing",
+        "app",
+        "summary"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNC8xMTM5NjIxL3N0cmlwZS1hbnRocm9waWMtYW5kLW9wZW5haS1hcmUtYmFja2luZy1hbi1lZmZvcnQtdG8tc3RvcC1yZXNwaXJhdG9yeS1pbmZlY3Rpb25zLw",
+      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+      "thumbnailUrl": null,
+      "author": "Antonio Regalado",
+      "category": "AI + Society",
+      "publishedAt": "2026-06-24T12:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 95,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick ",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "summary"
+      ],
+      "isNew": false
     }
   ]
 }
