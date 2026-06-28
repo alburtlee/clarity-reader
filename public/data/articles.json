@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-06-27T23:50:42.520Z",
+  "fetchedAt": "2026-06-28T23:57:46.211Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhZiViOCVlYSViNSVhZCVlYyU5ZCViNC0lZWIlYTclODklZWMlOWUlOTAtJWVkJThiJTg4JWVjJTgzJTg4LSVlYiVhOSU5NCVlYyU5YiVhMCVlYiU4YiVhNCVlYiU4ZiU4NSVlYyVhMCU5MC0lZWElYjclOWMlZWMlYTAlOWMtJWVkJThiJTg4JWVkJTgzJTg0LSVlYyU5NSU4NCVlYyU4YiU5YyVlYyU5NSU4NC1haS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YWYlMjViOCUyNWVhJTI1YjUlMjVhZCUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWE3JTI1ODklMjVlYyUyNTllJTI1OTAtJTI1ZWQlMjU4YiUyNTg4JTI1ZWMlMjU4MyUyNTg4LSUyNWViJTI1YTklMjU5NCUyNWVjJTI1OWIlMjVhMCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OGYlMjU4NSUyNWVjJTI1YTAlMjU5MC0lMjVlYSUyNWI3JTI1OWMlMjVlYyUyNWEwJTI1OWMtJTI1ZWQlMjU4YiUyNTg4JTI1ZWQlMjU4MyUyNTg0LSUyNWVjJTI1OTUlMjU4NCUyNWVjJTI1OGIlMjU5YyUyNWVjJTI1OTUlMjU4NC1haQ",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdW1tZXItdmliZXMv",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzgwL3RoZS1kb3dubG9hZC1oZWF0d2F2ZXMtYnJhaW4taGVhbHRoLW9wZW5haS1yZXN0cmljdGlvbnMv",
     "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzA4NTQ",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS13aWxsLWNoYW5nZS11cw"
   ],
   "sourceCount": 9,
@@ -1585,46 +1585,6 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS13aWxsLWNoYW5nZS11cw",
-      "title": "How AI Will Change Us",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/how-ai-will-change-us",
-      "thumbnailUrl": null,
-      "author": "Houda Nait El Barj",
-      "category": "Philosophy",
-      "publishedAt": "2026-06-25T13:36:16.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How AI Will Change Us appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1maWdtYS1jZW8tZHlsYW4tZmllbGQtYWJvdXQtZGVzaWduLWFuZC1haS8",
-      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
       "isNew": false
     },
     {
@@ -2232,6 +2192,28 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhZiViOCVlYSViNSVhZCVlYyU5ZCViNC0lZWIlYTclODklZWMlOWUlOTAtJWVkJThiJTg4JWVjJTgzJTg4LSVlYiVhOSU5NCVlYyU5YiVhMCVlYiU4YiVhNCVlYiU4ZiU4NSVlYyVhMCU5MC0lZWElYjclOWMlZWMlYTAlOWMtJWVkJThiJTg4JWVkJTgzJTg0LSVlYyU5NSU4NCVlYyU4YiU5YyVlYyU5NSU4NC1haS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YWYlMjViOCUyNWVhJTI1YjUlMjVhZCUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWE3JTI1ODklMjVlYyUyNTllJTI1OTAtJTI1ZWQlMjU4YiUyNTg4JTI1ZWMlMjU4MyUyNTg4LSUyNWViJTI1YTklMjU5NCUyNWVjJTI1OWIlMjVhMCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OGYlMjU4NSUyNWVjJTI1YTAlMjU5MC0lMjVlYSUyNWI3JTI1OWMlMjVlYyUyNWEwJTI1OWMtJTI1ZWQlMjU4YiUyNTg4JTI1ZWQlMjU4MyUyNTg0LSUyNWVjJTI1OTUlMjU4NCUyNWVjJTI1OGIlMjU5YyUyNWVjJTI1OTUlMjU4NC1haQ",
+      "title": "\"미국이 막자 틈새 메웠다\"…독점 규제 틈탄 아시아 AI 역습, 대항마 전격 출시",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%af%b8%ea%b5%ad%ec%9d%b4-%eb%a7%89%ec%9e%90-%ed%8b%88%ec%83%88-%eb%a9%94%ec%9b%a0%eb%8b%a4%eb%8f%85%ec%a0%90-%ea%b7%9c%ec%a0%9c-%ed%8b%88%ed%83%84-%ec%95%84%ec%8b%9c%ec%95%84-ai/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25af%25b8%25ea%25b5%25ad%25ec%259d%25b4-%25eb%25a7%2589%25ec%259e%2590-%25ed%258b%2588%25ec%2583%2588-%25eb%25a9%2594%25ec%259b%25a0%25eb%258b%25a4%25eb%258f%2585%25ec%25a0%2590-%25ea%25b7%259c%25ec%25a0%259c-%25ed%258b%2588%25ed%2583%2584-%25ec%2595%2584%25ec%258b%259c%25ec%2595%2584-ai",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-06-28T23:51:43.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "미국 정부의 첨단 인공지능(AI) 수출 통제 조치가 장기화 조짐을 보이는 가운데, 아시아 정보기술(IT) 기업들이 미국산 AI의 공백을 노린 대체 모델을 잇달아 출시하며 시장 주도권 확보에 나섰다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "미토스",
+        "앤트로픽"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzA4NTQ",
@@ -4330,6 +4312,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlYiVhYSVhOCVlYiVhNiVhYy0lZWMlYjklYTktJWVkJTk1JTk4JWViJTgyJTk4JWViJWExJTljLSVlYiVhOSU5NCVlZCU4MyU4MCVjMiViNyVlZCU4NSU4YyVlYyU4YSVhYyVlYiU5ZCViYy0lZWIlYjAlOWYlZWMlOTUlOTglZWIlOGIlYTQlZWIlYTclODglZWMlOWQlYjQlZWQlODElYWMlZWIlYTElYTAtYWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlYiUyNWFhJTI1YTglMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjViOSUyNWE5LSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1ODIlMjU5OCUyNWViJTI1YTElMjU5Yy0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAlMjVjMiUyNWI3JTI1ZWQlMjU4NSUyNThjJTI1ZWMlMjU4YSUyNWFjJTI1ZWIlMjU5ZCUyNWJjLSUyNWViJTI1YjAlMjU5ZiUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYyUyNWViJTI1YTElMjVhMC1haQ",
+      "title": "'메모리 칩 하나로 메타·테슬라 밟았다'…마이크론, AI 광풍에 시총 1.4조 달러 돌파",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a9%94%eb%aa%a8%eb%a6%ac-%ec%b9%a9-%ed%95%98%eb%82%98%eb%a1%9c-%eb%a9%94%ed%83%80%c2%b7%ed%85%8c%ec%8a%ac%eb%9d%bc-%eb%b0%9f%ec%95%98%eb%8b%a4%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0-ai/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25eb%25aa%25a8%25eb%25a6%25ac-%25ec%25b9%25a9-%25ed%2595%2598%25eb%2582%2598%25eb%25a1%259c-%25eb%25a9%2594%25ed%2583%2580%25c2%25b7%25ed%2585%258c%25ec%258a%25ac%25eb%259d%25bc-%25eb%25b0%259f%25ec%2595%2598%25eb%258b%25a4%25eb%25a7%2588%25ec%259d%25b4%25ed%2581%25ac%25eb%25a1%25a0-ai",
+      "thumbnailUrl": null,
+      "author": "김광우 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-06-28T23:46:55.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "오래전 PC 성능을 끌어올리려던 이들이 찾던 작은 메모리 카드 제조사가 실리콘밸리의 거대 공룡들을 제치고 섰다. 아이다호주 보이시에 본사를 둔 메모리 반도체 제조업체 마이크론 테크놀로지(Micron Technology)가 6월 25일 장중 시가총액 1조 3980억 달러를 기록하며 메타(Meta)의 1조 3920억 달러와 테슬라(Tesla)를 순간적으로 추월했다.",
+      "tags": [
+        "tech42",
+        "비즈니스",
+        "ai",
+        "마이크론"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzgwL3RoZS1kb3dubG9hZC1oZWF0d2F2ZXMtYnJhaW4taGVhbHRoLW9wZW5haS1yZXN0cmljdGlvbnMv",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "source": "MIT Technology Review",
@@ -4343,26 +4347,6 @@
       "score": 99,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
       "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Heat waves mess with your brain. Scientists are trying to figure out why. —Jessica Hamzelou It’s been ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNS8xMTM5NzM4L3RoZS1kb3dubG9hZC1ldXJvcGUtaGVhdC13YXZlLWlibS1jaGlwLW1vb3Jlcy1sYXcv",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-25T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Europe’s extreme heat is shutting down power plants Europe is in the middle of a record-breaking heat ",
       "tags": [
         "mit-technology-review",
         "the download"
@@ -5397,6 +5381,46 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS13aWxsLWNoYW5nZS11cw",
+      "title": "How AI Will Change Us",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/how-ai-will-change-us",
+      "thumbnailUrl": null,
+      "author": "Houda Nait El Barj",
+      "category": "Philosophy",
+      "publishedAt": "2026-06-25T13:36:16.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post How AI Will Change Us appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1maWdtYS1jZW8tZHlsYW4tZmllbGQtYWJvdXQtZGVzaWduLWFuZC1haS8",
+      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-06-25T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9teS12aWJlLWNvZGluZy1hZHZlbnR1cmUtdGhlLWFwcC1hbmQtdGhlLWV4cGVyaWVuY2UtdGVuLXRha2Vhd2F5cy8",
       "title": "My Vibe Coding Adventure, The App and the Experience, Ten Takeaways",
       "source": "Stratechery",
@@ -5664,7 +5688,7 @@
         "ipo",
         "마키나락스"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yMy8xMTM4MjcxL3NoYXJpbmctYS1sb3ZlLWZvci1jYWxjdWx1cy8",
@@ -6051,6 +6075,72 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhNCU5MSVlYSViNSVhZC1haS0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFmJWI4JWVkJTg2JWEwJWVjJThhJWE0LSVlYyU4OCU5OCVlYyVhNCU4MC0lZWIlOTQlYjAlZWIlOWQlYmMlZWMlOWUlYTElZWMlOTUlOTglZWIlOGIlYTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWE0JTI1OTElMjVlYSUyNWI1JTI1YWQtYWktJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWYlMjViOCUyNWVkJTI1ODYlMjVhMCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTg4JTI1OTglMjVlYyUyNWE0JTI1ODAtJTI1ZWIlMjU5NCUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWMlMjU5ZSUyNWExJTI1ZWMlMjU5NSUyNTk4JTI1ZWIlMjU4YiUyNWE0",
+      "title": "\"중국 AI, 앤트로픽 미토스 수준 따라잡았다\"",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%a4%91%ea%b5%ad-ai-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%eb%af%b8%ed%86%a0%ec%8a%a4-%ec%88%98%ec%a4%80-%eb%94%b0%eb%9d%bc%ec%9e%a1%ec%95%98%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a4%2591%25ea%25b5%25ad-ai-%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25eb%25af%25b8%25ed%2586%25a0%25ec%258a%25a4-%25ec%2588%2598%25ec%25a4%2580-%25eb%2594%25b0%25eb%259d%25bc%25ec%259e%25a1%25ec%2595%2598%25eb%258b%25a4",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-06-28T23:30:30.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "중국 지푸AI(Z.ai)의 GLM-5.2가 일부 사이버보안 항목에서 앤트로픽 미토스에 필적했다고 월스트리트저널이 보도했다. 페이블 금지·칩 수출 딜레마 속 AI 패권 지형이 흔들린다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "미토스",
+        "사이버보안"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyViOSVhOCVlYiU4MiViNC0lZWQlOTklOTQlZWIlYTklYjQlZWMlOTclOTAtJWVjJTg2JTkwJWViJThjJTg0JWViJThiJWE0JWViJWIyJWEwJWVjJTlkJWJjLSVlYiViMiU5NyVlYiU4YSU5NC0lZWMlOTUlYTAlZWQlOTQlOGMtJWVkJTg0JWIwJWVjJWI5JTk4JWVjJThhJWE0JWVkJTgxJWFjJWViJWE2JWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjViOSUyNWE4JTI1ZWIlMjU4MiUyNWI0LSUyNWVkJTI1OTklMjU5NCUyNWViJTI1YTklMjViNCUyNWVjJTI1OTclMjU5MC0lMjVlYyUyNTg2JTI1OTAlMjVlYiUyNThjJTI1ODQlMjVlYiUyNThiJTI1YTQlMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YmMtJTI1ZWIlMjViMiUyNTk3JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1OTUlMjVhMCUyNWVkJTI1OTQlMjU4Yy0lMjVlZCUyNTg0JTI1YjAlMjVlYyUyNWI5JTI1OTglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWE2JTI1YjA",
+      "title": "\"마침내 화면에 손댄다\"…베일 벗는 애플 터치스크린 맥북, M5 칩 달고 조기 등판",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a7%88%ec%b9%a8%eb%82%b4-%ed%99%94%eb%a9%b4%ec%97%90-%ec%86%90%eb%8c%84%eb%8b%a4%eb%b2%a0%ec%9d%bc-%eb%b2%97%eb%8a%94-%ec%95%a0%ed%94%8c-%ed%84%b0%ec%b9%98%ec%8a%a4%ed%81%ac%eb%a6%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%25b9%25a8%25eb%2582%25b4-%25ed%2599%2594%25eb%25a9%25b4%25ec%2597%2590-%25ec%2586%2590%25eb%258c%2584%25eb%258b%25a4%25eb%25b2%25a0%25ec%259d%25bc-%25eb%25b2%2597%25eb%258a%2594-%25ec%2595%25a0%25ed%2594%258c-%25ed%2584%25b0%25ec%25b9%2598%25ec%258a%25a4%25ed%2581%25ac%25eb%25a6%25b0",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-06-28T23:29:25.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "애플이 오랜 금기를 깨고 처음으로 선보일 터치스크린 탑재 맥북 라인업의 출시 윤곽이 드러났다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "m5칩",
+        "맥북"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMiU4YyVlYSViOCU4OC0lZWQlOGYlYWQlZWQlODMlODQtOTAwJWVjJTk2JWI1JWVkJTk4JWI4JWVjJWEzJWJjLSVlYiViOSU4NSVlZCU4NSU4YyVlZCU4MSVhYy0lZWMlYjIlYWQlZWMlODYlOGMlZWIlODUlODQtc25zLSVlYyViMCVhOCVlYiU4YiVhOC0lZWIlYjYlODAlZWMlOGIlYTQlZWMlOTclOTAtJWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjViMiUyNThjJTI1ZWElMjViOCUyNTg4LSUyNWVkJTI1OGYlMjVhZCUyNWVkJTI1ODMlMjU4NC05MDAlMjVlYyUyNTk2JTI1YjUlMjVlZCUyNTk4JTI1YjglMjVlYyUyNWEzJTI1YmMtJTI1ZWIlMjViOSUyNTg1JTI1ZWQlMjU4NSUyNThjJTI1ZWQlMjU4MSUyNWFjLSUyNWVjJTI1YjIlMjVhZCUyNWVjJTI1ODYlMjU4YyUyNWViJTI1ODUlMjU4NC1zbnMtJTI1ZWMlMjViMCUyNWE4JTI1ZWIlMjU4YiUyNWE4LSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1OGIlMjVhNCUyNWVjJTI1OTclMjU5MC0lMjVlYyUyNWEwJTI1ODQ",
+      "title": "\"벌금 폭탄 900억\"…호주, 빅테크 청소년 SNS 차단 부실에 전면전 선언",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%b2%8c%ea%b8%88-%ed%8f%ad%ed%83%84-900%ec%96%b5%ed%98%b8%ec%a3%bc-%eb%b9%85%ed%85%8c%ed%81%ac-%ec%b2%ad%ec%86%8c%eb%85%84-sns-%ec%b0%a8%eb%8b%a8-%eb%b6%80%ec%8b%a4%ec%97%90-%ec%a0%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b2%258c%25ea%25b8%2588-%25ed%258f%25ad%25ed%2583%2584-900%25ec%2596%25b5%25ed%2598%25b8%25ec%25a3%25bc-%25eb%25b9%2585%25ed%2585%258c%25ed%2581%25ac-%25ec%25b2%25ad%25ec%2586%258c%25eb%2585%2584-sns-%25ec%25b0%25a8%25eb%258b%25a8-%25eb%25b6%2580%25ec%258b%25a4%25ec%2597%2590-%25ec%25a0%2584",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-06-28T23:25:11.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "세계 최초로 16세 미만 청소년의 소셜미디어(SNS) 이용을 금지한 호주 정부가 빅테크 기업을 향한 압박 수위를 대폭 끌어올렸다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "sns",
+        "빅테크"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS1haSVlYSViMCU4MC0lZWIlODklYjQlZWMlOGElYTQlZWIlYTUlYmMtJWVjJTlhJTk0JWVjJTk1JWJkJWVkJTk1JTk4JWViJThhJTk0LSVlYyU4YiU5YyVlYiU4YyU4MC0lZWMlYTAlODAlZWIlODQlOTAlZWIlYTYlYWMlZWMlYTYlOTglZWMlOWQlODAtJWViJWFjJWI0JWVjJTk3JTg3JWVjJTljJWJjJWViJWExJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LWFpJTI1ZWElMjViMCUyNTgwLSUyNWViJTI1ODklMjViNCUyNWVjJTI1OGElMjVhNCUyNWViJTI1YTUlMjViYy0lMjVlYyUyNTlhJTI1OTQlMjVlYyUyNTk1JTI1YmQlMjVlZCUyNTk1JTI1OTglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU4YyUyNTgwLSUyNWVjJTI1YTAlMjU4MCUyNWViJTI1ODQlMjU5MCUyNWViJTI1YTYlMjVhYyUyNWVjJTI1YTYlMjU5OCUyNWVjJTI1OWQlMjU4MC0lMjVlYiUyNWFjJTI1YjQlMjVlYyUyNTk3JTI1ODclMjVlYyUyNTljJTI1YmMlMjVlYiUyNWExJTI1OWM",
       "title": "[현장] AI가 뉴스를 요약하는 시대, 저널리즘은 무엇으로 살아남나",
       "source": "Tech42",
@@ -6234,91 +6324,6 @@
       "excerpt": "The post AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare appeared first on NOEMA.",
       "tags": [
         "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1uZXh0LXVzLXByZXNpZGVudGlhbC1lbGVjdGlvbi13aWxsLWJlLWFib3V0LWFp",
-      "title": "The Next US Presidential Election Will Be About AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-next-us-presidential-election-will-be-about-ai",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-06-09T16:08:56.000Z",
-      "readingMinutes": 4,
-      "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Next US Presidential Election Will Be About AI appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNi8xMTM5NzYwL2hlYXQtd2F2ZXMtbWVzcy13aXRoLXlvdXItYnJhaW4tc2NpZW50aXN0cy1hcmUtdHJ5aW5nLXRvLWZpZ3VyZS1vdXQtd2h5Lw",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-26T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "It’s been hot in London this week. Really hot. A dangerous heat wave has hit Western Europe. Yesterday, the UK recorded its highest ever June temperature at 36.1 °C (about 97 °F). But as the weather app on my phone confirmed, it felt like 3",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNS8xMTM5Njk2L2libS11bnZlaWxzLXN1YjFubS1jaGlwLw",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-      "thumbnailUrl": null,
-      "author": "Sophia Chen",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "IBM has built a new prototype chip with around 100 billion transistors on an area the size of a fingernail, which is twice the density of the company’s previous state-of-the-art technology announced in 2021. The design could pave the way fo",
-      "tags": [
-        "mit-technology-review",
-        "computing",
-        "app",
-        "summary"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yNC8xMTM5NjIxL3N0cmlwZS1hbnRocm9waWMtYW5kLW9wZW5haS1hcmUtYmFja2luZy1hbi1lZmZvcnQtdG8tc3RvcC1yZXNwaXJhdG9yeS1pbmZlY3Rpb25zLw",
-      "title": "Stripe, Anthropic, and OpenAI are backing an effort to stop respiratory infections",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
-      "thumbnailUrl": null,
-      "author": "Antonio Regalado",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 95,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The common cold comes for us all—often more than once a year. And there is no way to prevent it. The best you can do is take vitamin C and stay away from people with the sniffles. Now the payment company Stripe, founded by brothers Patrick ",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
       ],
       "isNew": false
     }
