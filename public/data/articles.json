@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-07-01T23:59:41.033Z",
+  "fetchedAt": "2026-07-02T23:53:46.048Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWQlODElYjQlZWIlOWQlYmMlZWMlOWElYjAlZWIlOTMlOWMtJWVjJThiJTljJWVjJTllJWE1LSVlYyVhMCU4NCVlYSViMiVhOS0lZWMlYTclODQlZWMlYjYlOWMlZWQlOTUlOTglZWIlYTklYjAtJWVjJTk1JTg0JWViJWE3JTg4JWVjJWExJWI0JWMyJWI3JWVhJWI1JWFjJWVhJWI4JTgwJWVjJTk3JTkwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy0lMjVlYyUyNThiJTI1OWMlMjVlYyUyNTllJTI1YTUtJTI1ZWMlMjVhMCUyNTg0JTI1ZWElMjViMiUyNWE5LSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YjYlMjU5YyUyNWVkJTI1OTUlMjU5OCUyNWViJTI1YTklMjViMC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE3JTI1ODglMjVlYyUyNWExJTI1YjQlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwJTI1ZWMlMjU5NyUyNTkw",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FtZXJpY2EtYXQtMjUw",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMi8xMTQwMDI3L3RoZS1kb3dubG9hZC1haS1ncm91cHRoaW5rLWxsbXMv",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLW1hY2hpbmVzLWRlc2VydmUtb3VyLWNvbnNpZGVyYXRpb24",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4NCViOCVlYyU5ZCViYyVlYyVhNiU4OCVlZCU4ZiVhYyVlYyU4YSVhNC1haS0lZWElYjMlYTAlZWElYjAlOWQlZWMlODQlOWMlZWIlYjklODQlZWMlOGElYTQtJWVjJTg0JWIxJWVhJWIzJWJjLSVlYSViMyViYyVlYSViOCU4OC0lZWMlOGIlYTQlZWQlOTclOTgtJWViJWIzJWI4JWVhJWIyJWE5JWVkJTk5JTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4NCUyNWI4JTI1ZWMlMjU5ZCUyNWJjJTI1ZWMlMjVhNiUyNTg4JTI1ZWQlMjU4ZiUyNWFjJTI1ZWMlMjU4YSUyNWE0LWFpLSUyNWVhJTI1YjMlMjVhMCUyNWVhJTI1YjAlMjU5ZCUyNWVjJTI1ODQlMjU5YyUyNWViJTI1YjklMjU4NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTg0JTI1YjElMjVlYSUyNWIzJTI1YmMtJTI1ZWElMjViMyUyNWJjJTI1ZWElMjViOCUyNTg4LSUyNWVjJTI1OGIlMjVhNCUyNWVkJTI1OTclMjU5OC0lMjVlYiUyNWIzJTI1YjglMjVlYSUyNWIyJTI1YTklMjVlZCUyNTk5JTI1OTQ",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzI5L2ltcG9ydC1haS00NjMtc2VsZi1pbXByb3Zpbmctcm9ib3RzLWEtMTBrLWNoaW5lc2UtZ3B1LWNsdXN0ZXItYW5kLWFuLWVsZWdpYWMtZXNzYXktZm9yLXRoZS1odW1hbi1lcmEv"
   ],
@@ -106,27 +106,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-01T14:35:16.000Z",
-      "readingMinutes": 4,
-      "score": 112,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and yo",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
       "title": "Co-Existence and the End of Co-Intelligence",
       "source": "One Useful Thing",
@@ -200,7 +179,7 @@
       "tags": [
         "one-useful-thing"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -288,6 +267,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-01T14:35:16.000Z",
+      "readingMinutes": 4,
+      "score": 108,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and yo",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
       "title": "Import AI 453: Breaking AI agents; MirrorCode; and ten views on gradual disempowerment",
       "source": "Import AI",
@@ -350,26 +351,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzI5L2ltcG9ydC1haS00NjMtc2VsZi1pbXByb3Zpbmctcm9ib3RzLWEtMTBrLWNoaW5lc2UtZ3B1LWNsdXN0ZXItYW5kLWFuLWVsZWdpYWMtZXNzYXktZm9yLXRoZS1odW1hbi1lcmEv",
-      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Andj0c.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Deep Essay",
-      "publishedAt": "2026-06-29T13:03:27.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now NVIDIA sets up a crude self-improvement loop for real worl",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wMi8xMTM4MjI3L2hvdy1zbWFsbC1idXNpbmVzc2VzLWNhbi1sZXZlcmFnZS1haS8",
       "title": "How small businesses can leverage AI",
       "source": "MIT Technology Review",
@@ -429,6 +410,26 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMi8xMTQwMDI3L3RoZS1kb3dubG9hZC1haS1ncm91cHRoaW5rLWxsbXMv",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-02T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
@@ -626,6 +627,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4NCViOCVlYyU5ZCViYyVlYyVhNiU4OCVlZCU4ZiVhYyVlYyU4YSVhNC1haS0lZWElYjMlYTAlZWElYjAlOWQlZWMlODQlOWMlZWIlYjklODQlZWMlOGElYTQtJWVjJTg0JWIxJWVhJWIzJWJjLSVlYSViMyViYyVlYSViOCU4OC0lZWMlOGIlYTQlZWQlOTclOTgtJWViJWIzJWI4JWVhJWIyJWE5JWVkJTk5JTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4NCUyNWI4JTI1ZWMlMjU5ZCUyNWJjJTI1ZWMlMjVhNiUyNTg4JTI1ZWQlMjU4ZiUyNWFjJTI1ZWMlMjU4YSUyNWE0LWFpLSUyNWVhJTI1YjMlMjVhMCUyNWVhJTI1YjAlMjU5ZCUyNWVjJTI1ODQlMjU5YyUyNWViJTI1YjklMjU4NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTg0JTI1YjElMjVlYSUyNWIzJTI1YmMtJTI1ZWElMjViMyUyNWJjJTI1ZWElMjViOCUyNTg4LSUyNWVjJTI1OGIlMjVhNCUyNWVkJTI1OTclMjU5OC0lMjVlYiUyNWIzJTI1YjglMjVlYSUyNWIyJTI1YTklMjVlZCUyNTk5JTI1OTQ",
+      "title": "세일즈포스, AI 고객서비스 ‘성과 과금’ 실험 본격화…에이전트포스 헬프 에이전트 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-ai-%ea%b3%a0%ea%b0%9d%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%84%b1%ea%b3%bc-%ea%b3%bc%ea%b8%88-%ec%8b%a4%ed%97%98-%eb%b3%b8%ea%b2%a9%ed%99%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2584%25b8%25ec%259d%25bc%25ec%25a6%2588%25ed%258f%25ac%25ec%258a%25a4-ai-%25ea%25b3%25a0%25ea%25b0%259d%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4-%25ec%2584%25b1%25ea%25b3%25bc-%25ea%25b3%25bc%25ea%25b8%2588-%25ec%258b%25a4%25ed%2597%2598-%25eb%25b3%25b8%25ea%25b2%25a9%25ed%2599%2594",
+      "thumbnailUrl": null,
+      "author": "조상돈 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-02T00:21:11.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "세일즈포스는 고객서비스용 AI 에이전트 구축과 운영을 지원하는 ‘에이전트포스 헬프 에이전트(Agentforce Help Agent)’를 공개했다고 2일 밝혔다.",
+      "tags": [
+        "tech42",
+        "테크놀로지",
+        "ai 고객서비스",
+        "성과 과금"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yOS8xMTM5ODQ5L2FpLWFnZW50cy1hcmUtbm90LXlvdXItY293b3JrZXJzLw",
@@ -1386,26 +1409,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTM5OTk2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLXNjaWVuY2UtY2FsaWZvcm5pYS1jYXJib24tbWFudXJlLw",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-01T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biote",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8zMC8xMTM5OTU0L3RoZS1kb3dubG9hZC1haS1hZ2VudHMtY293b3JrZXJzLXNvbGFyLXBvd2VyZWQtaW50ZXJuZXQv",
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "source": "MIT Technology Review",
@@ -1423,7 +1426,27 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzI5L2ltcG9ydC1haS00NjMtc2VsZi1pbXByb3Zpbmctcm9ib3RzLWEtMTBrLWNoaW5lc2UtZ3B1LWNsdXN0ZXItYW5kLWFuLWVsZWdpYWMtZXNzYXktZm9yLXRoZS1odW1hbi1lcmEv",
+      "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/06/29/import-ai-463-self-improving-robots-a-10k-chinese-gpu-cluster-and-an-elegiac-essay-for-the-human-era/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Andj0c.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Deep Essay",
+      "publishedAt": "2026-06-29T13:03:27.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now NVIDIA sets up a crude self-improvement loop for real worl",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xOS8xMTM5MzEzL2Etc3RhcnR1cC1jbGFpbXMtaXQtYnJva2UtdGhyb3VnaC1hLWJvdHRsZW5lY2stdGhhdHMtaG9sZGluZy1iYWNrLWxsbXMv",
@@ -2278,6 +2301,46 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLW1hY2hpbmVzLWRlc2VydmUtb3VyLWNvbnNpZGVyYXRpb24",
+      "title": "When The Machines Deserve Our Consideration",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/when-the-machines-deserve-our-consideration",
+      "thumbnailUrl": null,
+      "author": "Grigori Guitchounts",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-02T13:43:59.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post When The Machines Deserve Our Consideration appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4NCVlYyU5ZCViNCVlZCU4ZiViMCVlYiViMyViNCVlYiU4YiVhNC0lZWMlOTYlODclZWIlOGIlYTQlZWMlOGElYTQlZWQlOGUlOTglZWMlOWQlYjQlZWMlOGElYTR4LSVlYiViOSU4NCVlYiViMCU4MC1haS0lZWElYjglYjAlZWElYjglYjAtJWVjJThiJTljJWVjJTk3JWIwJWVjJTg0JWE0JWVjJTk3JTkwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4ZiUyNWIwJTI1ZWIlMjViMyUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTYlMjU4NyUyNWViJTI1OGIlMjVhNCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OGElMjVhNHgtJTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjViMCUyNTgwLWFpLSUyNWVhJTI1YjglMjViMCUyNWVhJTI1YjglMjViMC0lMjVlYyUyNThiJTI1OWMlMjVlYyUyNTk3JTI1YjAlMjVlYyUyNTg0JTI1YTQlMjVlYyUyNTk3JTI1OTA",
+      "title": "\"아이폰보다 얇다\"…스페이스X 비밀 AI 기기 시연설에 머스크 전면 부인",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%95%84%ec%9d%b4%ed%8f%b0%eb%b3%b4%eb%8b%a4-%ec%96%87%eb%8b%a4%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4x-%eb%b9%84%eb%b0%80-ai-%ea%b8%b0%ea%b8%b0-%ec%8b%9c%ec%97%b0%ec%84%a4%ec%97%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ec%259d%25b4%25ed%258f%25b0%25eb%25b3%25b4%25eb%258b%25a4-%25ec%2596%2587%25eb%258b%25a4%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4x-%25eb%25b9%2584%25eb%25b0%2580-ai-%25ea%25b8%25b0%25ea%25b8%25b0-%25ec%258b%259c%25ec%2597%25b0%25ec%2584%25a4%25ec%2597%2590",
+      "thumbnailUrl": null,
+      "author": "김한수 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-02T00:17:15.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "글로벌 우주 기업 스페이스X가 투자자들을 대상으로 스마트폰과 유사한 형태의 휴대용 인공지능(AI) 기기 시연회를 열었다는 주장이 제기되며 빅테크 업계가 격렬하게 요동치고 있다.",
+      "tags": [
+        "tech42",
+        "비즈니스",
+        "스페이스x"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWQlODElYjQlZWIlOWQlYmMlZWMlOWElYjAlZWIlOTMlOWMtJWVjJThiJTljJWVjJTllJWE1LSVlYyVhMCU4NCVlYSViMiVhOS0lZWMlYTclODQlZWMlYjYlOWMlZWQlOTUlOTglZWIlYTklYjAtJWVjJTk1JTg0JWViJWE3JTg4JWVjJWExJWI0JWMyJWI3JWVhJWI1JWFjJWVhJWI4JTgwJWVjJTk3JTkwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy0lMjVlYyUyNThiJTI1OWMlMjVlYyUyNTllJTI1YTUtJTI1ZWMlMjVhMCUyNTg0JTI1ZWElMjViMiUyNWE5LSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YjYlMjU5YyUyNWVkJTI1OTUlMjU5OCUyNWViJTI1YTklMjViMC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE3JTI1ODglMjVlYyUyNWExJTI1YjQlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwJTI1ZWMlMjU5NyUyNTkw",
       "title": "메타, 클라우드 시장 전격 진출하며 아마존·구글에 도전장",
       "source": "Tech42",
@@ -2318,25 +2381,6 @@
         "ai요약",
         "스페이스x",
         "일론머스크"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FtZXJpY2EtYXQtMjUw",
-      "title": "America At 250 & Beyond",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/america-at-250",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-01T16:32:35.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post America At 250 & Beyond appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": true
     },
@@ -4569,6 +4613,26 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTM5OTk2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLXNjaWVuY2UtY2FsaWZvcm5pYS1jYXJib24tbWFudXJlLw",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-01T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biote",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlYiVhYSVhOCVlYiVhNiVhYy0lZWMlYjklYTktJWVkJTk1JTk4JWViJTgyJTk4JWViJWExJTljLSVlYiVhOSU5NCVlZCU4MyU4MCVjMiViNyVlZCU4NSU4YyVlYyU4YSVhYyVlYiU5ZCViYy0lZWIlYjAlOWYlZWMlOTUlOTglZWIlOGIlYTQlZWIlYTclODglZWMlOWQlYjQlZWQlODElYWMlZWIlYTElYTAtYWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlYiUyNWFhJTI1YTglMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjViOSUyNWE5LSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1ODIlMjU5OCUyNWViJTI1YTElMjU5Yy0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAlMjVjMiUyNWI3JTI1ZWQlMjU4NSUyNThjJTI1ZWMlMjU4YSUyNWFjJTI1ZWIlMjU5ZCUyNWJjLSUyNWViJTI1YjAlMjU5ZiUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYyUyNWViJTI1YTElMjVhMC1haQ",
       "title": "'메모리 칩 하나로 메타·테슬라 밟았다'…마이크론, AI 광풍에 시총 1.4조 달러 돌파",
       "source": "Tech42",
@@ -5677,7 +5741,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWMlYTAlODQlZWIlYTAlYTUlYzIlYjclZWIlODMlODklZWElYjAlODElYzIlYjclZWIlYjMlYjQlZWMlOTUlODglZWIlYjYlODAlZWQlODQlYjAtJWViJWExJTljJWViJWI0JTg3JWMyJWI3JWViJWIwJTk0JWVjJTlkJWI0JWVjJTk4JWE0JWVhJWI5JThjJWVjJWE3JTgwLWthaXN0LSVlYiU5NCVhNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNS0lMjVlYyUyNWEwJTI1ODQlMjVlYiUyNWEwJTI1YTUlMjVjMiUyNWI3JTI1ZWIlMjU4MyUyNTg5JTI1ZWElMjViMCUyNTgxJTI1YzIlMjViNyUyNWViJTI1YjMlMjViNCUyNWVjJTI1OTUlMjU4OCUyNWViJTI1YjYlMjU4MCUyNWVkJTI1ODQlMjViMC0lMjVlYiUyNWExJTI1OWMlMjVlYiUyNWI0JTI1ODclMjVjMiUyNWI3JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE0JTI1ZWElMjViOSUyNThjJTI1ZWMlMjVhNyUyNTgwLWthaXN0LSUyNWViJTI1OTQlMjVhNQ",
@@ -5718,46 +5782,6 @@
       "tags": [
         "stratechery",
         "this week in stratechery"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS13aWxsLWNoYW5nZS11cw",
-      "title": "How AI Will Change Us",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/how-ai-will-change-us",
-      "thumbnailUrl": null,
-      "author": "Houda Nait El Barj",
-      "category": "Philosophy",
-      "publishedAt": "2026-06-25T13:36:16.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How AI Will Change Us appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1maWdtYS1jZW8tZHlsYW4tZmllbGQtYWJvdXQtZGVzaWduLWFuZC1haS8",
-      "title": "An Interview with Figma CEO Dylan Field About Design and AI",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-figma-ceo-dylan-field-about-design-and-ai/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An interview with Figma CEO Dylan Field about building Figma, and why he believes AI gives the company a tailwind.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
       ],
       "isNew": false
     },
@@ -6310,25 +6334,6 @@
         "artificial intelligence",
         "app",
         "summary"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MjgzNTU",
-      "title": "Show GN: Spring AI Playground - MCP 툴 작성부터 테스트, 외부 연동까지 지원하는 데스크톱 앱",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=28355",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-04-09T14:25:51.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "안녕하세요. 최근 Claude Code나 Cursor 같은 AI 에이전트의 도움을 받아 MCP(Model Context Protocol) 툴 코드를 작성하고 활용하는 사례가 많아졌습니다. 하지만 막상 작성된 툴 코드를 실제 환경에서 돌려보고 검증하려고 하면 답답한 순간이 많았습니다. 이 툴이 정말 제대로 동작하는가?</l",
-      "tags": [
-        "geeknews"
       ],
       "isNew": true
     }
