@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-03T23:53:34.909Z",
+  "fetchedAt": "2026-07-04T23:50:42.749Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMy8xMTQwMTM0L3RoZS1kb3dubG9hZC11ay1zbW9raW5nLWJhbi1lbGl6YWJldGgtYmVhci1zdG9yeS8",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlODIlYmMlZWMlODQlYjElZWMlYTAlODQlZWMlOWUlOTAlZWMlOTklODAtJWVjJTg2JTkwJWVjJTllJWExJWViJTgyJTk4LSVlYyU5ZSU5MCVlYyViMiViNC1haS0lZWMlYjklYTktJWVhJWIwJTljJWViJWIwJTljLSVlYyU5YyU4NCVlZCU5NSU5Yy0lZWIlYWMlYmMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThhJTI1YjglMjVlYiUyNWExJTI1OWMlMjVlZCUyNTk0JTI1YmQtJTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5ZSUyNTkwJTI1ZWMlMjU5OSUyNTgwLSUyNWVjJTI1ODYlMjU5MCUyNWVjJTI1OWUlMjVhMSUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTllJTI1OTAlMjVlYyUyNWIyJTI1YjQtYWktJTI1ZWMlMjViOSUyNWE5LSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjU5Yy0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTk1JTI1OWMtJTI1ZWIlMjVhYyUyNWJj",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLW1hY2hpbmVzLWRlc2VydmUtb3VyLWNvbnNpZGVyYXRpb24",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzI5L2ltcG9ydC1haS00NjMtc2VsZi1pbXByb3Zpbmctcm9ib3RzLWEtMTBrLWNoaW5lc2UtZ3B1LWNsdXN0ZXItYW5kLWFuLWVsZWdpYWMtZXNzYXktZm9yLXRoZS1odW1hbi1lcmEv",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzI5L2ltcG9ydC1haS00NjMtc2VsZi1pbXByb3Zpbmctcm9ib3RzLWEtMTBrLWNoaW5lc2UtZ3B1LWNsdXN0ZXItYW5kLWFuLWVsZWdpYWMtZXNzYXktZm9yLXRoZS1odW1hbi1lcmEv"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -244,28 +244,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
-      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-01T14:35:16.000Z",
-      "readingMinutes": 4,
-      "score": 108,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and yo",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "summary"
       ],
       "isNew": false
     },
@@ -884,26 +862,26 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlODIlYmMlZWMlODQlYjElZWMlYTAlODQlZWMlOWUlOTAlZWMlOTklODAtJWVjJTg2JTkwJWVjJTllJWExJWViJTgyJTk4LSVlYyU5ZSU5MCVlYyViMiViNC1haS0lZWMlYjklYTktJWVhJWIwJTljJWViJWIwJTljLSVlYyU5YyU4NCVlZCU5NSU5Yy0lZWIlYWMlYmMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThhJTI1YjglMjVlYiUyNWExJTI1OWMlMjVlZCUyNTk0JTI1YmQtJTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5ZSUyNTkwJTI1ZWMlMjU5OSUyNTgwLSUyNWVjJTI1ODYlMjU5MCUyNWVjJTI1OWUlMjVhMSUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTllJTI1OTAlMjVlYyUyNWIyJTI1YjQtYWktJTI1ZWMlMjViOSUyNWE5LSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjU5Yy0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTk1JTI1OWMtJTI1ZWIlMjVhYyUyNWJj",
-      "title": "앤트로픽, 삼성전자와 손잡나… 자체 AI 칩 개발 위한 물밑 협상 본격화",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90%ec%99%80-%ec%86%90%ec%9e%a1%eb%82%98-%ec%9e%90%ec%b2%b4-ai-%ec%b9%a9-%ea%b0%9c%eb%b0%9c-%ec%9c%84%ed%95%9c-%eb%ac%bc/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%2582%25bc%25ec%2584%25b1%25ec%25a0%2584%25ec%259e%2590%25ec%2599%2580-%25ec%2586%2590%25ec%259e%25a1%25eb%2582%2598-%25ec%259e%2590%25ec%25b2%25b4-ai-%25ec%25b9%25a9-%25ea%25b0%259c%25eb%25b0%259c-%25ec%259c%2584%25ed%2595%259c-%25eb%25ac%25bc",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
       "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-03T00:34:44.000Z",
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-01T14:35:16.000Z",
       "readingMinutes": 4,
       "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능 챗봇 '클로드(Claude)'를 만든 앤트로픽(Anthropic)이 삼성전자와 자체 AI 반도체 개발을 위한 협력 방안을 논의 중인 것으로 확인됐다.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and yo",
       "tags": [
-        "tech42",
-        "비즈니스",
-        "반도체",
-        "삼성전자"
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlYiVhNyU4OCVlZCU4YSViOCVlZCU4ZiViMC0lZWQlODYlYjUlZWMlYTAlOWMlZWQlOTUlOTglZWIlOGElOTQtYWktJWVjJThiJTljJWViJThjJTgwLSVlYyU5NyViNCVlYiVhMCViOCVlYiU4YiVhNG9wZW5jbGF3LSVlYiVhYSVhOCVlYiViMCU5NCVlYyU5ZCViYy0lZWMlOTUlYjEtJWVjJWEwJTg0JWVhJWIyJWE5Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWIlMjVhNyUyNTg4JTI1ZWQlMjU4YSUyNWI4JTI1ZWQlMjU4ZiUyNWIwLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGElMjU5NC1haS0lMjVlYyUyNThiJTI1OWMlMjVlYiUyNThjJTI1ODAtJTI1ZWMlMjU5NyUyNWI0JTI1ZWIlMjVhMCUyNWI4JTI1ZWIlMjU4YiUyNWE0b3BlbmNsYXctJTI1ZWIlMjVhYSUyNWE4JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWJjLSUyNWVjJTI1OTUlMjViMS0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTk",
@@ -1717,48 +1695,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMy8xMTQwMTM0L3RoZS1kb3dubG9hZC11ay1zbW9raW5nLWJhbi1lbGl6YWJldGgtYmVhci1zdG9yeS8",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-03T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the p",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMy8xMTQwMDM2L3VrLXRvYmFjY28tYmFuLW1pZ2h0LW5vdC13b3JrLWNoaWxkcmVuLXNtb2tpbmcv",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-03T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutel",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMi8xMTQwMDI3L3RoZS1kb3dubG9hZC1haS1ncm91cHRoaW5rLWxsbXMv",
       "title": "The Download: a startup has a solution for AI’s groupthink problem",
       "source": "MIT Technology Review",
@@ -1776,7 +1712,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8xNi8xMTM5MDEwL3RoZS1kb3dubG9hZC1icmFpbi1pbXBsYW50LXBvd2VyLXVzZXItYmNpLXNvdXRoLWtvcmVhLWFpLW9ic2Vzc2lvbi8",
@@ -2365,24 +2301,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NC0lZWIlOGYlODUlZWMlYTAlOTAtJWVhJWI5JWFjJWViJThiJWE0JWVjJTk1JWE0JWVkJThhJWI4JWViJWExJTljJWVkJTk0JWJkLSVlYyU4MiViYyVlYyU4NCViMSVlYSViMyViYy0lZWMlODYlOTAlZWMlOWUlYTElZWElYjMlYTAtJWVjJTllJTkwJWVjJWIyJWI0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0JTI1ZWMlMjU5NSUyNTg0LSUyNWViJTI1OGYlMjU4NSUyNWVjJTI1YTAlMjU5MC0lMjVlYSUyNWI5JTI1YWMlMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThhJTI1YjglMjVlYiUyNWExJTI1OWMlMjVlZCUyNTk0JTI1YmQtJTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWElMjViMyUyNWJjLSUyNWVjJTI1ODYlMjU5MCUyNWVjJTI1OWUlMjVhMSUyNWVhJTI1YjMlMjVhMC0lMjVlYyUyNTllJTI1OTAlMjVlYyUyNWIyJTI1YjQ",
-      "title": "엔비디아 독점 깬다…앤트로픽, 삼성과 손잡고 자체 ‘AI 칩’ 개발 착수",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlODIlYmMlZWMlODQlYjElZWMlYTAlODQlZWMlOWUlOTAlZWMlOTklODAtJWVjJTg2JTkwJWVjJTllJWExJWViJTgyJTk4LSVlYyU5ZSU5MCVlYyViMiViNC1haS0lZWMlYjklYTktJWVhJWIwJTljJWViJWIwJTljLSVlYyU5YyU4NCVlZCU5NSU5Yy0lZWIlYWMlYmMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThhJTI1YjglMjVlYiUyNWExJTI1OWMlMjVlZCUyNTk0JTI1YmQtJTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5ZSUyNTkwJTI1ZWMlMjU5OSUyNTgwLSUyNWVjJTI1ODYlMjU5MCUyNWVjJTI1OWUlMjVhMSUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTllJTI1OTAlMjVlYyUyNWIyJTI1YjQtYWktJTI1ZWMlMjViOSUyNWE5LSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjU5Yy0lMjVlYyUyNTljJTI1ODQlMjVlZCUyNTk1JTI1OWMtJTI1ZWIlMjVhYyUyNWJj",
+      "title": "앤트로픽, 삼성전자와 손잡나… 자체 AI 칩 개발 위한 물밑 협상 본격화",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%8f%85%ec%a0%90-%ea%b9%ac%eb%8b%a4%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%82%bc%ec%84%b1%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ec%9e%90%ec%b2%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584-%25eb%258f%2585%25ec%25a0%2590-%25ea%25b9%25ac%25eb%258b%25a4%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%2582%25bc%25ec%2584%25b1%25ea%25b3%25bc-%25ec%2586%2590%25ec%259e%25a1%25ea%25b3%25a0-%25ec%259e%2590%25ec%25b2%25b4",
+      "articleUrl": "https://www.tech42.co.kr/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%82%bc%ec%84%b1%ec%a0%84%ec%9e%90%ec%99%80-%ec%86%90%ec%9e%a1%eb%82%98-%ec%9e%90%ec%b2%b4-ai-%ec%b9%a9-%ea%b0%9c%eb%b0%9c-%ec%9c%84%ed%95%9c-%eb%ac%bc/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%2582%25bc%25ec%2584%25b1%25ec%25a0%2584%25ec%259e%2590%25ec%2599%2580-%25ec%2586%2590%25ec%259e%25a1%25eb%2582%2598-%25ec%259e%2590%25ec%25b2%25b4-ai-%25ec%25b9%25a9-%25ea%25b0%259c%25eb%25b0%259c-%25ec%259c%2584%25ed%2595%259c-%25eb%25ac%25bc",
       "thumbnailUrl": null,
-      "author": "버트",
+      "author": "김한수 기자",
       "category": "AI + Korea",
-      "publishedAt": "2026-07-03T00:23:11.000Z",
+      "publishedAt": "2026-07-03T00:34:44.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능(AI) 스타트업 앤스로픽이 반도체 공급 부족 사태에 대응하고 독점 체제인 엔비디아 의존도를 낮추기 위해 삼성전자와 손을 잡는다.",
+      "excerpt": "인공지능 챗봇 '클로드(Claude)'를 만든 앤트로픽(Anthropic)이 삼성전자와 자체 AI 반도체 개발을 위한 협력 방안을 논의 중인 것으로 확인됐다.",
       "tags": [
         "tech42",
-        "ai요약",
-        "ai칩",
-        "앤트로픽"
+        "비즈니스",
+        "반도체",
+        "삼성전자"
       ],
       "isNew": true
     },
@@ -4680,26 +4616,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTM5OTk2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLXNjaWVuY2UtY2FsaWZvcm5pYS1jYXJib24tbWFudXJlLw",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-01T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biote",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlYiVhYSVhOCVlYiVhNiVhYy0lZWMlYjklYTktJWVkJTk1JTk4JWViJTgyJTk4JWViJWExJTljLSVlYiVhOSU5NCVlZCU4MyU4MCVjMiViNyVlZCU4NSU4YyVlYyU4YSVhYyVlYiU5ZCViYy0lZWIlYjAlOWYlZWMlOTUlOTglZWIlOGIlYTQlZWIlYTclODglZWMlOWQlYjQlZWQlODElYWMlZWIlYTElYTAtYWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlYiUyNWFhJTI1YTglMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjViOSUyNWE5LSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1ODIlMjU5OCUyNWViJTI1YTElMjU5Yy0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAlMjVjMiUyNWI3JTI1ZWQlMjU4NSUyNThjJTI1ZWMlMjU4YSUyNWFjJTI1ZWIlMjU5ZCUyNWJjLSUyNWViJTI1YjAlMjU5ZiUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYyUyNWViJTI1YTElMjVhMC1haQ",
       "title": "'메모리 칩 하나로 메타·테슬라 밟았다'…마이크론, AI 광풍에 시총 1.4조 달러 돌파",
       "source": "Tech42",
@@ -5789,6 +5705,48 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMy8xMTQwMTM0L3RoZS1kb3dubG9hZC11ay1zbW9raW5nLWJhbi1lbGl6YWJldGgtYmVhci1zdG9yeS8",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-03T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the p",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMy8xMTQwMDM2L3VrLXRvYmFjY28tYmFuLW1pZ2h0LW5vdC13b3JrLWNoaWxkcmVuLXNtb2tpbmcv",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-03T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutel",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "summary"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWMlYTAlODQlZWIlYTAlYTUlYzIlYjclZWIlODMlODklZWElYjAlODElYzIlYjclZWIlYjMlYjQlZWMlOTUlODglZWIlYjYlODAlZWQlODQlYjAtJWViJWExJTljJWViJWI0JTg3JWMyJWI3JWViJWIwJTk0JWVjJTlkJWI0JWVjJTk4JWE0JWVhJWI5JThjJWVjJWE3JTgwLWthaXN0LSVlYiU5NCVhNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNS0lMjVlYyUyNWEwJTI1ODQlMjVlYiUyNWEwJTI1YTUlMjVjMiUyNWI3JTI1ZWIlMjU4MyUyNTg5JTI1ZWElMjViMCUyNTgxJTI1YzIlMjViNyUyNWViJTI1YjMlMjViNCUyNWVjJTI1OTUlMjU4OCUyNWViJTI1YjYlMjU4MCUyNWVkJTI1ODQlMjViMC0lMjVlYiUyNWExJTI1OWMlMjVlYiUyNWI0JTI1ODclMjVjMiUyNWI3JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE0JTI1ZWElMjViOSUyNThjJTI1ZWMlMjVhNyUyNTgwLWthaXN0LSUyNWViJTI1OTQlMjVhNQ",
       "title": "[현장] 전력·냉각·보안부터 로봇·바이오까지… KAIST 딥테크 스타트업이 제시한 AI 시대 생존 전략",
       "source": "Tech42",
@@ -6337,6 +6295,47 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NC0lZWIlOGYlODUlZWMlYTAlOTAtJWVhJWI5JWFjJWViJThiJWE0JWVjJTk1JWE0JWVkJThhJWI4JWViJWExJTljJWVkJTk0JWJkLSVlYyU4MiViYyVlYyU4NCViMSVlYSViMyViYy0lZWMlODYlOTAlZWMlOWUlYTElZWElYjMlYTAtJWVjJTllJTkwJWVjJWIyJWI0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0JTI1ZWMlMjU5NSUyNTg0LSUyNWViJTI1OGYlMjU4NSUyNWVjJTI1YTAlMjU5MC0lMjVlYSUyNWI5JTI1YWMlMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThhJTI1YjglMjVlYiUyNWExJTI1OWMlMjVlZCUyNTk0JTI1YmQtJTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWElMjViMyUyNWJjLSUyNWVjJTI1ODYlMjU5MCUyNWVjJTI1OWUlMjVhMSUyNWVhJTI1YjMlMjVhMC0lMjVlYyUyNTllJTI1OTAlMjVlYyUyNWIyJTI1YjQ",
+      "title": "엔비디아 독점 깬다…앤트로픽, 삼성과 손잡고 자체 ‘AI 칩’ 개발 착수",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%8f%85%ec%a0%90-%ea%b9%ac%eb%8b%a4%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%82%bc%ec%84%b1%ea%b3%bc-%ec%86%90%ec%9e%a1%ea%b3%a0-%ec%9e%90%ec%b2%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584-%25eb%258f%2585%25ec%25a0%2590-%25ea%25b9%25ac%25eb%258b%25a4%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%2582%25bc%25ec%2584%25b1%25ea%25b3%25bc-%25ec%2586%2590%25ec%259e%25a1%25ea%25b3%25a0-%25ec%259e%2590%25ec%25b2%25b4",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-03T00:23:11.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능(AI) 스타트업 앤스로픽이 반도체 공급 부족 사태에 대응하고 독점 체제인 엔비디아 의존도를 낮추기 위해 삼성전자와 손을 잡는다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai칩",
+        "앤트로픽"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLW1hY2hpbmVzLWRlc2VydmUtb3VyLWNvbnNpZGVyYXRpb24",
+      "title": "When The Machines Deserve Our Consideration",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/when-the-machines-deserve-our-consideration",
+      "thumbnailUrl": null,
+      "author": "Grigori Guitchounts",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-02T13:43:59.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post When The Machines Deserve Our Consideration appeared first on NOEMA.",
+      "tags": [
+        "noema"
       ],
       "isNew": false
     }
