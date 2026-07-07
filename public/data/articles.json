@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-06T23:55:31.813Z",
+  "fetchedAt": "2026-07-07T23:43:26.302Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMTc2L3lvdXItZmFtaWx5cy0zMDAtc3Rha2UtaW4tb3BlbmFpLw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4MSViNCVlYiVhMSU5YyVlYiU5MyU5Yy0lZWMlYmQlOTQlZWIlOTMlOWMtJWViJWFhJWIwJWVjJTk1JTg0JWViJTgyJWI4LSVlYyU5NSU4YyVlYiVhNiVhYyVlYiViMCU5NCVlYiViMCU5NGFpLSVlZCU5NCU4YyVlYiU5ZSVhYiVlZCU4ZiViYy0lZWMlOWQlYjQlZWMlYTAlOWMlZWIlOGElOTQtJWVhJWI1JWFkLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU4MSUyNWI0JTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTMlMjU5Yy0lMjVlYiUyNWFhJTI1YjAlMjVlYyUyNTk1JTI1ODQlMjVlYiUyNTgyJTI1YjgtJTI1ZWMlMjU5NSUyNThjJTI1ZWIlMjVhNiUyNWFjJTI1ZWIlMjViMCUyNTk0JTI1ZWIlMjViMCUyNTk0YWktJTI1ZWQlMjU5NCUyNThjJTI1ZWIlMjU5ZSUyNWFiJTI1ZWQlMjU4ZiUyNWJjLSUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU5YyUyNWViJTI1OGElMjU5NC0lMjVlYSUyNWI1JTI1YWQ",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3Bha2lzdGFucy1yaXNlLXRvLWEtbWlkZGxlLXBvd2Vy",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNy8xMTQwMTk3L3RoZS1kb3dubG9hZC15b3VyLW9wZW5haS1zdGFrZS10cmVhc3VyeS1haS13YXJuaW5nLw",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLXNjcmlwdC1mb3ItbWFyay16dWNrZXJiZXJnLw",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLzUlZWMlYjQlODgtJWViJWE3JThjJWVjJTk3JTkwLWFpLSVlYyU4YSVhYyVlYiVhMSVhZC0lZWMlYTclODAlZWMlOWIlYTAlZWIlOGIlYTQlZWIlYTAlODglZWIlOTQlYTctYWktJWVjJThhJWE0JWVkJThjJWI4JWVhJWIzJWJjJWVjJTlkJTk4LSVlYyVhMCU4NCVlYyU5ZiU4MSVlYyU4NCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPTUlMjVlYyUyNWI0JTI1ODgtJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5NyUyNTkwLWFpLSUyNWVjJTI1OGElMjVhYyUyNWViJTI1YTElMjVhZC0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTliJTI1YTAlMjVlYiUyNThiJTI1YTQlMjVlYiUyNWEwJTI1ODglMjVlYiUyNTk0JTI1YTctYWktJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YyUyNWI4JTI1ZWElMjViMyUyNWJjJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWYlMjU4MSUyNWVjJTI1ODQlMjU5Yw",
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzEyMDE"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -161,26 +161,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
-      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-07-06T12:31:05.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -588,44 +568,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMTc2L3lvdXItZmFtaWx5cy0zMDAtc3Rha2UtaW4tb3BlbmFpLw",
-      "title": "Your family’s $300 stake in OpenAI",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-      "thumbnailUrl": null,
-      "author": "James O'Donnell",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-06T18:00:00.000Z",
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-07-06T12:31:05.000Z",
       "readingMinutes": 4,
       "score": 105,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was i",
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
       "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMTcyL3RoZS1kb3dubG9hZC1zb3V0aC1rb3JlYS1haS1jaGlwd29ya2Vycy1leWUtdHJhbnNwbGFudHMv",
-      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-06T13:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean s",
-      "tags": [
-        "mit-technology-review",
-        "the download"
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": true
     },
@@ -650,25 +608,6 @@
         "성과 과금"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
-      "title": "The twilight of the chatbots",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-06-30T22:18:12.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "How work changes along the exponential",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yOS8xMTM5ODQ5L2FpLWFnZW50cy1hcmUtbm90LXlvdXItY293b3JrZXJzLw",
@@ -922,6 +861,25 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3Bha2lzdGFucy1yaXNlLXRvLWEtbWlkZGxlLXBvd2Vy",
+      "title": "Pakistan’s Rise To A Middle Power",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/pakistans-rise-to-a-middle-power",
+      "thumbnailUrl": null,
+      "author": "Bina Shah",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-07T16:13:45.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Pakistan’s Rise To A Middle Power appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
@@ -1451,6 +1409,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNy8xMTQwMTk3L3RoZS1kb3dubG9hZC15b3VyLW9wZW5haS1zdGFrZS10cmVhc3VyeS1haS13YXJuaW5nLw",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-07T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth cre",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
+      "title": "The twilight of the chatbots",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-twilight-of-the-chatbots",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-06-30T22:18:12.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "How work changes along the exponential",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8zMC8xMTM5OTU0L3RoZS1kb3dubG9hZC1haS1hZ2VudHMtY293b3JrZXJzLXNvbGFyLXBvd2VyZWQtaW50ZXJuZXQv",
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "source": "MIT Technology Review",
@@ -1874,6 +1871,70 @@
         "space",
         "app",
         "mit technology review explains"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLzUlZWMlYjQlODgtJWViJWE3JThjJWVjJTk3JTkwLWFpLSVlYyU4YSVhYyVlYiVhMSVhZC0lZWMlYTclODAlZWMlOWIlYTAlZWIlOGIlYTQlZWIlYTAlODglZWIlOTQlYTctYWktJWVjJThhJWE0JWVkJThjJWI4JWVhJWIzJWJjJWVjJTlkJTk4LSVlYyVhMCU4NCVlYyU5ZiU4MSVlYyU4NCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPTUlMjVlYyUyNWI0JTI1ODgtJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5NyUyNTkwLWFpLSUyNWVjJTI1OGElMjVhYyUyNWViJTI1YTElMjVhZC0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTliJTI1YTAlMjVlYiUyNThiJTI1YTQlMjVlYiUyNWEwJTI1ODglMjVlYiUyNTk0JTI1YTctYWktJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YyUyNWI4JTI1ZWElMjViMyUyNWJjJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWYlMjU4MSUyNWVjJTI1ODQlMjU5Yw",
+      "title": "5초 만에 ‘AI 슬롭’ 지웠다…레딧, AI 스팸과의 전쟁서 압승",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/5%ec%b4%88-%eb%a7%8c%ec%97%90-ai-%ec%8a%ac%eb%a1%ad-%ec%a7%80%ec%9b%a0%eb%8b%a4%eb%a0%88%eb%94%a7-ai-%ec%8a%a4%ed%8c%b8%ea%b3%bc%ec%9d%98-%ec%a0%84%ec%9f%81%ec%84%9c/?utm_source=rss&utm_medium=rss&utm_campaign=5%25ec%25b4%2588-%25eb%25a7%258c%25ec%2597%2590-ai-%25ec%258a%25ac%25eb%25a1%25ad-%25ec%25a7%2580%25ec%259b%25a0%25eb%258b%25a4%25eb%25a0%2588%25eb%2594%25a7-ai-%25ec%258a%25a4%25ed%258c%25b8%25ea%25b3%25bc%25ec%259d%2598-%25ec%25a0%2584%25ec%259f%2581%25ec%2584%259c",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-07T00:28:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "글로벌 대형 온라인 커뮤니티 플랫폼 ‘레딧(Reddit)’이 거대언어모델(LLM)을 활용한 악성 AI 스팸 콘텐츠와의 전쟁에서 압도적인 성과를 거두었다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai 스팸",
+        "레딧"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMTc2L3lvdXItZmFtaWx5cy0zMDAtc3Rha2UtaW4tb3BlbmFpLw",
+      "title": "Your family’s $300 stake in OpenAI",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "thumbnailUrl": null,
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-06T18:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. OpenAI CEO Sam Altman’s oft-discussed promise that Americans will share in the wealth AI creates was i",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMTcyL3RoZS1kb3dubG9hZC1zb3V0aC1rb3JlYS1haS1jaGlwd29ya2Vycy1leWUtdHJhbnNwbGFudHMv",
+      "title": "The Download: South Korea’s hottest bachelors, and advancing eye transplants",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-06T13:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. South Korea’s hottest new bachelors are chip workers Baek, a 35-year-old manager at the South Korean s",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     },
@@ -2341,6 +2402,70 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLXNjcmlwdC1mb3ItbWFyay16dWNrZXJiZXJnLw",
+      "title": "A Script for Mark Zuckerberg",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-07T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5MCVlYyU5ZCViNCVlYiViOSU4NCVlYyU5ZCViYyVlZCU4YyU5NCVlYSViMyViNS1tZ3MyNi0lZWMlOTclYjAlZWMlODIlYWMtJWViJTlkJWJjJWVjJTlkJWI4JWVjJTk3JTg1LSVlYSViMyViNSVlYSViMCU5Y2FpJWViJWExJTljLSVlYiViMCU5NCVlYiU4MCU4YyVlYiU4YSU5NC0lZWMlODQlYjElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTlkJTI1YmMlMjVlZCUyNThjJTI1OTQlMjVlYSUyNWIzJTI1YjUtbWdzMjYtJTI1ZWMlMjU5NyUyNWIwJTI1ZWMlMjU4MiUyNWFjLSUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWQlMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWNhaSUyNWViJTI1YTElMjU5Yy0lMjVlYiUyNWIwJTI1OTQlMjVlYiUyNTgwJTI1OGMlMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjU5ZSUyNWE1",
+      "title": "에이비일팔공, MGS26 연사 라인업 공개…AI로 바뀌는 성장 전략 다룬다",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%97%90%ec%9d%b4%eb%b9%84%ec%9d%bc%ed%8c%94%ea%b3%b5-mgs26-%ec%97%b0%ec%82%ac-%eb%9d%bc%ec%9d%b8%ec%97%85-%ea%b3%b5%ea%b0%9cai%eb%a1%9c-%eb%b0%94%eb%80%8c%eb%8a%94-%ec%84%b1%ec%9e%a5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2590%25ec%259d%25b4%25eb%25b9%2584%25ec%259d%25bc%25ed%258c%2594%25ea%25b3%25b5-mgs26-%25ec%2597%25b0%25ec%2582%25ac-%25eb%259d%25bc%25ec%259d%25b8%25ec%2597%2585-%25ea%25b3%25b5%25ea%25b0%259cai%25eb%25a1%259c-%25eb%25b0%2594%25eb%2580%258c%25eb%258a%2594-%25ec%2584%25b1%25ec%259e%25a5",
+      "thumbnailUrl": null,
+      "author": "김광우 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-07T00:49:19.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "21일 웨스틴 서울 파르나스서 개최…올해 7회째 메인·플레이 2개 트랙서 27개 세션 운영 OpenAI·삼성전자·크래프톤·컬리·무신사 등 국내외 기업 참여 AI 기반 마케팅...",
+      "tags": [
+        "tech42",
+        "디지털마케팅",
+        "mgs26",
+        "무신사"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWElYjIlODAlZWMlODMlODktJWViJWFmJWI4JWViJTk0JTk0JWVjJTk2JWI0JWViJWExJTljLWFpLSVlYiVhYyViNCVlYiU4YiVhOC0lZWQlOTUlOTklZWMlOGElYjUtJWViJTg1JWJjJWViJTllJTgwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWVhJTI1YjIlMjU4MCUyNWVjJTI1ODMlMjU4OS0lMjVlYiUyNWFmJTI1YjglMjVlYiUyNTk0JTI1OTQlMjVlYyUyNTk2JTI1YjQlMjVlYiUyNWExJTI1OWMtYWktJTI1ZWIlMjVhYyUyNWI0JTI1ZWIlMjU4YiUyNWE4LSUyNWVkJTI1OTUlMjU5OSUyNWVjJTI1OGElMjViNS0lMjVlYiUyNTg1JTI1YmMlMjVlYiUyNTllJTI1ODA",
+      "title": "구글, 검색 미디어로 AI 무단 학습 논란",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89-%eb%af%b8%eb%94%94%ec%96%b4%eb%a1%9c-ai-%eb%ac%b4%eb%8b%a8-%ed%95%99%ec%8a%b5-%eb%85%bc%eb%9e%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ac%25ea%25b8%2580-%25ea%25b2%2580%25ec%2583%2589-%25eb%25af%25b8%25eb%2594%2594%25ec%2596%25b4%25eb%25a1%259c-ai-%25eb%25ac%25b4%25eb%258b%25a8-%25ed%2595%2599%25ec%258a%25b5-%25eb%2585%25bc%25eb%259e%2580",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-07T00:18:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "구글이 사용자가 검색 도중에 업로드한 이미지와 오디오 등 개인 미디어 데이터를 자사 인공지능(AI) 플랫폼 학습에 활용하도록 시스템을 전격 변경한 것으로 확인됐다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "구글",
+        "무단 학습"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4MSViNCVlYiVhMSU5YyVlYiU5MyU5Yy0lZWMlYmQlOTQlZWIlOTMlOWMtJWViJWFhJWIwJWVjJTk1JTg0JWViJTgyJWI4LSVlYyU5NSU4YyVlYiVhNiVhYyVlYiViMCU5NCVlYiViMCU5NGFpLSVlZCU5NCU4YyVlYiU5ZSVhYiVlZCU4ZiViYy0lZWMlOWQlYjQlZWMlYTAlOWMlZWIlOGElOTQtJWVhJWI1JWFkLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU4MSUyNWI0JTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTMlMjU5Yy0lMjVlYiUyNWFhJTI1YjAlMjVlYyUyNTk1JTI1ODQlMjVlYiUyNTgyJTI1YjgtJTI1ZWMlMjU5NSUyNThjJTI1ZWIlMjVhNiUyNWFjJTI1ZWIlMjViMCUyNTk0JTI1ZWIlMjViMCUyNTk0YWktJTI1ZWQlMjU5NCUyNThjJTI1ZWIlMjU5ZSUyNWFiJTI1ZWQlMjU4ZiUyNWJjLSUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU5YyUyNWViJTI1OGElMjU5NC0lMjVlYSUyNWI1JTI1YWQ",
@@ -4702,28 +4827,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMDAwL3NvdXRoLWtvcmVhLWJhY2hlbG9ycy1zYW1zdW5nLXNraHluaXgtY2hpcC13b3JrZXJzLw",
-      "title": "South Korea’s hottest new bachelors are chip workers",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-06T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Baek, a 35-year-old manager at the South Korean semiconductor titan SK Hynix, was enrolled in Sunoo, a matchmaking company based in Seoul, a year ago. In a move typical of anxious South Korean parents, his mother signed him up, hoping to fi",
-      "tags": [
-        "mit-technology-review",
-        "culture",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYSViMiViZCVlYyU5ZiU4MSVlYyU5ZCU4MC0lZWIlYWElYTglZWIlOGQlYjgtJWViJWIwJTk2JWVjJTk3JTkwJWVjJTg0JTljLSVlYSViMCU4OCVlYiVhNiViMCVlYiU4YiVhNCVlZCU5NSViNCVlYyU5OSViOCVlYSViMCU4MC0lZWIlYjAlOTQlZWIlOWQlYmMlZWIlYjMlYjQlZWIlOGElOTQtJWVkJTk1JTljJWVhJWI1JWFkLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWktJTI1ZWElMjViMiUyNWJkJTI1ZWMlMjU5ZiUyNTgxJTI1ZWMlMjU5ZCUyNTgwLSUyNWViJTI1YWElMjVhOCUyNWViJTI1OGQlMjViOC0lMjVlYiUyNWIwJTI1OTYlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWElMjViMCUyNTg4JTI1ZWIlMjVhNiUyNWIwJTI1ZWIlMjU4YiUyNWE0JTI1ZWQlMjU5NSUyNWI0JTI1ZWMlMjU5OSUyNWI4JTI1ZWElMjViMCUyNTgwLSUyNWViJTI1YjAlMjU5NCUyNWViJTI1OWQlMjViYyUyNWViJTI1YjMlMjViNCUyNWViJTI1OGElMjU5NC0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQ",
       "title": "AI 경쟁은 모델 밖에서 갈린다…해외가 바라보는 한국 ‘반도체·데이터센터·피지컬 AI’ 베팅",
       "source": "Tech42",
@@ -6127,6 +6230,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzEyMDE",
+      "title": "Anthropic이 개발자 호감을 잃는 몇 가지 방법",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=31201",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Work",
+      "publishedAt": "2026-07-07T01:54:12.000Z",
+      "readingMinutes": 4,
+      "score": 97,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "Anthropic은 Claude 구독을 자사 도구 중심 체계에 묶고 제3자 에이전트 사용에 별도 과금을 붙이면서, 개발자가 기대한 구독 가치와 실제 사용 조건 사이의 간극을 키움 Claude 구독 사용처는 Claude Code CLI/Desktop, Claude CoWork, Slack의 @Claude 등으로 제한되고, Vertex AI...",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4",
       "title": "\"LLM이 아니라 '현장'이 답\"…버티컬 AI IPO, 왜 지금 주목받나",
       "source": "Tech42",
@@ -6211,137 +6333,6 @@
         "테드 창"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yOS8xMTM4MDkzL3RoZS1kZWFkbHktZWJvbGEtb3V0YnJlYWstaXMtcHJvdmluZy1kaWZmaWN1bHQtdG8tY29udHJvbC8",
-      "title": "The deadly Ebola outbreak is proving difficult to control",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-29T11:19:52.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The alert was raised on May 5. Four health-care workers in the Ituri Province of the Democratic Republic of the Congo had died from an unknown illness within four days. Rapid response teams were sent to investigate, and tests at a research ",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMi8xMTM3ODEzL2dvb2dsZS1pLW8tc2hvd2VkLWhvdy10aGUtcGF0aC1mb3ItYWktc2NpZW5jZS1pcy1zaGlmdGluZy8",
-      "title": "Google I/O showed how the path for AI-driven science is shifting",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-22T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "During Tuesday’s Google I/O keynote, Demis Hassabis, the CEO of Google DeepMind, proclaimed that we are currently “standing in the foothills of the singularity.” It was a striking statement—the singularity is the theoretical future moment w",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xOC8xMTM3NDM5L3doYXQtdG8tZXhwZWN0LWZyb20tZ29vZ2xlLXRoaXMtd2Vlay8",
-      "title": "What to expect from Google this week",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/18/1137439/what-to-expect-from-google-this-week/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-18T17:35:43.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. When Google opens its doors tomorrow for its annual developer conference, I/O, it will do so as a clea",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xOC8xMTM3NDEyL2luc2lkZS1hbmR1cmlsLWFuZC1tZXRhcy1xdWVzdC10by1tYWtlLXNtYXJ0LWdsYXNzZXMtZm9yLXdhcmZhcmUv",
-      "title": "Inside Anduril and Meta’s quest to make smart glasses for warfare",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/18/1137412/inside-anduril-and-metas-quest-to-make-smart-glasses-for-warfare/",
-      "thumbnailUrl": null,
-      "author": "James O'Donnell",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-18T16:01:39.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The defense-tech company Anduril has shared new details about the augmented-reality headset for the military it’s prototyping with Meta, including a vision for ordering drone strikes via eye-tracking and voice commands. Quay Barnett, who le",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xNS8xMTM3MzU3L211c2stdi1hbHRtYW4td2Vlay0zLw",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-15T23:39:35.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Update: On Monday May 18, the jury sided with OpenAI, delivering an advisory verdict finding that Musk’s claims are barred by the statute of limitations. US District Judge Yvonne Gonzalez Rogers accepted the verdict. In the final week of th",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8xMS8xMTM3MDkwL3RocmVlLXRoaW5ncy1pbi1haS10by13YXRjaC1hY2NvcmRpbmctdG8tYS1ub2JlbC13aW5uaW5nLWVjb25vbWlzdC8",
-      "title": "Three things in AI to watch, according to a Nobel-winning economist",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
-      "thumbnailUrl": null,
-      "author": "James O'Donnell",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-11T17:35:12.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. A few months before he was awarded the Nobel Prize in economics in 2024, Daron Acemoglu published a pa",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
     }
   ]
 }
