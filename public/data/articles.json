@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-07T23:43:26.302Z",
+  "fetchedAt": "2026-07-08T23:57:43.309Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWQlOTQlYmMlZWMlYTclODAlZWMlYmIlYWMtYWktJWVjJTgyJWFjJWVhJWIzJWEwLSVlYSViOCViMCVlYyVhMSViNC0lZWIlYjIlOTUlZWMlYjIlYjQlZWElYjMlODQlZWIlYTElOWMlZWIlOGElOTQtJWVkJTk1JTljJWVhJWIzJTg0LSVlYyViMSU4NS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNS0lMjVlZCUyNTk0JTI1YmMlMjVlYyUyNWE3JTI1ODAlMjVlYyUyNWJiJTI1YWMtYWktJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMyUyNWEwLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1YTElMjViNC0lMjVlYiUyNWIyJTI1OTUlMjVlYyUyNWIyJTI1YjQlMjVlYSUyNWIzJTI1ODQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNThhJTI1OTQtJTI1ZWQlMjU5NSUyNTljJTI1ZWElMjViMyUyNTg0LSUyNWVjJTI1YjElMjU4NQ",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LWN1dHMtYnVuZGxpbmctYW5kLXRoZS1pbnRlcm5ldC1zb2x2ZW50LXRyYW5zYWN0aW9uLWNvb3JkaW5hdGlvbi1hbmQtc3Vuay1jb3N0cy8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wOC8xMTQwMjE2L3RoZS1kb3dubG9hZC13b3Jtcy1tYW51cmUtcG9sbHV0aW9uLWdlb2VuZ2luZWVyaW5nLXJlYWxpdHktY2hlY2sv",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3Bha2lzdGFucy1yaXNlLXRvLWEtbWlkZGxlLXBvd2Vy",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNy8xMTQwMTk3L3RoZS1kb3dubG9hZC15b3VyLW9wZW5haS1zdGFrZS10cmVhc3VyeS1haS13YXJuaW5nLw",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLXNjcmlwdC1mb3ItbWFyay16dWNrZXJiZXJnLw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLzUlZWMlYjQlODgtJWViJWE3JThjJWVjJTk3JTkwLWFpLSVlYyU4YSVhYyVlYiVhMSVhZC0lZWMlYTclODAlZWMlOWIlYTAlZWIlOGIlYTQlZWIlYTAlODglZWIlOTQlYTctYWktJWVjJThhJWE0JWVkJThjJWI4JWVhJWIzJWJjJWVjJTlkJTk4LSVlYyVhMCU4NCVlYyU5ZiU4MSVlYyU4NCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPTUlMjVlYyUyNWI0JTI1ODgtJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5NyUyNTkwLWFpLSUyNWVjJTI1OGElMjVhYyUyNWViJTI1YTElMjVhZC0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTliJTI1YTAlMjVlYiUyNThiJTI1YTQlMjVlYiUyNWEwJTI1ODglMjVlYiUyNTk0JTI1YTctYWktJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YyUyNWI4JTI1ZWElMjViMyUyNWJjJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWYlMjU4MSUyNWVjJTI1ODQlMjU5Yw",
     "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzEyMDE"
   ],
   "sourceCount": 9,
@@ -371,6 +371,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LWN1dHMtYnVuZGxpbmctYW5kLXRoZS1pbnRlcm5ldC1zb2x2ZW50LXRyYW5zYWN0aW9uLWNvb3JkaW5hdGlvbi1hbmQtc3Vuay1jb3N0cy8",
+      "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-08T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
       "title": "Import AI 461: “Alignment is not on track”; FrontierCode; and synthetic research interns",
       "source": "Import AI",
@@ -585,7 +605,7 @@
         "import-ai",
         "uncategorized"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4NCViOCVlYyU5ZCViYyVlYyVhNiU4OCVlZCU4ZiVhYyVlYyU4YSVhNC1haS0lZWElYjMlYTAlZWElYjAlOWQlZWMlODQlOWMlZWIlYjklODQlZWMlOGElYTQtJWVjJTg0JWIxJWVhJWIzJWJjLSVlYSViMyViYyVlYSViOCU4OC0lZWMlOGIlYTQlZWQlOTclOTgtJWViJWIzJWI4JWVhJWIyJWE5JWVkJTk5JTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4NCUyNWI4JTI1ZWMlMjU5ZCUyNWJjJTI1ZWMlMjVhNiUyNTg4JTI1ZWQlMjU4ZiUyNWFjJTI1ZWMlMjU4YSUyNWE0LWFpLSUyNWVhJTI1YjMlMjVhMCUyNWVhJTI1YjAlMjU5ZCUyNWVjJTI1ODQlMjU5YyUyNWViJTI1YjklMjU4NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTg0JTI1YjElMjVlYSUyNWIzJTI1YmMtJTI1ZWElMjViMyUyNWJjJTI1ZWElMjViOCUyNTg4LSUyNWVjJTI1OGIlMjVhNCUyNWVkJTI1OTclMjU5OC0lMjVlYiUyNWIzJTI1YjglMjVlYSUyNWIyJTI1YTklMjVlZCUyNTk5JTI1OTQ",
@@ -861,25 +881,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3Bha2lzdGFucy1yaXNlLXRvLWEtbWlkZGxlLXBvd2Vy",
-      "title": "Pakistan’s Rise To A Middle Power",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/pakistans-rise-to-a-middle-power",
-      "thumbnailUrl": null,
-      "author": "Bina Shah",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-07T16:13:45.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Pakistan’s Rise To A Middle Power appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
@@ -1409,26 +1410,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNy8xMTQwMTk3L3RoZS1kb3dubG9hZC15b3VyLW9wZW5haS1zdGFrZS10cmVhc3VyeS1haS13YXJuaW5nLw",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-07T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth cre",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
       "title": "The twilight of the chatbots",
       "source": "One Useful Thing",
@@ -1916,7 +1897,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNi8xMTQwMTcyL3RoZS1kb3dubG9hZC1zb3V0aC1rb3JlYS1haS1jaGlwd29ya2Vycy1leWUtdHJhbnNwbGFudHMv",
@@ -1936,7 +1917,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzI5L2ltcG9ydC1haS00NjMtc2VsZi1pbXByb3Zpbmctcm9ib3RzLWEtMTBrLWNoaW5lc2UtZ3B1LWNsdXN0ZXItYW5kLWFuLWVsZWdpYWMtZXNzYXktZm9yLXRoZS1odW1hbi1lcmEv",
@@ -2404,22 +2385,65 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLXNjcmlwdC1mb3ItbWFyay16dWNrZXJiZXJnLw",
-      "title": "A Script for Mark Zuckerberg",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/a-script-for-mark-zuckerberg/",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU5NCU5NCVlYyU5ZSU5MCVlYyU5ZCViOC0lZWIlODQlOTglZWMlOTYlYjQtJWVjJWJkJTk0JWViJTk0JWE5JWVhJWI5JThjJWVjJWE3JTgwJWVkJTk0JWJjJWVhJWI3JWI4JWViJWE3JTg4LWFpLSVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YSViOC0lZWMlOGElYTQlZWQlODMlODAlZWQlOGElYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNTllJTI1OTAlMjVlYyUyNTlkJTI1YjgtJTI1ZWIlMjU4NCUyNTk4JTI1ZWMlMjU5NiUyNWI0LSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTQlMjVhOSUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MCUyNWVkJTI1OTQlMjViYyUyNWVhJTI1YjclMjViOCUyNWViJTI1YTclMjU4OC1haS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4",
+      "title": "\"디자인 넘어 코딩까지\"…피그마, AI 에이전트 스타트업 '버드' 전격 인수",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%94%94%ec%9e%90%ec%9d%b8-%eb%84%98%ec%96%b4-%ec%bd%94%eb%94%a9%ea%b9%8c%ec%a7%80%ed%94%bc%ea%b7%b8%eb%a7%88-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ed%83%80%ed%8a%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2594%2594%25ec%259e%2590%25ec%259d%25b8-%25eb%2584%2598%25ec%2596%25b4-%25ec%25bd%2594%25eb%2594%25a9%25ea%25b9%258c%25ec%25a7%2580%25ed%2594%25bc%25ea%25b7%25b8%25eb%25a7%2588-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-07T10:00:00.000Z",
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-08T00:25:31.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "A script for what Mark Zuckerberg should say on Meta's next earnings call.",
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "글로벌 디자인 플랫폼 기업 피그마(Figma)가 단순한 시각 디자인 영역을 넘어 실제 소프트웨어 개발 및 프로토타이핑(시제품 제작) 역량을 강화하기 위해 AI 기반의 코딩 에이전트 플랫폼 스타트업 '버드(Bud, 구 오키즈)' 개발팀을 전격 인수했다.",
       "tags": [
-        "stratechery",
-        "articles"
+        "tech42",
+        "ai요약",
+        "디자인",
+        "버드"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWQlYjglZWMlOGElYTQlZWQlODMlODAlYzIlYjclZWMlOTklOTMlZWMlYjglYTAlZWMlOTUlYjEtJWVjJThiJWFjJWVjJTlkJTg0LSVlYyU4MyU4OC1haS0lZWMlOWQlYjQlZWIlYWYlYjglZWMlYTclODAtJWVjJTgzJTlkJWVjJTg0JWIxJWVhJWI4JWIwLSVlYiVhZSVhNCVlYyVhNiU4OC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVjMiUyNWI3JTI1ZWMlMjU5OSUyNTkzJTI1ZWMlMjViOCUyNWEwJTI1ZWMlMjU5NSUyNWIxLSUyNWVjJTI1OGIlMjVhYyUyNWVjJTI1OWQlMjU4NC0lMjVlYyUyNTgzJTI1ODgtYWktJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjVhZiUyNWI4JTI1ZWMlMjVhNyUyNTgwLSUyNWVjJTI1ODMlMjU5ZCUyNWVjJTI1ODQlMjViMSUyNWVhJTI1YjglMjViMC0lMjVlYiUyNWFlJTI1YTQlMjVlYyUyNWE2JTI1ODg",
+      "title": "메타, 인스타·왓츠앱 심을 새 AI 이미지 생성기 '뮤즈' 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a9%94%ed%83%80-%ec%9d%b8%ec%8a%a4%ed%83%80%c2%b7%ec%99%93%ec%b8%a0%ec%95%b1-%ec%8b%ac%ec%9d%84-%ec%83%88-ai-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%83%9d%ec%84%b1%ea%b8%b0-%eb%ae%a4%ec%a6%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%259d%25b8%25ec%258a%25a4%25ed%2583%2580%25c2%25b7%25ec%2599%2593%25ec%25b8%25a0%25ec%2595%25b1-%25ec%258b%25ac%25ec%259d%2584-%25ec%2583%2588-ai-%25ec%259d%25b4%25eb%25af%25b8%25ec%25a7%2580-%25ec%2583%259d%25ec%2584%25b1%25ea%25b8%25b0-%25eb%25ae%25a4%25ec%25a6%2588",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-08T00:13:31.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "메타가 자사 AI 전담 부서인 '메타 초지능 연구소'에서 개발한 새로운 인공지능(AI) 영상 생성 도구 '뮤즈 이미지(Muse Image)'를 전격 공개했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai 이미지 생성기",
+        "메타"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3Bha2lzdGFucy1yaXNlLXRvLWEtbWlkZGxlLXBvd2Vy",
+      "title": "Pakistan’s Rise To A Middle Power",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/pakistans-rise-to-a-middle-power",
+      "thumbnailUrl": null,
+      "author": "Bina Shah",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-07T16:13:45.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Pakistan’s Rise To A Middle Power appeared first on NOEMA.",
+      "tags": [
+        "noema"
       ],
       "isNew": true
     },
@@ -4827,6 +4851,68 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWQlOTQlYmMlZWMlYTclODAlZWMlYmIlYWMtYWktJWVjJTgyJWFjJWVhJWIzJWEwLSVlYSViOCViMCVlYyVhMSViNC0lZWIlYjIlOTUlZWMlYjIlYjQlZWElYjMlODQlZWIlYTElOWMlZWIlOGElOTQtJWVkJTk1JTljJWVhJWIzJTg0LSVlYyViMSU4NS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNS0lMjVlZCUyNTk0JTI1YmMlMjVlYyUyNWE3JTI1ODAlMjVlYyUyNWJiJTI1YWMtYWktJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMyUyNWEwLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1YTElMjViNC0lMjVlYiUyNWIyJTI1OTUlMjVlYyUyNWIyJTI1YjQlMjVlYSUyNWIzJTI1ODQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNThhJTI1OTQtJTI1ZWQlMjU5NSUyNTljJTI1ZWElMjViMyUyNTg0LSUyNWVjJTI1YjElMjU4NQ",
+      "title": "[현장] “피지컬 AI 사고, 기존 법체계로는 한계”… 책임·인증·데이터 거버넌스 재설계 필요",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%82%ac%ea%b3%a0-%ea%b8%b0%ec%a1%b4-%eb%b2%95%ec%b2%b4%ea%b3%84%eb%a1%9c%eb%8a%94-%ed%95%9c%ea%b3%84-%ec%b1%85/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai-%25ec%2582%25ac%25ea%25b3%25a0-%25ea%25b8%25b0%25ec%25a1%25b4-%25eb%25b2%2595%25ec%25b2%25b4%25ea%25b3%2584%25eb%25a1%259c%25eb%258a%2594-%25ed%2595%259c%25ea%25b3%2584-%25ec%25b1%2585",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-08T23:47:14.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "2026 제15회 한국인터넷거버넌스포럼(KrIGF) 보안과 책임 세션에서는 ‘현실 세계로 나온 AI : 피지컬 AI 시대의 책임과 안전, 어떻게 대응할 것인가?’를 주제로 피지컬 AI가 사회에 본격 진입할 때 필요한 책임 구조와 안전 검증 체계를 짚었다.",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "테크놀로지",
+        "2026 제15회 한국인터넷거버넌스포럼(krigf)"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wOC8xMTQwMjE2L3RoZS1kb3dubG9hZC13b3Jtcy1tYW51cmUtcG9sbHV0aW9uLWdlb2VuZ2luZWVyaW5nLXJlYWxpdHktY2hlY2sv",
+      "title": "The Download: worms fight pollution, and geoengineering faces reality",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-08T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Why worms (and microbes) are catching on as a manure pollution solution Anthony Agueda, a third-genera",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wNy8xMTQwMTk3L3RoZS1kb3dubG9hZC15b3VyLW9wZW5haS1zdGFrZS10cmVhc3VyeS1haS13YXJuaW5nLw",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-07T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Your family’s $300 stake in OpenAI Sam Altman’s proposal that Americans should share in the wealth cre",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYSViMiViZCVlYyU5ZiU4MSVlYyU5ZCU4MC0lZWIlYWElYTglZWIlOGQlYjgtJWViJWIwJTk2JWVjJTk3JTkwJWVjJTg0JTljLSVlYSViMCU4OCVlYiVhNiViMCVlYiU4YiVhNCVlZCU5NSViNCVlYyU5OSViOCVlYSViMCU4MC0lZWIlYjAlOTQlZWIlOWQlYmMlZWIlYjMlYjQlZWIlOGElOTQtJWVkJTk1JTljJWVhJWI1JWFkLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWktJTI1ZWElMjViMiUyNWJkJTI1ZWMlMjU5ZiUyNTgxJTI1ZWMlMjU5ZCUyNTgwLSUyNWViJTI1YWElMjVhOCUyNWViJTI1OGQlMjViOC0lMjVlYiUyNWIwJTI1OTYlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWElMjViMCUyNTg4JTI1ZWIlMjVhNiUyNWIwJTI1ZWIlMjU4YiUyNWE0JTI1ZWQlMjU5NSUyNWI0JTI1ZWMlMjU5OSUyNWI4JTI1ZWElMjViMCUyNTgwLSUyNWViJTI1YjAlMjU5NCUyNWViJTI1OWQlMjViYyUyNWViJTI1YjMlMjViNCUyNWViJTI1OGElMjU5NC0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQ",
       "title": "AI 경쟁은 모델 밖에서 갈린다…해외가 바라보는 한국 ‘반도체·데이터센터·피지컬 AI’ 베팅",
       "source": "Tech42",
@@ -6245,92 +6331,6 @@
       "excerpt": "Anthropic은 Claude 구독을 자사 도구 중심 체계에 묶고 제3자 에이전트 사용에 별도 과금을 붙이면서, 개발자가 기대한 구독 가치와 실제 사용 조건 사이의 간극을 키움 Claude 구독 사용처는 Claude Code CLI/Desktop, Claude CoWork, Slack의 @Claude 등으로 제한되고, Vertex AI...",
       "tags": [
         "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2xsbSVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOWQlYmMtJWVkJTk4JTg0JWVjJTllJWE1JWVjJTlkJWI0LSVlYiU4YiViNSVlYiViMiU4NCVlZCU4YiViMCVlYyViYiVhYy1haS1pcG8tJWVjJTk5JTljLSVlYyVhNyU4MCVlYSViOCU4OC0lZWMlYTMlYmMlZWIlYWElYTklZWIlYjAlOWIlZWIlODIlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1sbG0lMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5NSUyNTg0JTI1ZWIlMjU4YiUyNTg4JTI1ZWIlMjU5ZCUyNWJjLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNThiJTI1YjUlMjVlYiUyNWIyJTI1ODQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YWMtYWktaXBvLSUyNWVjJTI1OTklMjU5Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYSUyNWI4JTI1ODgtJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjVhYSUyNWE5JTI1ZWIlMjViMCUyNTliJTI1ZWIlMjU4MiUyNTk4",
-      "title": "\"LLM이 아니라 '현장'이 답\"…버티컬 AI IPO, 왜 지금 주목받나",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/llm%ec%9d%b4-%ec%95%84%eb%8b%88%eb%9d%bc-%ed%98%84%ec%9e%a5%ec%9d%b4-%eb%8b%b5%eb%b2%84%ed%8b%b0%ec%bb%ac-ai-ipo-%ec%99%9c-%ec%a7%80%ea%b8%88-%ec%a3%bc%eb%aa%a9%eb%b0%9b%eb%82%98/?utm_source=rss&utm_medium=rss&utm_campaign=llm%25ec%259d%25b4-%25ec%2595%2584%25eb%258b%2588%25eb%259d%25bc-%25ed%2598%2584%25ec%259e%25a5%25ec%259d%25b4-%25eb%258b%25b5%25eb%25b2%2584%25ed%258b%25b0%25ec%25bb%25ac-ai-ipo-%25ec%2599%259c-%25ec%25a7%2580%25ea%25b8%2588-%25ec%25a3%25bc%25eb%25aa%25a9%25eb%25b0%259b%25eb%2582%2598",
-      "thumbnailUrl": null,
-      "author": "정재엽 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-26T00:51:33.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "매드업(3305대 1)·마키나락스(2807대 1) 등 버티컬 AI 기업들이 2026년 국내 IPO 시장을 주도하고 있다. 범용 LLM 대신 도메인 특화 데이터와 실무 자동화 성과를 앞세운 버티컬 AI의 상장 전략을 분석한다.",
-      "tags": [
-        "tech42",
-        "비즈니스",
-        "ipo",
-        "마키나락스"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yMy8xMTM4MjcxL3NoYXJpbmctYS1sb3ZlLWZvci1jYWxjdWx1cy8",
-      "title": "Sharing a love for calculus",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
-      "thumbnailUrl": null,
-      "author": "Sally Kornbluth",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-23T21:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The national conversation about the value of education is currently dominated by speculation about the risks and positive potential of AI. Whatever your own perspective on that debate, I hope you’ll be glad to know that MIT is also working ",
-      "tags": [
-        "mit-technology-review",
-        "uncategorized",
-        "mit alumni news"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wOS8xMTM4NTgyL2ZpdmUtdGhpbmdzLXlvdS1uZWVkLXRvLWtub3ctYWJvdXQtYWkv",
-      "title": "Five things you need to know about AI",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-09T09:16:45.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "At SXSW London last week I gave a talk called “Five things you need to know about AI,” in which I shared what I think are the biggest themes in AI right now. I pulled a few things from our first AI10 list, an annual guide to the most import",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NSU4ZCVlYyU4YSVhNCVlZCU4YSViOC0lZWMlOWMlYTAlZWMlYjAlYmQlZWQlOTUlYTglZWMlOWQlODAtJWVjJTlkJTk4JWVjJThiJTlkJWVjJTlkJTk4LSVlYyVhNiU5ZCVlYSViMSViMC0lZWMlOTUlODQlZWIlODMlOTAtc2YlZWMlOWUlOTElZWElYjAlODAtJWVjJWEzJWJjJWVjJTllJWE1LSVlYiU4NSViYyVlYyU5ZiU4MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODUlMjU4ZCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNTljJTI1YTAlMjVlYyUyNWIwJTI1YmQlMjVlZCUyNTk1JTI1YTglMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjU5ZCUyNTk4JTI1ZWMlMjU4YiUyNTlkJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1YTYlMjU5ZCUyNWVhJTI1YjElMjViMC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNTgzJTI1OTAtc2YlMjVlYyUyNTllJTI1OTElMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjVhMyUyNWJjJTI1ZWMlMjU5ZSUyNWE1LSUyNWViJTI1ODUlMjViYyUyNWVjJTI1OWYlMjU4MQ",
-      "title": "\"텍스트 유창함은 의식의 증거 아냐\"...SF작가 주장 논쟁",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%85%8d%ec%8a%a4%ed%8a%b8-%ec%9c%a0%ec%b0%bd%ed%95%a8%ec%9d%80-%ec%9d%98%ec%8b%9d%ec%9d%98-%ec%a6%9d%ea%b1%b0-%ec%95%84%eb%83%90-sf%ec%9e%91%ea%b0%80-%ec%a3%bc%ec%9e%a5-%eb%85%bc%ec%9f%81/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2585%258d%25ec%258a%25a4%25ed%258a%25b8-%25ec%259c%25a0%25ec%25b0%25bd%25ed%2595%25a8%25ec%259d%2580-%25ec%259d%2598%25ec%258b%259d%25ec%259d%2598-%25ec%25a6%259d%25ea%25b1%25b0-%25ec%2595%2584%25eb%2583%2590-sf%25ec%259e%2591%25ea%25b0%2580-%25ec%25a3%25bc%25ec%259e%25a5-%25eb%2585%25bc%25ec%259f%2581",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-05T00:06:31.000Z",
-      "readingMinutes": 4,
-      "score": 97,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "SF 작가 테드 창이 디 애틀랜틱에 기고한 글에서 LLM의 유창한 대화는 의식의 증거가 아니며, AI를 도덕적 존재로 취급하면 개발사의 책임 회피로 이어진다고 경고했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "ai",
-        "테드 창"
       ],
       "isNew": true
     }
