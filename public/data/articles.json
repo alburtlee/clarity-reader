@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-10T23:44:59.509Z",
+  "fetchedAt": "2026-07-11T23:40:39.088Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NoaW5hcy1vcGVuLWFpLW1vZGVscy1hcmUtYWR2YW5jaW5nLWl0cy1nbG9iYWwtc29mdC1wb3dlcg",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMC8xMTQwMzE2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWhpZGRlbi1zcGFjZS1vcGVuYWktc3VwZXItYXBwLw",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LW9uLXRoZS1yb2Nrcy8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVlYyU5ZCU5OC1zcGFjZXhhaS0lZWMlOTclYWQlZWIlOGMlODAlZWElYjglODktJWVhJWIwJTgwJWVjJTg0JWIxJWViJWI5JTg0LWdyb2stNC01LSVlYyVhMCU4NCVlYSViMiVhOS0lZWElYjMlYjUlZWElYjAlOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE4JTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgxJTI1YWMlMjVlYyUyNTlkJTI1OTgtc3BhY2V4YWktJTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViOCUyNTg5LSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1ODQlMjViMSUyNWViJTI1YjklMjU4NC1ncm9rLTQtNS0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMCUyNTlj",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLWdwdC01LTYtJWVjJWEwJTk1JWVjJThiJTlkLSVlYyViNiU5YyVlYyU4YiU5Yy0lZWMlOTclODUlZWIlYWMlYjQlZWMlOWElYTktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LSVlYyViMSU5N2dwdC0lZWMlOWIlOGMlZWQlODElYWMtJWVhJWIzJWI1JWVhJWIwJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktZ3B0LTUtNi0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNThiJTI1OWQtJTI1ZWMlMjViNiUyNTljJTI1ZWMlMjU4YiUyNTljLSUyNWVjJTI1OTclMjU4NSUyNWViJTI1YWMlMjViNCUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWMlMjViMSUyNTk3Z3B0LSUyNWVjJTI1OWIlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWM",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v"
   ],
   "sourceCount": 9,
@@ -87,25 +87,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NoaW5hcy1vcGVuLWFpLW1vZGVscy1hcmUtYWR2YW5jaW5nLWl0cy1nbG9iYWwtc29mdC1wb3dlcg",
-      "title": "China’s Open AI Models Are Advancing Its Global Soft Power",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-10T16:02:38.000Z",
-      "readingMinutes": 4,
-      "score": 113,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post China’s Open AI Models Are Advancing Its Global Soft Power appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3Avd2hhdC1pdC1mZWVscy1saWtlLXRvLXdvcmstd2l0aC1teXRob3M",
       "title": "What it feels like to work with Mythos",
       "source": "One Useful Thing",
@@ -163,26 +144,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMC8xMTQwMzE2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWhpZGRlbi1zcGFjZS1vcGVuYWktc3VwZXItYXBwLw",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-10T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the cl",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
       "title": "Claude Code and What Comes Next",
       "source": "One Useful Thing",
@@ -200,6 +161,25 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NoaW5hcy1vcGVuLWFpLW1vZGVscy1hcmUtYWR2YW5jaW5nLWl0cy1nbG9iYWwtc29mdC1wb3dlcg",
+      "title": "China’s Open AI Models Are Advancing Its Global Soft Power",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-10T16:02:38.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post China’s Open AI Models Are Advancing Its Global Soft Power appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -408,6 +388,26 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMC8xMTQwMzE2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWhpZGRlbi1zcGFjZS1vcGVuYWktc3VwZXItYXBwLw",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-10T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the cl",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
@@ -900,7 +900,7 @@
         "artificial intelligence",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMS8xMTQwMDAzL2xsbXMtYXJlLXN0dWNrLWluLWEtZ3JvdXB0aGluay1ydXQtdGhpcy1zdGFydHVwLWlzLXRyeWluZy10by1nZXQtdGhlbS1vdXQv",
@@ -1751,7 +1751,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tdXNlLWltYWdlLWdyb2stNC01LWFsZXgta2FycC1vbi1jbmJjLw",
@@ -1767,26 +1767,6 @@
       "score": 102,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
       "excerpt": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LWN1dHMtYnVuZGxpbmctYW5kLXRoZS1pbnRlcm5ldC1zb2x2ZW50LXRyYW5zYWN0aW9uLWNvb3JkaW5hdGlvbi1hbmQtc3Vuay1jb3N0cy8",
-      "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-08T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
       "tags": [
         "stratechery",
         "daily update"
@@ -2440,114 +2420,6 @@
         "daily update"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LW9uLXRoZS1yb2Nrcy8",
-      "title": "2026.28: XBOX On the Rocks",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/xbox-on-the-rocks/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-10T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVlYyU5ZCU5OC1zcGFjZXhhaS0lZWMlOTclYWQlZWIlOGMlODAlZWElYjglODktJWVhJWIwJTgwJWVjJTg0JWIxJWViJWI5JTg0LWdyb2stNC01LSVlYyVhMCU4NCVlYSViMiVhOS0lZWElYjMlYjUlZWElYjAlOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE4JTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgxJTI1YWMlMjVlYyUyNTlkJTI1OTgtc3BhY2V4YWktJTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViOCUyNTg5LSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1ODQlMjViMSUyNWViJTI1YjklMjU4NC1ncm9rLTQtNS0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMCUyNTlj",
-      "title": "머스크의 SpaceXAI, 역대급 가성비 ‘Grok 4.5’ 전격 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%a8%b8%ec%8a%a4%ed%81%ac%ec%9d%98-spacexai-%ec%97%ad%eb%8c%80%ea%b8%89-%ea%b0%80%ec%84%b1%eb%b9%84-grok-4-5-%ec%a0%84%ea%b2%a9-%ea%b3%b5%ea%b0%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a8%25b8%25ec%258a%25a4%25ed%2581%25ac%25ec%259d%2598-spacexai-%25ec%2597%25ad%25eb%258c%2580%25ea%25b8%2589-%25ea%25b0%2580%25ec%2584%25b1%25eb%25b9%2584-grok-4-5-%25ec%25a0%2584%25ea%25b2%25a9-%25ea%25b3%25b5%25ea%25b0%259c",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-10T00:29:39.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "일론 머스크의 SpaceXAI(구 xAI)가 사명 변경 후 첫 행보로 AI 코딩 기업 커서(Cursor)와 공동 개발한 차세대 인공지능 모델 ‘Grok 4.5’를 전격 출시했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "grok 4.5",
-        "spacexai"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiViNC0lZWMlOWQlYjglZWMlOGElYTQlZWQlODMlODAtJWVjJTgyJWFjJWVjJWE3JTg0JWVjJTljJWJjJWViJWExJTljLSVlYiVhYSViMCVlYiU5ZSU5OC0lZWQlOTUlYTklZWMlODQlYjEtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyVhMCU4NC0lZWMlODQlYjglZWElYjMlODQtJWVhJWIzJTg0JWVjJWEwJTk1Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjU4MiUyNWI0LSUyNWVjJTI1OWQlMjViOCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTgyJTI1YWMlMjVlYyUyNWE3JTI1ODQlMjVlYyUyNTljJTI1YmMlMjVlYiUyNWExJTI1OWMtJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZSUyNTk4LSUyNWVkJTI1OTUlMjVhOSUyNWVjJTI1ODQlMjViMS0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjVhMCUyNTg0LSUyNWVjJTI1ODQlMjViOCUyNWVhJTI1YjMlMjU4NC0lMjVlYSUyNWIzJTI1ODQlMjVlYyUyNWEwJTI1OTU",
-      "title": "“내 인스타 사진으로 몰래 합성?” 메타, 전 세계 계정 ‘AI 도용’ 논란",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%82%b4-%ec%9d%b8%ec%8a%a4%ed%83%80-%ec%82%ac%ec%a7%84%ec%9c%bc%eb%a1%9c-%eb%aa%b0%eb%9e%98-%ed%95%a9%ec%84%b1-%eb%a9%94%ed%83%80-%ec%a0%84-%ec%84%b8%ea%b3%84-%ea%b3%84%ec%a0%95/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%25b4-%25ec%259d%25b8%25ec%258a%25a4%25ed%2583%2580-%25ec%2582%25ac%25ec%25a7%2584%25ec%259c%25bc%25eb%25a1%259c-%25eb%25aa%25b0%25eb%259e%2598-%25ed%2595%25a9%25ec%2584%25b1-%25eb%25a9%2594%25ed%2583%2580-%25ec%25a0%2584-%25ec%2584%25b8%25ea%25b3%2584-%25ea%25b3%2584%25ec%25a0%2595",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-10T00:21:26.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "메타(Meta)가 인스타그램의 모든 공개 계정 사진을 새로운 이미지 생성 인공지능(AI)의 합성 데이터로 강제 활용하기 시작하면서 이용자들의 거센 반발을 사고 있다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "메타",
-        "인스타그램"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViMCU4MCVlYyVhNyU5Yy0lZWMlOWQlYjQlZWIlYWYlYjglZWMlYTclODAtJWVjJTg2JThkJWVjJWE3JTgwLSVlYiVhNyU4OCVlYiU5ZCViYy0lZWElYjUlYWMlZWElYjglODAtJWViJWFhJWE4JWViJTkzJWEwLSVlYSViNCU5MSVlYSViMyVhMCVlYyU5NyU5MC1haS0lZWMlYTAlOWMlZWMlOWUlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWIwJTI1ODAlMjVlYyUyNWE3JTI1OWMtJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjVhZiUyNWI4JTI1ZWMlMjVhNyUyNTgwLSUyNWVjJTI1ODYlMjU4ZCUyNWVjJTI1YTclMjU4MC0lMjVlYiUyNWE3JTI1ODglMjVlYiUyNTlkJTI1YmMtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWViJTI1YWElMjVhOCUyNWViJTI1OTMlMjVhMC0lMjVlYSUyNWI0JTI1OTElMjVlYSUyNWIzJTI1YTAlMjVlYyUyNTk3JTI1OTAtYWktJTI1ZWMlMjVhMCUyNTljJTI1ZWMlMjU5ZSUyNTkx",
-      "title": "“가짜 이미지 속지 마라” 구글, 모든 광고에 ‘AI 제작 표시’ 전격 도입",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ea%b0%80%ec%a7%9c-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%86%8d%ec%a7%80-%eb%a7%88%eb%9d%bc-%ea%b5%ac%ea%b8%80-%eb%aa%a8%eb%93%a0-%ea%b4%91%ea%b3%a0%ec%97%90-ai-%ec%a0%9c%ec%9e%91/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b0%2580%25ec%25a7%259c-%25ec%259d%25b4%25eb%25af%25b8%25ec%25a7%2580-%25ec%2586%258d%25ec%25a7%2580-%25eb%25a7%2588%25eb%259d%25bc-%25ea%25b5%25ac%25ea%25b8%2580-%25eb%25aa%25a8%25eb%2593%25a0-%25ea%25b4%2591%25ea%25b3%25a0%25ec%2597%2590-ai-%25ec%25a0%259c%25ec%259e%2591",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-10T00:05:36.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "구글이 광고 내 생성형 인공지능(AI) 사용 여부를 밝히는 투명성 강화 조치를 전 세계 전역에 전격 도입한다. 소비자가 변형된 광고 미디어에 속지 않고 정확한 구매 결정을 내릴 수 있도록 돕겠다는 취지다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "ai 제작 표기",
-        "구글"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWE3JTg4JWVkJTgxJWFjJWVjJTk1JWE0JWVjJWJiJWI0JWVkJThkJWJjJWViJThiJTg4LSVlYiU4ZCViMCVlYiVhYSVhOCVlYiU4ZCViMCVlYyU5ZCViNC0lZWMlODQlYjElZWIlYTMlOGMlZWIlYWElYTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YTclMjU4OCUyNWVkJTI1ODElMjVhYyUyNWVjJTI1OTUlMjVhNCUyNWVjJTI1YmIlMjViNCUyNWVkJTI1OGQlMjViYyUyNWViJTI1OGIlMjU4OC0lMjVlYiUyNThkJTI1YjAlMjVlYiUyNWFhJTI1YTglMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU4NCUyNWIxJTI1ZWIlMjVhMyUyNThjJTI1ZWIlMjVhYSUyNWE4",
-      "title": "[스타트업 안테나] 마크앤컴퍼니 데모데이 성료…모인·메이사·SBVA 등 글로벌·AI 성과 잇따라",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%a7%88%ed%81%ac%ec%95%a4%ec%bb%b4%ed%8d%bc%eb%8b%88-%eb%8d%b0%eb%aa%a8%eb%8d%b0%ec%9d%b4-%ec%84%b1%eb%a3%8c%eb%aa%a8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%25a7%2588%25ed%2581%25ac%25ec%2595%25a4%25ec%25bb%25b4%25ed%258d%25bc%25eb%258b%2588-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2584%25b1%25eb%25a3%258c%25eb%25aa%25a8",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-10T00:04:37.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "10일 스타트업 생태계 역시 다양한 소식이 전해졌다. 마크앤컴퍼니가 ‘제5회 프라이빗 데모데이’를 열고 로보틱스, 바이오, K-뷰티, 대체에너지, 엔터프라이즈 솔루션 분야 스타트업 9개사를 투자 시장에 소개했다. 이 밖에도 스타트업 업계에서는 글로벌 진출, 인공지능 전환(AX), 산업 안전, 바이오 신약 개발 관련 소식이 이어졌다. 모인은 유럽 전자화폐기관 라이선스를 취득해 유럽 결제 시장 진출 기반을 마련했고, 메이사는 국토",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "sbva",
-        "마크앤컴퍼니"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLWdwdC01LTYtJWVjJWEwJTk1JWVjJThiJTlkLSVlYyViNiU5YyVlYyU4YiU5Yy0lZWMlOTclODUlZWIlYWMlYjQlZWMlOWElYTktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LSVlYyViMSU5N2dwdC0lZWMlOWIlOGMlZWQlODElYWMtJWVhJWIzJWI1JWVhJWIwJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktZ3B0LTUtNi0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNThiJTI1OWQtJTI1ZWMlMjViNiUyNTljJTI1ZWMlMjU4YiUyNTljLSUyNWVjJTI1OTclMjU4NSUyNWViJTI1YWMlMjViNCUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWMlMjViMSUyNTk3Z3B0LSUyNWVjJTI1OWIlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWM",
@@ -6262,6 +6134,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LWN1dHMtYnVuZGxpbmctYW5kLXRoZS1pbnRlcm5ldC1zb2x2ZW50LXRyYW5zYWN0aW9uLWNvb3JkaW5hdGlvbi1hbmQtc3Vuay1jb3N0cy8",
+      "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-08T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMi8xMTQwMDI3L3RoZS1kb3dubG9hZC1haS1ncm91cHRoaW5rLWxsbXMv",
       "title": "The Download: a startup has a solution for AI’s groupthink problem",
       "source": "MIT Technology Review",
@@ -6343,6 +6235,114 @@
         "subscriber-only stories"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LW9uLXRoZS1yb2Nrcy8",
+      "title": "2026.28: XBOX On the Rocks",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/xbox-on-the-rocks/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-10T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of July 6, 2026, including a word from Mark Zuckerberg*, pulling the plug on XBOX, and toilet talk.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVlYyU5ZCU5OC1zcGFjZXhhaS0lZWMlOTclYWQlZWIlOGMlODAlZWElYjglODktJWVhJWIwJTgwJWVjJTg0JWIxJWViJWI5JTg0LWdyb2stNC01LSVlYyVhMCU4NCVlYSViMiVhOS0lZWElYjMlYjUlZWElYjAlOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE4JTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgxJTI1YWMlMjVlYyUyNTlkJTI1OTgtc3BhY2V4YWktJTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViOCUyNTg5LSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1ODQlMjViMSUyNWViJTI1YjklMjU4NC1ncm9rLTQtNS0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMCUyNTlj",
+      "title": "머스크의 SpaceXAI, 역대급 가성비 ‘Grok 4.5’ 전격 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a8%b8%ec%8a%a4%ed%81%ac%ec%9d%98-spacexai-%ec%97%ad%eb%8c%80%ea%b8%89-%ea%b0%80%ec%84%b1%eb%b9%84-grok-4-5-%ec%a0%84%ea%b2%a9-%ea%b3%b5%ea%b0%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a8%25b8%25ec%258a%25a4%25ed%2581%25ac%25ec%259d%2598-spacexai-%25ec%2597%25ad%25eb%258c%2580%25ea%25b8%2589-%25ea%25b0%2580%25ec%2584%25b1%25eb%25b9%2584-grok-4-5-%25ec%25a0%2584%25ea%25b2%25a9-%25ea%25b3%25b5%25ea%25b0%259c",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-10T00:29:39.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "일론 머스크의 SpaceXAI(구 xAI)가 사명 변경 후 첫 행보로 AI 코딩 기업 커서(Cursor)와 공동 개발한 차세대 인공지능 모델 ‘Grok 4.5’를 전격 출시했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "grok 4.5",
+        "spacexai"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiViNC0lZWMlOWQlYjglZWMlOGElYTQlZWQlODMlODAtJWVjJTgyJWFjJWVjJWE3JTg0JWVjJTljJWJjJWViJWExJTljLSVlYiVhYSViMCVlYiU5ZSU5OC0lZWQlOTUlYTklZWMlODQlYjEtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyVhMCU4NC0lZWMlODQlYjglZWElYjMlODQtJWVhJWIzJTg0JWVjJWEwJTk1Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjU4MiUyNWI0LSUyNWVjJTI1OWQlMjViOCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTgyJTI1YWMlMjVlYyUyNWE3JTI1ODQlMjVlYyUyNTljJTI1YmMlMjVlYiUyNWExJTI1OWMtJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZSUyNTk4LSUyNWVkJTI1OTUlMjVhOSUyNWVjJTI1ODQlMjViMS0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjVhMCUyNTg0LSUyNWVjJTI1ODQlMjViOCUyNWVhJTI1YjMlMjU4NC0lMjVlYSUyNWIzJTI1ODQlMjVlYyUyNWEwJTI1OTU",
+      "title": "“내 인스타 사진으로 몰래 합성?” 메타, 전 세계 계정 ‘AI 도용’ 논란",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%82%b4-%ec%9d%b8%ec%8a%a4%ed%83%80-%ec%82%ac%ec%a7%84%ec%9c%bc%eb%a1%9c-%eb%aa%b0%eb%9e%98-%ed%95%a9%ec%84%b1-%eb%a9%94%ed%83%80-%ec%a0%84-%ec%84%b8%ea%b3%84-%ea%b3%84%ec%a0%95/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%25b4-%25ec%259d%25b8%25ec%258a%25a4%25ed%2583%2580-%25ec%2582%25ac%25ec%25a7%2584%25ec%259c%25bc%25eb%25a1%259c-%25eb%25aa%25b0%25eb%259e%2598-%25ed%2595%25a9%25ec%2584%25b1-%25eb%25a9%2594%25ed%2583%2580-%25ec%25a0%2584-%25ec%2584%25b8%25ea%25b3%2584-%25ea%25b3%2584%25ec%25a0%2595",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-10T00:21:26.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "메타(Meta)가 인스타그램의 모든 공개 계정 사진을 새로운 이미지 생성 인공지능(AI)의 합성 데이터로 강제 활용하기 시작하면서 이용자들의 거센 반발을 사고 있다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "메타",
+        "인스타그램"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViMCU4MCVlYyVhNyU5Yy0lZWMlOWQlYjQlZWIlYWYlYjglZWMlYTclODAtJWVjJTg2JThkJWVjJWE3JTgwLSVlYiVhNyU4OCVlYiU5ZCViYy0lZWElYjUlYWMlZWElYjglODAtJWViJWFhJWE4JWViJTkzJWEwLSVlYSViNCU5MSVlYSViMyVhMCVlYyU5NyU5MC1haS0lZWMlYTAlOWMlZWMlOWUlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWIwJTI1ODAlMjVlYyUyNWE3JTI1OWMtJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjVhZiUyNWI4JTI1ZWMlMjVhNyUyNTgwLSUyNWVjJTI1ODYlMjU4ZCUyNWVjJTI1YTclMjU4MC0lMjVlYiUyNWE3JTI1ODglMjVlYiUyNTlkJTI1YmMtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWViJTI1YWElMjVhOCUyNWViJTI1OTMlMjVhMC0lMjVlYSUyNWI0JTI1OTElMjVlYSUyNWIzJTI1YTAlMjVlYyUyNTk3JTI1OTAtYWktJTI1ZWMlMjVhMCUyNTljJTI1ZWMlMjU5ZSUyNTkx",
+      "title": "“가짜 이미지 속지 마라” 구글, 모든 광고에 ‘AI 제작 표시’ 전격 도입",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ea%b0%80%ec%a7%9c-%ec%9d%b4%eb%af%b8%ec%a7%80-%ec%86%8d%ec%a7%80-%eb%a7%88%eb%9d%bc-%ea%b5%ac%ea%b8%80-%eb%aa%a8%eb%93%a0-%ea%b4%91%ea%b3%a0%ec%97%90-ai-%ec%a0%9c%ec%9e%91/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b0%2580%25ec%25a7%259c-%25ec%259d%25b4%25eb%25af%25b8%25ec%25a7%2580-%25ec%2586%258d%25ec%25a7%2580-%25eb%25a7%2588%25eb%259d%25bc-%25ea%25b5%25ac%25ea%25b8%2580-%25eb%25aa%25a8%25eb%2593%25a0-%25ea%25b4%2591%25ea%25b3%25a0%25ec%2597%2590-ai-%25ec%25a0%259c%25ec%259e%2591",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-10T00:05:36.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "구글이 광고 내 생성형 인공지능(AI) 사용 여부를 밝히는 투명성 강화 조치를 전 세계 전역에 전격 도입한다. 소비자가 변형된 광고 미디어에 속지 않고 정확한 구매 결정을 내릴 수 있도록 돕겠다는 취지다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai 제작 표기",
+        "구글"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWE3JTg4JWVkJTgxJWFjJWVjJTk1JWE0JWVjJWJiJWI0JWVkJThkJWJjJWViJThiJTg4LSVlYiU4ZCViMCVlYiVhYSVhOCVlYiU4ZCViMCVlYyU5ZCViNC0lZWMlODQlYjElZWIlYTMlOGMlZWIlYWElYTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YTclMjU4OCUyNWVkJTI1ODElMjVhYyUyNWVjJTI1OTUlMjVhNCUyNWVjJTI1YmIlMjViNCUyNWVkJTI1OGQlMjViYyUyNWViJTI1OGIlMjU4OC0lMjVlYiUyNThkJTI1YjAlMjVlYiUyNWFhJTI1YTglMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU4NCUyNWIxJTI1ZWIlMjVhMyUyNThjJTI1ZWIlMjVhYSUyNWE4",
+      "title": "[스타트업 안테나] 마크앤컴퍼니 데모데이 성료…모인·메이사·SBVA 등 글로벌·AI 성과 잇따라",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%a7%88%ed%81%ac%ec%95%a4%ec%bb%b4%ed%8d%bc%eb%8b%88-%eb%8d%b0%eb%aa%a8%eb%8d%b0%ec%9d%b4-%ec%84%b1%eb%a3%8c%eb%aa%a8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%25a7%2588%25ed%2581%25ac%25ec%2595%25a4%25ec%25bb%25b4%25ed%258d%25bc%25eb%258b%2588-%25eb%258d%25b0%25eb%25aa%25a8%25eb%258d%25b0%25ec%259d%25b4-%25ec%2584%25b1%25eb%25a3%258c%25eb%25aa%25a8",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-10T00:04:37.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "10일 스타트업 생태계 역시 다양한 소식이 전해졌다. 마크앤컴퍼니가 ‘제5회 프라이빗 데모데이’를 열고 로보틱스, 바이오, K-뷰티, 대체에너지, 엔터프라이즈 솔루션 분야 스타트업 9개사를 투자 시장에 소개했다. 이 밖에도 스타트업 업계에서는 글로벌 진출, 인공지능 전환(AX), 산업 안전, 바이오 신약 개발 관련 소식이 이어졌다. 모인은 유럽 전자화폐기관 라이선스를 취득해 유럽 결제 시장 진출 기반을 마련했고, 메이사는 국토",
+      "tags": [
+        "tech42",
+        "스타트업",
+        "sbva",
+        "마크앤컴퍼니"
+      ],
+      "isNew": true
     }
   ]
 }
