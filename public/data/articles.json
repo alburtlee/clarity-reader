@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-13T23:40:15.772Z",
+  "fetchedAt": "2026-07-14T23:39:35.254Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMy8xMTQwMzQzL3doYXQtYW50aHJvcGljcy1sYXRlc3QtYWktZGlzY292ZXJ5LWRvZXMtYW5kLWRvZXNudC1zaG93Lw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWQlODElYjQlZWIlOWQlYmMlZWMlOWElYjAlZWIlOTMlOWMlYzIlYjclZWMlODIlYmMlZWMlODQlYjElZWMlYTAlODQlZWMlOWUlOTAtJWVhJWI4JTgwJWViJWExJTljJWViJWIyJThjLWR4JWViJWI2JTgwJWViJWFjJWI4JWVjJTk3JTkwLSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVhJTI1YjUlMjVhYyUyNWVhJTI1YjglMjU4MC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNTlhJTI1YjAlMjVlYiUyNTkzJTI1OWMlMjVjMiUyNWI3JTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5ZSUyNTkwLSUyNWVhJTI1YjglMjU4MCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjIlMjU4Yy1keCUyNWViJTI1YjYlMjU4MCUyNWViJTI1YWMlMjViOCUyNWVjJTI1OTclMjU5MC0lMjVlYyUyNWEwJTI1OWMlMjVlYiUyNWFmJTI1YjglMjVlYiUyNTgyJTI1OTg",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NoaW5hcy1vcGVuLWFpLW1vZGVscy1hcmUtYWR2YW5jaW5nLWl0cy1nbG9iYWwtc29mdC1wb3dlcg",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNC8xMTQwMzkxL3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWludGVybmFsLXRob3VnaHRzLXdvcmxkLW1vZGVscy8",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtb3BlbmFpLXN1cGVyLWFwcC1jaGF0Z3B0LWNvZGV4LXdoaXRoZXItY2hhdC8",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4NCVlZCU4YyU4YyVlYyU4NCU5Yy0lZWMlODklYWMlZWMlOTclODglZWIlOGElOTQlZWIlOGQlYjAtJWVkJTk1JWI0JWVhJWIzJWEwLTElZWMlODglOWMlZWMlOWMlODQtJWViJWE5JTk0JWVkJTgzJTgwLWFpLSVlYyVhMCU4MCVlYyU4YSViOSVlYyU4MiVhYyVlYyU5ZSU5MC0lZWElYjMlYTAlZWMlOWElYTkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1ODQlMjVlZCUyNThjJTI1OGMlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjU4OSUyNWFjJTI1ZWMlMjU5NyUyNTg4JTI1ZWIlMjU4YSUyNTk0JTI1ZWIlMjU4ZCUyNWIwLSUyNWVkJTI1OTUlMjViNCUyNWVhJTI1YjMlMjVhMC0xJTI1ZWMlMjU4OCUyNTljJTI1ZWMlMjU5YyUyNTg0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC1haS0lMjVlYyUyNWEwJTI1ODAlMjVlYyUyNThhJTI1YjklMjVlYyUyNTgyJTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWElMjViMyUyNWEwJTI1ZWMlMjU5YSUyNWE5",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS13ZS1kZW1hbmQtcGVyZmVjdC1tYWNoaW5lcy15ZXQtdG9sZXJhdGUtaHVtYW4tY2FybmFnZQ",
+    "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9zaWxpY29uLXZhbGxleS1oYXMtYS1zY2llbmNlLWZpY3Rpb24tcHJvYmxlbQ"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -87,6 +87,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNC8xMTQwMzkxL3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWludGVybmFsLXRob3VnaHRzLXdvcmxkLW1vZGVscy8",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-14T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 113,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced l",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3Avd2hhdC1pdC1mZWVscy1saWtlLXRvLXdvcmstd2l0aC1teXRob3M",
       "title": "What it feels like to work with Mythos",
       "source": "One Useful Thing",
@@ -144,19 +164,19 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
-      "title": "Apple Sues OpenAI, Apple’s Real Problem",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtb3BlbmFpLXN1cGVyLWFwcC1jaGF0Z3B0LWNvZGV4LXdoaXRoZXItY2hhdC8",
+      "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "articleUrl": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "publishedAt": "2026-07-14T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 110,
       "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+      "excerpt": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
       "tags": [
         "stratechery",
         "daily update"
@@ -389,6 +409,26 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
+      "title": "Apple Sues OpenAI, Apple’s Real Problem",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
@@ -1736,26 +1776,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMy8xMTQwMzM5L3RoZS1kb3dubG9hZC1zcGVybS1kb25vci1saW1pdHMtYWktd29ybGQtbW9kZWxzLw",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-13T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many sibl",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMC8xMTQwMzE2L3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWhpZGRlbi1zcGFjZS1vcGVuYWktc3VwZXItYXBwLw",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "source": "MIT Technology Review",
@@ -1917,22 +1937,22 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xMy8xMTQwMzQzL3doYXQtYW50aHJvcGljcy1sYXRlc3QtYWktZGlzY292ZXJ5LWRvZXMtYW5kLWRvZXNudC1zaG93Lw",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNC8xMTQwMzU2L3BzaXF1YW50dW0tcGxhbi1tYXNzaXZlLXF1YW50dW0tY29tcHV0ZXItb3V0LW9mLWxpZ2h0Lw",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
       "thumbnailUrl": null,
       "author": "James O'Donnell",
       "category": "AI + Society",
-      "publishedAt": "2026-07-13T18:00:00.000Z",
+      "publishedAt": "2026-07-14T08:00:00.000Z",
       "readingMinutes": 4,
       "score": 101,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a re",
+      "excerpt": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of liquid",
       "tags": [
         "mit-technology-review",
-        "artificial intelligence",
+        "computing",
         "app",
         "artificial intelligence"
       ],
@@ -2424,6 +2444,132 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4NCVlZCU4YyU4YyVlYyU4NCU5Yy0lZWMlODklYWMlZWMlOTclODglZWIlOGElOTQlZWIlOGQlYjAtJWVkJTk1JWI0JWVhJWIzJWEwLTElZWMlODglOWMlZWMlOWMlODQtJWViJWE5JTk0JWVkJTgzJTgwLWFpLSVlYyVhMCU4MCVlYyU4YSViOSVlYyU4MiVhYyVlYyU5ZSU5MC0lZWElYjMlYTAlZWMlOWElYTkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1ODQlMjVlZCUyNThjJTI1OGMlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjU4OSUyNWFjJTI1ZWMlMjU5NyUyNTg4JTI1ZWIlMjU4YSUyNTk0JTI1ZWIlMjU4ZCUyNWIwLSUyNWVkJTI1OTUlMjViNCUyNWVhJTI1YjMlMjVhMC0xJTI1ZWMlMjU4OCUyNTljJTI1ZWMlMjU5YyUyNTg0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC1haS0lMjVlYyUyNWEwJTI1ODAlMjVlYyUyNThhJTI1YjklMjVlYyUyNTgyJTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWElMjViMyUyNWEwJTI1ZWMlMjU5YSUyNWE5",
+      "title": "\"아파서 쉬었는데 해고 1순위?\" 메타, 'AI 저승사자' 고용 의혹 피소",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%95%84%ed%8c%8c%ec%84%9c-%ec%89%ac%ec%97%88%eb%8a%94%eb%8d%b0-%ed%95%b4%ea%b3%a0-1%ec%88%9c%ec%9c%84-%eb%a9%94%ed%83%80-ai-%ec%a0%80%ec%8a%b9%ec%82%ac%ec%9e%90-%ea%b3%a0%ec%9a%a9/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ed%258c%258c%25ec%2584%259c-%25ec%2589%25ac%25ec%2597%2588%25eb%258a%2594%25eb%258d%25b0-%25ed%2595%25b4%25ea%25b3%25a0-1%25ec%2588%259c%25ec%259c%2584-%25eb%25a9%2594%25ed%2583%2580-ai-%25ec%25a0%2580%25ec%258a%25b9%25ec%2582%25ac%25ec%259e%2590-%25ea%25b3%25a0%25ec%259a%25a9",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-14T23:33:56.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "페이스북의 모기업 메타(Meta)가 인공지능(AI) 시스템을 활용해 병가나 휴직을 쓴 직원을 표적 정리해고했다는 의혹으로 법적 소송에 휘말렸다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai저승사자",
+        "메타"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiU5OCVlYiU4ZCViOCVlYiU5ZCViYyVlYyU5ZCU5OC1haS0lZWElYjIlYmQlZWElYjMlYTAtJWVjJTk1JThjJWVhJWIzJWEwLSVlYiViMyViNCVlYiU4YiU4OC0lZWMlOTUlYTAlZWMlYTAlODAtJWVkJTk5JThkJWViJWIzJWI0JWVjJTk4JTgwJWViJThiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU4ZCUyNWI4JTI1ZWIlMjU5ZCUyNWJjJTI1ZWMlMjU5ZCUyNTk4LWFpLSUyNWVhJTI1YjIlMjViZCUyNWVhJTI1YjMlMjVhMC0lMjVlYyUyNTk1JTI1OGMlMjVlYSUyNWIzJTI1YTAtJTI1ZWIlMjViMyUyNWI0JTI1ZWIlMjU4YiUyNTg4LSUyNWVjJTI1OTUlMjVhMCUyNWVjJTI1YTAlMjU4MC0lMjVlZCUyNTk5JTI1OGQlMjVlYiUyNWIzJTI1YjQlMjVlYyUyNTk4JTI1ODAlMjVlYiUyNThiJTI1YTQ",
+      "title": "나델라의 AI 경고, 알고 보니 애저 홍보였다",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%82%98%eb%8d%b8%eb%9d%bc%ec%9d%98-ai-%ea%b2%bd%ea%b3%a0-%ec%95%8c%ea%b3%a0-%eb%b3%b4%eb%8b%88-%ec%95%a0%ec%a0%80-%ed%99%8d%eb%b3%b4%ec%98%80%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%2598%25eb%258d%25b8%25eb%259d%25bc%25ec%259d%2598-ai-%25ea%25b2%25bd%25ea%25b3%25a0-%25ec%2595%258c%25ea%25b3%25a0-%25eb%25b3%25b4%25eb%258b%2588-%25ec%2595%25a0%25ec%25a0%2580-%25ed%2599%258d%25eb%25b3%25b4%25ec%2598%2580%25eb%258b%25a4",
+      "thumbnailUrl": null,
+      "author": "김광우 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-14T21:59:11.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "여러분은 사실상 인공지능에 두 번 비용을 지불하고 있는 셈이다. 한 번은 돈으로, 그리고 또 한 번은 그 지능을 유용하게 만들기 위해 반드시 밝혀야 하는 훨씬 더 가치 있는 자산인 '독점적 지식'으로 말이다.",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "마이크로소프트",
+        "사티아 나델라"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS13ZS1kZW1hbmQtcGVyZmVjdC1tYWNoaW5lcy15ZXQtdG9sZXJhdGUtaHVtYW4tY2FybmFnZQ",
+      "title": "Why We Demand Perfect Machines Yet Tolerate Human Carnage",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/why-we-demand-perfect-machines-yet-tolerate-human-carnage",
+      "thumbnailUrl": null,
+      "author": "Jonathan Slotkin",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-14T15:55:48.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Why We Demand Perfect Machines Yet Tolerate Human Carnage appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL2Vzc2F5cy9zaWxpY29uLXZhbGxleS1oYXMtYS1zY2llbmNlLWZpY3Rpb24tcHJvYmxlbQ",
+      "title": "The looting of science fiction",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/e407d3ab-bc75-4346-b2fc-dbbd9b7a4a68/sz-cylinder_interior_ac75-1086_5732.jpg?width=1200&quality=75&format=auto",
+      "author": "Ali Rıza Taşkale",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-14T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "Tech titans claim the genre inspired them. But all they’ve done is graft their politics onto stories of a better future - by Ali Rıza Taşkale Read on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSViNCVlYyVhMCU5MS0lZWIlOTUlOGMtJWVjJTk1JTg0JWVjJTlkJWI0JWVkJThmJWIwLSVlYiViNiU4MCVlZCU5MiU4OC0lZWMlYjElOTklZWElYjIlYTglZWMlOTklODAlZWIlOWQlYmMtJWVjJTk1JWEwJWVkJTk0JThjLSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlZCU5NiVhNSVlZCU5NSViNC0lZWMlODYlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1YjQlMjVlYyUyNWEwJTI1OTEtJTI1ZWIlMjU5NSUyNThjLSUyNWVjJTI1OTUlMjU4NCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1OGYlMjViMC0lMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTkyJTI1ODgtJTI1ZWMlMjViMSUyNTk5JTI1ZWElMjViMiUyNWE4JTI1ZWMlMjU5OSUyNTgwJTI1ZWIlMjU5ZCUyNWJjLSUyNWVjJTI1OTUlMjVhMCUyNWVkJTI1OTQlMjU4Yy0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlZCUyNTk2JTI1YTUlMjVlZCUyNTk1JTI1YjQtJTI1ZWMlMjU4NiUyNThj",
+      "title": "\"면접 때 아이폰 부품 챙겨와라\"… 애플, 오픈AI 향해 소송 폭탄 '조직적 스파이 행위' 폭로",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a9%b4%ec%a0%91-%eb%95%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%b6%80%ed%92%88-%ec%b1%99%ea%b2%a8%ec%99%80%eb%9d%bc-%ec%95%a0%ed%94%8c-%ec%98%a4%ed%94%88ai-%ed%96%a5%ed%95%b4-%ec%86%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%25b4%25ec%25a0%2591-%25eb%2595%258c-%25ec%2595%2584%25ec%259d%25b4%25ed%258f%25b0-%25eb%25b6%2580%25ed%2592%2588-%25ec%25b1%2599%25ea%25b2%25a8%25ec%2599%2580%25eb%259d%25bc-%25ec%2595%25a0%25ed%2594%258c-%25ec%2598%25a4%25ed%2594%2588ai-%25ed%2596%25a5%25ed%2595%25b4-%25ec%2586%258c",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-14T01:51:28.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "애플이 인공지능(AI) 기업 오픈AI를 상대로 41페이지에 달하는 영업비밀 침해 소송을 제기하며, 오픈AI 수뇌부가 주도한 조직적인 기밀 탈취 전말을 폭로했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "아이폰",
+        "애플"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC0lZWMlYmQlOTQlZWQlOGMlOGMlZWMlOWQlYmMlZWIlOWYlYmYtJWVjJWE3JTkxJWVjJWIwJWE5LSVlYiViMiU4NCVlYiVhMCViOCVlYiU4YiVhNC0lZWElYjQlOTElZWElYjMlYTAtJWViJWI5JWEwJWVjJWE3JTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4MSUyNWFjJTI1ZWIlMjVhMSUyNTljJTI1ZWMlMjU4NiUyNThjJTI1ZWQlMjU5NCUyNTg0JTI1ZWQlMjU4YSUyNWI4LSUyNWVjJTI1YmQlMjU5NCUyNWVkJTI1OGMlMjU4YyUyNWVjJTI1OWQlMjViYyUyNWViJTI1OWYlMjViZi0lMjVlYyUyNWE3JTI1OTElMjVlYyUyNWIwJTI1YTktJTI1ZWIlMjViMiUyNTg0JTI1ZWIlMjVhMCUyNWI4JTI1ZWIlMjU4YiUyNWE0LSUyNWVhJTI1YjQlMjU5MSUyNWVhJTI1YjMlMjVhMC0lMjVlYiUyNWI5JTI1YTAlMjVlYyUyNWE3JTI1ODQ",
+      "title": "마이크로소프트, 코파일럿 집착 버렸다… '광고 빠진 검색창'으로 윈도우 11 심폐소생",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ec%a7%91%ec%b0%a9-%eb%b2%84%eb%a0%b8%eb%8b%a4-%ea%b4%91%ea%b3%a0-%eb%b9%a0%ec%a7%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%259d%25b4%25ed%2581%25ac%25eb%25a1%259c%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8-%25ec%25bd%2594%25ed%258c%258c%25ec%259d%25bc%25eb%259f%25bf-%25ec%25a7%2591%25ec%25b0%25a9-%25eb%25b2%2584%25eb%25a0%25b8%25eb%258b%25a4-%25ea%25b4%2591%25ea%25b3%25a0-%25eb%25b9%25a0%25ec%25a7%2584",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-14T01:07:04.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "마이크로소프트(MS)가 인공지능(AI) 비서 '코파일럿' 중심의 정책에서 선회해 사용자 편의성을 높이는 실질적인 기능 개선에 나선다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "마이크로소프트",
+        "윈도우 11"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4NCU4OC0lZWMlODIlYWMlZWElYjglYjAlZWElYmUlYmMlZWMlOWQlYjQlZWMlYTclODAtdnMtJWViJWIzJWI0JWVkJTk4JWI4JWVhJWI0JTgwJWVjJWIwJWIwJWVjJTlkJWI0JWViJTgyJTk4LSVlYiViMCU5YiVlYyU5NSU4NCVlYiU5ZCViYyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVjMiViNy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1ODQlMjU4OC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWI4JTI1YjAlMjVlYSUyNWJlJTI1YmMlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWE3JTI1ODAtdnMtJTI1ZWIlMjViMyUyNWI0JTI1ZWQlMjU5OCUyNWI4JTI1ZWElMjViNCUyNTgwJTI1ZWMlMjViMCUyNWIwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjAlMjU5YiUyNWVjJTI1OTUlMjU4NCUyNWViJTI1OWQlMjViYyUyNWViJTI1YTglMjViOCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODElMjVhYyUyNWMyJTI1Yjc",
@@ -6201,149 +6347,6 @@
         "에어드롭"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYiVhNyU4YyVlYiU5MyVhMC0lZWElYjAlODAlZWMlYTclOWMtJWVjJWEwJTg0JWVjJTlmJTgxLSVlYyVhNyU4NCVlYyVhNyU5YyVlYiVhNSViYy0lZWIlOGMlODAlZWMlYjIlYjQlZWQlOTUlOWMlZWIlOGIlYTQlZWIlOTQlYTUlZWQlOGUlOTglZWMlOWQlYjQlZWQlODElYWMtJWVkJTk3JTg4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWklMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNThjJTI1ZWIlMjU5MyUyNWEwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1YTclMjU5Yy0lMjVlYyUyNWEwJTI1ODQlMjVlYyUyNTlmJTI1ODEtJTI1ZWMlMjVhNyUyNTg0JTI1ZWMlMjVhNyUyNTljJTI1ZWIlMjVhNSUyNWJjLSUyNWViJTI1OGMlMjU4MCUyNWVjJTI1YjIlMjViNCUyNWVkJTI1OTUlMjU5YyUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTk3JTI1ODg",
-      "title": "\"AI가 만든 가짜 전쟁, 진짜를 대체한다\"…딥페이크 허위 게시물 수백만 명 노출",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%ea%b0%80%ec%a7%9c-%ec%a0%84%ec%9f%81-%ec%a7%84%ec%a7%9c%eb%a5%bc-%eb%8c%80%ec%b2%b4%ed%95%9c%eb%8b%a4%eb%94%a5%ed%8e%98%ec%9d%b4%ed%81%ac-%ed%97%88/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25eb%25a7%258c%25eb%2593%25a0-%25ea%25b0%2580%25ec%25a7%259c-%25ec%25a0%2584%25ec%259f%2581-%25ec%25a7%2584%25ec%25a7%259c%25eb%25a5%25bc-%25eb%258c%2580%25ec%25b2%25b4%25ed%2595%259c%25eb%258b%25a4%25eb%2594%25a5%25ed%258e%2598%25ec%259d%25b4%25ed%2581%25ac-%25ed%2597%2588",
-      "thumbnailUrl": null,
-      "author": "정재엽 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-03-16T23:30:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "AI가 생성한 이란 관련 허위 전쟁 영상이 SNS에서 수백만 뷰를 기록했다. 딥페이크를 넘어 '샬로우페이크'까지 등장한 AI 정보전의 실태와 한국의 대응 현황을 짚는다",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "인사이트42",
-        "딥페이크"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWMlODIlYmMlZWMlODQlYjElYzIlYjclZWQlOTglODQlZWIlOGMlODAlYzIlYjdsZyVlYiU4ZiU4NC0lZWIlODUlYjglZWIlYTAlYjglZWIlOGIlYTQtJWVhJWIzJWI1JWVhJWI4JTg5JWViJWE3JTlkLSVlZCU5NSViNCVlZCU4MiViOS0lZWQlOTUlOWMlZWElYjUlYWQtJWVhJWI4JWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWVjJTI1ODIlMjViYyUyNWVjJTI1ODQlMjViMSUyNWMyJTI1YjclMjVlZCUyNTk4JTI1ODQlMjVlYiUyNThjJTI1ODAlMjVjMiUyNWI3bGclMjVlYiUyNThmJTI1ODQtJTI1ZWIlMjU4NSUyNWI4JTI1ZWIlMjVhMCUyNWI4JTI1ZWIlMjU4YiUyNWE0LSUyNWVhJTI1YjMlMjViNSUyNWVhJTI1YjglMjU4OSUyNWViJTI1YTclMjU5ZC0lMjVlZCUyNTk1JTI1YjQlMjVlZCUyNTgyJTI1YjktJTI1ZWQlMjU5NSUyNTljJTI1ZWElMjViNSUyNWFkLSUyNWVhJTI1YjglMjViMA",
-      "title": "[현장] 삼성·현대·LG도 노렸다… 공급망 해킹, 한국 기업 정조준",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%ec%82%bc%ec%84%b1%c2%b7%ed%98%84%eb%8c%80%c2%b7lg%eb%8f%84-%eb%85%b8%eb%a0%b8%eb%8b%a4-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ed%95%b4%ed%82%b9-%ed%95%9c%ea%b5%ad-%ea%b8%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-%25ec%2582%25bc%25ec%2584%25b1%25c2%25b7%25ed%2598%2584%25eb%258c%2580%25c2%25b7lg%25eb%258f%2584-%25eb%2585%25b8%25eb%25a0%25b8%25eb%258b%25a4-%25ea%25b3%25b5%25ea%25b8%2589%25eb%25a7%259d-%25ed%2595%25b4%25ed%2582%25b9-%25ed%2595%259c%25ea%25b5%25ad-%25ea%25b8%25b0",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-03-15T23:49:49.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "전 세계 사이버 위협의 무게중심이 빠르게 이동하고 있다. 개별 기업의 서버를 직접 노리던 방식에서 그 기업이 연결해 쓰는 오픈소스 패키지와 서비스형 소프트웨어(SaaS), 브라우저 확장 프로그램, 관리형 서비스 제공업체(MSP), 외부 파트너사를 우회로로 삼는 공급망 공격(supply chain attack)으로 축이 옮겨가는 흐름이다. 이에 테크42는 지난 13일 서울에서 열린 그룹아이비 보고서 발표 현장에서 아나스타샤 티호",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "테크놀로지",
-        "888"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9jb3BpbG90LWNvd29yay1hbnRocm9waWNzLWludGVncmF0aW9uLW1pY3Jvc29mdHMtbmV3LWJ1bmRsZS8",
-      "title": "Copilot Cowork, Anthropic’s Integration, Microsoft’s New Bundle",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/copilot-cowork-anthropics-integration-microsofts-new-bundle/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-10T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Microsoft is seeking to commoditize its complements, but Anthropic has a point of integration of their own; it's good enough that Microsoft is making a new bundle on top of it.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2Fpcy1ncmVhdGVzdC1naWZ0LXRvLWh1bWFuaXR5",
-      "title": "AI’s Greatest Gift To Humanity",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/ais-greatest-gift-to-humanity",
-      "thumbnailUrl": null,
-      "author": "Arianna Huffington",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-09T13:20:42.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post AI’s Greatest Gift To Humanity appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tdXNlLWltYWdlLWdyb2stNC01LWFsZXgta2FycC1vbi1jbmJjLw",
-      "title": "Muse Image, Grok 4.5, Alex Karp on CNBC",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/muse-image-grok-4-5-alex-karp-on-cnbc/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-09T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The battle for verifiable data is increasingly defining the AI race, from Meta to Grok to the frontier labs.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi94Ym94LWN1dHMtYnVuZGxpbmctYW5kLXRoZS1pbnRlcm5ldC1zb2x2ZW50LXRyYW5zYWN0aW9uLWNvb3JkaW5hdGlvbi1hbmQtc3Vuay1jb3N0cy8",
-      "title": "XBOX Cuts; Bundling and the Internet Solvent; Transaction, Coordination, and Sunk Costs",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/xbox-cuts-bundling-and-the-internet-solvent-transaction-coordination-and-sunk-costs/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-08T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Microsoft's Xbox division is conducting big layoffs, as the company deals with abject failure of its Game Pass strategy.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8wMi8xMTQwMDI3L3RoZS1kb3dubG9hZC1haS1ncm91cHRoaW5rLWxsbXMv",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-02T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
     }
   ]
 }
