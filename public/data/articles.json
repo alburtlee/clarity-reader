@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-16T23:45:22.045Z",
+  "fetchedAt": "2026-07-17T23:40:03.074Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNi8xMTQwNjAwL3RoZS1kb3dubG9hZC1vcGVuYWktdW52ZWlscy1ncHQtcmVkLWhlYXQtcHVtcHMtcmlzZS11cy8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS1pcy1yZXdyaXRpbmctaHVtYW4tbmF0dXJl",
-    "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9ob3ctb3lzdGVyLWN1bHRpdmF0aW9uLXByb3RlY3RzLWxvdWlzaWFuYXMtZnJhZ2lsZS1jb2FzdGxpbmU",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjIyL3dlYXRoZXItZGF0YS1zYWJvdGFnZS8",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVkJThjJThjJWVjJTlkJWI4LTQ1MCVlYyU5NiViNS1haS0lZWMlOWQlYjglZWElYjglODAlZWIlOWQlYmMlZWMlOGElYTQtJWVjJTgyJWFjJWVjJTk3JTg1LSVlYyViMCViOCVlYyU5NyVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5ZCUyNWI4LTQ1MCUyNWVjJTI1OTYlMjViNS1haS0lMjVlYyUyNTlkJTI1YjglMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1YjAlMjViOCUyNWVjJTI1OTclMjVhYw",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pYm0tbWlzc2VzLWlibXMtbWFpbmZyYW1lLW1vYXQtaWJtcy1tYW55LWFpLXByb2JsZW1zLw"
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -106,26 +106,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNi8xMTQwNjAwL3RoZS1kb3dubG9hZC1vcGVuYWktdW52ZWlscy1ncHQtcmVkLWhlYXQtcHVtcHMtcmlzZS11cy8",
-      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-16T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 111,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
       "title": "Co-Existence and the End of Co-Intelligence",
       "source": "One Useful Thing",
@@ -162,6 +142,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
+      "title": "2026.29: Mainframes and Main Characters",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/mainframes-and-main-characters/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-17T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -201,26 +201,6 @@
         "artificial intelligence",
         "app",
         "summary"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNC8xMTQwMzkxL3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWludGVybmFsLXRob3VnaHRzLXdvcmxkLW1vZGVscy8",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-14T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced l",
-      "tags": [
-        "mit-technology-review",
-        "the download"
       ],
       "isNew": false
     },
@@ -372,6 +352,26 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNi8xMTQwNjAwL3RoZS1kb3dubG9hZC1vcGVuYWktdW52ZWlscy1ncHQtcmVkLWhlYXQtcHVtcHMtcmlzZS11cy8",
+      "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-16T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM super-",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wMi8xMTM4MjI3L2hvdy1zbWFsbC1idXNpbmVzc2VzLWNhbi1sZXZlcmFnZS1haS8",
       "title": "How small businesses can leverage AI",
       "source": "MIT Technology Review",
@@ -433,43 +433,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS1pcy1yZXdyaXRpbmctaHVtYW4tbmF0dXJl",
-      "title": "How AI Is Rewriting Human Nature",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
+      "title": "The Heated Debate In Europe Over Air Conditioning",
       "source": "Noema",
       "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
+      "articleUrl": "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning",
       "thumbnailUrl": null,
-      "author": "Jacob Dreyer",
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-07-16T13:52:51.000Z",
+      "publishedAt": "2026-07-17T16:27:39.000Z",
       "readingMinutes": 4,
       "score": 106,
       "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How AI Is Rewriting Human Nature appeared first on NOEMA.",
+      "excerpt": "The post The Heated Debate In Europe Over Air Conditioning appeared first on NOEMA.",
       "tags": [
         "noema"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtb3BlbmFpLXN1cGVyLWFwcC1jaGF0Z3B0LWNvZGV4LXdoaXRoZXItY2hhdC8",
-      "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
@@ -669,21 +649,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NoaW5hcy1vcGVuLWFpLW1vZGVscy1hcmUtYWR2YW5jaW5nLWl0cy1nbG9iYWwtc29mdC1wb3dlcg",
-      "title": "China’s Open AI Models Are Advancing Its Global Soft Power",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNC8xMTQwMzkxL3RoZS1kb3dubG9hZC1hbnRocm9waWMtY2xhdWRlLWludGVybmFsLXRob3VnaHRzLXdvcmxkLW1vZGVscy8",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-10T16:02:38.000Z",
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-14T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 105,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post China’s Open AI Models Are Advancing Its Global Soft Power appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced l",
       "tags": [
-        "noema"
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": false
     },
@@ -961,28 +942,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVkJThjJThjJWVjJTlkJWI4LTQ1MCVlYyU5NiViNS1haS0lZWMlOWQlYjglZWElYjglODAlZWIlOWQlYmMlZWMlOGElYTQtJWVjJTgyJWFjJWVjJTk3JTg1LSVlYyViMCViOCVlYyU5NyVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5ZCUyNWI4LTQ1MCUyNWVjJTI1OTYlMjViNS1haS0lMjVlYyUyNTlkJTI1YjglMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1YjAlMjViOCUyNWVjJTI1OTclMjVhYw",
-      "title": "[스타트업 안테나] 딥파인, 450억 AI-인글라스 사업 참여…모햇 3100억 발전자산·에임인텔리전스 AI 보안 협력",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%94%a5%ed%8c%8c%ec%9d%b8-450%ec%96%b5-ai-%ec%9d%b8%ea%b8%80%eb%9d%bc%ec%8a%a4-%ec%82%ac%ec%97%85-%ec%b0%b8%ec%97%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%2594%25a5%25ed%258c%258c%25ec%259d%25b8-450%25ec%2596%25b5-ai-%25ec%259d%25b8%25ea%25b8%2580%25eb%259d%25bc%25ec%258a%25a4-%25ec%2582%25ac%25ec%2597%2585-%25ec%25b0%25b8%25ec%2597%25ac",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-16T00:14:06.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "16일 스타트업 생태계에 다양한 소식이 이어졌다. 인공지능(AI)을 산업 현장과 사이버보안에 적용하려는 스타트업들의 움직임이 이어지고 있다. 딥파인은 국방·산업 현장에서 활용할 스마트글래스 기반 AI 에이전트 개발에 나섰으며, 에임인텔리전스는 정보보안 기업 파도와 AI 보안 기술 개발 및 인재 양성을 추진한다. 재생에너지 투자 플랫폼 모햇을 통해 모집된 햇살그린협동조합의 자금은 3100억원 규모로 확대됐다. 글로벌 시장 개척과",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "ddd",
-        "딥파인"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWQlODElYjQlZWIlOWQlYmMlZWMlOWElYjAlZWIlOTMlOWMlYzIlYjclZWMlODIlYmMlZWMlODQlYjElZWMlYTAlODQlZWMlOWUlOTAtJWVhJWI4JTgwJWViJWExJTljJWViJWIyJThjLWR4JWViJWI2JTgwJWViJWFjJWI4JWVjJTk3JTkwLSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVhJTI1YjUlMjVhYyUyNWVhJTI1YjglMjU4MC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNTlhJTI1YjAlMjVlYiUyNTkzJTI1OWMlMjVjMiUyNWI3JTI1ZWMlMjU4MiUyNWJjJTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5ZSUyNTkwLSUyNWVhJTI1YjglMjU4MCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjIlMjU4Yy1keCUyNWViJTI1YjYlMjU4MCUyNWViJTI1YWMlMjViOCUyNWVjJTI1OTclMjU5MC0lMjVlYyUyNWEwJTI1OWMlMjVlYiUyNWFmJTI1YjglMjVlYiUyNTgyJTI1OTg",
@@ -1556,6 +1515,25 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NoaW5hcy1vcGVuLWFpLW1vZGVscy1hcmUtYWR2YW5jaW5nLWl0cy1nbG9iYWwtc29mdC1wb3dlcg",
+      "title": "China’s Open AI Models Are Advancing Its Global Soft Power",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-10T16:02:38.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post China’s Open AI Models Are Advancing Its Global Soft Power appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXR3aWxpZ2h0LW9mLXRoZS1jaGF0Ym90cw",
       "title": "The twilight of the chatbots",
       "source": "One Useful Thing",
@@ -1861,6 +1839,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS1pcy1yZXdyaXRpbmctaHVtYW4tbmF0dXJl",
+      "title": "How AI Is Rewriting Human Nature",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
+      "thumbnailUrl": null,
+      "author": "Jacob Dreyer",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-16T13:52:51.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post How AI Is Rewriting Human Nature appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pYm0tbWlzc2VzLWlibXMtbWFpbmZyYW1lLW1vYXQtaWJtcy1tYW55LWFpLXByb2JsZW1zLw",
       "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
       "source": "Stratechery",
@@ -1878,7 +1875,27 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtb3BlbmFpLXN1cGVyLWFwcC1jaGF0Z3B0LWNvZGV4LXdoaXRoZXItY2hhdC8",
+      "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-14T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
@@ -2058,6 +2075,28 @@
         "space",
         "app",
         "mit technology review explains"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjIyL3dlYXRoZXItZGF0YS1zYWJvdGFnZS8",
+      "title": "The risk of weather data sabotage is rising",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "thumbnailUrl": null,
+      "author": "Monique Kuglitsch, Jesper Dramsch, Franz G. Kuglitsch, Andrea Toreti",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-17T08:57:32.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
       ],
       "isNew": true
     },
@@ -2549,43 +2588,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9ob3ctb3lzdGVyLWN1bHRpdmF0aW9uLXByb3RlY3RzLWxvdWlzaWFuYXMtZnJhZ2lsZS1jb2FzdGxpbmU",
-      "title": "What remains",
-      "source": "Aeon",
-      "sourceUrl": "https://aeon.co/feed.rss",
-      "articleUrl": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
-      "thumbnailUrl": "https://images.aeonmedia.co/images/23f6ad86-3338-46eb-af14-60bdec027e6e/what-remains-landscape-1-v2.jpg?width=1200&quality=75&format=auto",
-      "author": "Aeon Video",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-16T10:01:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
-      "excerpt": "In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion - by Aeon Video Watch on Aeon",
-      "tags": [
-        "aeon"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLWFpLSVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YSViOC0lZWMlYTAlODQlZWMlOWElYTktJWViJWFjJWJjJWViJWE2JWFjLSVlZCU4MiVhNCVlZCU4YyVhOCVlYiU5MyU5Yy0lZWMlYmQlOTQlZWIlOGQlYjElZWMlOGElYTQtJWViJWE3JTg4JWVjJTlkJWI0JWVkJTgxJWFjJWViJWExJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4LSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWElMjVhOS0lMjVlYiUyNWFjJTI1YmMlMjVlYiUyNWE2JTI1YWMtJTI1ZWQlMjU4MiUyNWE0JTI1ZWQlMjU4YyUyNWE4JTI1ZWIlMjU5MyUyNTljLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OGQlMjViMSUyNWVjJTI1OGElMjVhNC0lMjVlYiUyNWE3JTI1ODglMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTgxJTI1YWMlMjVlYiUyNWExJTI1OWM",
-      "title": "오픈AI, AI 에이전트 전용 물리 키패드 '코덱스 마이크로' 출시",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVkJThjJThjJWVjJTlkJWI4LTQ1MCVlYyU5NiViNS1haS0lZWMlOWQlYjglZWElYjglODAlZWIlOWQlYmMlZWMlOGElYTQtJWVjJTgyJWFjJWVjJTk3JTg1LSVlYyViMCViOCVlYyU5NyVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5ZCUyNWI4LTQ1MCUyNWVjJTI1OTYlMjViNS1haS0lMjVlYyUyNTlkJTI1YjglMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1YjAlMjViOCUyNWVjJTI1OTclMjVhYw",
+      "title": "[스타트업 안테나] 딥파인, 450억 AI-인글라스 사업 참여…모햇 3100억 발전자산·에임인텔리전스 AI 보안 협력",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%98%a4%ed%94%88ai-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a0%84%ec%9a%a9-%eb%ac%bc%eb%a6%ac-%ed%82%a4%ed%8c%a8%eb%93%9c-%ec%bd%94%eb%8d%b1%ec%8a%a4-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ec%25a0%2584%25ec%259a%25a9-%25eb%25ac%25bc%25eb%25a6%25ac-%25ed%2582%25a4%25ed%258c%25a8%25eb%2593%259c-%25ec%25bd%2594%25eb%258d%25b1%25ec%258a%25a4-%25eb%25a7%2588%25ec%259d%25b4%25ed%2581%25ac%25eb%25a1%259c",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%94%a5%ed%8c%8c%ec%9d%b8-450%ec%96%b5-ai-%ec%9d%b8%ea%b8%80%eb%9d%bc%ec%8a%a4-%ec%82%ac%ec%97%85-%ec%b0%b8%ec%97%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%2594%25a5%25ed%258c%258c%25ec%259d%25b8-450%25ec%2596%25b5-ai-%25ec%259d%25b8%25ea%25b8%2580%25eb%259d%25bc%25ec%258a%25a4-%25ec%2582%25ac%25ec%2597%2585-%25ec%25b0%25b8%25ec%2597%25ac",
       "thumbnailUrl": null,
-      "author": "버트",
+      "author": "황정호 기자",
       "category": "AI + Korea",
-      "publishedAt": "2026-07-15T23:47:35.000Z",
+      "publishedAt": "2026-07-16T00:14:06.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "오픈AI가 AI 에이전트 코덱스를 조작하는 한정판 물리 키패드 '코덱스 마이크로'를 230달러(약 34만원)에 공개했다. 워크 라우더와 협업한 이 제품은 다이얼과 푸시투토크 버튼을 지원한다.",
+      "excerpt": "16일 스타트업 생태계에 다양한 소식이 이어졌다. 인공지능(AI)을 산업 현장과 사이버보안에 적용하려는 스타트업들의 움직임이 이어지고 있다. 딥파인은 국방·산업 현장에서 활용할 스마트글래스 기반 AI 에이전트 개발에 나섰으며, 에임인텔리전스는 정보보안 기업 파도와 AI 보안 기술 개발 및 인재 양성을 추진한다. 재생에너지 투자 플랫폼 모햇을 통해 모집된 햇살그린협동조합의 자금은 3100억원 규모로 확대됐다. 글로벌 시장 개척과",
       "tags": [
         "tech42",
-        "ai요약",
-        "오픈ai",
-        "코덱스 마이크로"
+        "스타트업",
+        "ddd",
+        "딥파인"
       ],
       "isNew": true
     },
@@ -5410,6 +5430,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjQwL3RoZS1kb3dubG9hZC1wZXJpbWVub3BhdXNlLW1pc2luZm9ybWF0aW9uLWNoaW5hLW1vb25zaG90LWFpLw",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-17T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, b",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhNyU4MSVlYyU5YiU5MC0lZWIlOGMlODAlZWMlOGIlYTAtJWVjJTlkJWJjJWVkJTk1JTljJWViJThiJWE0LSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYiVhNyU4OCVlYyViOSVhOCVlYiU4MiViNC0lZWMlOTclODUlZWIlYWMlYjQlZWMlOWElYTktJWVjJThhJTg4JWVkJThkJWJjLSVlYyU5NSViMS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1OWIlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWMlMjU5ZCUyNWJjJTI1ZWQlMjU5NSUyNTljJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpLSUyNWViJTI1YTclMjU4OCUyNWVjJTI1YjklMjVhOCUyNWViJTI1ODIlMjViNC0lMjVlYyUyNTk3JTI1ODUlMjVlYiUyNWFjJTI1YjQlMjVlYyUyNTlhJTI1YTktJTI1ZWMlMjU4YSUyNTg4JTI1ZWQlMjU4ZCUyNWJjLSUyNWVjJTI1OTUlMjViMQ",
       "title": "“직원 대신 일한다” 오픈AI, 마침내 ‘업무용 슈퍼 앱’ 출시",
       "source": "Tech42",
@@ -6308,47 +6348,6 @@
         "비즈니스",
         "ai expo 2026",
         "ai생성검사"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyViZCU5NCVlZCU4YyU4YyVlYyU5ZCViYyVlYiU5ZiViZi0lZWQlOTIlODglZWMlOWQlODAtJWViJWE3JWE0JWVkJThhJWI4JWViJTllJWE5JWMyJWI3JWVjJThiJTljJWViJWFlJWFjJWViJWE3JTgxJWVkJTgxJWFjLSVlYyU5ZSU4NCVlYiViMiVhMCVlYiU5NCU5NCVlYiU5MyU5Yy0lZWElYjAlOWMlZWIlYjAlOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYyUyNWJkJTI1OTQlMjVlZCUyNThjJTI1OGMlMjVlYyUyNTlkJTI1YmMlMjVlYiUyNTlmJTI1YmYtJTI1ZWQlMjU5MiUyNTg4JTI1ZWMlMjU5ZCUyNTgwLSUyNWViJTI1YTclMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1OWUlMjVhOSUyNWMyJTI1YjclMjVlYyUyNThiJTI1OWMlMjVlYiUyNWFlJTI1YWMlMjVlYiUyNWE3JTI1ODElMjVlZCUyNTgxJTI1YWMtJTI1ZWMlMjU5ZSUyNTg0JTI1ZWIlMjViMiUyNWEwJTI1ZWIlMjU5NCUyNTk0JTI1ZWIlMjU5MyUyNTljLSUyNWVhJTI1YjAlMjU5YyUyNWViJTI1YjAlMjU5Yw",
-      "title": "AI 코파일럿 품은 매트랩·시뮬링크… 임베디드 개발도 ‘검증 가능한 AI’로 간다",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ed%92%88%ec%9d%80-%eb%a7%a4%ed%8a%b8%eb%9e%a9%c2%b7%ec%8b%9c%eb%ae%ac%eb%a7%81%ed%81%ac-%ec%9e%84%eb%b2%a0%eb%94%94%eb%93%9c-%ea%b0%9c%eb%b0%9c/?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%25bd%2594%25ed%258c%258c%25ec%259d%25bc%25eb%259f%25bf-%25ed%2592%2588%25ec%259d%2580-%25eb%25a7%25a4%25ed%258a%25b8%25eb%259e%25a9%25c2%25b7%25ec%258b%259c%25eb%25ae%25ac%25eb%25a7%2581%25ed%2581%25ac-%25ec%259e%2584%25eb%25b2%25a0%25eb%2594%2594%25eb%2593%259c-%25ea%25b0%259c%25eb%25b0%259c",
-      "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Work",
-      "publishedAt": "2026-04-28T00:44:02.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "테크니컬 컴퓨팅 소프트웨어 기업 매스웍스(MathWorks)가 매트랩(MATLAB) 및 시뮬링크(Simulink) 제품군의 새 버전인 릴리스 2026a(R2026a)를 공개했다.",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "ai 코파일럿",
-        "r2026a"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9Mjg4MTc",
-      "title": "Google Agents CLI — 코딩 에이전트를 에이전트 빌더로 만드는 메타 도구",
-      "source": "GeekNews",
-      "sourceUrl": "https://news.hada.io/rss/news",
-      "articleUrl": "https://news.hada.io/topic?id=28817",
-      "thumbnailUrl": null,
-      "author": "GeekNews",
-      "category": "AI + Tech",
-      "publishedAt": "2026-04-23T12:24:52.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
-      "excerpt": "Google이 Cloud Next에서 공개한 agents-cli는 Gemini CLI, Claude Code, Codex 같은 코딩 에이전트에게 Google Cloud 기반 AI 에이전트를 설계하고 배포하는 전문 역량을 주입하는 CLI 도구입니다. 에이전트 그 자체가 아니라, 에이전트를 만드는 에이전트의 실력을 끌어올리는 레이어에 해당...",
-      "tags": [
-        "geeknews"
       ],
       "isNew": true
     }
