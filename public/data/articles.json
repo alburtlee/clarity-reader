@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-17T23:40:03.074Z",
+  "fetchedAt": "2026-07-18T23:39:48.686Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjIyL3dlYXRoZXItZGF0YS1zYWJvdGFnZS8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVkJThjJThjJWVjJTlkJWI4LTQ1MCVlYyU5NiViNS1haS0lZWMlOWQlYjglZWElYjglODAlZWIlOWQlYmMlZWMlOGElYTQtJWVjJTgyJWFjJWVjJTk3JTg1LSVlYyViMCViOCVlYyU5NyVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5ZCUyNWI4LTQ1MCUyNWVjJTI1OTYlMjViNS1haS0lMjVlYyUyNTlkJTI1YjglMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1YjAlMjViOCUyNWVjJTI1OTclMjVhYw",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
+    "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9ob3ctb3lzdGVyLWN1bHRpdmF0aW9uLXByb3RlY3RzLWxvdWlzaWFuYXMtZnJhZ2lsZS1jb2FzdGxpbmU",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVkJThjJThjJWVjJTlkJWI4LTQ1MCVlYyU5NiViNS1haS0lZWMlOWQlYjglZWElYjglODAlZWIlOWQlYmMlZWMlOGElYTQtJWVjJTgyJWFjJWVjJTk3JTg1LSVlYyViMCViOCVlYyU5NyVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWQlMjU4YyUyNThjJTI1ZWMlMjU5ZCUyNWI4LTQ1MCUyNWVjJTI1OTYlMjViNS1haS0lMjVlYyUyNTlkJTI1YjglMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1YjAlMjViOCUyNWVjJTI1OTclMjVhYw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -144,26 +144,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
-      "title": "2026.29: Mainframes and Main Characters",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/mainframes-and-main-characters/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-17T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
       "title": "Claude Code and What Comes Next",
       "source": "One Useful Thing",
@@ -179,28 +159,6 @@
       "excerpt": "With the right tools, AI can accomplish impressive things",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNS8xMTQwNTE0L21lZXQtZ3B0LXJlZC1hbi1sbG0tc3VwZXItaGFja2VyLW9wZW5haS1idWlsdC10by1tYWtlLWl0cy1tb2RlbHMtc2FmZXIv",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-15T17:09:37.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenA",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "summary"
       ],
       "isNew": false
     },
@@ -369,7 +327,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wMi8xMTM4MjI3L2hvdy1zbWFsbC1idXNpbmVzc2VzLWNhbi1sZXZlcmFnZS1haS8",
@@ -433,21 +391,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
-      "title": "The Heated Debate In Europe Over Air Conditioning",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
+      "title": "2026.29: Mainframes and Main Characters",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/mainframes-and-main-characters/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-17T16:27:39.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-17T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Heated Debate In Europe Over Air Conditioning appeared first on NOEMA.",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
       "tags": [
-        "noema"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -645,6 +604,28 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNS8xMTQwNTE0L21lZXQtZ3B0LXJlZC1hbi1sbG0tc3VwZXItaGFja2VyLW9wZW5haS1idWlsdC10by1tYWtlLWl0cy1tb2RlbHMtc2FmZXIv",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-15T17:09:37.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenA",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
       ],
       "isNew": false
     },
@@ -1839,6 +1820,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
+      "title": "The Heated Debate In Europe Over Air Conditioning",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-17T16:27:39.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Heated Debate In Europe Over Air Conditioning appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy1haS1pcy1yZXdyaXRpbmctaHVtYW4tbmF0dXJl",
       "title": "How AI Is Rewriting Human Nature",
       "source": "Noema",
@@ -1854,26 +1854,6 @@
       "excerpt": "The post How AI Is Rewriting Human Nature appeared first on NOEMA.",
       "tags": [
         "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pYm0tbWlzc2VzLWlibXMtbWFpbmZyYW1lLW1vYXQtaWJtcy1tYW55LWFpLXByb2JsZW1zLw",
-      "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-15T10:00:19.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -2075,28 +2055,6 @@
         "space",
         "app",
         "mit technology review explains"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjIyL3dlYXRoZXItZGF0YS1zYWJvdGFnZS8",
-      "title": "The risk of weather data sabotage is rising",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
-      "thumbnailUrl": null,
-      "author": "Monique Kuglitsch, Jesper Dramsch, Franz G. Kuglitsch, Andrea Toreti",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-17T08:57:32.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "app"
       ],
       "isNew": true
     },
@@ -2607,7 +2565,7 @@
         "ddd",
         "딥파인"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSU5YyVlZCU5OSU5OCVlYSViMiViZCVlYyU5ZCU4MC0lZWMlODclYmMlZWMlOTglODAlZWIlODIlOTgtJWViJWE4JWI4JWVjJThhJWE0JWVkJTgxJWFjLWFpLSVlZCU4ZiVhZCVlYyU4YiU5ZC0lZWIlYjAlOWMlZWMlYTAlODQlZWElYjglYjAtJWViJThmJThjJWViJWE2JWFjJWViJWEwJWE0LTElZWMlYTElYjAtJWVjJTliJTkwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViOSUyNTljJTI1ZWQlMjU5OSUyNTk4JTI1ZWElMjViMiUyNWJkJTI1ZWMlMjU5ZCUyNTgwLSUyNWVjJTI1ODclMjViYyUyNWVjJTI1OTglMjU4MCUyNWViJTI1ODIlMjU5OC0lMjVlYiUyNWE4JTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgxJTI1YWMtYWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjU4YiUyNTlkLSUyNWViJTI1YjAlMjU5YyUyNWVjJTI1YTAlMjU4NCUyNWVhJTI1YjglMjViMC0lMjVlYiUyNThmJTI1OGMlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWEwJTI1YTQtMSUyNWVjJTI1YTElMjViMC0lMjVlYyUyNTliJTI1OTA",
@@ -5430,26 +5388,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjQwL3RoZS1kb3dubG9hZC1wZXJpbWVub3BhdXNlLW1pc2luZm9ybWF0aW9uLWNoaW5hLW1vb25zaG90LWFpLw",
-      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-17T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, b",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhNyU4MSVlYyU5YiU5MC0lZWIlOGMlODAlZWMlOGIlYTAtJWVjJTlkJWJjJWVkJTk1JTljJWViJThiJWE0LSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYiVhNyU4OCVlYyViOSVhOCVlYiU4MiViNC0lZWMlOTclODUlZWIlYWMlYjQlZWMlOWElYTktJWVjJThhJTg4JWVkJThkJWJjLSVlYyU5NSViMS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1OWIlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWMlMjU5ZCUyNWJjJTI1ZWQlMjU5NSUyNTljJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpLSUyNWViJTI1YTclMjU4OCUyNWVjJTI1YjklMjVhOCUyNWViJTI1ODIlMjViNC0lMjVlYyUyNTk3JTI1ODUlMjVlYiUyNWFjJTI1YjQlMjVlYyUyNTlhJTI1YTktJTI1ZWMlMjU4YSUyNTg4JTI1ZWQlMjU4ZCUyNWJjLSUyNWVjJTI1OTUlMjViMQ",
       "title": "“직원 대신 일한다” 오픈AI, 마침내 ‘업무용 슈퍼 앱’ 출시",
       "source": "Tech42",
@@ -6350,6 +6288,67 @@
         "ai생성검사"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pYm0tbWlzc2VzLWlibXMtbWFpbmZyYW1lLW1vYXQtaWJtcy1tYW55LWFpLXByb2JsZW1zLw",
+      "title": "IBM Misses, IBM’s Mainframe Moat, IBM’s Many AI Problems",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/ibm-misses-ibms-mainframe-moat-ibms-many-ai-problems/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-15T10:00:19.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "IBM announced preliminary results that spooked the software market generally; this is a story, however, specifically about IBM and its mainframe franchise.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNy8xMTQwNjIyL3dlYXRoZXItZGF0YS1zYWJvdGFnZS8",
+      "title": "The risk of weather data sabotage is rising",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "thumbnailUrl": null,
+      "author": "Monique Kuglitsch, Jesper Dramsch, Franz G. Kuglitsch, Andrea Toreti",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-17T08:57:32.000Z",
+      "readingMinutes": 4,
+      "score": 97,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather predictions",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9hZW9uLmNvL3ZpZGVvcy9ob3ctb3lzdGVyLWN1bHRpdmF0aW9uLXByb3RlY3RzLWxvdWlzaWFuYXMtZnJhZ2lsZS1jb2FzdGxpbmU",
+      "title": "What remains",
+      "source": "Aeon",
+      "sourceUrl": "https://aeon.co/feed.rss",
+      "articleUrl": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
+      "thumbnailUrl": "https://images.aeonmedia.co/images/23f6ad86-3338-46eb-af14-60bdec027e6e/what-remains-landscape-1-v2.jpg?width=1200&quality=75&format=auto",
+      "author": "Aeon Video",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-16T10:01:00.000Z",
+      "readingMinutes": 4,
+      "score": 96,
+      "whyItMatters": "빠른 정보가 아니라 긴 호흡의 사유를 회복시켜 준다.",
+      "excerpt": "In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion - by Aeon Video Watch on Aeon",
+      "tags": [
+        "aeon"
+      ],
+      "isNew": false
     }
   ]
 }
