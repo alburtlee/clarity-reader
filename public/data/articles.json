@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-07-20T02:11:09.449Z",
+  "fetchedAt": "2026-07-20T23:44:36.431Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZSU5MCVlYiU4NSU4MCVlYSViMCU4MC0lZWMlYjElOTdncHQlZWMlODQlOWMtJWVjJWI2JTk0JWViJWIwJWE5JWViJTkwJTk4JWViJWE5JWI0LSVlYiViNiU4MCVlYiVhYSVhOC0lZWQlOGYlYjAlZWMlOTclOTAtJWVjJTk1JThjJWViJWE2JWJjLSVlYiU5YyVhYyVlYiU4YiVhNCVlZCU4ZiVhZCVlYiVhMCVhNS0lZWQlODUlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTllJTI1OTAlMjVlYiUyNTg1JTI1ODAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWMlMjU4NCUyNTljLSUyNWVjJTI1YjYlMjU5NCUyNWViJTI1YjAlMjVhOSUyNWViJTI1OTAlMjU5OCUyNWViJTI1YTklMjViNC0lMjVlYiUyNWI2JTI1ODAlMjVlYiUyNWFhJTI1YTgtJTI1ZWQlMjU4ZiUyNWIwJTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OTUlMjU4YyUyNWViJTI1YTYlMjViYy0lMjVlYiUyNTljJTI1YWMlMjVlYiUyNThiJTI1YTQlMjVlZCUyNThmJTI1YWQlMjVlYiUyNWEwJTI1YTUtJTI1ZWQlMjU4NSUyNThj",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNi8xMTQwNjAwL3RoZS1kb3dubG9hZC1vcGVuYWktdW52ZWlscy1ncHQtcmVkLWhlYXQtcHVtcHMtcmlzZS11cy8",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi93aG9zLWFmcmFpZC1vZi1jaGluZXNlLW1vZGVscy8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMC8xMTQwNjc1L2NoaW5hcy1haS1tb2RlbHMtaGF2ZS10cnVtcHMtYWktd29ybGQtYXQtd2FyLXdpdGgtaXRzZWxmLw",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4MiVhYyVlYyVhNyU4NC0lZWMlYjAlOGQlZWIlOGIlYTQtYWklZWQlOTUlOWMlZWQlODUlOGMtJWVjJWE3JTgwJWVjJWEwJTgxJWViJWIwJTliJWViJThhJTk0LSVlYyU4YiU5YyVlYiU4YyU4MCVlYyU5NiViNCVlYiU4ZiU4NCVlYiViOSU4NC0lZWQlOWIlODglZWMlODglOTgtJWViJTkxJTkwJWViJThhJTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjVhNyUyNTg0LSUyNWVjJTI1YjAlMjU4ZCUyNWViJTI1OGIlMjVhNC1haSUyNWVkJTI1OTUlMjU5YyUyNWVkJTI1ODUlMjU4Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNWEwJTI1ODElMjVlYiUyNWIwJTI1OWIlMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU5NiUyNWI0JTI1ZWIlMjU4ZiUyNTg0JTI1ZWIlMjViOSUyNTg0LSUyNWVkJTI1OWIlMjU4OCUyNWVjJTI1ODglMjU5OC0lMjVlYiUyNTkxJTI1OTAlMjVlYiUyNThhJTI1OTQ",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
@@ -106,6 +106,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
+      "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/07/20/import-ai-465-open-vs-closed-gaps-kimi-k3-demis-big-policy-plan/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-jWGEYJ.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-07-20T12:31:45.000Z",
+      "readingMinutes": 4,
+      "score": 112,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now UK government: Gap between open and closed weight models o",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
       "title": "Co-Existence and the End of Co-Intelligence",
       "source": "One Useful Thing",
@@ -161,6 +181,48 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi93aG9zLWFmcmFpZC1vZi1jaGluZXNlLW1vZGVscy8",
+      "title": "Who’s Afraid of Chinese Models?",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-20T11:00:08.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMC8xMTQwNjU1L2FpLWJpYXNlcy1oaXJpbmctaHVtYW5zLw",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+      "thumbnailUrl": null,
+      "author": "Michelle Kim",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-20T08:39:01.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. N",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -367,26 +429,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
-      "title": "2026.29: Mainframes and Main Characters",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/mainframes-and-main-characters/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-17T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
       ],
       "isNew": false
     },
@@ -903,6 +945,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMC8xMTQwNjc1L2NoaW5hcy1haS1tb2RlbHMtaGF2ZS10cnVtcHMtYWktd29ybGQtYXQtd2FyLXdpdGgtaXRzZWxmLw",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+      "thumbnailUrl": null,
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-20T18:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed ",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZSU5MCVlYiU4NSU4MCVlYSViMCU4MC0lZWMlYjElOTdncHQlZWMlODQlOWMtJWVjJWI2JTk0JWViJWIwJWE5JWViJTkwJTk4JWViJWE5JWI0LSVlYiViNiU4MCVlYiVhYSVhOC0lZWQlOGYlYjAlZWMlOTclOTAtJWVjJTk1JThjJWViJWE2JWJjLSVlYiU5YyVhYyVlYiU4YiVhNCVlZCU4ZiVhZCVlYiVhMCVhNS0lZWQlODUlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTllJTI1OTAlMjVlYiUyNTg1JTI1ODAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWMlMjU4NCUyNTljLSUyNWVjJTI1YjYlMjU5NCUyNWViJTI1YjAlMjVhOSUyNWViJTI1OTAlMjU5OCUyNWViJTI1YTklMjViNC0lMjVlYiUyNWI2JTI1ODAlMjVlYiUyNWFhJTI1YTgtJTI1ZWQlMjU4ZiUyNWIwJTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OTUlMjU4YyUyNWViJTI1YTYlMjViYy0lMjVlYiUyNTljJTI1YWMlMjVlYiUyNThiJTI1YTQlMjVlZCUyNThmJTI1YWQlMjVlYiUyNWEwJTI1YTUtJTI1ZWQlMjU4NSUyNThj",
@@ -1864,21 +1928,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1oZWF0ZWQtZGViYXRlLWluLWV1cm9wZS1vdmVyLWFpci1jb25kaXRpb25pbmc",
-      "title": "The Heated Debate In Europe Over Air Conditioning",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tYWluZnJhbWVzLWFuZC1tYWluLWNoYXJhY3RlcnMv",
+      "title": "2026.29: Mainframes and Main Characters",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/mainframes-and-main-characters/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-17T16:27:39.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-17T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Heated Debate In Europe Over Air Conditioning appeared first on NOEMA.",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The best Stratechery content from the week of July 13, 2026, including the end of the mainframe, the continuing adventures of OpenAI, and answering the question, \"Is Netflix Washed?\".",
       "tags": [
-        "noema"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": false
     },
@@ -1896,26 +1961,6 @@
       "score": 102,
       "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
       "excerpt": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
-      "title": "Apple Sues OpenAI, Apple’s Real Problem",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-13T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
       "tags": [
         "stratechery",
         "daily update"
@@ -2571,6 +2616,50 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4MiVhYyVlYyVhNyU4NC0lZWMlYjAlOGQlZWIlOGIlYTQtYWklZWQlOTUlOWMlZWQlODUlOGMtJWVjJWE3JTgwJWVjJWEwJTgxJWViJWIwJTliJWViJThhJTk0LSVlYyU4YiU5YyVlYiU4YyU4MCVlYyU5NiViNCVlYiU4ZiU4NCVlYiViOSU4NC0lZWQlOWIlODglZWMlODglOTgtJWViJTkxJTkwJWViJThhJTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjVhNyUyNTg0LSUyNWVjJTI1YjAlMjU4ZCUyNWViJTI1OGIlMjVhNC1haSUyNWVkJTI1OTUlMjU5YyUyNWVkJTI1ODUlMjU4Yy0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNWEwJTI1ODElMjVlYiUyNWIwJTI1OWIlMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU5NiUyNWI0JTI1ZWIlMjU4ZiUyNTg0JTI1ZWIlMjViOSUyNTg0LSUyNWVkJTI1OWIlMjU4OCUyNWVjJTI1ODglMjU5OC0lMjVlYiUyNTkxJTI1OTAlMjVlYiUyNThhJTI1OTQ",
+      "title": "\"사진 찍다 AI한테 지적받는 시대\"…어도비, '훈수 두는' 카메라인앱 출시",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%82%ac%ec%a7%84-%ec%b0%8d%eb%8b%a4-ai%ed%95%9c%ed%85%8c-%ec%a7%80%ec%a0%81%eb%b0%9b%eb%8a%94-%ec%8b%9c%eb%8c%80%ec%96%b4%eb%8f%84%eb%b9%84-%ed%9b%88%ec%88%98-%eb%91%90%eb%8a%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25ac%25ec%25a7%2584-%25ec%25b0%258d%25eb%258b%25a4-ai%25ed%2595%259c%25ed%2585%258c-%25ec%25a7%2580%25ec%25a0%2581%25eb%25b0%259b%25eb%258a%2594-%25ec%258b%259c%25eb%258c%2580%25ec%2596%25b4%25eb%258f%2584%25eb%25b9%2584-%25ed%259b%2588%25ec%2588%2598-%25eb%2591%2590%25eb%258a%2594",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-20T23:39:02.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "어도비가 사진 촬영과 동시에 생성형 인공지능(AI)이 편집과 구도 피드백까지 제공하는 신개념 카메라 앱 기능을 공개했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai",
+        "어도비"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWMlOWMlODQlZWMlODQlYjElZWElYjMlYmMtYWklZWElYjAlODAtJWVjJTllJWFjJWViJWIwJWIwLSVlYiU4ZiU5NSVlYSViMyVhMC0lZWIlYTElOWMlZWIlYjQlODclZWMlOWQlYjQtJWVjJTg4JTk4JWVkJTk5JTk1JWMyJWI3JWViJThmJTg0JWVjJWI2JTk1JWVkJTk1JTk4JWVhJWIzJWEwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWVjJTI1OWMlMjU4NCUyNWVjJTI1ODQlMjViMSUyNWVhJTI1YjMlMjViYy1haSUyNWVhJTI1YjAlMjU4MC0lMjVlYyUyNTllJTI1YWMlMjVlYiUyNWIwJTI1YjAtJTI1ZWIlMjU4ZiUyNTk1JTI1ZWElMjViMyUyNWEwLSUyNWViJTI1YTElMjU5YyUyNWViJTI1YjQlMjU4NyUyNWVjJTI1OWQlMjViNC0lMjVlYyUyNTg4JTI1OTglMjVlZCUyNTk5JTI1OTUlMjVjMiUyNWI3JTI1ZWIlMjU4ZiUyNTg0JTI1ZWMlMjViNiUyNTk1JTI1ZWQlMjU5NSUyNTk4JTI1ZWElMjViMyUyNWEw",
+      "title": "[현장] 위성과 AI가 재배 돕고 로봇이 수확·도축하고…‘AFPRO 2026’서 본 농업의 진화",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%ec%9c%84%ec%84%b1%ea%b3%bc-ai%ea%b0%80-%ec%9e%ac%eb%b0%b0-%eb%8f%95%ea%b3%a0-%eb%a1%9c%eb%b4%87%ec%9d%b4-%ec%88%98%ed%99%95%c2%b7%eb%8f%84%ec%b6%95%ed%95%98%ea%b3%a0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-%25ec%259c%2584%25ec%2584%25b1%25ea%25b3%25bc-ai%25ea%25b0%2580-%25ec%259e%25ac%25eb%25b0%25b0-%25eb%258f%2595%25ea%25b3%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%2588%2598%25ed%2599%2595%25c2%25b7%25eb%258f%2584%25ec%25b6%2595%25ed%2595%2598%25ea%25b3%25a0",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-20T21:41:31.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "농사를 짓다 궁금한 것이 생기면 인공지능(AI)에 묻고, 사람이 일일이 돌아보던 넓은 노지는 위성 데이터로 살핀다. AI가 크기와 형태가 제각각인 가축을 인식해 로봇이 도축 공정 일부를 수행하도록 하고, 수확과 예찰 같은 반복 농작업도 로봇으로 대체하려는 시도가 이어지고 있다. 생산된 농식품이 소비자에게 이동하는 물류 과정에서는 탄소 배출량을 데이터로 측정·관리하는 기술까지 등장했다. AI가 모니터 속 분석 도구를 넘어 농업 ",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "스타트업",
+        "인터뷰"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4OCVlYyU5NyU5MC0lZWElYjclYjglZWIlYTYlYWMlZWMlOGElYTQlZWElYjUlYjAtJWViJTkzJWE0JWVjJTk3JWFjJWViJThiJWE0JWViJWIzJWI0JWVjJTk3JWFjJWViJTg2JTgwJWViJTllJTgwLSVlYSViMCU5MCVlYiU4ZiU4NS1haSVlYyU5NyU5MC0lZWMlOWMlYTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1ODglMjVlYyUyNTk3JTI1OTAtJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjVhNiUyNWFjJTI1ZWMlMjU4YSUyNWE0JTI1ZWElMjViNSUyNWIwLSUyNWViJTI1OTMlMjVhNCUyNWVjJTI1OTclMjVhYyUyNWViJTI1OGIlMjVhNCUyNWViJTI1YjMlMjViNCUyNWVjJTI1OTclMjVhYyUyNWViJTI1ODYlMjU4MCUyNWViJTI1OWUlMjU4MC0lMjVlYSUyNWIwJTI1OTAlMjVlYiUyNThmJTI1ODUtYWklMjVlYyUyNTk3JTI1OTAtJTI1ZWMlMjU5YyUyNWEw",
       "title": "“안에 그리스군 들여다보여”…놀란 감독, AI에 ‘유리 목마’ 직격탄",
       "source": "Tech42",
@@ -2789,6 +2878,26 @@
         "윈도우 11"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
+      "title": "Apple Sues OpenAI, Apple’s Real Problem",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4NCU4OC0lZWMlODIlYWMlZWElYjglYjAlZWElYmUlYmMlZWMlOWQlYjQlZWMlYTclODAtdnMtJWViJWIzJWI0JWVkJTk4JWI4JWVhJWI0JTgwJWVjJWIwJWIwJWVjJTlkJWI0JWViJTgyJTk4LSVlYiViMCU5YiVlYyU5NSU4NCVlYiU5ZCViYyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVjMiViNy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1ODQlMjU4OC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWI4JTI1YjAlMjVlYSUyNWJlJTI1YmMlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWE3JTI1ODAtdnMtJTI1ZWIlMjViMyUyNWI0JTI1ZWQlMjU5OCUyNWI4JTI1ZWElMjViNCUyNTgwJTI1ZWMlMjViMCUyNWIwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjAlMjU5YiUyNWVjJTI1OTUlMjU4NCUyNWViJTI1OWQlMjViYyUyNWViJTI1YTglMjViOCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODElMjVhYyUyNWMyJTI1Yjc",
@@ -5435,6 +5544,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMC8xMTQwNjY0L3RoZS1kb3dubG9hZC1haS1oaXJpbmctYmlhc2VzLXdlYXRoZXItZGF0YS1zYWJvdGFnZS8",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-20T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may scr",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViYyVlYiViMyViOCVlYyU5ZCU4MC1haS0lZWIlOTElOTAlZWIlODclOGMtJWViJWE3JThjJWViJTkzJWE0JWVhJWIzJWEwLSVlZCU5NSU5YyVlYSViNSVhZCVlYyU5ZCU4MC0lZWIlYTklOTQlZWIlYWElYTglZWIlYTYlYWMlZWIlYTclOGMtJWVkJThjJTkwJWViJThiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5ZCUyNWJjJTI1ZWIlMjViMyUyNWI4JTI1ZWMlMjU5ZCUyNTgwLWFpLSUyNWViJTI1OTElMjU5MCUyNWViJTI1ODclMjU4Yy0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTQlMjVlYSUyNWIzJTI1YTAtJTI1ZWQlMjU5NSUyNTljJTI1ZWElMjViNSUyNWFkJTI1ZWMlMjU5ZCUyNTgwLSUyNWViJTI1YTklMjU5NCUyNWViJTI1YWElMjVhOCUyNWViJTI1YTYlMjVhYyUyNWViJTI1YTclMjU4Yy0lMjVlZCUyNThjJTI1OTAlMjVlYiUyNThiJTI1YTQ",
       "title": "일본은 AI 두뇌 만들고, 한국은 메모리만 판다?",
       "source": "Tech42",
@@ -6229,132 +6358,6 @@
       "excerpt": "AI 코딩 시대의 복잡성 래칫(Complexity Ratchet) - Garry Tan의 에세이 요약 게리 탄(Garry Tan, Y Combinator CEO)이 X에 공유한 장문의 에세이로, 지난 1년간 AI 에이전트(Claude Code, Codex 등)와 함께 두 개의 오픈소스 프로젝트를 만든 경험을 정리한 글입니다. 약 97만 줄의 코드와 665개의 테스트 ...",
       "tags": [
         "geeknews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU5ZCViOCVlYyU4MiVhYyVlYyU5ZCViNCVlZCU4YSViOCVlMiU5MSVhMy1haS0lZWMlOGIlYTQlZWQlOGMlYTgtJWVjJTliJTkwJWVjJTlkJWI4JWVjJTlkJTgwLSVlYSViOCViMCVlYyU4OCVhMCVlYyU5ZCViNC0lZWMlOTUlODQlZWIlOGIlODglZWIlOGIlYTQtJWVjJTk1JWEwJWViJThkJWE0LSVlYiViOCU4Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVjJTI1OWQlMjViOCUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWQlMjViNCUyNWVkJTI1OGElMjViOCUyNWUyJTI1OTElMjVhMy1haS0lMjVlYyUyNThiJTI1YTQlMjVlZCUyNThjJTI1YTgtJTI1ZWMlMjU5YiUyNTkwJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU5ZCUyNTgwLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1ODglMjVhMCUyNWVjJTI1OWQlMjViNC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNThiJTI1ODglMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWEwJTI1ZWIlMjU4ZCUyNWE0LSUyNWViJTI1YjglMjU4Yw",
-      "title": "[AI 인사이트④] AI 실패 원인은 기술이 아니다… 애덤 브로트먼이 짚은 ‘리더십 격차’",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai-%ec%9d%b8%ec%82%ac%ec%9d%b4%ed%8a%b8%e2%91%a3-ai-%ec%8b%a4%ed%8c%a8-%ec%9b%90%ec%9d%b8%ec%9d%80-%ea%b8%b0%ec%88%a0%ec%9d%b4-%ec%95%84%eb%8b%88%eb%8b%a4-%ec%95%a0%eb%8d%a4-%eb%b8%8c/?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%259d%25b8%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8%25e2%2591%25a3-ai-%25ec%258b%25a4%25ed%258c%25a8-%25ec%259b%2590%25ec%259d%25b8%25ec%259d%2580-%25ea%25b8%25b0%25ec%2588%25a0%25ec%259d%25b4-%25ec%2595%2584%25eb%258b%2588%25eb%258b%25a4-%25ec%2595%25a0%25eb%258d%25a4-%25eb%25b8%258c",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-11T23:30:28.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "브로트먼은 이번 인터뷰의 후반부에서 이 질문에 대해 비교적 단호한 답을 내놨다. 그의 판단에 따르면 기업의 AI 도입 실패 원인은 기술 부족이 아니다. 오히려 리더십의 숙련도 격차, AI를 IT 프로젝트로 다루는 관성, 그리고 조직이 변화의 속도를 흡수할 구조를 아직 갖추지 못한 데서 원인을 찾을 수 있다.",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "테크놀로지",
-        "ai 실패 원인"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA1LzExL2ltcG9ydC1haS00NTYtcnNpLWFuZC1lY29ub21pYy1ncm93dGgtcmFkaWNhbC1vcHRpb25hbGl0eS1mb3ItYWktcmVndWxhdGlvbi1hbmQtYS1uZXVyYWwtY29tcHV0ZXIv",
-      "title": "Import AI 456: RSI and economic growth; radical optionality for AI regulation; and a neural computer",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/05/11/import-ai-456-rsi-and-economic-growth-radical-optionality-for-ai-regulation-and-a-neural-computer/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Q40W1J.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-05-11T12:46:12.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Regulate? Don’t regulate. There’s a third way: Radical Opt",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS1haS0lZWMlOTclOTElZWMlOGElYTQlZWQlOGYlYWMtMjAyNiVlYyU5ZCViNC0lZWIlYjMlYjQlZWMlOTclYWMlZWMlYTQlODAtJWVkJTk4JTg0JWVjJTllJWE1JWVkJTk4JTk1LWFpLSVlYiU4YiViNSVlZCU5NSU5OCVlYiU4YSU5NC0lZWElYjIlODMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtYWktJTI1ZWMlMjU5NyUyNTkxJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4ZiUyNWFjLTIwMjYlMjVlYyUyNTlkJTI1YjQtJTI1ZWIlMjViMyUyNWI0JTI1ZWMlMjU5NyUyNWFjJTI1ZWMlMjVhNCUyNTgwLSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNSUyNWVkJTI1OTglMjU5NS1haS0lMjVlYiUyNThiJTI1YjUlMjVlZCUyNTk1JTI1OTglMjVlYiUyNThhJTI1OTQtJTI1ZWElMjViMiUyNTgz",
-      "title": "[현장] AI 엑스포 2026이 보여준 ‘현장형 AI’… “답하는 것을 넘어 실행하는 AI로 진화했다”",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-ai-%ec%97%91%ec%8a%a4%ed%8f%ac-2026%ec%9d%b4-%eb%b3%b4%ec%97%ac%ec%a4%80-%ed%98%84%ec%9e%a5%ed%98%95-ai-%eb%8b%b5%ed%95%98%eb%8a%94-%ea%b2%83/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-ai-%25ec%2597%2591%25ec%258a%25a4%25ed%258f%25ac-2026%25ec%259d%25b4-%25eb%25b3%25b4%25ec%2597%25ac%25ec%25a4%2580-%25ed%2598%2584%25ec%259e%25a5%25ed%2598%2595-ai-%25eb%258b%25b5%25ed%2595%2598%25eb%258a%2594-%25ea%25b2%2583",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-07T23:07:27.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "페르소나AI의 AI 엑스포 2026 현장 부스. 페르소나AI는 이번 행사에서 음성 명령을 기반으로 주변 상황을 인식하고 동작하는 에이전틱 로봇 기술과 자체 로봇 OS 관련 기술을 소개했다. (사진=테크42)",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "비즈니스",
-        "스타트업"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA1LzA0L2ltcG9ydC1haS00NTUtYXV0b21hdGluZy1haS1yZXNlYXJjaC8",
-      "title": "Import AI 455: Automating AI Research",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/05/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-nP6BEw.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-05-04T12:32:09.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are about to start building themselves. What does that mean? ",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8wMS8xMTM2NzYyL3RoZS1kb3dubG9hZC1jaHJpc3RpYW4tcGhvbmUtbmV0d29yay1kZWJ1Z2dpbmctbGxtcy8",
-      "title": "The Download: a new Christian phone network, and debugging LLMs",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/01/1136762/the-download-christian-phone-network-debugging-llms/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-01T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new US phone network for Christians aims to block porn and gender-related content A new US-wide cell",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWVhJWIwJTgwLSVlYyU5MyViNC0lZWElYjglODAtJWVjJTk2JWI0JWViJTk2JWJiJWVhJWIyJThjLSVlZCU4YyU5MCVlYiU4YiVhOCVlZCU5NSVhMCVlYSViOSU4YyVlYiVhYyViNCVlZCU5NSU5OCVlYyU5YyVhMC1haS1leHBvLTIwMjYlZWMlODQlOWMtJWVjJTg0JWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249YWklMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjglMjU4MC0lMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTk2JTI1YmIlMjVlYSUyNWIyJTI1OGMtJTI1ZWQlMjU4YyUyNTkwJTI1ZWIlMjU4YiUyNWE4JTI1ZWQlMjU5NSUyNWEwJTI1ZWElMjViOSUyNThjJTI1ZWIlMjVhYyUyNWI0JTI1ZWQlMjU5NSUyNTk4JTI1ZWMlMjU5YyUyNWEwLWFpLWV4cG8tMjAyNiUyNWVjJTI1ODQlMjU5Yy0lMjVlYyUyNTg0JTI1YTQ",
-      "title": "“AI가 쓴 글, 어떻게 판단할까”…무하유, AI EXPO 2026서 ‘설명 가능한 검증’ 솔루션 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai%ea%b0%80-%ec%93%b4-%ea%b8%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ed%8c%90%eb%8b%a8%ed%95%a0%ea%b9%8c%eb%ac%b4%ed%95%98%ec%9c%a0-ai-expo-2026%ec%84%9c-%ec%84%a4/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25ea%25b0%2580-%25ec%2593%25b4-%25ea%25b8%2580-%25ec%2596%25b4%25eb%2596%25bb%25ea%25b2%258c-%25ed%258c%2590%25eb%258b%25a8%25ed%2595%25a0%25ea%25b9%258c%25eb%25ac%25b4%25ed%2595%2598%25ec%259c%25a0-ai-expo-2026%25ec%2584%259c-%25ec%2584%25a4",
-      "thumbnailUrl": null,
-      "author": "조상돈 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-04-29T00:16:48.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "무하유는 다음달 6일부터 8일까지 서울 코엑스에서 열리는 ‘AI EXPO KOREA 2026’에 참가해 설명 가능한 AI 기반 검증·평가 솔루션을 선보인다고 29일 밝혔다.",
-      "tags": [
-        "tech42",
-        "비즈니스",
-        "ai expo 2026",
-        "ai생성검사"
       ],
       "isNew": true
     }
