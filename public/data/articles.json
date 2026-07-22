@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-21T23:44:52.523Z",
+  "fetchedAt": "2026-07-22T23:51:55.791Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWMlYTIlOGIlZWMlOWQlODAtJWVjJWEwJTljJWVkJTkyJTg4JWViJWE3JThjJWVjJTljJWJjJWViJWExJWEwLSVlYiViNiU4MCVlYyVhMSViMSVlZCU5NSU5OCVlYiU4YiVhNGFpJWMyJWI3JWViJThkJWIwJWVjJTlkJWI0JWVkJTg0JWIwLSVlYyU4YiU5YyVlYiU4YyU4MC1iMmItJWViJWE3JTg4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWVjJTI1YTIlMjU4YiUyNWVjJTI1OWQlMjU4MC0lMjVlYyUyNWEwJTI1OWMlMjVlZCUyNTkyJTI1ODglMjVlYiUyNWE3JTI1OGMlMjVlYyUyNTljJTI1YmMlMjVlYiUyNWExJTI1YTAtJTI1ZWIlMjViNiUyNTgwJTI1ZWMlMjVhMSUyNWIxJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YiUyNWE0YWklMjVjMiUyNWI3JTI1ZWIlMjU4ZCUyNWIwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4NCUyNWIwLSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1OGMlMjU4MC1iMmItJTI1ZWIlMjVhNyUyNTg4",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9uZXRmbGl4LWVhcm5pbmdzLWlzLW5ldGZsaXgtd2FzaGVkLWFkZGl0aW9uYWwtbm90ZXMv",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMS8xMTQwNjg1L3RoZS1kb3dubG9hZC1jaGluZXNlLWFpLWRpdmlkZXMtd2hpdGUtaG91c2UtYW50aHJvcGljLWNvcHlyaWdodC1zZXR0bGVtZW50Lw",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtaHVtYW5pdHktbmVlZHMtdG8tZmxvdXJpc2gtaW4tdGhlLW5leHQtZGVjYWRl",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8"
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktaGFja3MtaHVnZ2luZy1mYWNlLXdoYXQtaGFwcGVuZWQtYWxpZ25tZW50LWFuZC1wYXBlci1jbGlwcy8",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlYyU5NCVhOCVlYiU5MyU5Yy0lZWQlOTMlYjAlZWIlYTYlYWMlZWMlYjIlOThhaS0lZWElYjglYjAlZWMlOTclODUtJWVkJThmJTg5JWVkJThjJTkwJWMyJWI3JWVjJTljJTg0JWVhJWI4JWIwJWVhJWI0JTgwJWViJWE2JWFjLSVlYSViOCViMCVlYiU4YSVhNS0lZWQlODMlOTElZWMlOWUlYWMtcC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVjJTI1OTQlMjVhOCUyNWViJTI1OTMlMjU5Yy0lMjVlZCUyNTkzJTI1YjAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNWIyJTI1OThhaS0lMjVlYSUyNWI4JTI1YjAlMjVlYyUyNTk3JTI1ODUtJTI1ZWQlMjU4ZiUyNTg5JTI1ZWQlMjU4YyUyNTkwJTI1YzIlMjViNyUyNWVjJTI1OWMlMjU4NCUyNWVhJTI1YjglMjViMCUyNWVhJTI1YjQlMjU4MCUyNWViJTI1YTYlMjVhYy0lMjVlYSUyNWI4JTI1YjAlMjVlYiUyNThhJTI1YTUtJTI1ZWQlMjU4MyUyNTkxJTI1ZWMlMjU5ZSUyNWFjLXA",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMi8xMTQwNzE3L3RoZS1kb3dubG9hZC1uYXNhLXNwYWNlLXRlbGVzY29wZS1vcGVuYWktaHVnZ2luZy1mYWNlLWhhY2sv",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -28,6 +28,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktaGFja3MtaHVnZ2luZy1mYWNlLXdoYXQtaGFwcGVuZWQtYWxpZ25tZW50LWFuZC1wYXBlci1jbGlwcy8",
+      "title": "OpenAI Hacks Hugging Face, What Happened, Alignment and Paper Clips",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/openai-hacks-hugging-face-what-happened-alignment-and-paper-clips/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Alignment",
+      "publishedAt": "2026-07-22T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 115,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "OpenAI accidentally hacked Hugging Face, but the takeaways are more encouraging than people realize.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvbWFuYWdlbWVudC1hcy1haS1zdXBlcnBvd2Vy",
@@ -265,7 +285,7 @@
         "import-ai",
         "uncategorized"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA0LzEzL2ltcG9ydC1haS00NTMtYnJlYWtpbmctYWktYWdlbnRzLW1pcnJvcmNvZGUtYW5kLXRlbi12aWV3cy1vbi1ncmFkdWFsLWRpc2VtcG93ZXJtZW50Lw",
@@ -389,26 +409,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9uZXRmbGl4LWVhcm5pbmdzLWlzLW5ldGZsaXgtd2FzaGVkLWFkZGl0aW9uYWwtbm90ZXMv",
-      "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-21T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Netflix's earnings were fine, and befitting a mature company whose most exciting days are likely behind them.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzE1L2ltcG9ydC1haS00NjEtYWxpZ25tZW50LWlzLW5vdC1vbi10cmFjay1mcm9udGllcmNvZGUtYW5kLXN5bnRoZXRpYy1yZXNlYXJjaC1pbnRlcm5zLw",
@@ -625,7 +625,7 @@
         "stratechery",
         "articles"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMC8xMTQwNjU1L2FpLWJpYXNlcy1oaXJpbmctaHVtYW5zLw",
@@ -647,7 +647,7 @@
         "ai",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8xNS8xMTQwNTE0L21lZXQtZ3B0LXJlZC1hbi1sbG0tc3VwZXItaGFja2VyLW9wZW5haS1idWlsdC10by1tYWtlLWl0cy1tb2RlbHMtc2FmZXIv",
@@ -1538,6 +1538,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMi8xMTQwNzE3L3RoZS1kb3dubG9hZC1uYXNhLXNwYWNlLXRlbGVzY29wZS1vcGVuYWktaHVnZ2luZy1mYWNlLWhhY2sv",
+      "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-22T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Shape-shifting mirrors on NASA’s new space telescope could unveil Jupiters like our own When NASA’s Na",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTg0JTk4JWVjJWE2JTg4JWVjJTk3JTkwJWVjJTlkJWI0JWVjJTk1JTg0JWVjJTlkJWI0LTQwJWVjJTk2JWI1LSVlYyViMiVhYi0lZWQlODglYWMlZWMlOWUlOTAlYzIlYjdheC0lZWMlOWQlYjglZWMlOWUlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1ODQlMjU5OCUyNWVjJTI1YTYlMjU4OCUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OTUlMjU4NCUyNWVjJTI1OWQlMjViNC00MCUyNWVjJTI1OTYlMjViNS0lMjVlYyUyNWIyJTI1YWItJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwJTI1YzIlMjViN2F4LSUyNWVjJTI1OWQlMjViOCUyNWVjJTI1OWUlMjVhYw",
       "title": "[스타트업 안테나] 넘즈에이아이 40억 첫 투자·‘AX 인재전쟁’ 5천명 몰려…일레븐랩스 항공 음성AI 실증",
       "source": "Tech42",
@@ -1926,22 +1946,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yMS8xMTQwNjg1L3RoZS1kb3dubG9hZC1jaGluZXNlLWFpLWRpdmlkZXMtd2hpdGUtaG91c2UtYW50aHJvcGljLWNvcHlyaWdodC1zZXR0bGVtZW50Lw",
-      "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9uZXRmbGl4LWVhcm5pbmdzLWlzLW5ldGZsaXgtd2FzaGVkLWFkZGl0aW9uYWwtbm90ZXMv",
+      "title": "Netflix Earnings, Is Netflix Washed?, Additional Notes",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/netflix-earnings-is-netflix-washed-additional-notes/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-21T12:10:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-21T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China’s AI models have Trump’s AI world at war with itself Last weekend, several current and former ad",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Netflix's earnings were fine, and befitting a mature company whose most exciting days are likely behind them.",
       "tags": [
-        "mit-technology-review",
-        "the download"
+        "stratechery",
+        "daily update"
       ],
       "isNew": true
     },
@@ -2614,21 +2634,46 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtaHVtYW5pdHktbmVlZHMtdG8tZmxvdXJpc2gtaW4tdGhlLW5leHQtZGVjYWRl",
-      "title": "What Humanity Needs To Flourish In The Next Decade",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/what-humanity-needs-to-flourish-in-the-next-decade",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlYyU5NCVhOCVlYiU5MyU5Yy0lZWQlOTMlYjAlZWIlYTYlYWMlZWMlYjIlOThhaS0lZWElYjglYjAlZWMlOTclODUtJWVkJThmJTg5JWVkJThjJTkwJWMyJWI3JWVjJTljJTg0JWVhJWI4JWIwJWVhJWI0JTgwJWViJWE2JWFjLSVlYSViOCViMCVlYiU4YSVhNS0lZWQlODMlOTElZWMlOWUlYWMtcC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVjJTI1OTQlMjVhOCUyNWViJTI1OTMlMjU5Yy0lMjVlZCUyNTkzJTI1YjAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNWIyJTI1OThhaS0lMjVlYSUyNWI4JTI1YjAlMjVlYyUyNTk3JTI1ODUtJTI1ZWQlMjU4ZiUyNTg5JTI1ZWQlMjU4YyUyNTkwJTI1YzIlMjViNyUyNWVjJTI1OWMlMjU4NCUyNWVhJTI1YjglMjViMCUyNWVhJTI1YjQlMjU4MCUyNWViJTI1YTYlMjVhYy0lMjVlYSUyNWI4JTI1YjAlMjVlYiUyNThhJTI1YTUtJTI1ZWQlMjU4MyUyNTkxJTI1ZWMlMjU5ZSUyNWFjLXA",
+      "title": "스타씨드 '퓰리처AI', 기업 평판·위기관리 기능 탑재… PR 자동화 확대",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ec%94%a8%eb%93%9c-%ed%93%b0%eb%a6%ac%ec%b2%98ai-%ea%b8%b0%ec%97%85-%ed%8f%89%ed%8c%90%c2%b7%ec%9c%84%ea%b8%b0%ea%b4%80%eb%a6%ac-%ea%b8%b0%eb%8a%a5-%ed%83%91%ec%9e%ac-p/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ec%2594%25a8%25eb%2593%259c-%25ed%2593%25b0%25eb%25a6%25ac%25ec%25b2%2598ai-%25ea%25b8%25b0%25ec%2597%2585-%25ed%258f%2589%25ed%258c%2590%25c2%25b7%25ec%259c%2584%25ea%25b8%25b0%25ea%25b4%2580%25eb%25a6%25ac-%25ea%25b8%25b0%25eb%258a%25a5-%25ed%2583%2591%25ec%259e%25ac-p",
       "thumbnailUrl": null,
-      "author": "E. Glen Weyl",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-21T14:47:09.000Z",
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-22T23:51:10.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post What Humanity Needs To Flourish In The Next Decade appeared first on NOEMA.",
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능(AI) 기반 PR 및 미디어 인텔리전스 전문 기업 스타씨드가 자사의 대표 AI PR 서비스인 '퓰리처AI'에 기업 평판·위기관리 기능과 뉴스클리핑 데이터 기반 전문 리포트 생성 솔루션을 새롭게 업데이트했다고 밝혔다.",
       "tags": [
-        "noema"
+        "tech42",
+        "스타트업",
+        "스타씨드",
+        "퓰리처ai"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhZiViOC0lZWMlYTAlOTUlZWIlYjYlODAtNTAlZWMlOTYlYjUtJWViJThiJWFjJWViJTlmJWFjLSVlYSViNyU5YyVlYiVhYSVhOC0lZWMlYTAlOWMlZWIlODQlYTQlZWMlOGIlOWMlZWMlOGElYTQtJWViJWFmJWI4JWVjJTg1JTk4LSVlYSViMCU4MCVlYiU4ZiU5OS1haSVlYiVhMSU5Yy0lZWElYjMlYmMlZWQlOTUlOTkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWFmJTI1YjgtJTI1ZWMlMjVhMCUyNTk1JTI1ZWIlMjViNiUyNTgwLTUwJTI1ZWMlMjU5NiUyNWI1LSUyNWViJTI1OGIlMjVhYyUyNWViJTI1OWYlMjVhYy0lMjVlYSUyNWI3JTI1OWMlMjVlYiUyNWFhJTI1YTgtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjU4NCUyNWE0JTI1ZWMlMjU4YiUyNTljJTI1ZWMlMjU4YSUyNWE0LSUyNWViJTI1YWYlMjViOCUyNWVjJTI1ODUlMjU5OC0lMjVlYSUyNWIwJTI1ODAlMjVlYiUyNThmJTI1OTktYWklMjVlYiUyNWExJTI1OWMtJTI1ZWElMjViMyUyNWJjJTI1ZWQlMjU5NSUyNTk5",
+      "title": "미 정부, 50억 달러 규모 '제네시스 미션' 가동… AI로 과학 혁신 전면전",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%af%b8-%ec%a0%95%eb%b6%80-50%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ea%b7%9c%eb%aa%a8-%ec%a0%9c%eb%84%a4%ec%8b%9c%ec%8a%a4-%eb%af%b8%ec%85%98-%ea%b0%80%eb%8f%99-ai%eb%a1%9c-%ea%b3%bc%ed%95%99/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25af%25b8-%25ec%25a0%2595%25eb%25b6%2580-50%25ec%2596%25b5-%25eb%258b%25ac%25eb%259f%25ac-%25ea%25b7%259c%25eb%25aa%25a8-%25ec%25a0%259c%25eb%2584%25a4%25ec%258b%259c%25ec%258a%25a4-%25eb%25af%25b8%25ec%2585%2598-%25ea%25b0%2580%25eb%258f%2599-ai%25eb%25a1%259c-%25ea%25b3%25bc%25ed%2595%2599",
+      "thumbnailUrl": null,
+      "author": "김한수 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-22T23:46:22.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "지난해 11월 발효된 행정명령을 바탕으로 인공지능(AI)을 활용해 과학적 발견을 혁신적으로 가속화하기 위한 미 정부 차원의 대규모 프로젝트인 '제네시스 미션(Genesis Mission)'의 구체적인 세부 계획이 마침내 베일을 벗었다.",
+      "tags": [
+        "tech42",
+        "정책플러스",
+        "ai",
+        "마이크로소프트"
       ],
       "isNew": true
     },
@@ -2696,7 +2741,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4OCVlYyU5NyU5MC0lZWElYjclYjglZWIlYTYlYWMlZWMlOGElYTQlZWElYjUlYjAtJWViJTkzJWE0JWVjJTk3JWFjJWViJThiJWE0JWViJWIzJWI0JWVjJTk3JWFjJWViJTg2JTgwJWViJTllJTgwLSVlYSViMCU5MCVlYiU4ZiU4NS1haSVlYyU5NyU5MC0lZWMlOWMlYTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1ODglMjVlYyUyNTk3JTI1OTAtJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjVhNiUyNWFjJTI1ZWMlMjU4YSUyNWE0JTI1ZWElMjViNSUyNWIwLSUyNWViJTI1OTMlMjVhNCUyNWVjJTI1OTclMjVhYyUyNWViJTI1OGIlMjVhNCUyNWViJTI1YjMlMjViNCUyNWVjJTI1OTclMjVhYyUyNWViJTI1ODYlMjU4MCUyNWViJTI1OWUlMjU4MC0lMjVlYSUyNWIwJTI1OTAlMjVlYiUyNThmJTI1ODUtYWklMjVlYyUyNTk3JTI1OTAtJTI1ZWMlMjU5YyUyNWEw",
@@ -6320,48 +6365,6 @@
         "비즈니스",
         "ai 에이전트",
         "나토마 인수"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTljJThjJWViJWExJTljJWVhJWI3JWI4LSVlYiVhMSU5YyVlYyVhNyU4MCVlYyU4YSVhNCVlZCU4YiViMSVlYyU4YSVhNCVlYiU4YyU4MCVlYyU4MyU4MSVjMiViNyVlYyViYyU4MCVlYyU5NiViNCVlYiVhOSU5NCVlYiU5NCU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWMlMjU5YyUyNThjJTI1ZWIlMjVhMSUyNTljJTI1ZWElMjViNyUyNWI4LSUyNWViJTI1YTElMjU5YyUyNWVjJTI1YTclMjU4MCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNCUyNWViJTI1OGMlMjU4MCUyNWVjJTI1ODMlMjU4MSUyNWMyJTI1YjclMjVlYyUyNWJjJTI1ODAlMjVlYyUyNTk2JTI1YjQlMjVlYiUyNWE5JTI1OTQlMjVlYiUyNTk0JTI1OTQ",
-      "title": "[스타트업 안테나] 윌로그 로지스틱스대상·케어메디 인슐린 펌프 출시·지디벤처스 1호 펀드 클로징",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%9c%8c%eb%a1%9c%ea%b7%b8-%eb%a1%9c%ec%a7%80%ec%8a%a4%ed%8b%b1%ec%8a%a4%eb%8c%80%ec%83%81%c2%b7%ec%bc%80%ec%96%b4%eb%a9%94%eb%94%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%259c%258c%25eb%25a1%259c%25ea%25b7%25b8-%25eb%25a1%259c%25ec%25a7%2580%25ec%258a%25a4%25ed%258b%25b1%25ec%258a%25a4%25eb%258c%2580%25ec%2583%2581%25c2%25b7%25ec%25bc%2580%25ec%2596%25b4%25eb%25a9%2594%25eb%2594%2594",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-26T04:58:48.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "윌로그, AIoT 물류 가시성 기술로 한국로지스틱스대상 스타트업 부문 대상 케어메디, 7일 사용 가능한 패치형 인슐린 펌프 ‘케어레보’ 출시 지디벤처스 43억6000만원...",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "무하유",
-        "에이블런"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNS8yMi8xMTM3ODQ1L3RoZS1kb3dubG9hZC1jb2RpbmctZnV0dXJlLXN0ZXJvaWQtb2x5bXBpY3MtYWktc2NpZW5jZS8",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-05-22T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic’s Code with Claude showed off coding’s future—whether you like it or not At Anthropic’s deve",
-      "tags": [
-        "mit-technology-review",
-        "the download"
       ],
       "isNew": false
     }
