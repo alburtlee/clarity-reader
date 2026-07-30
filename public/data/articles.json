@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-07-29T23:51:17.182Z",
+  "fetchedAt": "2026-07-30T23:51:20.976Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViOCVlYSViMyViNSVlYyVhNyU4MCVlYiU4YSVhNSVlYyU5ZCViNC0lZWIlYTclOGMlZWIlOTMlYTAtJWVjJWExJWIwJWVjJTllJWExJWVkJTk1JTljLSVlYyU5ZCU4YyVlYyU5NSU4NS0lZWMlYjAlYTglZWQlOGElYjglZWMlOTclOTAlZWMlODQlOWMtJWVjJWI5JTk4JWVjJTliJThjJWViJTlkJWJjLSVlYSViOCU4MC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWQlMjViOCUyNWVhJTI1YjMlMjViNSUyNWVjJTI1YTclMjU4MCUyNWViJTI1OGElMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAtJTI1ZWMlMjVhMSUyNWIwJTI1ZWMlMjU5ZSUyNWExJTI1ZWQlMjU5NSUyNTljLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1OTUlMjU4NS0lMjVlYyUyNWIwJTI1YTglMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjViOSUyNTk4JTI1ZWMlMjU5YiUyNThjJTI1ZWIlMjU5ZCUyNWJjLSUyNWVhJTI1YjglMjU4MA",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yOS8xMTQwODk2L2dlb3RoZXJtYWwtc2Vjb25kLWNoYW5jZS8",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzI3L2ltcG9ydC1haS00NjYtdGhlLWJpdHRlci1sZXNzb24tZm9yLXJvYm90aWNzLWFpcy1jb21wbGV0ZS13ZWVrLWxvbmctcHJvZ3JhbW1pbmctdGFza3MtYW5kLW9wZW5haXMtYWNjaWRlbnRhbC1haS1oYWNrZXIv",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY29waXVtLXdhcnMv",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy"
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTI3L2EtZnVuZGFtZW50YWwtZmxhdy1sZWF2ZXMtbGxtcy12dWxuZXJhYmxlLXRvLWF0dGFjay8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1yaXNlLWFuZC1mYWxsLW9mLWxpYmVyYWwtZGVtb2NyYWN5cy1zaGFyZWQtZmljdGlvbg",
+    "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzE5ODU",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYTAlODAlZWMlYmIlYTQlZWIlYjIlODQlZWElYjclYjgtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlhJWE5LWFpJWMyJWI3JWVjJWJiJWI0JWVkJTkzJWE4JWVkJThjJTg1LSVlZCU4YyU4YyVlYyU5YiU4Yy0lZWMlYTclODElZWMlYTAlOTEtJWVkJThjJTkwJWViJWE3JWE0LSVlYyU4NCVhMCVlYyU5NiViOC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWEwJTI1ODAlMjVlYyUyNWJiJTI1YTQlMjVlYiUyNWIyJTI1ODQlMjVlYSUyNWI3JTI1YjgtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NyUyNTg1JTI1ZWMlMjU5YSUyNWE5LWFpJTI1YzIlMjViNyUyNWVjJTI1YmIlMjViNCUyNWVkJTI1OTMlMjVhOCUyNWVkJTI1OGMlMjU4NS0lMjVlZCUyNThjJTI1OGMlMjVlYyUyNTliJTI1OGMtJTI1ZWMlMjVhNyUyNTgxJTI1ZWMlMjVhMCUyNTkxLSUyNWVkJTI1OGMlMjU5MCUyNWViJTI1YTclMjVhNC0lMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTk2JTI1Yjg",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzI3L2ltcG9ydC1haS00NjYtdGhlLWJpdHRlci1sZXNzb24tZm9yLXJvYm90aWNzLWFpcy1jb21wbGV0ZS13ZWVrLWxvbmctcHJvZ3JhbW1pbmctdGFza3MtYW5kLW9wZW5haXMtYWNjaWRlbnRhbC1haS1oYWNrZXIv"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -28,6 +28,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTI3L2EtZnVuZGFtZW50YWwtZmxhdy1sZWF2ZXMtbGxtcy12dWxuZXJhYmxlLXRvLWF0dGFjay8",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-30T10:15:19.000Z",
+      "readingMinutes": 4,
+      "score": 115,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI confere",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvbWFuYWdlbWVudC1hcy1haS1zdXBlcnBvd2Vy",
@@ -163,26 +183,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzI3L2ltcG9ydC1haS00NjYtdGhlLWJpdHRlci1sZXNzb24tZm9yLXJvYm90aWNzLWFpcy1jb21wbGV0ZS13ZWVrLWxvbmctcHJvZ3JhbW1pbmctdGFza3MtYW5kLW9wZW5haXMtYWNjaWRlbnRhbC1haS1oYWNrZXIv",
-      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-MrVmhb.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-07-27T13:30:53.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Epoch and METR release MirrorCode, a benchmark for seeing ",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
       "title": "“코딩 몰라도 게임 만든다” 앤트로픽, 명령어 한 줄로 12시간 작업 끝내는 AI 전격 출시",
       "source": "Tech42",
@@ -264,25 +264,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
-      "title": "An opinionated guide to which AI to use to do stuff",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-07-23T18:05:24.000Z",
-      "readingMinutes": 4,
-      "score": 108,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "The Summer 2026 Edition",
-      "tags": [
-        "one-useful-thing"
       ],
       "isNew": false
     },
@@ -406,6 +387,25 @@
       "tags": [
         "import-ai",
         "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
+      "title": "An opinionated guide to which AI to use to do stuff",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/an-opinionated-guide-to-which-ai-b22",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-07-23T18:05:24.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "The Summer 2026 Edition",
+      "tags": [
+        "one-useful-thing"
       ],
       "isNew": false
     },
@@ -603,6 +603,26 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzI3L2ltcG9ydC1haS00NjYtdGhlLWJpdHRlci1sZXNzb24tZm9yLXJvYm90aWNzLWFpcy1jb21wbGV0ZS13ZWVrLWxvbmctcHJvZ3JhbW1pbmctdGFza3MtYW5kLW9wZW5haXMtYWNjaWRlbnRhbC1haS1oYWNrZXIv",
+      "title": "Import AI 466: The bitter lesson for robotics, AIs complete week-long programming tasks; and OpenAI’s accidental AI hacker",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/07/27/import-ai-466-the-bitter-lesson-for-robotics-ais-complete-week-long-programming-tasks-and-openais-accidental-ai-hacker/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-MrVmhb.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-07-27T13:30:53.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Epoch and METR release MirrorCode, a benchmark for seeing ",
+      "tags": [
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": false
     },
@@ -966,6 +986,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTM2L3RoZS1kb3dubG9hZC10cmlja2luZy1sbG1zLXJldml2aW5nLWdlb3RoZXJtYWwv",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "thumbnailUrl": null,
+      "author": "Charlotte Jee",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-30T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViOCVlZCU4NCViMCVlYiViNyViMC1haS0lZWElYjIlODAlZWMlODMlODklZWMlOWQlYjQtJWViJWE4JWJjJWVjJWEwJTgwJWVjJTlkJWI4LSVlYyU4YiU5YyVlYiU4YyU4MCVlYyU5ZCU5OC0lZWIlOGMlODAlZWMlOWQlOTElZWIlYjIlOTUlZWMlOWQlODAlZWElYjMlYjUlZWMlOWQlYjglZWQlOWQlYWMtJWVkJTk1JWE4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU4NCUyNWIwJTI1ZWIlMjViNyUyNWIwLWFpLSUyNWVhJTI1YjIlMjU4MCUyNWVjJTI1ODMlMjU4OSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWE4JTI1YmMlMjVlYyUyNWEwJTI1ODAlMjVlYyUyNTlkJTI1YjgtJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU5ZCUyNTk4LSUyNWViJTI1OGMlMjU4MCUyNWVjJTI1OWQlMjU5MSUyNWViJTI1YjIlMjU5NSUyNWVjJTI1OWQlMjU4MCUyNWVhJTI1YjMlMjViNSUyNWVjJTI1OWQlMjViOCUyNWVkJTI1OWQlMjVhYy0lMjVlZCUyNTk1JTI1YTg",
       "title": "[인터뷰] AI 검색이 먼저인 시대의 대응법은?…공인희 함샤우트글로벌 본부장이 말하는 ‘GEO의 출발점’",
       "source": "Tech42",
@@ -986,28 +1026,6 @@
         "인터뷰"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yNy8xMTQwODM2L29wZW5haS1odWdnaW5nLWZhY2UtYXR0YWNrLXByZWNlZGVudC8",
-      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-27T18:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into t",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZSU5MCVlYiU4NSU4MCVlYSViMCU4MC0lZWMlYjElOTdncHQlZWMlODQlOWMtJWVjJWI2JTk0JWViJWIwJWE5JWViJTkwJTk4JWViJWE5JWI0LSVlYiViNiU4MCVlYiVhYSVhOC0lZWQlOGYlYjAlZWMlOTclOTAtJWVjJTk1JThjJWViJWE2JWJjLSVlYiU5YyVhYyVlYiU4YiVhNCVlZCU4ZiVhZCVlYiVhMCVhNS0lZWQlODUlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTllJTI1OTAlMjVlYiUyNTg1JTI1ODAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWMlMjU4NCUyNTljLSUyNWVjJTI1YjYlMjU5NCUyNWViJTI1YjAlMjVhOSUyNWViJTI1OTAlMjU5OCUyNWViJTI1YTklMjViNC0lMjVlYiUyNWI2JTI1ODAlMjVlYiUyNWFhJTI1YTgtJTI1ZWQlMjU4ZiUyNWIwJTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OTUlMjU4YyUyNWViJTI1YTYlMjViYy0lMjVlYiUyNTljJTI1YWMlMjVlYiUyNThiJTI1YTQlMjVlZCUyNThmJTI1YWQlMjVlYiUyNWEwJTI1YTUtJTI1ZWQlMjU4NSUyNThj",
@@ -1969,26 +1987,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yOS8xMTQwODg0L3RoZS1kb3dubG9hZC1jaGlwLXRhbGVudC1iYXR0bGUtZGVmbGF0aW5nLWFpLWh5cGUv",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-      "thumbnailUrl": null,
-      "author": "Charlotte Jee",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-29T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Samsung’s chip workers are jumping ship to rival SK Hynix Lee, an engineer at Samsung’s semiconductor ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
       "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
       "source": "Import AI",
@@ -2166,28 +2164,6 @@
         "space",
         "app",
         "mit technology review explains"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yOS8xMTQwNzk1L3RoZS1haS1oeXBlLWluZGV4LXVuc2V4eS1haS8",
-      "title": "The AI Hype Index: Unsexy AI",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-      "thumbnailUrl": null,
-      "author": "Charlotte Jee",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-29T08:42:57.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it sho",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "ai hype index"
       ],
       "isNew": true
     },
@@ -2679,6 +2655,69 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1yaXNlLWFuZC1mYWxsLW9mLWxpYmVyYWwtZGVtb2NyYWN5cy1zaGFyZWQtZmljdGlvbg",
+      "title": "The Rise And Fall Of Liberal Democracy’s Shared Fiction",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction",
+      "thumbnailUrl": null,
+      "author": "Macario Schettino",
+      "category": "Philosophy",
+      "publishedAt": "2026-07-30T12:53:32.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Rise And Fall Of Liberal Democracy’s Shared Fiction appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYTAlODAlZWMlYmIlYTQlZWIlYjIlODQlZWElYjclYjgtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlhJWE5LWFpJWMyJWI3JWVjJWJiJWI0JWVkJTkzJWE4JWVkJThjJTg1LSVlZCU4YyU4YyVlYyU5YiU4Yy0lZWMlYTclODElZWMlYTAlOTEtJWVkJThjJTkwJWViJWE3JWE0LSVlYyU4NCVhMCVlYyU5NiViOC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWEwJTI1ODAlMjVlYyUyNWJiJTI1YTQlMjVlYiUyNWIyJTI1ODQlMjVlYSUyNWI3JTI1YjgtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NyUyNTg1JTI1ZWMlMjU5YSUyNWE5LWFpJTI1YzIlMjViNyUyNWVjJTI1YmIlMjViNCUyNWVkJTI1OTMlMjVhOCUyNWVkJTI1OGMlMjU4NS0lMjVlZCUyNThjJTI1OGMlMjVlYyUyNTliJTI1OGMtJTI1ZWMlMjVhNyUyNTgxJTI1ZWMlMjVhMCUyNTkxLSUyNWVkJTI1OGMlMjU5MCUyNWViJTI1YTclMjVhNC0lMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTk2JTI1Yjg",
+      "title": "메타 저커버그, 기업용 AI·컴퓨팅 파워 직접 판매 선언",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a9%94%ed%83%80-%ec%a0%80%ec%bb%a4%eb%b2%84%ea%b7%b8-%ea%b8%b0%ec%97%85%ec%9a%a9-ai%c2%b7%ec%bb%b4%ed%93%a8%ed%8c%85-%ed%8c%8c%ec%9b%8c-%ec%a7%81%ec%a0%91-%ed%8c%90%eb%a7%a4-%ec%84%a0%ec%96%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%25a0%2580%25ec%25bb%25a4%25eb%25b2%2584%25ea%25b7%25b8-%25ea%25b8%25b0%25ec%2597%2585%25ec%259a%25a9-ai%25c2%25b7%25ec%25bb%25b4%25ed%2593%25a8%25ed%258c%2585-%25ed%258c%258c%25ec%259b%258c-%25ec%25a7%2581%25ec%25a0%2591-%25ed%258c%2590%25eb%25a7%25a4-%25ec%2584%25a0%25ec%2596%25b8",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-30T00:30:52.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "마크 저커버그 메타 최고경영자(CEO)가 2분기 실적 발표에서 단순 AI 에이전트 제공을 넘어 API, 기업 내부 생산성 도구, 컴퓨팅 자원 직접 판매까지 포함하는 대규모 B2B(기업간거래) AI 사업 확장 계획을 밝혔다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "기업용 ai",
+        "메타"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYyU4NCViOCVlYiVhYSVhOCVlYiViOSU4YyVlYiVhNiVhYyVlZCU4YiViMC0lZWMlOWUlODQlZWMlYTclODElZWMlOWIlOTAtJWVhJWIwJTljJWViJWIwJTljLWFpLSVlYiU4ZiU4NCVlYSViNSVhYyVlYiVhMSU5Yy0lZWQlOTglODQlZWMlOWUlYTUtJWVjJTk3JTg1JWViJWFjJWI0LSVlYyU5ZSU5MCVlYiU4ZiU5OSVlZCU5OSU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTUlMjU5YyUyNWVjJTI1ODQlMjViOCUyNWViJTI1YWElMjVhOCUyNWViJTI1YjklMjU4YyUyNWViJTI1YTYlMjVhYyUyNWVkJTI1OGIlMjViMC0lMjVlYyUyNTllJTI1ODQlMjVlYyUyNWE3JTI1ODElMjVlYyUyNTliJTI1OTAtJTI1ZWElMjViMCUyNTljJTI1ZWIlMjViMCUyNTljLWFpLSUyNWViJTI1OGYlMjU4NCUyNWVhJTI1YjUlMjVhYyUyNWViJTI1YTElMjU5Yy0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWMlMjU5NyUyNTg1JTI1ZWIlMjVhYyUyNWI0LSUyNWVjJTI1OWUlMjU5MCUyNWViJTI1OGYlMjU5OSUyNWVkJTI1OTklMjU5NA",
+      "title": "한세모빌리티, 임직원 개발 AI 도구로 현장 업무 자동화 확대",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%95%9c%ec%84%b8%eb%aa%a8%eb%b9%8c%eb%a6%ac%ed%8b%b0-%ec%9e%84%ec%a7%81%ec%9b%90-%ea%b0%9c%eb%b0%9c-ai-%eb%8f%84%ea%b5%ac%eb%a1%9c-%ed%98%84%ec%9e%a5-%ec%97%85%eb%ac%b4-%ec%9e%90%eb%8f%99%ed%99%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2595%259c%25ec%2584%25b8%25eb%25aa%25a8%25eb%25b9%258c%25eb%25a6%25ac%25ed%258b%25b0-%25ec%259e%2584%25ec%25a7%2581%25ec%259b%2590-%25ea%25b0%259c%25eb%25b0%259c-ai-%25eb%258f%2584%25ea%25b5%25ac%25eb%25a1%259c-%25ed%2598%2584%25ec%259e%25a5-%25ec%2597%2585%25eb%25ac%25b4-%25ec%259e%2590%25eb%258f%2599%25ed%2599%2594",
+      "thumbnailUrl": null,
+      "author": "정재엽 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-07-30T00:09:27.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "한세모빌리티가 임직원이 직접 인공지능(AI) 업무 도구를 제작하고 현장에 적용하는 방식으로 인공지능 전환(AX)에 속도를 내고 있다. 아이디어 제안에 머무르지 않고 실제 프로그램과 애플리케이션을 구현해 설계·품질·생산 분야의 반복 업무를 자동화하는 것이 핵심이다.",
+      "tags": [
+        "tech42",
+        "비즈니스",
+        "테크놀로지",
+        "ai"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViOCVlYSViMyViNSVlYyVhNyU4MCVlYiU4YSVhNSVlYyU5ZCViNC0lZWIlYTclOGMlZWIlOTMlYTAtJWVjJWExJWIwJWVjJTllJWExJWVkJTk1JTljLSVlYyU5ZCU4YyVlYyU5NSU4NS0lZWMlYjAlYTglZWQlOGElYjglZWMlOTclOTAlZWMlODQlOWMtJWVjJWI5JTk4JWVjJTliJThjJWViJTlkJWJjLSVlYSViOCU4MC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWQlMjViOCUyNWVhJTI1YjMlMjViNSUyNWVjJTI1YTclMjU4MCUyNWViJTI1OGElMjVhNSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAtJTI1ZWMlMjVhMSUyNWIwJTI1ZWMlMjU5ZSUyNWExJTI1ZWQlMjU5NSUyNTljLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1OTUlMjU4NS0lMjVlYyUyNWIwJTI1YTglMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjViOSUyNTk4JTI1ZWMlMjU5YiUyNThjJTI1ZWIlMjU5ZCUyNWJjLSUyNWVhJTI1YjglMjU4MA",
       "title": "\"인공지능이 만든 조잡한 음악, 차트에서 치워라\"… 글로벌 음반 공룡들 선전포고",
       "source": "Tech42",
@@ -2697,28 +2736,6 @@
         "비즈니스",
         "ai 음악",
         "소니"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yOS8xMTQwODk2L2dlb3RoZXJtYWwtc2Vjb25kLWNoYW5jZS8",
-      "title": "How an overlooked geothermal plant got a second chance",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
-      "thumbnailUrl": null,
-      "author": "Casey Crownhart",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-29T17:58:44.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "In June 2024, a small company called Zanskar purchased a geothermal power plant in New Mexico that was failing fast. The water coming from the underground reservoir was getting colder by the day, making the plant uneconomical to run. Now, t",
-      "tags": [
-        "mit-technology-review",
-        "climate change and energy",
-        "app",
-        "summary"
       ],
       "isNew": true
     },
@@ -2808,7 +2825,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC1haS0lZWMlOWMlODQlZWQlOTglOTElZWMlOTclOTAtJWViJWE3JTllJWVjJTg0JWE0LSVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YiViMS0lZWIlYjMlYjQlZWMlOTUlODgtJWVjJWIyJWI0JWVhJWIzJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4MSUyNWFjJTI1ZWIlMjVhMSUyNTljJTI1ZWMlMjU4NiUyNThjJTI1ZWQlMjU5NCUyNTg0JTI1ZWQlMjU4YSUyNWI4LWFpLSUyNWVjJTI1OWMlMjU4NCUyNWVkJTI1OTglMjU5MSUyNWVjJTI1OTclMjU5MC0lMjVlYiUyNWE3JTI1OWUlMjVlYyUyNTg0JTI1YTQtJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YiUyNWIxLSUyNWViJTI1YjMlMjViNCUyNWVjJTI1OTUlMjU4OC0lMjVlYyUyNWIyJTI1YjQlMjVlYSUyNWIzJTI1ODQ",
@@ -2874,6 +2891,28 @@
         "스레드"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yNy8xMTQwODM2L29wZW5haS1odWdnaW5nLWZhY2UtYXR0YWNrLXByZWNlZGVudC8",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-27T18:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into t",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlYyU5NCVhOCVlYiU5MyU5Yy0lZWQlOTMlYjAlZWIlYTYlYWMlZWMlYjIlOThhaS0lZWElYjglYjAlZWMlOTclODUtJWVkJThmJTg5JWVkJThjJTkwJWMyJWI3JWVjJTljJTg0JWVhJWI4JWIwJWVhJWI0JTgwJWViJWE2JWFjLSVlYSViOCViMCVlYiU4YSVhNS0lZWQlODMlOTElZWMlOWUlYWMtcC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVjJTI1OTQlMjVhOCUyNWViJTI1OTMlMjU5Yy0lMjVlZCUyNTkzJTI1YjAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNWIyJTI1OThhaS0lMjVlYSUyNWI4JTI1YjAlMjVlYyUyNTk3JTI1ODUtJTI1ZWQlMjU4ZiUyNTg5JTI1ZWQlMjU4YyUyNTkwJTI1YzIlMjViNyUyNWVjJTI1OWMlMjU4NCUyNWVhJTI1YjglMjViMCUyNWVhJTI1YjQlMjU4MCUyNWViJTI1YTYlMjVhYy0lMjVlYSUyNWI4JTI1YjAlMjVlYiUyNThhJTI1YTUtJTI1ZWQlMjU4MyUyNTkxJTI1ZWMlMjU5ZSUyNWFjLXA",
@@ -5866,6 +5905,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzE5ODU",
+      "title": "Show GN: UFO - 누워있거나 식사할 때도 개발하려고 만든 슬랙 비슷한 무언가",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.hada.io/rss/news",
+      "articleUrl": "https://news.hada.io/topic?id=31985",
+      "thumbnailUrl": null,
+      "author": "GeekNews",
+      "category": "AI + Tech",
+      "publishedAt": "2026-07-30T10:04:35.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "한국어 커뮤니티 관점에서 지금의 흐름을 빠르게 잡게 해준다.",
+      "excerpt": "폰으로 모든 업무를 다 하고 싶은 열망에 만든 AI Agent 클라이언트 입니다. 컴퓨터에 설치하고 폰에도 스토어에서 설치하면 -> 폰에서 에이전트를 시켜 컴퓨터를 조작 -> 누워서 일하기 가능... Claude Remote, Codex Remote, Openclaw App, Hermes Agent 다 써봤지만, 원",
+      "tags": [
+        "geeknews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8yOC8xMTQwODY4L3RoZS1kb3dubG9hZC1vcGVuYWktaGFjay1haS1zdG9jay1zZWxsLW9mZi8",
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
       "source": "MIT Technology Review",
@@ -5883,7 +5941,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NC0lZWMlOTUlYTAlZWQlOTQlOGMlZWMlOTclOTAtJWVjJThiJTljJWVjJWI0JTlkLTElZWMlOWMlODQtJWViJTgyJWI0JWVjJTk2JWI0JWVjJWE0JWFjJWVjJWE3JTgwJWViJWE3JThjYWktJWVjJTlkJWI4JWVkJTk0JTg0JWViJTlkJWJjLSVlYyU4NCVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTclMjU5NCUyNWViJTI1YjklMjU4NCUyNWViJTI1OTQlMjU5NCUyNWVjJTI1OTUlMjU4NC0lMjVlYyUyNTk1JTI1YTAlMjVlZCUyNTk0JTI1OGMlMjVlYyUyNTk3JTI1OTAtJTI1ZWMlMjU4YiUyNTljJTI1ZWMlMjViNCUyNTlkLTElMjVlYyUyNTljJTI1ODQtJTI1ZWIlMjU4MiUyNWI0JTI1ZWMlMjU5NiUyNWI0JTI1ZWMlMjVhNCUyNWFjJTI1ZWMlMjVhNyUyNTgwJTI1ZWIlMjVhNyUyNThjYWktJTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU5NCUyNTg0JTI1ZWIlMjU5ZCUyNWJjLSUyNWVjJTI1ODQlMjVhNA",
@@ -6311,68 +6369,6 @@
         "daily update"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk1JWE0JWVkJThiJTgwJWViJTlmJWFjJWVjJWJkJTk0JWViJWE2JWFjJWVjJTk1JTg0LSVlYSViOCU4MCVlYiVhMSU5YyVlYiViMiU4Yy1haSVjMiViNyVlYiVhMSU5YyVlYiViMyViNCVlZCU4YiViMSVlYyU4YSVhNC0yLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThiJTI1ODAlMjVlYiUyNTlmJTI1YWMlMjVlYyUyNWJkJTI1OTQlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk1JTI1ODQtJTI1ZWElMjViOCUyNTgwJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjViMiUyNThjLWFpJTI1YzIlMjViNyUyNWViJTI1YTElMjU5YyUyNWViJTI1YjMlMjViNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNC0y",
-      "title": "[스타트업 안테나] 앤틀러코리아, 글로벌 AI·로보틱스 2개사 투자…이노바이드 120억 유치·모햇 5000억 돌파",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%95%a4%ed%8b%80%eb%9f%ac%ec%bd%94%eb%a6%ac%ec%95%84-%ea%b8%80%eb%a1%9c%eb%b2%8c-ai%c2%b7%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-2/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%2595%25a4%25ed%258b%2580%25eb%259f%25ac%25ec%25bd%2594%25eb%25a6%25ac%25ec%2595%2584-%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c-ai%25c2%25b7%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1%25ec%258a%25a4-2",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-23T00:33:47.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "23일 글로벌 AI·딥테크 창업팀이 한국을 실전 검증 무대로 주목하고 있다. 앤틀러코리아는 서울 기반 AI·딥테크 투자 트랙 ‘포지(Forge)’를 통해 글로벌 AI·로보틱스 스타트업 2개사를 최종 투자팀으로 선정했다. 이와 함께 이노바이드의 120억 원 규모 시리즈B 투자 유치, 재생에너지 투자 플랫폼 모햇의 누적 투자금 5000억 원 돌파, 씨엔티테크의 베트남 현지 방문 프로그램 참가기업 모집, SAS코리아의 AI 데이터분",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "sas코리아",
-        "ukf코리아 출범"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzIyL2ltcG9ydC1haS00NjItc3VwZXJwZXJzdWFzaW9uLXNlbGYtc3VzdGFpbmluZy1haS1wYXRocy10by1hc2kv",
-      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-YQ1Uhl.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-06-22T12:31:45.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were re",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8yMi8xMTM5Mzg1L3RoZS1kb3dubG9hZC1yb2dmYXN0LXN1YnNlYS10dW5uZWwtZmxleGlibGUtZGF0YS1jZW50ZXJzLw",
-      "title": "The Download: record-breaking subsea tunnels and flexible data centers",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-06-22T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Inside the world’s deepest and longest subsea road tunnel —Niall Firth I’m currently around 1,000 feet",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
     }
   ]
 }
