@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-01T23:45:10.935Z",
+  "fetchedAt": "2026-08-02T23:46:58.114Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyViYyU4MCVlZCU4NCViMCVlYyU5ZCU5OC0lZWMlOTclYWQlZWQlOTUlYTAlZWMlOWQlYjQtJWVjJTgyJWFjJWViJTlkJWJjJWVjJWE3JTg0JWViJThiJWE0LWFpJWVhJWIwJTgwLSVlYiVhNyU4YyVlYiU5MyU5YyVlYiU4YSU5NC0xODclZWMlYTElYjAtJWViJTk0JTk0JWVjJWE3JTgwJWVkJTg0JWI4JWViJWE3JTg4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjViYyUyNTgwJTI1ZWQlMjU4NCUyNWIwJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1OTclMjVhZCUyNWVkJTI1OTUlMjVhMCUyNWVjJTI1OWQlMjViNC0lMjVlYyUyNTgyJTI1YWMlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNWE3JTI1ODQlMjVlYiUyNThiJTI1YTQtYWklMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNThjJTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LTE4NyUyNWVjJTI1YTElMjViMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNWE3JTI1ODAlMjVlZCUyNTg0JTI1YjglMjVlYiUyNWE3JTI1ODg",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLWhhcy1hbHJlYWR5LWVudGVyZWQtdGhlLWxvc3Mtb2YtY29udHJvbC10cmFuc2l0aW9u",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTI3L2EtZnVuZGFtZW50YWwtZmxhdy1sZWF2ZXMtbGxtcy12dWxuZXJhYmxlLXRvLWF0dGFjay8",
     "aHR0cHM6Ly9uZXdzLmhhZGEuaW8vdG9waWM/aWQ9MzE5ODU",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYTAlODAlZWMlYmIlYTQlZWIlYjIlODQlZWElYjclYjgtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlhJWE5LWFpJWMyJWI3JWVjJWJiJWI0JWVkJTkzJWE4JWVkJThjJTg1LSVlZCU4YyU4YyVlYyU5YiU4Yy0lZWMlYTclODElZWMlYTAlOTEtJWVkJThjJTkwJWViJWE3JWE0LSVlYyU4NCVhMCVlYyU5NiViOC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWEwJTI1ODAlMjVlYyUyNWJiJTI1YTQlMjVlYiUyNWIyJTI1ODQlMjVlYSUyNWI3JTI1YjgtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NyUyNTg1JTI1ZWMlMjU5YSUyNWE5LWFpJTI1YzIlMjViNyUyNWVjJTI1YmIlMjViNCUyNWVkJTI1OTMlMjVhOCUyNWVkJTI1OGMlMjU4NS0lMjVlZCUyNThjJTI1OGMlMjVlYyUyNTliJTI1OGMtJTI1ZWMlMjVhNyUyNTgxJTI1ZWMlMjVhMCUyNTkxLSUyNWVkJTI1OGMlMjU5MCUyNWViJTI1YTclMjVhNC0lMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTk2JTI1Yjg",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzI3L2ltcG9ydC1haS00NjYtdGhlLWJpdHRlci1sZXNzb24tZm9yLXJvYm90aWNzLWFpcy1jb21wbGV0ZS13ZWVrLWxvbmctcHJvZ3JhbW1pbmctdGFza3MtYW5kLW9wZW5haXMtYWNjaWRlbnRhbC1haS1oYWNrZXIv"
   ],
   "sourceCount": 9,
@@ -102,27 +102,6 @@
       "excerpt": "Claude Fable represents another big jump in AI",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTI3L2EtZnVuZGFtZW50YWwtZmxhdy1sZWF2ZXMtbGxtcy12dWxuZXJhYmxlLXRvLWF0dGFjay8",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-      "thumbnailUrl": null,
-      "author": "Will Douglas Heaven",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-30T10:15:19.000Z",
-      "readingMinutes": 4,
-      "score": 111,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI confere",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app"
       ],
       "isNew": false
     },
@@ -329,6 +308,27 @@
         "ai hype index"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTI3L2EtZnVuZGFtZW50YWwtZmxhdy1sZWF2ZXMtbGxtcy12dWxuZXJhYmxlLXRvLWF0dGFjay8",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-30T10:15:19.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI confere",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNi8wMi8xMTM4MjI3L2hvdy1zbWFsbC1idXNpbmVzc2VzLWNhbi1sZXZlcmFnZS1haS8",
@@ -1984,7 +1984,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
@@ -2655,24 +2655,26 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTM2L3RoZS1kb3dubG9hZC10cmlja2luZy1sbG1zLXJldml2aW5nLWdlb3RoZXJtYWwv",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyViYyU4MCVlZCU4NCViMCVlYyU5ZCU5OC0lZWMlOTclYWQlZWQlOTUlYTAlZWMlOWQlYjQtJWVjJTgyJWFjJWViJTlkJWJjJWVjJWE3JTg0JWViJThiJWE0LWFpJWVhJWIwJTgwLSVlYiVhNyU4YyVlYiU5MyU5YyVlYiU4YSU5NC0xODclZWMlYTElYjAtJWViJTk0JTk0JWVjJWE3JTgwJWVkJTg0JWI4JWViJWE3JTg4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjViYyUyNTgwJTI1ZWQlMjU4NCUyNWIwJTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1OTclMjVhZCUyNWVkJTI1OTUlMjVhMCUyNWVjJTI1OWQlMjViNC0lMjVlYyUyNTgyJTI1YWMlMjVlYiUyNTlkJTI1YmMlMjVlYyUyNWE3JTI1ODQlMjVlYiUyNThiJTI1YTQtYWklMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNThjJTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LTE4NyUyNWVjJTI1YTElMjViMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNWE3JTI1ODAlMjVlZCUyNTg0JTI1YjglMjVlYiUyNWE3JTI1ODg",
+      "title": "마케터의 역할이 사라진다? AI가 만드는 187조 디지털마케팅 혁명",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a7%88%ec%bc%80%ed%84%b0%ec%9d%98-%ec%97%ad%ed%95%a0%ec%9d%b4-%ec%82%ac%eb%9d%bc%ec%a7%84%eb%8b%a4-ai%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%8a%94-187%ec%a1%b0-%eb%94%94%ec%a7%80%ed%84%b8%eb%a7%88/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%25bc%2580%25ed%2584%25b0%25ec%259d%2598-%25ec%2597%25ad%25ed%2595%25a0%25ec%259d%25b4-%25ec%2582%25ac%25eb%259d%25bc%25ec%25a7%2584%25eb%258b%25a4-ai%25ea%25b0%2580-%25eb%25a7%258c%25eb%2593%259c%25eb%258a%2594-187%25ec%25a1%25b0-%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8%25eb%25a7%2588",
       "thumbnailUrl": null,
-      "author": "Charlotte Jee",
-      "category": "AI + Society",
-      "publishedAt": "2026-07-30T12:10:00.000Z",
+      "author": "김광우 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-08-02T22:56:48.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language",
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "2023년 1월, 현대백화점은 AI 챗봇 상담 서비스 '젤뽀'를 도입했다. 24시간 365일 운영되는 AI 기반 1대1 고객 상담 서비스였다.",
       "tags": [
-        "mit-technology-review",
-        "the download"
+        "tech42",
+        "인사이트42",
+        "ai 에이전트",
+        "geo"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYTAlODAlZWMlYmIlYTQlZWIlYjIlODQlZWElYjclYjgtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlhJWE5LWFpJWMyJWI3JWVjJWJiJWI0JWVkJTkzJWE4JWVkJThjJTg1LSVlZCU4YyU4YyVlYyU5YiU4Yy0lZWMlYTclODElZWMlYTAlOTEtJWVkJThjJTkwJWViJWE3JWE0LSVlYyU4NCVhMCVlYyU5NiViOC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWEwJTI1ODAlMjVlYyUyNWJiJTI1YTQlMjVlYiUyNWIyJTI1ODQlMjVlYSUyNWI3JTI1YjgtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU5NyUyNTg1JTI1ZWMlMjU5YSUyNWE5LWFpJTI1YzIlMjViNyUyNWVjJTI1YmIlMjViNCUyNWVkJTI1OTMlMjVhOCUyNWVkJTI1OGMlMjU4NS0lMjVlZCUyNThjJTI1OGMlMjVlYyUyNTliJTI1OGMtJTI1ZWMlMjVhNyUyNTgxJTI1ZWMlMjVhMCUyNTkxLSUyNWVkJTI1OGMlMjU5MCUyNWViJTI1YTclMjVhNC0lMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTk2JTI1Yjg",
@@ -6350,21 +6352,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1yaXNlLWFuZC1mYWxsLW9mLWxpYmVyYWwtZGVtb2NyYWN5cy1zaGFyZWQtZmljdGlvbg",
-      "title": "The Rise And Fall Of Liberal Democracy’s Shared Fiction",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTM2L3RoZS1kb3dubG9hZC10cmlja2luZy1sbG1zLXJldml2aW5nLWdlb3RoZXJtYWwv",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/",
       "thumbnailUrl": null,
-      "author": "Macario Schettino",
-      "category": "Philosophy",
-      "publishedAt": "2026-07-30T12:53:32.000Z",
+      "author": "Charlotte Jee",
+      "category": "AI + Society",
+      "publishedAt": "2026-07-30T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 96,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Rise And Fall Of Liberal Democracy’s Shared Fiction appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large language",
       "tags": [
-        "noema"
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": false
     }
