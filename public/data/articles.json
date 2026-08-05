@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-04T23:52:07.271Z",
+  "fetchedAt": "2026-08-05T23:44:20.197Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYmQlOTQlZWIlOTQlYTktYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LW11c2UtY29kZS0lZWElYjglYjAlZWMlOGElYjUtJWVhJWIzJWI1JWVhJWIwJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTQlMjVhOS1haS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtbXVzZS1jb2RlLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OGElMjViNS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWM",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nb29nbGUtZWFybmluZ3MtdGhlLWZyb250aWVyLWNhc2UtYW1hem9uLWVhcm5pbmdzLw",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNS8xMTQxMjEyL3RoZS1kb3dubG9hZC1uYXNhLXRlbGVzY29wZS1jaGluZXNlLXRlY2gtaW1wb3J0LWN1cmJzLw",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy10by1naXZlLWV2ZXJ5ZGF5LXBlb3BsZS1hLXNheS1pbi1haS1nb3Zlcm5hbmNl",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYiVhNyU4ZSVlYyU5ZCViNC0lZWMlOTMlYjQtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlkJWJjJWVjJTg4JTk4JWViJWExJTlkLSVlYyU5OCVhNCVlZCU5ZSU4OCVlYiVhMCVhNC0lZWIlOGQlOTQtJWViJWJkJTkxJWVjJTk1JTk4JWViJThiJWE0LSVlZCU5NSViNCVlYSViMyVhMC0lZWElYjMlYjUlZWQlOGYlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYiUyNWE3JTI1OGUlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTclMjU4NSUyNWVjJTI1OWQlMjViYyUyNWVjJTI1ODglMjU5OCUyNWViJTI1YTElMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTllJTI1ODglMjVlYiUyNWEwJTI1YTQtJTI1ZWIlMjU4ZCUyNTk0LSUyNWViJTI1YmQlMjU5MSUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNC0lMjVlZCUyNTk1JTI1YjQlMjVlYSUyNWIzJTI1YTAtJTI1ZWElMjViMyUyNWI1JTI1ZWQlMjU4ZiUyNWFj",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9taWNyb3NvZnQtZWFybmluZ3MtbWljcm9zb2Z0LXZzLW1ldGEtdGhlLWVmZmljaWVuY3ktcGF5b2ZmLw",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNC8xMTQxMDk4L3RoZS1kb3dubG9hZC1yb2JvdC1yZXN0cmljdGlvbnMtaWNlLWRuYS8",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzAzL2ltcG9ydC1haS00Njctc2VsZi1zdXN0YWluaW5nLWFpLXZpcnVzZXMtcGFjaW5nLWFpLXByb2dyZXNzLWNvbmZ1c2lvbi1hYm91dC1haS1hbmQtY3JlYXRpdml0eS8"
   ],
   "sourceCount": 9,
@@ -125,7 +125,7 @@
         "app",
         "mit technology review explains"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
@@ -333,7 +333,7 @@
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wMy8xMTQxMDM5L3RoZS1kb3dubG9hZC1yZXdhcmQtaGFja2luZy13YXRlci1jeWJlcmF0dGFja3Mv",
-      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
       "articleUrl": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
@@ -349,7 +349,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wNy8zMC8xMTQwOTI3L2EtZnVuZGFtZW50YWwtZmxhdy1sZWF2ZXMtbGxtcy12dWxuZXJhYmxlLXRvLWF0dGFjay8",
@@ -434,38 +434,19 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy10by1naXZlLWV2ZXJ5ZGF5LXBlb3BsZS1hLXNheS1pbi1haS1nb3Zlcm5hbmNl",
-      "title": "How To Give Everyday People A Say In AI Governance",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
-      "thumbnailUrl": null,
-      "author": "Hélène Landemore",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-04T13:01:54.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How To Give Everyday People A Say In AI Governance appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9taWNyb3NvZnQtZWFybmluZ3MtbWljcm9zb2Z0LXZzLW1ldGEtdGhlLWVmZmljaWVuY3ktcGF5b2ZmLw",
-      "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nb29nbGUtZWFybmluZ3MtdGhlLWZyb250aWVyLWNhc2UtYW1hem9uLWVhcm5pbmdzLw",
+      "title": "Google Earnings, The Frontier Case, Amazon Earnings",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+      "articleUrl": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "publishedAt": "2026-08-05T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
+      "excerpt": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
       "tags": [
         "stratechery",
         "daily update"
@@ -490,7 +471,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -726,7 +707,7 @@
         "import-ai",
         "uncategorized"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktaGFja3MtaHVnZ2luZy1mYWNlLXdoYXQtaGFwcGVuZWQtYWxpZ25tZW50LWFuZC1wYXBlci1jbGlwcy8",
@@ -2089,6 +2070,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy10by1naXZlLWV2ZXJ5ZGF5LXBlb3BsZS1hLXNheS1pbi1haS1nb3Zlcm5hbmNl",
+      "title": "How To Give Everyday People A Say In AI Governance",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
+      "thumbnailUrl": null,
+      "author": "Hélène Landemore",
+      "category": "Philosophy",
+      "publishedAt": "2026-08-04T13:01:54.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post How To Give Everyday People A Say In AI Governance appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9taWNyb3NvZnQtZWFybmluZ3MtbWljcm9zb2Z0LXZzLW1ldGEtdGhlLWVmZmljaWVuY3ktcGF5b2ZmLw",
+      "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-04T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
       "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
       "source": "Import AI",
@@ -2755,6 +2775,50 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYmQlOTQlZWIlOTQlYTktYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LW11c2UtY29kZS0lZWElYjglYjAlZWMlOGElYjUtJWVhJWIzJWI1JWVhJWIwJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTQlMjVhOS1haS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtbXVzZS1jb2RlLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OGElMjViNS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWM",
+      "title": "메타, 코딩 AI 에이전트 'Muse Code' 기습 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a9%94%ed%83%80-%ec%bd%94%eb%94%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-muse-code-%ea%b8%b0%ec%8a%b5-%ea%b3%b5%ea%b0%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ec%25bd%2594%25eb%2594%25a9-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-muse-code-%25ea%25b8%25b0%25ec%258a%25b5-%25ea%25b3%25b5%25ea%25b0%259c",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-08-05T23:34:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "메타가 앤트로픽과 오픈AI가 점유하고 있는 AI 개발 시장에 도전장을 내밀었다. 메타는 터미널 기반의 신규 코딩 에이전트인 ‘Muse Code’의 얼리 베타 버전을 전격 공개했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "muse code",
+        "메타"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NCU4YyVlYiU5ZSU5OCVlZCU4YiViMCVlYyU5NiViNC0lZWMlOTclOTElZWMlOGElYTQlZWMlYTAlYTAtJWVhJWIzJWEwJWViJThmJTg0JWVkJTk5JTk0YWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LSVlYyU5ZSVhYyVlYyU4MiVhYyVlYyU5YSVhOS0lZWElYjAlODAlZWIlOGElYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk0JTI1OGMlMjVlYiUyNTllJTI1OTglMjVlZCUyNThiJTI1YjAlMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjU5NyUyNTkxJTI1ZWMlMjU4YSUyNWE0JTI1ZWMlMjVhMCUyNWEwLSUyNWVhJTI1YjMlMjVhMCUyNWViJTI1OGYlMjU4NCUyNWVkJTI1OTklMjU5NGFpLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU4NCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNTllJTI1YWMlMjVlYyUyNTgyJTI1YWMlMjVlYyUyNTlhJTI1YTktJTI1ZWElMjViMCUyNTgwJTI1ZWIlMjU4YSUyNWE1",
+      "title": "플래티어, 엑스젠 고도화…AI 에이전트 ‘재사용 가능한 기업 자산’으로 전환",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%94%8c%eb%9e%98%ed%8b%b0%ec%96%b4-%ec%97%91%ec%8a%a4%ec%a0%a0-%ea%b3%a0%eb%8f%84%ed%99%94ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%9e%ac%ec%82%ac%ec%9a%a9-%ea%b0%80%eb%8a%a5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%258c%25eb%259e%2598%25ed%258b%25b0%25ec%2596%25b4-%25ec%2597%2591%25ec%258a%25a4%25ec%25a0%25a0-%25ea%25b3%25a0%25eb%258f%2584%25ed%2599%2594ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25ec%259e%25ac%25ec%2582%25ac%25ec%259a%25a9-%25ea%25b0%2580%25eb%258a%25a5",
+      "thumbnailUrl": null,
+      "author": "조상돈 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-08-05T23:14:05.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "버티컬 AI·디지털전환(DX) 솔루션 기업 플래티어가 에이전트 AI 플랫폼 ‘엑스젠(XGEN)’의 운영 안정성과 지식 처리 능력, 확장성을 강화했다. 단순히 신규 기능을 추가하는...",
+      "tags": [
+        "tech42",
+        "테크놀로지",
+        "ai 에이전트",
+        "엑스젠"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2V1LSVlYSViMCU4MCVlYyVhNyU5Yy0lZWIlODklYjQlZWMlOGElYTQlYzIlYjclZWIlOTQlYTUlZWQlOGUlOTglZWMlOWQlYjQlZWQlODElYWMtJWViJWJmJThjJWViJWE2JWFjLSVlYiViZCU5MSVlYiU4YSU5NCVlYiU4YiVhNGFpLSVlZCU4OCVhYyVlYiVhYSU4NSVlYyU4NCViMS0lZWMlOWQlOTglZWIlYWMlYjQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1ldS0lMjVlYSUyNWIwJTI1ODAlMjVlYyUyNWE3JTI1OWMtJTI1ZWIlMjU4OSUyNWI0JTI1ZWMlMjU4YSUyNWE0JTI1YzIlMjViNyUyNWViJTI1OTQlMjVhNSUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYy0lMjVlYiUyNWJmJTI1OGMlMjVlYiUyNWE2JTI1YWMtJTI1ZWIlMjViZCUyNTkxJTI1ZWIlMjU4YSUyNTk0JTI1ZWIlMjU4YiUyNWE0YWktJTI1ZWQlMjU4OCUyNWFjJTI1ZWIlMjVhYSUyNTg1JTI1ZWMlMjU4NCUyNWIxLSUyNWVjJTI1OWQlMjU5OCUyNWViJTI1YWMlMjViNA",
@@ -6054,6 +6118,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNS8xMTQxMjEyL3RoZS1kb3dubG9hZC1uYXNhLXRlbGVzY29wZS1jaGluZXNlLXRlY2gtaW1wb3J0LWN1cmJzLw",
+      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/",
+      "thumbnailUrl": null,
+      "author": "Charlotte Jee",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-05T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. NASA’s new dark energy space telescope can also detect killer asteroids At the end of August, NASA is ",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYiVhNyU4ZSVlYyU5ZCViNC0lZWMlOTMlYjQtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlkJWJjJWVjJTg4JTk4JWViJWExJTlkLSVlYyU5OCVhNCVlZCU5ZSU4OCVlYiVhMCVhNC0lZWIlOGQlOTQtJWViJWJkJTkxJWVjJTk1JTk4JWViJThiJWE0LSVlZCU5NSViNCVlYSViMyVhMC0lZWElYjMlYjUlZWQlOGYlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYiUyNWE3JTI1OGUlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTclMjU4NSUyNWVjJTI1OWQlMjViYyUyNWVjJTI1ODglMjU5OCUyNWViJTI1YTElMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTllJTI1ODglMjVlYiUyNWEwJTI1YTQtJTI1ZWIlMjU4ZCUyNTk0LSUyNWViJTI1YmQlMjU5MSUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNC0lMjVlZCUyNTk1JTI1YjQlMjVlYSUyNWIzJTI1YTAtJTI1ZWElMjViMyUyNWI1JTI1ZWQlMjU4ZiUyNWFj",
       "title": "\"AI 많이 쓴 기업일수록 오히려 더 뽑았다\"...'해고 공포' 뒤집은 미국 조사 나왔다",
       "source": "Tech42",
@@ -6072,26 +6156,6 @@
         "비즈니스",
         "ai",
         "실업"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNC8xMTQxMDk4L3RoZS1kb3dubG9hZC1yb2JvdC1yZXN0cmljdGlvbnMtaWNlLWRuYS8",
-      "title": "The Download: US robot restrictions, and ICE’s DNA grab",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-      "thumbnailUrl": null,
-      "author": "Charlotte Jee",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-04T12:14:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Trump’s AI protectionism has come for robotics —James O’Donnell Humanoid robots usually elicit more cr",
-      "tags": [
-        "mit-technology-review",
-        "the download"
       ],
       "isNew": true
     },
@@ -6307,70 +6371,6 @@
         "gpu"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhNyU4MSVlYyU5YiU5MC0lZWIlOGMlODAlZWMlOGIlYTAtJWVjJTlkJWJjJWVkJTk1JTljJWViJThiJWE0LSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYiVhNyU4OCVlYyViOSVhOCVlYiU4MiViNC0lZWMlOTclODUlZWIlYWMlYjQlZWMlOWElYTktJWVjJThhJTg4JWVkJThkJWJjLSVlYyU5NSViMS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1OWIlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWMlMjU5ZCUyNWJjJTI1ZWQlMjU5NSUyNTljJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpLSUyNWViJTI1YTclMjU4OCUyNWVjJTI1YjklMjVhOCUyNWViJTI1ODIlMjViNC0lMjVlYyUyNTk3JTI1ODUlMjVlYiUyNWFjJTI1YjQlMjVlYyUyNTlhJTI1YTktJTI1ZWMlMjU4YSUyNTg4JTI1ZWQlMjU4ZCUyNWJjLSUyNWVjJTI1OTUlMjViMQ",
-      "title": "“직원 대신 일한다” 오픈AI, 마침내 ‘업무용 슈퍼 앱’ 출시",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%a7%81%ec%9b%90-%eb%8c%80%ec%8b%a0-%ec%9d%bc%ed%95%9c%eb%8b%a4-%ec%98%a4%ed%94%88ai-%eb%a7%88%ec%b9%a8%eb%82%b4-%ec%97%85%eb%ac%b4%ec%9a%a9-%ec%8a%88%ed%8d%bc-%ec%95%b1/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a7%2581%25ec%259b%2590-%25eb%258c%2580%25ec%258b%25a0-%25ec%259d%25bc%25ed%2595%259c%25eb%258b%25a4-%25ec%2598%25a4%25ed%2594%2588ai-%25eb%25a7%2588%25ec%25b9%25a8%25eb%2582%25b4-%25ec%2597%2585%25eb%25ac%25b4%25ec%259a%25a9-%25ec%258a%2588%25ed%258d%25bc-%25ec%2595%25b1",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Work",
-      "publishedAt": "2026-07-09T23:44:18.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "오픈AI가 ChatGPT와 코딩 에이전트, 웹 브라우저를 하나로 통합한 업무 전용 플랫폼 ‘ChatGPT 워크(Work)’를 전격 출시했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "chatgpt 워크",
-        "오픈ai"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWQlOTQlYmMlZWMlYTclODAlZWMlYmIlYWMtYWktJWVjJTgyJWFjJWVhJWIzJWEwLSVlYSViOCViMCVlYyVhMSViNC0lZWIlYjIlOTUlZWMlYjIlYjQlZWElYjMlODQlZWIlYTElOWMlZWIlOGElOTQtJWVkJTk1JTljJWVhJWIzJTg0LSVlYyViMSU4NS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTglMjU4NCUyNWVjJTI1OWUlMjVhNS0lMjVlZCUyNTk0JTI1YmMlMjVlYyUyNWE3JTI1ODAlMjVlYyUyNWJiJTI1YWMtYWktJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMyUyNWEwLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1YTElMjViNC0lMjVlYiUyNWIyJTI1OTUlMjVlYyUyNWIyJTI1YjQlMjVlYSUyNWIzJTI1ODQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNThhJTI1OTQtJTI1ZWQlMjU5NSUyNTljJTI1ZWElMjViMyUyNTg0LSUyNWVjJTI1YjElMjU4NQ",
-      "title": "[현장] “피지컬 AI 사고, 기존 법체계로는 한계”… 책임·인증·데이터 거버넌스 재설계 필요",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%82%ac%ea%b3%a0-%ea%b8%b0%ec%a1%b4-%eb%b2%95%ec%b2%b4%ea%b3%84%eb%a1%9c%eb%8a%94-%ed%95%9c%ea%b3%84-%ec%b1%85/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai-%25ec%2582%25ac%25ea%25b3%25a0-%25ea%25b8%25b0%25ec%25a1%25b4-%25eb%25b2%2595%25ec%25b2%25b4%25ea%25b3%2584%25eb%25a1%259c%25eb%258a%2594-%25ed%2595%259c%25ea%25b3%2584-%25ec%25b1%2585",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-08T23:47:14.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "2026 제15회 한국인터넷거버넌스포럼(KrIGF) 보안과 책임 세션에서는 ‘현실 세계로 나온 AI : 피지컬 AI 시대의 책임과 안전, 어떻게 대응할 것인가?’를 주제로 피지컬 AI가 사회에 본격 진입할 때 필요한 책임 구조와 안전 검증 체계를 짚었다.",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "테크놀로지",
-        "2026 제15회 한국인터넷거버넌스포럼(krigf)"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
-      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-07-06T12:31:05.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
     }
   ]
 }
