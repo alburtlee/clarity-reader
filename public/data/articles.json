@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-07T01:39:07.064Z",
+  "fetchedAt": "2026-08-07T23:22:12.580Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMzg5L3RoZS1kb3dubG9hZC1jZW5zb3JzaGlwLWNvbnNwaXJhY3ktdGhlb3J5LWZpcnN0LWFpLXZpcnVzLw",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2Zyb20tdGhlLXRyYXAtb2YtZ2VvcG9saXRpY3MtdG8tYS1nZW8tY2l2aWxpemF0aW9uYWwtcGFyYWRpZ20",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViMSU5N2dwdCVlYiVhMSU5Yy0lZWQlOGYlYWMlZWQlODYlYTAlZWMlODMlYjUlYzIlYjclZWQlOTQlODQlZWIlYTYlYWMlZWIlYWYlYjglZWMlOTYlYjQtJWVjJWJjJWEwJWViJThiJWE0LSVlYyU5NiViNCVlYiU4ZiU4NCVlYiViOSU4NC03MCVlYSViMCU5Yy0lZWQlOTUlYjUlZWMlOGIlYWMtJWVjJTk1JWIxLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWIlMjVhMSUyNTljLSUyNWVkJTI1OGYlMjVhYyUyNWVkJTI1ODYlMjVhMCUyNWVjJTI1ODMlMjViNSUyNWMyJTI1YjclMjVlZCUyNTk0JTI1ODQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWFmJTI1YjglMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjViYyUyNWEwJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTYlMjViNCUyNWViJTI1OGYlMjU4NCUyNWViJTI1YjklMjU4NC03MCUyNWVhJTI1YjAlMjU5Yy0lMjVlZCUyNTk1JTI1YjUlMjVlYyUyNThiJTI1YWMtJTI1ZWMlMjU5NSUyNWIx",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNi8xMTQxMjc4L3RoZS1kb3dubG9hZC1nb29nbGUtYWktc2hha2UtdXAtbWV0YS1yb2d1ZS1tb2RlbC8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1pcy1ldmVyeW9uZS1pbi10ZWNoLXNvLXNhZA",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nb29nbGUtZWFybmluZ3MtdGhlLWZyb250aWVyLWNhc2UtYW1hem9uLWVhcm5pbmdzLw",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzAzL2ltcG9ydC1haS00Njctc2VsZi1zdXN0YWluaW5nLWFpLXZpcnVzZXMtcGFjaW5nLWFpLXByb2dyZXNzLWNvbmZ1c2lvbi1hYm91dC1haS1hbmQtY3JlYXRpdml0eS8"
   ],
   "sourceCount": 9,
@@ -142,6 +142,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
+      "title": "2026.32: Earnings and Learnings",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/earnings-and-learnings/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-07T17:29:02.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -2032,19 +2052,19 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNi8xMTQxMjc4L3RoZS1kb3dubG9hZC1nb29nbGUtYWktc2hha2UtdXAtbWV0YS1yb2d1ZS1tb2RlbC8",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMzg5L3RoZS1kb3dubG9hZC1jZW5zb3JzaGlwLWNvbnNwaXJhY3ktdGhlb3J5LWZpcnN0LWFpLXZpcnVzLw",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
       "thumbnailUrl": null,
       "author": "Thomas Macaulay",
       "category": "AI + Society",
-      "publishedAt": "2026-08-06T12:10:00.000Z",
+      "publishedAt": "2026-08-07T14:20:00.000Z",
       "readingMinutes": 4,
       "score": 102,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tec",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narrati",
       "tags": [
         "mit-technology-review",
         "the download"
@@ -2065,45 +2085,6 @@
       "score": 102,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
       "excerpt": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2hvdy10by1naXZlLWV2ZXJ5ZGF5LXBlb3BsZS1hLXNheS1pbi1haS1nb3Zlcm5hbmNl",
-      "title": "How To Give Everyday People A Say In AI Governance",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
-      "thumbnailUrl": null,
-      "author": "Hélène Landemore",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-04T13:01:54.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post How To Give Everyday People A Say In AI Governance appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9taWNyb3NvZnQtZWFybmluZ3MtbWljcm9zb2Z0LXZzLW1ldGEtdGhlLWVmZmljaWVuY3ktcGF5b2ZmLw",
-      "title": "Microsoft Earnings, Microsoft vs. Meta, The Efficiency Payoff",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/microsoft-earnings-microsoft-vs-meta-the-efficiency-payoff/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-04T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Microsoft's earnings were compelling because they showed a clarity of strategy, lower costs, and a tangibility of application. The reason why is scarier.",
       "tags": [
         "stratechery",
         "daily update"
@@ -2819,6 +2800,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2Zyb20tdGhlLXRyYXAtb2YtZ2VvcG9saXRpY3MtdG8tYS1nZW8tY2l2aWxpemF0aW9uYWwtcGFyYWRpZ20",
+      "title": "From The Trap Of Geopolitics To A Geo-Civilizational Paradigm",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/from-the-trap-of-geopolitics-to-a-geo-civilizational-paradigm",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "AI + Geopolitics",
+      "publishedAt": "2026-08-07T13:15:22.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post From The Trap Of Geopolitics To A Geo-Civilizational Paradigm appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyU4YSVhNCVlYiVhNyU4OCVlZCU4YSViOC0lZWMlOGElYTQlZWQlOTQlYmMlZWMlYmIlYTQtNDAwJWViJThiJWFjJWViJTlmJWFjLSVlYSViMyVhMCVlYSViMCU4MC0lZWIlODUlYmMlZWIlOWUlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNThhJTI1YTQlMjVlYiUyNWE3JTI1ODglMjVlZCUyNThhJTI1YjgtJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU5NCUyNWJjJTI1ZWMlMjViYiUyNWE0LTQwMCUyNWViJTI1OGIlMjVhYyUyNWViJTI1OWYlMjVhYy0lMjVlYSUyNWIzJTI1YTAlMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjU4NSUyNWJjJTI1ZWIlMjU5ZSUyNTgw",
       "title": "오픈AI, '스마트 스피커'...400달러 고가 논란",
       "source": "Tech42",
@@ -2837,25 +2837,6 @@
         "ai요약",
         "스마트 스피커",
         "오픈ai"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1pcy1ldmVyeW9uZS1pbi10ZWNoLXNvLXNhZA",
-      "title": "Why Is Everyone In Tech So Sad?",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
-      "thumbnailUrl": null,
-      "author": "Aaron Horwath",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-06T13:10:48.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Why Is Everyone In Tech So Sad? appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": true
     },
@@ -6199,6 +6180,27 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMTA1L2hvdy1pZGVhcy1vZi1hLXZhc3QtY2Vuc29yc2hpcC1uZXR3b3JrLW1vdmVkLWZyb20tdGhlLW9ubGluZS1mcmluZ2UtdG8tdHJ1bXAtcG9saWN5Lw",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+      "thumbnailUrl": null,
+      "author": "Eileen Guo, Gisela Perez de Acha, Martin Sona",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-07T14:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. ",
+      "tags": [
+        "mit-technology-review",
+        "policy",
+        "tech policy"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYiVhNyU4ZSVlYyU5ZCViNC0lZWMlOTMlYjQtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlkJWJjJWVjJTg4JTk4JWViJWExJTlkLSVlYyU5OCVhNCVlZCU5ZSU4OCVlYiVhMCVhNC0lZWIlOGQlOTQtJWViJWJkJTkxJWVjJTk1JTk4JWViJThiJWE0LSVlZCU5NSViNCVlYSViMyVhMC0lZWElYjMlYjUlZWQlOGYlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYiUyNWE3JTI1OGUlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTclMjU4NSUyNWVjJTI1OWQlMjViYyUyNWVjJTI1ODglMjU5OCUyNWViJTI1YTElMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTllJTI1ODglMjVlYiUyNWEwJTI1YTQtJTI1ZWIlMjU4ZCUyNTk0LSUyNWViJTI1YmQlMjU5MSUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNC0lMjVlZCUyNTk1JTI1YjQlMjVlYSUyNWIzJTI1YTAtJTI1ZWElMjViMyUyNWI1JTI1ZWQlMjU4ZiUyNWFj",
