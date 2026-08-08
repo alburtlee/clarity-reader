@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-07T23:22:12.580Z",
+  "fetchedAt": "2026-08-08T23:16:01.193Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMzg5L3RoZS1kb3dubG9hZC1jZW5zb3JzaGlwLWNvbnNwaXJhY3ktdGhlb3J5LWZpcnN0LWFpLXZpcnVzLw",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2Zyb20tdGhlLXRyYXAtb2YtZ2VvcG9saXRpY3MtdG8tYS1nZW8tY2l2aWxpemF0aW9uYWwtcGFyYWRpZ20",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViMSU5N2dwdCVlYiVhMSU5Yy0lZWQlOGYlYWMlZWQlODYlYTAlZWMlODMlYjUlYzIlYjclZWQlOTQlODQlZWIlYTYlYWMlZWIlYWYlYjglZWMlOTYlYjQtJWVjJWJjJWEwJWViJThiJWE0LSVlYyU5NiViNCVlYiU4ZiU4NCVlYiViOSU4NC03MCVlYSViMCU5Yy0lZWQlOTUlYjUlZWMlOGIlYWMtJWVjJTk1JWIxLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWIlMjVhMSUyNTljLSUyNWVkJTI1OGYlMjVhYyUyNWVkJTI1ODYlMjVhMCUyNWVjJTI1ODMlMjViNSUyNWMyJTI1YjclMjVlZCUyNTk0JTI1ODQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWFmJTI1YjglMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjViYyUyNWEwJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTYlMjViNCUyNWViJTI1OGYlMjU4NCUyNWViJTI1YjklMjU4NC03MCUyNWVhJTI1YjAlMjU5Yy0lMjVlZCUyNTk1JTI1YjUlMjVlYyUyNThiJTI1YWMtJTI1ZWMlMjU5NSUyNWIx",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzAzL2ltcG9ydC1haS00Njctc2VsZi1zdXN0YWluaW5nLWFpLXZpcnVzZXMtcGFjaW5nLWFpLXByb2dyZXNzLWNvbmZ1c2lvbi1hYm91dC1haS1hbmQtY3JlYXRpdml0eS8"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzAzL2ltcG9ydC1haS00Njctc2VsZi1zdXN0YWluaW5nLWFpLXZpcnVzZXMtcGFjaW5nLWFpLXByb2dyZXNzLWNvbmZ1c2lvbi1hYm91dC1haS1hbmQtY3JlYXRpdml0eS8",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -142,26 +142,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
-      "title": "2026.32: Earnings and Learnings",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/earnings-and-learnings/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-07T17:29:02.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWNvZGUtYW5kLXdoYXQtY29tZXMtbmV4dA",
@@ -432,6 +412,26 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
+      "title": "2026.32: Earnings and Learnings",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/earnings-and-learnings/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-07T17:29:02.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of August 3, 2026, including earnings exposure, OpenAI's answer to Apple, and all about LeBron in Philly.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -1007,28 +1007,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViMSU5N2dwdCVlYiVhMSU5Yy0lZWQlOGYlYWMlZWQlODYlYTAlZWMlODMlYjUlYzIlYjclZWQlOTQlODQlZWIlYTYlYWMlZWIlYWYlYjglZWMlOTYlYjQtJWVjJWJjJWEwJWViJThiJWE0LSVlYyU5NiViNCVlYiU4ZiU4NCVlYiViOSU4NC03MCVlYSViMCU5Yy0lZWQlOTUlYjUlZWMlOGIlYWMtJWVjJTk1JWIxLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWIlMjVhMSUyNTljLSUyNWVkJTI1OGYlMjVhYyUyNWVkJTI1ODYlMjVhMCUyNWVjJTI1ODMlMjViNSUyNWMyJTI1YjclMjVlZCUyNTk0JTI1ODQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWFmJTI1YjglMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjViYyUyNWEwJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTYlMjViNCUyNWViJTI1OGYlMjU4NCUyNWViJTI1YjklMjU4NC03MCUyNWVhJTI1YjAlMjU5Yy0lMjVlZCUyNTk1JTI1YjUlMjVlYyUyNThiJTI1YWMtJTI1ZWMlMjU5NSUyNWIx",
-      "title": "\"챗GPT로 포토샵·프리미어 켠다\"… 어도비, 70개 핵심 앱 전격 이식",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%b1%97gpt%eb%a1%9c-%ed%8f%ac%ed%86%a0%ec%83%b5%c2%b7%ed%94%84%eb%a6%ac%eb%af%b8%ec%96%b4-%ec%bc%a0%eb%8b%a4-%ec%96%b4%eb%8f%84%eb%b9%84-70%ea%b0%9c-%ed%95%b5%ec%8b%ac-%ec%95%b1/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597gpt%25eb%25a1%259c-%25ed%258f%25ac%25ed%2586%25a0%25ec%2583%25b5%25c2%25b7%25ed%2594%2584%25eb%25a6%25ac%25eb%25af%25b8%25ec%2596%25b4-%25ec%25bc%25a0%25eb%258b%25a4-%25ec%2596%25b4%25eb%258f%2584%25eb%25b9%2584-70%25ea%25b0%259c-%25ed%2595%25b5%25ec%258b%25ac-%25ec%2595%25b1",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-08-06T23:52:17.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "어도비(Adobe)가 오픈에이아이(OpenAI)의 대화형 인공지능 챗GPT(ChatGPT)에 자사 핵심 크리에이티브 앱을 대거 탑재하는 파격적인 행보에 나섰다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "어도비",
-        "챗gpt"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViOCVlZCU4NCViMCVlYiViNyViMC1haS0lZWElYjIlODAlZWMlODMlODklZWMlOWQlYjQtJWViJWE4JWJjJWVjJWEwJTgwJWVjJTlkJWI4LSVlYyU4YiU5YyVlYiU4YyU4MCVlYyU5ZCU5OC0lZWIlOGMlODAlZWMlOWQlOTElZWIlYjIlOTUlZWMlOWQlODAlZWElYjMlYjUlZWMlOWQlYjglZWQlOWQlYWMtJWVkJTk1JWE4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU4NCUyNWIwJTI1ZWIlMjViNyUyNWIwLWFpLSUyNWVhJTI1YjIlMjU4MCUyNWVjJTI1ODMlMjU4OSUyNWVjJTI1OWQlMjViNC0lMjVlYiUyNWE4JTI1YmMlMjVlYyUyNWEwJTI1ODAlMjVlYyUyNTlkJTI1YjgtJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU5ZCUyNTk4LSUyNWViJTI1OGMlMjU4MCUyNWVjJTI1OWQlMjU5MSUyNWViJTI1YjIlMjU5NSUyNWVjJTI1OWQlMjU4MCUyNWVhJTI1YjMlMjViNSUyNWVjJTI1OWQlMjViOCUyNWVkJTI1OWQlMjVhYy0lMjVlZCUyNTk1JTI1YTg",
@@ -2052,46 +2030,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMzg5L3RoZS1kb3dubG9hZC1jZW5zb3JzaGlwLWNvbnNwaXJhY3ktdGhlb3J5LWZpcnN0LWFpLXZpcnVzLw",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-07T14:20:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narrati",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nb29nbGUtZWFybmluZ3MtdGhlLWZyb250aWVyLWNhc2UtYW1hem9uLWVhcm5pbmdzLw",
-      "title": "Google Earnings, The Frontier Case, Amazon Earnings",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-05T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tZXRhLWVhcm5pbmdzLW1ldGFzLXRpbWluZy1wcm9ibGVtcy10aGUtZmluYW5jaWFsLXRhaWwv",
       "title": "Meta Earnings, Meta’s Timing Problems, The Financial Tail",
       "source": "Stratechery",
@@ -2800,43 +2738,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2Zyb20tdGhlLXRyYXAtb2YtZ2VvcG9saXRpY3MtdG8tYS1nZW8tY2l2aWxpemF0aW9uYWwtcGFyYWRpZ20",
-      "title": "From The Trap Of Geopolitics To A Geo-Civilizational Paradigm",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/from-the-trap-of-geopolitics-to-a-geo-civilizational-paradigm",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "AI + Geopolitics",
-      "publishedAt": "2026-08-07T13:15:22.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post From The Trap Of Geopolitics To A Geo-Civilizational Paradigm appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyU4YSVhNCVlYiVhNyU4OCVlZCU4YSViOC0lZWMlOGElYTQlZWQlOTQlYmMlZWMlYmIlYTQtNDAwJWViJThiJWFjJWViJTlmJWFjLSVlYSViMyVhMCVlYSViMCU4MC0lZWIlODUlYmMlZWIlOWUlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNThhJTI1YTQlMjVlYiUyNWE3JTI1ODglMjVlZCUyNThhJTI1YjgtJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU5NCUyNWJjJTI1ZWMlMjViYiUyNWE0LTQwMCUyNWViJTI1OGIlMjVhYyUyNWViJTI1OWYlMjVhYy0lMjVlYSUyNWIzJTI1YTAlMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjU4NSUyNWJjJTI1ZWIlMjU5ZSUyNTgw",
-      "title": "오픈AI, '스마트 스피커'...400달러 고가 논란",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViMSU5N2dwdCVlYiVhMSU5Yy0lZWQlOGYlYWMlZWQlODYlYTAlZWMlODMlYjUlYzIlYjclZWQlOTQlODQlZWIlYTYlYWMlZWIlYWYlYjglZWMlOTYlYjQtJWVjJWJjJWEwJWViJThiJWE0LSVlYyU5NiViNCVlYiU4ZiU4NCVlYiViOSU4NC03MCVlYSViMCU5Yy0lZWQlOTUlYjUlZWMlOGIlYWMtJWVjJTk1JWIxLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViMSUyNTk3Z3B0JTI1ZWIlMjVhMSUyNTljLSUyNWVkJTI1OGYlMjVhYyUyNWVkJTI1ODYlMjVhMCUyNWVjJTI1ODMlMjViNSUyNWMyJTI1YjclMjVlZCUyNTk0JTI1ODQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWFmJTI1YjglMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjViYyUyNWEwJTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTYlMjViNCUyNWViJTI1OGYlMjU4NCUyNWViJTI1YjklMjU4NC03MCUyNWVhJTI1YjAlMjU5Yy0lMjVlZCUyNTk1JTI1YjUlMjVlYyUyNThiJTI1YWMtJTI1ZWMlMjU5NSUyNWIx",
+      "title": "\"챗GPT로 포토샵·프리미어 켠다\"… 어도비, 70개 핵심 앱 전격 이식",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%98%a4%ed%94%88ai-%ec%8a%a4%eb%a7%88%ed%8a%b8-%ec%8a%a4%ed%94%bc%ec%bb%a4-400%eb%8b%ac%eb%9f%ac-%ea%b3%a0%ea%b0%80-%eb%85%bc%eb%9e%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-%25ec%258a%25a4%25eb%25a7%2588%25ed%258a%25b8-%25ec%258a%25a4%25ed%2594%25bc%25ec%25bb%25a4-400%25eb%258b%25ac%25eb%259f%25ac-%25ea%25b3%25a0%25ea%25b0%2580-%25eb%2585%25bc%25eb%259e%2580",
+      "articleUrl": "https://www.tech42.co.kr/%ec%b1%97gpt%eb%a1%9c-%ed%8f%ac%ed%86%a0%ec%83%b5%c2%b7%ed%94%84%eb%a6%ac%eb%af%b8%ec%96%b4-%ec%bc%a0%eb%8b%a4-%ec%96%b4%eb%8f%84%eb%b9%84-70%ea%b0%9c-%ed%95%b5%ec%8b%ac-%ec%95%b1/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b1%2597gpt%25eb%25a1%259c-%25ed%258f%25ac%25ed%2586%25a0%25ec%2583%25b5%25c2%25b7%25ed%2594%2584%25eb%25a6%25ac%25eb%25af%25b8%25ec%2596%25b4-%25ec%25bc%25a0%25eb%258b%25a4-%25ec%2596%25b4%25eb%258f%2584%25eb%25b9%2584-70%25ea%25b0%259c-%25ed%2595%25b5%25ec%258b%25ac-%25ec%2595%25b1",
       "thumbnailUrl": null,
       "author": "앨리스",
       "category": "AI + Korea",
-      "publishedAt": "2026-08-06T23:41:16.000Z",
+      "publishedAt": "2026-08-06T23:52:17.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능(AI) 선도 기업 오픈AI가 자체 스마트 스피커를 시작으로 본격적인 하드웨어 시장 진출에 나선다.",
+      "excerpt": "어도비(Adobe)가 오픈에이아이(OpenAI)의 대화형 인공지능 챗GPT(ChatGPT)에 자사 핵심 크리에이티브 앱을 대거 탑재하는 파격적인 행보에 나섰다.",
       "tags": [
         "tech42",
         "ai요약",
-        "스마트 스피커",
-        "오픈ai"
+        "어도비",
+        "챗gpt"
       ],
       "isNew": true
     },
@@ -6182,27 +6101,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMTA1L2hvdy1pZGVhcy1vZi1hLXZhc3QtY2Vuc29yc2hpcC1uZXR3b3JrLW1vdmVkLWZyb20tdGhlLW9ubGluZS1mcmluZ2UtdG8tdHJ1bXAtcG9saWN5Lw",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "thumbnailUrl": null,
-      "author": "Eileen Guo, Gisela Perez de Acha, Martin Sona",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-07T14:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading. ",
-      "tags": [
-        "mit-technology-review",
-        "policy",
-        "tech policy"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYiVhNyU4ZSVlYyU5ZCViNC0lZWMlOTMlYjQtJWVhJWI4JWIwJWVjJTk3JTg1JWVjJTlkJWJjJWVjJTg4JTk4JWViJWExJTlkLSVlYyU5OCVhNCVlZCU5ZSU4OCVlYiVhMCVhNC0lZWIlOGQlOTQtJWViJWJkJTkxJWVjJTk1JTk4JWViJThiJWE0LSVlZCU5NSViNCVlYSViMyVhMC0lZWElYjMlYjUlZWQlOGYlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYiUyNWE3JTI1OGUlMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5MyUyNWI0LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTclMjU4NSUyNWVjJTI1OWQlMjViYyUyNWVjJTI1ODglMjU5OCUyNWViJTI1YTElMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTllJTI1ODglMjVlYiUyNWEwJTI1YTQtJTI1ZWIlMjU4ZCUyNTk0LSUyNWViJTI1YmQlMjU5MSUyNWVjJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNC0lMjVlZCUyNTk1JTI1YjQlMjVlYSUyNWIzJTI1YTAtJTI1ZWElMjViMyUyNWI1JTI1ZWQlMjU4ZiUyNWFj",
       "title": "\"AI 많이 쓴 기업일수록 오히려 더 뽑았다\"...'해고 공포' 뒤집은 미국 조사 나왔다",
       "source": "Tech42",
@@ -6372,6 +6270,106 @@
         "디지털 격차"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi93aG9zLWFmcmFpZC1vZi1jaGluZXNlLW1vZGVscy8",
+      "title": "Who’s Afraid of Chinese Models?",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-07-20T11:00:08.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-07-06T12:31:05.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzIyL2ltcG9ydC1haS00NjItc3VwZXJwZXJzdWFzaW9uLXNlbGYtc3VzdGFpbmluZy1haS1wYXRocy10by1hc2kv",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-YQ1Uhl.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-06-22T12:31:45.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were re",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMzg5L3RoZS1kb3dubG9hZC1jZW5zb3JzaGlwLWNvbnNwaXJhY3ktdGhlb3J5LWZpcnN0LWFpLXZpcnVzLw",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-07T14:20:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narrati",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNi8xMTQxMjc4L3RoZS1kb3dubG9hZC1nb29nbGUtYWktc2hha2UtdXAtbWV0YS1yb2d1ZS1tb2RlbC8",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-06T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tec",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
     }
   ]
 }
