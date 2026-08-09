@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-08T23:16:01.193Z",
+  "fetchedAt": "2026-08-09T23:18:08.396Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNy8xMTQxMzg5L3RoZS1kb3dubG9hZC1jZW5zb3JzaGlwLWNvbnNwaXJhY3ktdGhlb3J5LWZpcnN0LWFpLXZpcnVzLw",
@@ -431,7 +431,7 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -2757,7 +2757,7 @@
         "어도비",
         "챗gpt"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYmQlOTQlZWIlOTQlYTktYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LW11c2UtY29kZS0lZWElYjglYjAlZWMlOGElYjUtJWVhJWIzJWI1JWVhJWIwJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTQlMjVhOS1haS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtbXVzZS1jb2RlLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OGElMjViNS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWM",
@@ -6349,25 +6349,25 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wNi8xMTQxMjc4L3RoZS1kb3dubG9hZC1nb29nbGUtYWktc2hha2UtdXAtbWV0YS1yb2d1ZS1tb2RlbC8",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nb29nbGUtZWFybmluZ3MtdGhlLWZyb250aWVyLWNhc2UtYW1hem9uLWVhcm5pbmdzLw",
+      "title": "Google Earnings, The Frontier Case, Amazon Earnings",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/google-earnings-the-frontier-case-amazon-earnings/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-06T12:10:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-05T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 98,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tec",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Google's earnings seemed to confirm the Anthropic hedge; it was Andy Jassy who explained why their — and Amazon's — capex was justifiable.",
       "tags": [
-        "mit-technology-review",
-        "the download"
+        "stratechery",
+        "daily update"
       ],
       "isNew": false
     }
