@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-11T23:27:00.496Z",
+  "fetchedAt": "2026-08-12T23:27:23.634Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMyViNSVlYiViNiU5OSVlZCU5NSViNCVlYiU4ZiU4NC0lZWMlOTUlODgtJWVjJWE3JTgwJWVjJTliJThjJWVjJWE3JTg0JWViJThiJWE0LWFpLSVlZCU4NSU4ZCVlYyU4YSVhNCVlZCU4YSViOCVlYyU5NyU5MC0lZWMlOGElYTQlZWQlODUlOTQlZWMlOGElYTQtJWVjJTliJThjJWVkJTg0JWIwJWViJWE3JTg4JWVkJTgxJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjViMyUyNWI1JTI1ZWIlMjViNiUyNTk5JTI1ZWQlMjU5NSUyNWI0JTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTUlMjU4OC0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTliJTI1OGMlMjVlYyUyNWE3JTI1ODQlMjVlYiUyNThiJTI1YTQtYWktJTI1ZWQlMjU4NSUyNThkJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODUlMjU5NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTliJTI1OGMlMjVlZCUyNTg0JTI1YjAlMjVlYiUyNWE3JTI1ODglMjVlZCUyNTgxJTI1YWM",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLXdhdGVybWFya2luZy1ob3ctaXQtcHJvYmFibHktd29ya3Mtd29yc2UtdGhhbi1pdC1zZWVtcy8",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLTEwJWVjJTk2JWI1LSVlYiVhYSU4NS0lZWIlOGYlOGMlZWQlOGMlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0xMCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNWFhJTI1ODUtJTI1ZWIlMjU4ZiUyNThjJTI1ZWQlMjU4YyUyNThj",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS10YW50YWxpemluZy1wb3NzaWJpbGl0eS1vZi1sb2NhdGluZy1jb25zY2lvdXNuZXNzLWluLXRoZS1icmFpbg",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xMS8xMTQxNjEwL3RoZS1kb3dubG9hZC1uZXh0LWJpZy10aGluZy1sbG1zLWFpLWFjYWRlbWljLXJlc2VhcmNoLXNoaWZ0aW5nLw",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9udmlkaWFzLXJpc2t5LWJ1c2luZXNzLw",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv"
   ],
   "sourceCount": 9,
@@ -87,7 +87,7 @@
         "app",
         "summary"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2xhdWRlLWRpc3BhdGNoLWFuZC10aGUtcG93ZXItb2Y",
@@ -185,22 +185,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xMS8xMTQxNjEwL3RoZS1kb3dubG9hZC1uZXh0LWJpZy10aGluZy1sbG1zLWFpLWFjYWRlbWljLXJlc2VhcmNoLXNoaWZ0aW5nLw",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLXdhdGVybWFya2luZy1ob3ctaXQtcHJvYmFibHktd29ya3Mtd29yc2UtdGhhbi1pdC1zZWVtcy8",
+      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-11T12:10:00.000Z",
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 109,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced t",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
       "tags": [
-        "mit-technology-review",
-        "the download"
+        "stratechery",
+        "daily update"
       ],
       "isNew": true
     },
@@ -456,45 +456,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS10YW50YWxpemluZy1wb3NzaWJpbGl0eS1vZi1sb2NhdGluZy1jb25zY2lvdXNuZXNzLWluLXRoZS1icmFpbg",
-      "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain",
-      "thumbnailUrl": null,
-      "author": "Daniel Freeman",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-11T17:16:19.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Tantalizing Possibility Of Locating Consciousness In The Brain appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9udmlkaWFzLXJpc2t5LWJ1c2luZXNzLw",
-      "title": "Nvidia’s Risky Business",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/nvidias-risky-business/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-11T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Nvidia is finding new ways for its customers to raise money, and it's expanding the risk of the AI buildout significantly.",
-      "tags": [
-        "stratechery",
-        "articles"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
       "title": "An opinionated guide to which AI to use to do stuff",
       "source": "One Useful Thing",
@@ -711,6 +672,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xMS8xMTQxNjEwL3RoZS1kb3dubG9hZC1uZXh0LWJpZy10aGluZy1sbG1zLWFpLWFjYWRlbWljLXJlc2VhcmNoLXNoaWZ0aW5nLw",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-11T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced t",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
       "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
       "source": "Import AI",
@@ -728,7 +709,7 @@
         "import-ai",
         "uncategorized"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktaGFja3MtaHVnZ2luZy1mYWNlLXdoYXQtaGFwcGVuZWQtYWxpZ25tZW50LWFuZC1wYXBlci1jbGlwcy8",
@@ -1088,28 +1069,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMyViNSVlYiViNiU5OSVlZCU5NSViNCVlYiU4ZiU4NC0lZWMlOTUlODgtJWVjJWE3JTgwJWVjJTliJThjJWVjJWE3JTg0JWViJThiJWE0LWFpLSVlZCU4NSU4ZCVlYyU4YSVhNCVlZCU4YSViOCVlYyU5NyU5MC0lZWMlOGElYTQlZWQlODUlOTQlZWMlOGElYTQtJWVjJTliJThjJWVkJTg0JWIwJWViJWE3JTg4JWVkJTgxJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjViMyUyNWI1JTI1ZWIlMjViNiUyNTk5JTI1ZWQlMjU5NSUyNWI0JTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTUlMjU4OC0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTliJTI1OGMlMjVlYyUyNWE3JTI1ODQlMjVlYiUyNThiJTI1YTQtYWktJTI1ZWQlMjU4NSUyNThkJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODUlMjU5NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTliJTI1OGMlMjVlZCUyNTg0JTI1YjAlMjVlYiUyNWE3JTI1ODglMjVlZCUyNTgxJTI1YWM",
-      "title": "복붙해도 안 지워진다… AI 텍스트에 '스텔스 워터마크' 전격 박힌다",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%b3%b5%eb%b6%99%ed%95%b4%eb%8f%84-%ec%95%88-%ec%a7%80%ec%9b%8c%ec%a7%84%eb%8b%a4-ai-%ed%85%8d%ec%8a%a4%ed%8a%b8%ec%97%90-%ec%8a%a4%ed%85%94%ec%8a%a4-%ec%9b%8c%ed%84%b0%eb%a7%88%ed%81%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b3%25b5%25eb%25b6%2599%25ed%2595%25b4%25eb%258f%2584-%25ec%2595%2588-%25ec%25a7%2580%25ec%259b%258c%25ec%25a7%2584%25eb%258b%25a4-ai-%25ed%2585%258d%25ec%258a%25a4%25ed%258a%25b8%25ec%2597%2590-%25ec%258a%25a4%25ed%2585%2594%25ec%258a%25a4-%25ec%259b%258c%25ed%2584%25b0%25eb%25a7%2588%25ed%2581%25ac",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-08-11T23:20:46.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능(AI) 스타트업 앤트로픽(Anthropic)이 생성형 AI 클로드(Claude)가 작성한 모든 문장에 출처를 식별할 수 있는 '텍스트 워터마크' 기술을 전격 도입한다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "스텔스 워터마크",
-        "앤트로픽"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWQlODElYjQlZWIlYTElOWMlZWIlOTMlOWMtJWVhJWIzJWEwJWVjJTg0JWIxJWViJThhJWE1LWFpLSVlYyU5ZCU4YyVlYyU4NCViMS0lZWIlYWElYTglZWIlOTMlOWMtJWViJThjJTgwJWVkJThmJWFkLSVlYSViMCU5NSVlZCU5OSU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWElMjViMyUyNWEwJTI1ZWMlMjU4NCUyNWIxJTI1ZWIlMjU4YSUyNWE1LWFpLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1ODQlMjViMS0lMjVlYiUyNWFhJTI1YTglMjVlYiUyNTkzJTI1OWMtJTI1ZWIlMjU4YyUyNTgwJTI1ZWQlMjU4ZiUyNWFkLSUyNWVhJTI1YjAlMjU5NSUyNWVkJTI1OTklMjU5NA",
@@ -2155,6 +2114,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS10YW50YWxpemluZy1wb3NzaWJpbGl0eS1vZi1sb2NhdGluZy1jb25zY2lvdXNuZXNzLWluLXRoZS1icmFpbg",
+      "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain",
+      "thumbnailUrl": null,
+      "author": "Daniel Freeman",
+      "category": "Philosophy",
+      "publishedAt": "2026-08-11T17:16:19.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Tantalizing Possibility Of Locating Consciousness In The Brain appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9udmlkaWFzLXJpc2t5LWJ1c2luZXNzLw",
+      "title": "Nvidia’s Risky Business",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/nvidias-risky-business/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-11T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Nvidia is finding new ways for its customers to raise money, and it's expanding the risk of the AI buildout significantly.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1lYXJuaW5ncy1tb3JlLW9uLWFtYXpvbnMtZWFybmluZ3Mv",
       "title": "Apple Earnings, More on Amazon’s Earnings",
       "source": "Stratechery",
@@ -2172,7 +2170,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9lYXJuaW5ncy1hbmQtbGVhcm5pbmdzLw",
@@ -2863,24 +2861,46 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYiVhNiVhYyVlYiU4OCU4NSVlYyU4YSVhNC0lZWMlYTAlODQlZWMlOWElYTktJWVjJWIxJTk3Z3B0LSVlYyVhMCU4NCVlYSViMiVhOS0lZWMlYjYlOWMlZWMlOGIlOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYiUyNWE2JTI1YWMlMjVlYiUyNTg4JTI1ODUlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5YSUyNWE5LSUyNWVjJTI1YjElMjU5N2dwdC0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWMlMjViNiUyNTljJTI1ZWMlMjU4YiUyNTlj",
-      "title": "오픈AI, '리눅스 전용 챗GPT' 전격 출시",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLTEwJWVjJTk2JWI1LSVlYiVhYSU4NS0lZWIlOGYlOGMlZWQlOGMlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0xMCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNWFhJTI1ODUtJTI1ZWIlMjU4ZiUyNThjJTI1ZWQlMjU4YyUyNThj",
+      "title": "구글 '제미나이' 사용자 10억 명 돌파",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%98%a4%ed%94%88ai-%eb%a6%ac%eb%88%85%ec%8a%a4-%ec%a0%84%ec%9a%a9-%ec%b1%97gpt-%ec%a0%84%ea%b2%a9-%ec%b6%9c%ec%8b%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-%25eb%25a6%25ac%25eb%2588%2585%25ec%258a%25a4-%25ec%25a0%2584%25ec%259a%25a9-%25ec%25b1%2597gpt-%25ec%25a0%2584%25ea%25b2%25a9-%25ec%25b6%259c%25ec%258b%259c",
+      "articleUrl": "https://www.tech42.co.kr/%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-%ec%82%ac%ec%9a%a9%ec%9e%90-10%ec%96%b5-%eb%aa%85-%eb%8f%8c%ed%8c%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b5%25ac%25ea%25b8%2580-%25ec%25a0%259c%25eb%25af%25b8%25eb%2582%2598%25ec%259d%25b4-%25ec%2582%25ac%25ec%259a%25a9%25ec%259e%2590-10%25ec%2596%25b5-%25eb%25aa%2585-%25eb%258f%258c%25ed%258c%258c",
       "thumbnailUrl": null,
-      "author": "버트",
+      "author": "앨리스",
       "category": "AI + Korea",
-      "publishedAt": "2026-08-11T23:25:18.000Z",
+      "publishedAt": "2026-08-11T23:33:39.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "오픈AI(OpenAI)가 오픈소스 개발자들의 오랜 요청을 반영해 리눅스(Linux) 전용 챗GPT 데스크톱 앱을 정식 선보였다.",
+      "excerpt": "구글(Google)의 인공지능(AI) 서비스 '제미나이(Gemini)'가 단독 앱 출시 이후 월간 활성 사용자 수(MAU) 10억 명을 돌파하는 기록을 세웠다.",
       "tags": [
         "tech42",
         "ai요약",
-        "리눅스 전용 챗gpt",
-        "오픈ai"
+        "구글",
+        "제미나이"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMyViNSVlYiViNiU5OSVlZCU5NSViNCVlYiU4ZiU4NC0lZWMlOTUlODgtJWVjJWE3JTgwJWVjJTliJThjJWVjJWE3JTg0JWViJThiJWE0LWFpLSVlZCU4NSU4ZCVlYyU4YSVhNCVlZCU4YSViOCVlYyU5NyU5MC0lZWMlOGElYTQlZWQlODUlOTQlZWMlOGElYTQtJWVjJTliJThjJWVkJTg0JWIwJWViJWE3JTg4JWVkJTgxJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjViMyUyNWI1JTI1ZWIlMjViNiUyNTk5JTI1ZWQlMjU5NSUyNWI0JTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTUlMjU4OC0lMjVlYyUyNWE3JTI1ODAlMjVlYyUyNTliJTI1OGMlMjVlYyUyNWE3JTI1ODQlMjVlYiUyNThiJTI1YTQtYWktJTI1ZWQlMjU4NSUyNThkJTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODUlMjU5NCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNTliJTI1OGMlMjVlZCUyNTg0JTI1YjAlMjVlYiUyNWE3JTI1ODglMjVlZCUyNTgxJTI1YWM",
+      "title": "복붙해도 안 지워진다… AI 텍스트에 '스텔스 워터마크' 전격 박힌다",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%b3%b5%eb%b6%99%ed%95%b4%eb%8f%84-%ec%95%88-%ec%a7%80%ec%9b%8c%ec%a7%84%eb%8b%a4-ai-%ed%85%8d%ec%8a%a4%ed%8a%b8%ec%97%90-%ec%8a%a4%ed%85%94%ec%8a%a4-%ec%9b%8c%ed%84%b0%eb%a7%88%ed%81%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25b3%25b5%25eb%25b6%2599%25ed%2595%25b4%25eb%258f%2584-%25ec%2595%2588-%25ec%25a7%2580%25ec%259b%258c%25ec%25a7%2584%25eb%258b%25a4-ai-%25ed%2585%258d%25ec%258a%25a4%25ed%258a%25b8%25ec%2597%2590-%25ec%258a%25a4%25ed%2585%2594%25ec%258a%25a4-%25ec%259b%258c%25ed%2584%25b0%25eb%25a7%2588%25ed%2581%25ac",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-08-11T23:20:46.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능(AI) 스타트업 앤트로픽(Anthropic)이 생성형 AI 클로드(Claude)가 작성한 모든 문장에 출처를 식별할 수 있는 '텍스트 워터마크' 기술을 전격 도입한다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "스텔스 워터마크",
+        "앤트로픽"
       ],
       "isNew": true
     },
@@ -2948,7 +2968,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xMC8xMTQxNTI2L3RoZS1kb3dubG9hZC1haS1hZ2VudHMtc2NpZW5jZS1jZW5zb3JzaGlwLWluZHVzdHJpYWwtY29tcGxleC8",
@@ -2968,7 +2988,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTgyJTk4JWVjJTlhJWIwJWViJWExJTljJWViJWIzJWI0JWVkJThiJWIxJWVjJThhJWE0LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haS0lZWMlOGIlYTQlZWMlYTYlOWQlYzIlYjclZWMlOTclOTglZWIlYTYlYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1ODIlMjU5OCUyNWVjJTI1OWElMjViMCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjMlMjViNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNC0lMjVlZCUyNTk0JTI1YmMlMjVlYyUyNWE3JTI1ODAlMjVlYyUyNWJiJTI1YWMtYWktJTI1ZWMlMjU4YiUyNWE0JTI1ZWMlMjVhNiUyNTlkJTI1YzIlMjViNyUyNWVjJTI1OTclMjU5OCUyNWViJTI1YTYlMjVhYw",
@@ -6358,28 +6378,6 @@
         "델"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wMy8xNi8xMTM0MzE1L3doZXJlLW9wZW5haXMtdGVjaG5vbG9neS1jb3VsZC1zaG93LXVwLWluLWlyYW4v",
-      "title": "Where OpenAI’s technology could show up in Iran",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/",
-      "thumbnailUrl": null,
-      "author": "James O'Donnell",
-      "category": "AI + Society",
-      "publishedAt": "2026-03-16T17:06:21.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. It’s been just over two weeks since OpenAI reached a controversial agreement to allow the Pentagon to ",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
     }
   ]
 }
