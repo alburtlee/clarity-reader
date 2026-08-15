@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-14T23:09:54.439Z",
+  "fetchedAt": "2026-08-15T23:09:05.374Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY2FwZXgtdHJhaW4ta2VlcHMtcm9sbGluZy8",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQyMDMzL3RoZS1kb3dubG9hZC1mbG9jay1uZXctcnVsZXMtY2xvbmluZy1mdXR1cmUv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YiViMS1haS0lZWMlOGIlYTAlZWIlYTIlYjAtJWVhJWI1JWFkJWVhJWIyJWJkLSVlYSViMCU4NC0lZWMlODIlYWMlZWElYjMlYTAtJWViJThjJTgwJWVjJTlkJTkxJWVjJTlkJWI0LSVlYSViNCU4MCVlYSViMSViNCVlYyViOSViNCVlYyU4YSVhNCVlZCU4ZCViYyVlYyU4YSVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU4NCUyNWVkJTI1OGIlMjViMS1haS0lMjVlYyUyNThiJTI1YTAlMjVlYiUyNWEyJTI1YjAtJTI1ZWElMjViNSUyNWFkJTI1ZWElMjViMiUyNWJkLSUyNWVhJTI1YjAlMjU4NC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWIzJTI1YTAtJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU5ZCUyNTkxJTI1ZWMlMjU5ZCUyNWI0LSUyNWVhJTI1YjQlMjU4MCUyNWVhJTI1YjElMjViNCUyNWVjJTI1YjklMjViNCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGQlMjViYyUyNWVjJTI1OGElMjVhNA",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk0JWE4JWVjJTk3JTk0JWVkJThiJWIwJWVkJTg1JThjJWVkJTgxJWFjLSVlYiViMCU5NCVlYyU5ZCViNCVlYyU5OCVhNCVjMiViN2FpLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOTclOTAlZWMlOTYlYjQlZWIlYjklOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OTQlMjVhOCUyNWVjJTI1OTclMjU5NCUyNWVkJTI1OGIlMjViMCUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlYiUyNWIwJTI1OTQlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNTk4JTI1YTQlMjVjMiUyNWI3YWktJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OTYlMjViNCUyNWViJTI1YjklMjU4Yw",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv"
   ],
   "sourceCount": 9,
@@ -436,45 +436,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY2FwZXgtdHJhaW4ta2VlcHMtcm9sbGluZy8",
-      "title": "2026.33: The CapEx Train Keeps Rolling",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-14T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
-      "title": "AI Needs Public Feedback at Scale Before It’s Too Late",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-14T15:11:46.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post AI Needs Public Feedback at Scale Before It’s Too Late appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
       "title": "An opinionated guide to which AI to use to do stuff",
       "source": "One Useful Thing",
@@ -687,26 +648,6 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLXdhdGVybWFya2luZy1ob3ctaXQtcHJvYmFibHktd29ya3Mtd29yc2UtdGhhbi1pdC1zZWVtcy8",
-      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-08-12T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -1705,26 +1646,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQyMDMzL3RoZS1kb3dubG9hZC1mbG9jay1uZXctcnVsZXMtY2xvbmluZy1mdXR1cmUv",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-14T12:17:21.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flo",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wMy8xMTQxMDM5L3RoZS1kb3dubG9hZC1yZXdhcmQtaGFja2luZy13YXRlci1jeWJlcmF0dGFja3Mv",
       "title": "The Download: reward hacking explained and suspected Iranian cyberattacks",
       "source": "MIT Technology Review",
@@ -2153,23 +2074,41 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQxMzU0L2RlYW5uZS10YXlsb3ItZ2VuZS1leHByZXNzaW9uLWNoaWxkcmVuLw",
-      "title": "This scientist is helping build a missing map of childhood",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY2FwZXgtdHJhaW4ta2VlcHMtcm9sbGluZy8",
+      "title": "2026.33: The CapEx Train Keeps Rolling",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
       "thumbnailUrl": null,
-      "author": "Colleen de Bellefonds",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-14T09:00:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-14T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "In 2017, Deanne Taylor attended a presentation at the University of Pennsylvania, just a short walk from her office. A researcher was there to unveil the Human Cell Atlas, an ambitious project that aimed to map every cell in the human body.",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
       "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app"
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
+      "title": "AI Needs Public Feedback at Scale Before It’s Too Late",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-08-14T15:11:46.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post AI Needs Public Feedback at Scale Before It’s Too Late appeared first on NOEMA.",
+      "tags": [
+        "noema"
       ],
       "isNew": true
     },
@@ -2190,7 +2129,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
@@ -2372,6 +2311,26 @@
         "mit technology review explains"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLXdhdGVybWFya2luZy1ob3ctaXQtcHJvYmFibHktd29ya3Mtd29yc2UtdGhhbi1pdC1zZWVtcy8",
+      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
@@ -2879,50 +2838,6 @@
         "daily update"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YiViMS1haS0lZWMlOGIlYTAlZWIlYTIlYjAtJWVhJWI1JWFkJWVhJWIyJWJkLSVlYSViMCU4NC0lZWMlODIlYWMlZWElYjMlYTAtJWViJThjJTgwJWVjJTlkJTkxJWVjJTlkJWI0LSVlYSViNCU4MCVlYSViMSViNCVlYyViOSViNCVlYyU4YSVhNCVlZCU4ZCViYyVlYyU4YSVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU4NCUyNWVkJTI1OGIlMjViMS1haS0lMjVlYyUyNThiJTI1YTAlMjVlYiUyNWEyJTI1YjAtJTI1ZWElMjViNSUyNWFkJTI1ZWElMjViMiUyNWJkLSUyNWVhJTI1YjAlMjU4NC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWIzJTI1YTAtJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU5ZCUyNTkxJTI1ZWMlMjU5ZCUyNWI0LSUyNWVhJTI1YjQlMjU4MCUyNWVhJTI1YjElMjViNCUyNWVjJTI1YjklMjViNCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGQlMjViYyUyNWVjJTI1OGElMjVhNA",
-      "title": "에이전틱 AI 신뢰, 국경 간 사고 대응이 관건…카스퍼스키 국제 공조 강조",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%ec%8b%a0%eb%a2%b0-%ea%b5%ad%ea%b2%bd-%ea%b0%84-%ec%82%ac%ea%b3%a0-%eb%8c%80%ec%9d%91%ec%9d%b4-%ea%b4%80%ea%b1%b4%ec%b9%b4%ec%8a%a4%ed%8d%bc%ec%8a%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258b%25b1-ai-%25ec%258b%25a0%25eb%25a2%25b0-%25ea%25b5%25ad%25ea%25b2%25bd-%25ea%25b0%2584-%25ec%2582%25ac%25ea%25b3%25a0-%25eb%258c%2580%25ec%259d%2591%25ec%259d%25b4-%25ea%25b4%2580%25ea%25b1%25b4%25ec%25b9%25b4%25ec%258a%25a4%25ed%258d%25bc%25ec%258a%25a4",
-      "thumbnailUrl": null,
-      "author": "조상돈 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-08-14T00:52:40.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "AI 에이전트 시스템 간 상호작용 확대…국가 넘는 사고 대응 체계 필요성 제기 중소기업 보안 투자 한계 놓고 정부·국제기구·산업계 역할 논의...",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "국제 공조",
-        "사고 대응 체계"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJTgxJWFjJWViJWE2JWJmJWViJWIyJWE0JWVjJWIyJTk4JWVjJThhJWE0LSVlYiU4OSViNCVlYyU5NSU4NCVlYyU5ZCViNCVlYiU5NCU5NC0lZWQlODglYWMlZWMlOWUlOTAlYzIlYjclZWMlOGElYTQlZWQlOGMlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVkJTI1ODElMjVhYyUyNWViJTI1YTYlMjViZiUyNWViJTI1YjIlMjVhNCUyNWVjJTI1YjIlMjU5OCUyNWVjJTI1OGElMjVhNC0lMjVlYiUyNTg5JTI1YjQlMjVlYyUyNTk1JTI1ODQlMjVlYyUyNTlkJTI1YjQlMjVlYiUyNTk0JTI1OTQtJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwJTI1YzIlMjViNyUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGMlMjU4Yw",
-      "title": "[스타트업 안테나] 크릿벤처스 뉴아이디 투자·스파크랩 AI 창업 부트캠프·마스오토 자율주행 트레일러 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ed%81%ac%eb%a6%bf%eb%b2%a4%ec%b2%98%ec%8a%a4-%eb%89%b4%ec%95%84%ec%9d%b4%eb%94%94-%ed%88%ac%ec%9e%90%c2%b7%ec%8a%a4%ed%8c%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ed%2581%25ac%25eb%25a6%25bf%25eb%25b2%25a4%25ec%25b2%2598%25ec%258a%25a4-%25eb%2589%25b4%25ec%2595%2584%25ec%259d%25b4%25eb%2594%2594-%25ed%2588%25ac%25ec%259e%2590%25c2%25b7%25ec%258a%25a4%25ed%258c%258c",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-08-14T00:47:28.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "14일 스타트업·테크 업계가 투자 유치와 인공지능(AI) 서비스 확장, 글로벌 시장 개척, 피지컬 AI 사업 협력 등으로 성장 동력 확보에 나서고 있다. 크릿벤처스는 미디어 테크 기업 뉴 아이디의 시리즈 B 투자에 참여했고, 스파크랩은 AI 네이티브 창업가 육성을 위한 ‘스파크클로’ 부트캠프 운영에 들어갔다. 마스오토는 이달 열리는 자율주행모빌리티산업전에서 엔드투엔드(E2E) AI 기반 자율주행 트레일러 실물을 처음 공개한다.",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "bhsn",
-        "당근"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLTEwJWVjJTk2JWI1LSVlYiVhYSU4NS0lZWIlOGYlOGMlZWQlOGMlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0xMCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNWFhJTI1ODUtJTI1ZWIlMjU4ZiUyNThjJTI1ZWQlMjU4YyUyNThj",
@@ -6373,6 +6288,87 @@
         "biotechnology and health",
         "app",
         "biotech"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQyMDMzL3RoZS1kb3dubG9hZC1mbG9jay1uZXctcnVsZXMtY2xvbmluZy1mdXR1cmUv",
+      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-14T12:17:21.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flo",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk0JWE4JWVjJTk3JTk0JWVkJThiJWIwJWVkJTg1JThjJWVkJTgxJWFjLSVlYiViMCU5NCVlYyU5ZCViNCVlYyU5OCVhNCVjMiViN2FpLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOTclOTAlZWMlOTYlYjQlZWIlYjklOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OTQlMjVhOCUyNWVjJTI1OTclMjU5NCUyNWVkJTI1OGIlMjViMCUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlYiUyNWIwJTI1OTQlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNTk4JTI1YTQlMjVjMiUyNWI3YWktJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OTYlMjViNCUyNWViJTI1YjklMjU4Yw",
+      "title": "[스타트업 안테나] 씨엔티테크 바이오·AI 투자, 에어빌리티 30억 R&D 확보…AI 자동화·바이오 사업 확장",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%94%a8%ec%97%94%ed%8b%b0%ed%85%8c%ed%81%ac-%eb%b0%94%ec%9d%b4%ec%98%a4%c2%b7ai-%ed%88%ac%ec%9e%90-%ec%97%90%ec%96%b4%eb%b9%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%2594%25a8%25ec%2597%2594%25ed%258b%25b0%25ed%2585%258c%25ed%2581%25ac-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4%25c2%25b7ai-%25ed%2588%25ac%25ec%259e%2590-%25ec%2597%2590%25ec%2596%25b4%25eb%25b9%258c",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-08-12T23:33:03.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "13일 스타트업들이 인공지능(AI)과 바이오, 우주항공·방산을 중심으로 기술 개발과 사업 확장에 속도를 내고 있다. 씨엔티테크는 바이오 헬스케어 스타트업 에스제이켐메디텍과 AI 스포츠테크 기업 스캡쳐에 투자하는 한편 한국김산업연합회와 해양수산 벤처 육성에 나섰다. 에어빌리티는 우주항공청의 스케일업 팁스에 선정돼 3년간 30억원의 연구개발 지원을 확보하고 군집드론에 대응하는 비행형 자율 AI 요격 시스템 개발에 착수한다. 뉴패스",
+      "tags": [
+        "tech42",
+        "스타트업",
+        "국민대학교",
+        "뉴패스바이오"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzAzL2ltcG9ydC1haS00Njctc2VsZi1zdXN0YWluaW5nLWFpLXZpcnVzZXMtcGFjaW5nLWFpLXByb2dyZXNzLWNvbmZ1c2lvbi1hYm91dC1haS1hbmQtY3JlYXRpdml0eS8",
+      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-2OSHWi.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-03T13:31:22.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…",
+      "tags": [
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": false
     }
