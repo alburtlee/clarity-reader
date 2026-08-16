@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-15T23:09:05.374Z",
+  "fetchedAt": "2026-08-16T23:08:10.236Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY2FwZXgtdHJhaW4ta2VlcHMtcm9sbGluZy8",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQyMDMzL3RoZS1kb3dubG9hZC1mbG9jay1uZXctcnVsZXMtY2xvbmluZy1mdXR1cmUv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk0JWE4JWVjJTk3JTk0JWVkJThiJWIwJWVkJTg1JThjJWVkJTgxJWFjLSVlYiViMCU5NCVlYyU5ZCViNCVlYyU5OCVhNCVjMiViN2FpLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOTclOTAlZWMlOTYlYjQlZWIlYjklOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OTQlMjVhOCUyNWVjJTI1OTclMjU5NCUyNWVkJTI1OGIlMjViMCUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlYiUyNWIwJTI1OTQlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNTk4JTI1YTQlMjVjMiUyNWI3YWktJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OTYlMjViNCUyNWViJTI1YjklMjU4Yw",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLTEwJWVjJTk2JWI1LSVlYiVhYSU4NS0lZWIlOGYlOGMlZWQlOGMlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0xMCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNWFhJTI1ODUtJTI1ZWIlMjU4ZiUyNThjJTI1ZWQlMjU4YyUyNThj",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv"
   ],
   "sourceCount": 9,
@@ -2091,7 +2091,7 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
@@ -2107,25 +2107,6 @@
       "score": 102,
       "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
       "excerpt": "The post AI Needs Public Feedback at Scale Before It’s Too Late appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1uYXR1cmUtb2YtZnJlZS13aWxsLWluLXRoZS1hZ2Utb2YtYWk",
-      "title": "The Nature Of Free Will In The Age Of AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-nature-of-free-will-in-the-age-of-ai",
-      "thumbnailUrl": null,
-      "author": "Albert Yuan",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-13T15:10:23.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Nature Of Free Will In The Age Of AI appeared first on NOEMA.",
       "tags": [
         "noema"
       ],
@@ -6328,28 +6309,6 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk0JWE4JWVjJTk3JTk0JWVkJThiJWIwJWVkJTg1JThjJWVkJTgxJWFjLSVlYiViMCU5NCVlYyU5ZCViNCVlYyU5OCVhNCVjMiViN2FpLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOTclOTAlZWMlOTYlYjQlZWIlYjklOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OTQlMjVhOCUyNWVjJTI1OTclMjU5NCUyNWVkJTI1OGIlMjViMCUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlYiUyNWIwJTI1OTQlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNTk4JTI1YTQlMjVjMiUyNWI3YWktJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OTYlMjViNCUyNWViJTI1YjklMjU4Yw",
-      "title": "[스타트업 안테나] 씨엔티테크 바이오·AI 투자, 에어빌리티 30억 R&D 확보…AI 자동화·바이오 사업 확장",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%94%a8%ec%97%94%ed%8b%b0%ed%85%8c%ed%81%ac-%eb%b0%94%ec%9d%b4%ec%98%a4%c2%b7ai-%ed%88%ac%ec%9e%90-%ec%97%90%ec%96%b4%eb%b9%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%2594%25a8%25ec%2597%2594%25ed%258b%25b0%25ed%2585%258c%25ed%2581%25ac-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4%25c2%25b7ai-%25ed%2588%25ac%25ec%259e%2590-%25ec%2597%2590%25ec%2596%25b4%25eb%25b9%258c",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-08-12T23:33:03.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "13일 스타트업들이 인공지능(AI)과 바이오, 우주항공·방산을 중심으로 기술 개발과 사업 확장에 속도를 내고 있다. 씨엔티테크는 바이오 헬스케어 스타트업 에스제이켐메디텍과 AI 스포츠테크 기업 스캡쳐에 투자하는 한편 한국김산업연합회와 해양수산 벤처 육성에 나섰다. 에어빌리티는 우주항공청의 스케일업 팁스에 선정돼 3년간 30억원의 연구개발 지원을 확보하고 군집드론에 대응하는 비행형 자율 AI 요격 시스템 개발에 착수한다. 뉴패스",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "국민대학교",
-        "뉴패스바이오"
-      ],
       "isNew": false
     },
     {
@@ -6366,6 +6325,46 @@
       "score": 99,
       "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
       "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
+      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-07-06T12:31:05.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzIyL2ltcG9ydC1haS00NjItc3VwZXJwZXJzdWFzaW9uLXNlbGYtc3VzdGFpbmluZy1haS1wYXRocy10by1hc2kv",
+      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-YQ1Uhl.jpg?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-06-22T12:31:45.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were re",
       "tags": [
         "import-ai",
         "uncategorized"
