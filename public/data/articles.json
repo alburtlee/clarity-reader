@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-16T23:08:10.236Z",
+  "fetchedAt": "2026-08-17T23:11:02.394Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY2FwZXgtdHJhaW4ta2VlcHMtcm9sbGluZy8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQyMDMzL3RoZS1kb3dubG9hZC1mbG9jay1uZXctcnVsZXMtY2xvbmluZy1mdXR1cmUv",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdHJpcGUtYWNxdWlyaW5nLW9wZW5yb3V0ZXItYWdncmVnYXRpbmctYWktZmxpcHBpbmctdGhlLWJ1c2luZXNzLW1vZGVsLw",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNy8xMTQyMjAwL3doYXQtZmxvY2tzLWRlZmVuZGVycy1hcmUtbWlzc2luZy8",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLTEwJWVjJTk2JWI1LSVlYiVhYSU4NS0lZWIlOGYlOGMlZWQlOGMlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0xMCUyNWVjJTI1OTYlMjViNS0lMjVlYiUyNWFhJTI1ODUtJTI1ZWIlMjU4ZiUyNThjJTI1ZWQlMjU4YyUyNThj",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv"
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -109,6 +109,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdHJpcGUtYWNxdWlyaW5nLW9wZW5yb3V0ZXItYWdncmVnYXRpbmctYWktZmxpcHBpbmctdGhlLWJ1c2luZXNzLW1vZGVsLw",
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 113,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3Avd2hhdC1pdC1mZWVscy1saWtlLXRvLXdvcmstd2l0aC1teXRob3M",
       "title": "What it feels like to work with Mythos",
       "source": "One Useful Thing",
@@ -183,6 +203,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-17T13:05:36.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -1029,6 +1069,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNy8xMTQyMjAwL3doYXQtZmxvY2tzLWRlZmVuZGVycy1hcmUtbWlzc2luZy8",
+      "title": "What Flock’s defenders are missing",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "thumbnailUrl": null,
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-17T19:16:09.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers aro",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWQlODElYjQlZWIlYTElOWMlZWIlOTMlOWMtJWVhJWIzJWEwJWVjJTg0JWIxJWViJThhJWE1LWFpLSVlYyU5ZCU4YyVlYyU4NCViMS0lZWIlYWElYTglZWIlOTMlOWMtJWViJThjJTgwJWVkJThmJWFkLSVlYSViMCU5NSVlZCU5OSU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWElMjViMyUyNWEwJTI1ZWMlMjU4NCUyNWIxJTI1ZWIlMjU4YSUyNWE1LWFpLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1ODQlMjViMS0lMjVlYiUyNWFhJTI1YTglMjVlYiUyNTkzJTI1OWMtJTI1ZWIlMjU4YyUyNTgwJTI1ZWQlMjU4ZiUyNWFkLSUyNWVhJTI1YjAlMjU5NSUyNWVkJTI1OTklMjU5NA",
@@ -2074,45 +2136,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtY2FwZXgtdHJhaW4ta2VlcHMtcm9sbGluZy8",
-      "title": "2026.33: The CapEx Train Keeps Rolling",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-capex-train-keeps-rolling/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-14T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "The best Stratechery content from the week of August 10, 2026, including the capital constraint, AI writing, and a tale of two cities.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FpLW5lZWRzLXB1YmxpYy1mZWVkYmFjay1hdC1zY2FsZS1iZWZvcmUtaXRzLXRvby1sYXRl",
-      "title": "AI Needs Public Feedback at Scale Before It’s Too Late",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-14T15:11:46.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post AI Needs Public Feedback at Scale Before It’s Too Late appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzIwL2ltcG9ydC1haS00NjUtb3Blbi12cy1jbG9zZWQtZ2Fwcy1raW1pLWszLWRlbWlzLWJpZy1wb2xpY3ktcGxhbi8",
       "title": "Import AI 465: Open vs closed gaps; Kimi K3; Demis’ big policy plan",
       "source": "Import AI",
@@ -2310,26 +2333,6 @@
       "tags": [
         "stratechery",
         "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
-      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-08-10T12:32:20.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable p",
-      "tags": [
-        "import-ai",
-        "uncategorized"
       ],
       "isNew": false
     },
@@ -6292,22 +6295,42 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNC8xMTQyMDMzL3RoZS1kb3dubG9hZC1mbG9jay1uZXctcnVsZXMtY2xvbmluZy1mdXR1cmUv",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xNy8xMTQyMTc1L3RoZS1kb3dubG9hZC1kZWFkLXJvYm90LWZyaWVuZHMtY2Vuc29yc2hpcC1pbmR1c3RyaWFsLWNvbXBsZXgv",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/",
       "thumbnailUrl": null,
       "author": "Thomas Macaulay",
       "category": "AI + Society",
-      "publishedAt": "2026-08-14T12:17:21.000Z",
+      "publishedAt": "2026-08-17T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 99,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response to a growing surveillance backlash The police-tech giant Flo",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What happens when a kid’s robot best friend dies? When Xander first met Moxie, she taught him how to c",
       "tags": [
         "mit-technology-review",
         "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
+      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-10T12:32:20.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable p",
+      "tags": [
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": false
     },
@@ -6345,26 +6368,6 @@
       "score": 99,
       "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
       "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzIyL2ltcG9ydC1haS00NjItc3VwZXJwZXJzdWFzaW9uLXNlbGYtc3VzdGFpbmluZy1haS1wYXRocy10by1hc2kv",
-      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-YQ1Uhl.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-06-22T12:31:45.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were re",
       "tags": [
         "import-ai",
         "uncategorized"
