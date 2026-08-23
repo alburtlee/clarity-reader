@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T23:08:53.187Z",
+  "fetchedAt": "2026-08-23T23:08:55.785Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yMS8xMTQyNjI3L3doZW4tYWktZGVzaWducy1hLWRydWctd2hvLWdldHMtdGhlLWNyZWRpdC8",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWIlODYlOGQlZWMlOWUlYTUlYzIlYjclZWMlYTElYjAlZWMlODQlYTAlZWMlODYlOGMlYzIlYjclZWElYjUlYWQlZWIlYjAlYTklYzIlYjclZWIlYjMlOTElZWMlOGIlYTQlZWMlOWQlODQtJWVhJWIyJWE4JWViJTg4JTg4LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haWthaXN0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWViJTI1ODYlMjU4ZCUyNWVjJTI1OWUlMjVhNSUyNWMyJTI1YjclMjVlYyUyNWExJTI1YjAlMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTg2JTI1OGMlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFkJTI1ZWIlMjViMCUyNWE5JTI1YzIlMjViNyUyNWViJTI1YjMlMjU5MSUyNWVjJTI1OGIlMjVhNCUyNWVjJTI1OWQlMjU4NC0lMjVlYSUyNWIyJTI1YTglMjVlYiUyNTg4JTI1ODgtJTI1ZWQlMjU5NCUyNWJjJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjViYiUyNWFjLWFpa2Fpc3Q",
@@ -2156,28 +2156,6 @@
       "excerpt": "Verifying magic on the jagged frontier",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yMC8xMTQyNTcxL2FpLWNvbnNjaW91c25lc3MtZGViYXRlLXRyYXAv",
-      "title": "Debates over AI consciousness are a trap",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "thumbnailUrl": null,
-      "author": "Rumman Chowdhury",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-20T15:42:39.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "opinion"
       ],
       "isNew": false
     },
@@ -6356,7 +6334,7 @@
         "app",
         "the checkup"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWIlODYlOGQlZWMlOWUlYTUlYzIlYjclZWMlYTElYjAlZWMlODQlYTAlZWMlODYlOGMlYzIlYjclZWElYjUlYWQlZWIlYjAlYTklYzIlYjclZWIlYjMlOTElZWMlOGIlYTQlZWMlOWQlODQtJWVhJWIyJWE4JWViJTg4JTg4LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haWthaXN0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWViJTI1ODYlMjU4ZCUyNWVjJTI1OWUlMjVhNSUyNWMyJTI1YjclMjVlYyUyNWExJTI1YjAlMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTg2JTI1OGMlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFkJTI1ZWIlMjViMCUyNWE5JTI1YzIlMjViNyUyNWViJTI1YjMlMjU5MSUyNWVjJTI1OGIlMjVhNCUyNWVjJTI1OWQlMjU4NC0lMjVlYSUyNWIyJTI1YTglMjVlYiUyNTg4JTI1ODgtJTI1ZWQlMjU5NCUyNWJjJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjViYiUyNWFjLWFpa2Fpc3Q",
@@ -6378,7 +6356,29 @@
         "테크놀로지",
         "노만"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yMC8xMTQyNTcxL2FpLWNvbnNjaW91c25lc3MtZGViYXRlLXRyYXAv",
+      "title": "Debates over AI consciousness are a trap",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+      "thumbnailUrl": null,
+      "author": "Rumman Chowdhury",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-20T15:42:39.000Z",
+      "readingMinutes": 4,
+      "score": 98,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "opinion"
+      ],
+      "isNew": false
     }
   ]
 }
