@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-08-23T23:08:55.785Z",
+  "fetchedAt": "2026-08-24T23:11:53.216Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yMS8xMTQyNjI3L3doZW4tYWktZGVzaWducy1hLWRydWctd2hvLWdldHMtdGhlLWNyZWRpdC8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWIlODYlOGQlZWMlOWUlYTUlYzIlYjclZWMlYTElYjAlZWMlODQlYTAlZWMlODYlOGMlYzIlYjclZWElYjUlYWQlZWIlYjAlYTklYzIlYjclZWIlYjMlOTElZWMlOGIlYTQlZWMlOWQlODQtJWVhJWIyJWE4JWViJTg4JTg4LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haWthaXN0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWViJTI1ODYlMjU4ZCUyNWVjJTI1OWUlMjVhNSUyNWMyJTI1YjclMjVlYyUyNWExJTI1YjAlMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTg2JTI1OGMlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFkJTI1ZWIlMjViMCUyNWE5JTI1YzIlMjViNyUyNWViJTI1YjMlMjU5MSUyNWVjJTI1OGIlMjVhNCUyNWVjJTI1OWQlMjU4NC0lMjVlYSUyNWIyJTI1YTglMjVlYiUyNTg4JTI1ODgtJTI1ZWQlMjU5NCUyNWJjJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjViYiUyNWFjLWFpa2Fpc3Q",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zZXR0bGVzLXdpdGgtZS11LXUtcy1hcHAtc3RvcmUtZmVlcy1hdHQtcnVsZXMtaW4tZ2VybWFueS8",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQyNjMwL2FpLXNjaG9vbC1jbGFzc3Jvb20tcG9saWNpZXMv",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzI0L2ltcG9ydC1haS00NzAtbm8tcmlnaHRzLWZvci1tYWNoaW5lcy1hdXRvbWF0aW5nLWVudmlyb25tZW50LWdlbmVyYXRpb24td2l0aC1zcGFkZS1hbmQtYnVpbGRpbmctYmV0dGVyLWdwdS1rZXJuZWxzLXdpdGgtaGF3a2V5ZS8",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hdXRvbm9teS1hbmQtaW5ub3ZhdGlvbi8",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJThkJTk0JWViJWIyJWE0JWVjJWIyJTk4JWVjJThhJWE0JWMyJWI3bGclZWMlYTAlODQlZWMlOWUlOTAtJWVjJThhJWE0JWVkJTgzJTgwJWVkJThhJWI4JWVjJTk3JTg1LSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU4ZCUyNTk0JTI1ZWIlMjViMiUyNWE0JTI1ZWMlMjViMiUyNTk4JTI1ZWMlMjU4YSUyNWE0JTI1YzIlMjViN2xnJTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU5ZSUyNTkwLSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODA",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
@@ -128,6 +128,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQyNjMwL2FpLXNjaG9vbC1jbGFzc3Jvb20tcG9saWNpZXMv",
+      "title": "How to encourage smarter AI use in the classroom",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "thumbnailUrl": null,
+      "author": "Peter Hall",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-24T14:20:19.000Z",
+      "readingMinutes": 4,
+      "score": 112,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across industries. To receive it in your inbox, sign up here. Chatbots took many schools by surprise upon their release a few ye",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
       "title": "Co-Existence and the End of Co-Intelligence",
       "source": "One Useful Thing",
@@ -183,6 +205,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzI0L2ltcG9ydC1haS00NzAtbm8tcmlnaHRzLWZvci1tYWNoaW5lcy1hdXRvbWF0aW5nLWVudmlyb25tZW50LWdlbmVyYXRpb24td2l0aC1zcGFkZS1hbmQtYnVpbGRpbmctYmV0dGVyLWdwdS1rZXJuZWxzLXdpdGgtaGF3a2V5ZS8",
+      "title": "Import AI 470: No rights for machines; automating environment generation with SPADE; and building better GPU kernels with Hawkeye",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/24/import-ai-470-no-rights-for-machines-automating-environment-generation-with-spade-and-building-better-gpu-kernels-with-hawkeye/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-Fauq8x.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-24T13:12:40.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI is accelerating some types of progress but not others:…",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViZCU5NCVlYiU5NCVhOS0lZWIlYWElYjAlZWIlOWQlYmMlZWIlOGYlODQtJWVhJWIyJThjJWVjJTllJTg0LSVlYiVhNyU4YyVlYiU5MyVhMCVlYiU4YiVhNC0lZWMlOTUlYTQlZWQlOGElYjglZWIlYTElOWMlZWQlOTQlYmQtJWViJWFhJTg1JWViJWEwJWI5JWVjJTk2JWI0LSVlZCU5NSU5Yy0lZWMlYTQlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTktJTI1ZWIlMjVhYSUyNWIwJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjU4ZiUyNTg0LSUyNWVhJTI1YjIlMjU4YyUyNWVjJTI1OWUlMjU4NC0lMjVlYiUyNWE3JTI1OGMlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWViJTI1YWElMjU4NSUyNWViJTI1YTAlMjViOSUyNWVjJTI1OTYlMjViNC0lMjVlZCUyNTk1JTI1OWMtJTI1ZWMlMjVhNCUyNTg0",
@@ -372,6 +414,26 @@
         "artificial intelligence",
         "ai",
         "ai hype index"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hdXRvbm9teS1hbmQtaW5ub3ZhdGlvbi8",
+      "title": "Autonomy and Innovation",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/autonomy-and-innovation/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-24T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Incentives favor offense when it comes to agentic cybersecurity; it's the same dynamic that will limit incumbents and fuel startups in the long run.",
+      "tags": [
+        "stratechery",
+        "articles"
       ],
       "isNew": true
     },
@@ -692,26 +754,6 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdHJpcGUtYWNxdWlyaW5nLW9wZW5yb3V0ZXItYWdncmVnYXRpbmctYWktZmxpcHBpbmctdGhlLWJ1c2luZXNzLW1vZGVsLw",
-      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-17T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -1093,6 +1135,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQyODYzL3RoZS1kb3dubG9hZC1raWRzLW91dGxlYXJuaW5nLWFpLXNwYWNlLXRyYXZlbC1hZ2VudHMv",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-24T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids outlearn AI—and we still don’t know why Teaching a computer to use human language requires an inh",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWQlODElYjQlZWIlYTElOWMlZWIlOTMlOWMtJWVhJWIzJWEwJWVjJTg0JWIxJWViJThhJWE1LWFpLSVlYyU5ZCU4YyVlYyU4NCViMS0lZWIlYWElYTglZWIlOTMlOWMtJWViJThjJTgwJWVkJThmJWFkLSVlYSViMCU5NSVlZCU5OSU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWElMjViMyUyNWEwJTI1ZWMlMjU4NCUyNWIxJTI1ZWIlMjU4YSUyNWE1LWFpLSUyNWVjJTI1OWQlMjU4YyUyNWVjJTI1ODQlMjViMS0lMjVlYiUyNWFhJTI1YTglMjVlYiUyNTkzJTI1OWMtJTI1ZWIlMjU4YyUyNTgwJTI1ZWQlMjU4ZiUyNWFkLSUyNWVhJTI1YjAlMjU5NSUyNWVkJTI1OTklMjU5NA",
@@ -1730,6 +1792,26 @@
         "더벤처스"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zdHJpcGUtYWNxdWlyaW5nLW9wZW5yb3V0ZXItYWdncmVnYXRpbmctYWktZmxpcHBpbmctdGhlLWJ1c2luZXNzLW1vZGVsLw",
+      "title": "Stripe Acquiring OpenRouter, Aggregating AI?, Flipping the Business Model",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/stripe-acquiring-openrouter-aggregating-ai-flipping-the-business-model/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-17T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Stripe is reportedly acquiring OpenRouter, an implicit bet on a future market of models and the chance at Aggregation.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8wMy8xMTQxMDM5L3RoZS1kb3dubG9hZC1yZXdhcmQtaGFja2luZy13YXRlci1jeWJlcmF0dGFja3Mv",
@@ -2383,6 +2465,28 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQxNzQwL2tpZHMtbWFjaGluZXMtbGFuZ3VhZ2UtbGVhcm5pbmcv",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/",
+      "thumbnailUrl": null,
+      "author": "Elise Cutts",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-24T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two.",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "features and investigations"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyVhNCVlYiVhYyViYy0lZWMlOTUlODQlZWIlOGIlODglZWIlOGIlYTQtJWVjJWJkJTk0JWVhJWI3JWI4JWViJThiJTg4JWVjJTg1JTk4LSVlYyU4YSVhNCVlZCU4ZSU5OCVlYyU5ZCViNCVlYyU4YSVhNHgtJWVjJTlkJWI4JWVjJTg4JTk4JWVjJTg0JWE0LSVlYyU5ZCViYyVlYyViNiU5NS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTclMjVhNCUyNWViJTI1YWMlMjViYy0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNThiJTI1ODglMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjViZCUyNTk0JTI1ZWElMjViNyUyNWI4JTI1ZWIlMjU4YiUyNTg4JTI1ZWMlMjU4NSUyNTk4LSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OGElMjVhNHgtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU4NCUyNWE0LSUyNWVjJTI1OWQlMjViYyUyNWVjJTI1YjYlMjU5NQ",
       "title": "\"매물 아니다\"… 코그니션, 스페이스X 인수설 일축",
       "source": "Tech42",
@@ -2421,26 +2525,6 @@
       "tags": [
         "stratechery",
         "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
-      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-08-17T13:05:36.000Z",
-      "readingMinutes": 4,
-      "score": 101,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
-      "tags": [
-        "import-ai",
-        "uncategorized"
       ],
       "isNew": false
     },
@@ -6215,6 +6299,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-17T13:05:36.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLXdhdGVybWFya2luZy1ob3ctaXQtcHJvYmFibHktd29ya3Mtd29yc2UtdGhhbi1pdC1zZWVtcy8",
       "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
       "source": "Stratechery",
@@ -6271,112 +6375,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA3LzA2L2ltcG9ydC1haS00NjQtZmFibGVzLXdyaXRlcy1ncHUta2VybmVscy1haS1hdXRvbWF0aW9uLWFuZC1hbmFsb2ctY29tcHV0YXRpb24v",
-      "title": "Import AI 464: Fables writes GPU kernels; AI automation; and analog computation",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/07/06/import-ai-464-fables-writes-gpu-kernels-ai-automation-and-analog-computation/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/07/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-G33X9n.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-07-06T12:31:05.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Fable writes a decent GPU kernel, hinting at broader AI R&",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA2LzIyL2ltcG9ydC1haS00NjItc3VwZXJwZXJzdWFzaW9uLXNlbGYtc3VzdGFpbmluZy1haS1wYXRocy10by1hc2kv",
-      "title": "Import AI 462: Superpersuasion; self-sustaining AI; paths to ASI",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/06/22/import-ai-462-superpersuasion-self-sustaining-ai-paths-to-asi/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/06/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-YQ1Uhl.jpg?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-06-22T12:31:45.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI can decisively out-persuade humans:…“AI systems were re",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yMS8xMTQyNjI3L3doZW4tYWktZGVzaWducy1hLWRydWctd2hvLWdldHMtdGhlLWNyZWRpdC8",
-      "title": "When AI designs a drug, who gets the credit?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-      "thumbnailUrl": null,
-      "author": "Antonio Regalado",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-21T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. In",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "the checkup"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWIlODYlOGQlZWMlOWUlYTUlYzIlYjclZWMlYTElYjAlZWMlODQlYTAlZWMlODYlOGMlYzIlYjclZWElYjUlYWQlZWIlYjAlYTklYzIlYjclZWIlYjMlOTElZWMlOGIlYTQlZWMlOWQlODQtJWVhJWIyJWE4JWViJTg4JTg4LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haWthaXN0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWQlMjU5OCUyNTg0JTI1ZWMlMjU5ZSUyNWE1LSUyNWViJTI1ODYlMjU4ZCUyNWVjJTI1OWUlMjVhNSUyNWMyJTI1YjclMjVlYyUyNWExJTI1YjAlMjVlYyUyNTg0JTI1YTAlMjVlYyUyNTg2JTI1OGMlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFkJTI1ZWIlMjViMCUyNWE5JTI1YzIlMjViNyUyNWViJTI1YjMlMjU5MSUyNWVjJTI1OGIlMjVhNCUyNWVjJTI1OWQlMjU4NC0lMjVlYSUyNWIyJTI1YTglMjVlYiUyNTg4JTI1ODgtJTI1ZWQlMjU5NCUyNWJjJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjViYiUyNWFjLWFpa2Fpc3Q",
-      "title": "[현장] 농장·조선소·국방·병실을 겨눈 피지컬 AI…KAIST 스타트업이 보여준 ‘일하는 로봇’",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-%eb%86%8d%ec%9e%a5%c2%b7%ec%a1%b0%ec%84%a0%ec%86%8c%c2%b7%ea%b5%ad%eb%b0%a9%c2%b7%eb%b3%91%ec%8b%a4%ec%9d%84-%ea%b2%a8%eb%88%88-%ed%94%bc%ec%a7%80%ec%bb%ac-aikaist/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-%25eb%2586%258d%25ec%259e%25a5%25c2%25b7%25ec%25a1%25b0%25ec%2584%25a0%25ec%2586%258c%25c2%25b7%25ea%25b5%25ad%25eb%25b0%25a9%25c2%25b7%25eb%25b3%2591%25ec%258b%25a4%25ec%259d%2584-%25ea%25b2%25a8%25eb%2588%2588-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-aikaist",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-20T23:39:06.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "지난 19일 서울 역삼동 TIPS타운 S6에서 열린 ‘2026년 제4회 KAIST Startup Tech Plaza(KSTP)’에서 확인한 피지컬 인공지능(Physical AI)의 모습이다. KAIST 창업원이 마련한 이번 행사는 드론·로보틱스를 주제로 기술 세미나와 스타트업 IR 피칭을 연결했다. (왼쪽 위부터 시계방향) 문정욱 노만 대표, 강동우 더로보틱스 대표, 김준하 디든로보틱스 대표, 황보제민 라이온로보틱스 대표. 구",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "테크놀로지",
-        "노만"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yMC8xMTQyNTcxL2FpLWNvbnNjaW91c25lc3MtZGViYXRlLXRyYXAv",
-      "title": "Debates over AI consciousness are a trap",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
-      "thumbnailUrl": null,
-      "author": "Rumman Chowdhury",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-20T15:42:39.000Z",
-      "readingMinutes": 4,
-      "score": 98,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "opinion"
       ],
       "isNew": false
     }
