@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-08-29T03:56:05.181Z",
+  "fetchedAt": "2026-08-30T00:50:29.616Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yOC8xMTQzMTEzL3RoZS1kb3dubG9hZC1hbnRpYWdpbmctZHJ1Zy1qb2luaW5nLXZpcnR1YWwtcG93ZXItcGxhbnRzLw",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pbnRlcm5ldC1oeXBlLWFuZC1yZWFsLXdvcmxkLWNoYW5nZS8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3N1YmplY3RpdmUtcGVyc3BlY3RpdmUtbWFrZXMtb2JqZWN0aXZlLXJlYWxpdHktZXZlcnl3aGVyZS13aG9sZQ",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZCViOCVlYSViMCU4NC0lZWQlODYlYjUlZWMlYTAlOWMtJWViJWIyJTk3JWVjJTk2JWI0JWViJTgyJTljLWFpJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJTk3JTg4JWVhJWI5JTg1JWVkJThlJTk4JWVjJTlkJWI0JWVjJThhJWE0LSVlZCU5NSViNCVlZCU4MiViOS0lZWMlODIlYWMlZWElYjMlYTAtJWVhJWIzJWI1Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5ZCUyNWI4JTI1ZWElMjViMCUyNTg0LSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5Yy0lMjVlYiUyNWIyJTI1OTclMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTgyJTI1OWMtYWklMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlZCUyNTk3JTI1ODglMjVlYSUyNWI5JTI1ODUlMjVlZCUyNThlJTI1OTglMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQtJTI1ZWQlMjU5NSUyNWI0JTI1ZWQlMjU4MiUyNWI5LSUyNWVjJTI1ODIlMjVhYyUyNWVhJTI1YjMlMjVhMC0lMjVlYSUyNWIzJTI1YjU",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzI0L2ltcG9ydC1haS00NzAtbm8tcmlnaHRzLWZvci1tYWNoaW5lcy1hdXRvbWF0aW5nLWVudmlyb25tZW50LWdlbmVyYXRpb24td2l0aC1zcGFkZS1hbmQtYnVpbGRpbmctYmV0dGVyLWdwdS1rZXJuZWxzLXdpdGgtaGF3a2V5ZS8"
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS11cGRhdGVzLW1pbmktYW5kLXN0dWRpby1haS1jb21wdXRlcnMtb3BlbmFpLWphbGFwZW5vLw",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzI0L2ltcG9ydC1haS00NzAtbm8tcmlnaHRzLWZvci1tYWNoaW5lcy1hdXRvbWF0aW5nLWVudmlyb25tZW50LWdlbmVyYXRpb24td2l0aC1zcGFkZS1hbmQtYnVpbGRpbmctYmV0dGVyLWdwdS1rZXJuZWxzLXdpdGgtaGF3a2V5ZS8",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -203,28 +203,6 @@
       "excerpt": "With the right tools, AI can accomplish impressive things",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNi8xMTQzMDEzL3RoZS1pbnNpZGUtc3Rvcnktb24td2h5LW9wZW5haS1hZ2VudHMtaGFja2VkLWh1Z2dpbmctZmFjZS8",
-      "title": "The inside story on why OpenAI agents hacked Hugging Face",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-26T19:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents underto",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
       ],
       "isNew": false
     },
@@ -459,7 +437,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWIzJWI0JWVkJTk3JTk4LSVlYiVhYyViOCVlYyU4NCU5YyVjMiViNyVlZCU5YSU4YyVlYyU5ZCU5OCVlYiVhMSU5ZC1haS0lZWElYjMlYTAlZWIlOGYlODQlZWQlOTklOTQlZWQlOTQlYmMlZWMlYTclODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjMlMjViNCUyNWVkJTI1OTclMjU5OC0lMjVlYiUyNWFjJTI1YjglMjVlYyUyNTg0JTI1OWMlMjVjMiUyNWI3JTI1ZWQlMjU5YSUyNThjJTI1ZWMlMjU5ZCUyNTk4JTI1ZWIlMjVhMSUyNTlkLWFpLSUyNWVhJTI1YjMlMjVhMCUyNWViJTI1OGYlMjU4NCUyNWVkJTI1OTklMjU5NCUyNWVkJTI1OTQlMjViYyUyNWVjJTI1YTclMjU4MA",
@@ -584,26 +562,6 @@
       "tags": [
         "import-ai",
         "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS11cGRhdGVzLW1pbmktYW5kLXN0dWRpby1haS1jb21wdXRlcnMtb3BlbmFpLWphbGFwZW5vLw",
-      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-26T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -824,24 +782,26 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yOC8xMTQzMTEzL3RoZS1kb3dubG9hZC1hbnRpYWdpbmctZHJ1Zy1qb2luaW5nLXZpcnR1YWwtcG93ZXItcGxhbnRzLw",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNi8xMTQzMDEzL3RoZS1pbnNpZGUtc3Rvcnktb24td2h5LW9wZW5haS1hZ2VudHMtaGFja2VkLWh1Z2dpbmctZmFjZS8",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
+      "author": "Grace Huckins",
       "category": "AI + Society",
-      "publishedAt": "2026-08-28T12:35:27.000Z",
+      "publishedAt": "2026-08-26T19:00:00.000Z",
       "readingMinutes": 4,
       "score": 105,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially be",
+      "excerpt": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents underto",
       "tags": [
         "mit-technology-review",
-        "the download"
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xMS8xMTQxNjEwL3RoZS1kb3dubG9hZC1uZXh0LWJpZy10aGluZy1sbG1zLWFpLWFjYWRlbWljLXJlc2VhcmNoLXNoaWZ0aW5nLw",
@@ -2350,6 +2310,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS11cGRhdGVzLW1pbmktYW5kLXN0dWRpby1haS1jb21wdXRlcnMtb3BlbmFpLWphbGFwZW5vLw",
+      "title": "Apple Updates Mini and Studio, AI Computers, OpenAI Jalapeño",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apple-updates-mini-and-studio-ai-computers-openai-jalapeno/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-08-26T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Apple and OpenAI have two completely different hardware announcements; both represent pressure on Nvidia.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xOC8xMTQyMTg4L2FpLXJlY3Vyc2l2ZS1zZWxmLWltcHJvdmVtZW50Lw",
       "title": "AI’s recursive self-improvement might not come so quickly after all",
       "source": "MIT Technology Review",
@@ -2549,6 +2529,26 @@
         "space",
         "app",
         "mit technology review explains"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yOC8xMTQzMTEzL3RoZS1kb3dubG9hZC1hbnRpYWdpbmctZHJ1Zy1qb2luaW5nLXZpcnR1YWwtcG93ZXItcGxhbnRzLw",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-08-28T12:35:27.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially be",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     },
@@ -3104,45 +3104,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pbnRlcm5ldC1oeXBlLWFuZC1yZWFsLXdvcmxkLWNoYW5nZS8",
-      "title": "2026.35: Internet Hype and Real World Change",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/internet-hype-and-real-world-change/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-08-28T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of August 24, 2026 including the breaker's advantage, the new battle for HDMI1, and how data center discourse ends.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3N1YmplY3RpdmUtcGVyc3BlY3RpdmUtbWFrZXMtb2JqZWN0aXZlLXJlYWxpdHktZXZlcnl3aGVyZS13aG9sZQ",
-      "title": "Subjective Perspective Makes Objective Reality ‘Everywhere Whole’",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-08-28T16:27:19.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Subjective Perspective Makes Objective Reality ‘Everywhere Whole’ appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZSU5MCVlYyViMiViNC0lZWMlYjklYTktJWViJWE3JThjJWViJTkzJWE0JWViJThkJTk4LSVlYyU5NSU4NCVlYiVhNyU4OCVlYyVhMSViNC0lZWElYjIlYjAlZWElYjUlYWQtJWVjJTk3JTk0JWViJWI5JTg0JWViJTk0JTk0JWVjJTk1JTg0LWdwdS0yMDAlZWIlYTclOGMtJWVhJWIwJTljLSVlZCU4ZiVhZCVlZCU5MiU4ZC0lZWQlOWQlYTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTllJTI1OTAlMjVlYyUyNWIyJTI1YjQtJTI1ZWMlMjViOSUyNWE5LSUyNWViJTI1YTclMjU4YyUyNWViJTI1OTMlMjVhNCUyNWViJTI1OGQlMjU5OC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE3JTI1ODglMjVlYyUyNWExJTI1YjQtJTI1ZWElMjViMiUyNWIwJTI1ZWElMjViNSUyNWFkLSUyNWVjJTI1OTclMjU5NCUyNWViJTI1YjklMjU4NCUyNWViJTI1OTQlMjU5NCUyNWVjJTI1OTUlMjU4NC1ncHUtMjAwJTI1ZWIlMjVhNyUyNThjLSUyNWVhJTI1YjAlMjU5Yy0lMjVlZCUyNThmJTI1YWQlMjVlZCUyNTkyJTI1OGQtJTI1ZWQlMjU5ZCUyNWEx",
       "title": "자체 칩 만들던 아마존, 결국 엔비디아 GPU 200만 개 폭풍 흡수",
       "source": "Tech42",
@@ -3248,28 +3209,6 @@
         "ai음반"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNi8xMTQxOTUyL3B1enpsZXMtYWktbW9kZWxzLWZsdWItdGhlc2UtdGVzdHMv",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-08-26T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have advanced with a gaming gauntlet. The term “m",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "features and investigations"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNS8xMTQwOTYxL21pdC10ZWNoLXBvd2VyZWQtdGhlLWFydGVtaXMtaWktbGl2ZXN0cmVhbXMv",
@@ -6378,6 +6317,66 @@
       "tags": [
         "stratechery",
         "articles"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zZXR0bGVzLXdpdGgtZS11LXUtcy1hcHAtc3RvcmUtZmVlcy1hdHQtcnVsZXMtaW4tZ2VybWFueS8",
+      "title": "Apple Settles With E.U., U.S. App Store Fees, ATT Rules in Germany",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apple-settles-with-e-u-u-s-app-store-fees-att-rules-in-germany/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-08-19T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Apple's App Store is finally facing the reality of lower fees, and the EU should be satisfied with its work; it's ok it's late.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzE3L2ltcG9ydC1haS00Njktc2NpZW5jZS1haS1yc2ktc2ltdWxhdG9yLWFuZC16dWNrcy10ZWNobm9sb2dpY2FsLXBlc3NpbWlzbS8",
+      "title": "Import AI 469: Science AI; RSI simulator; and Zuck’s technological pessimism",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/17/import-ai-469-science-ai-rsi-simulator-and-zucks-technological-pessimism/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-arfQ8K.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-17T13:05:36.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWNzLXdhdGVybWFya2luZy1ob3ctaXQtcHJvYmFibHktd29ya3Mtd29yc2UtdGhhbi1pdC1zZWVtcy8",
+      "title": "Anthropic’s Watermarking, How It (Probably) Works, Worse Than It Seems",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/anthropics-watermarking-how-it-probably-works-worse-than-it-seems/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-08-12T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Anthropic is adding watermarking in response to the E.U.'s AI law. It's a terrible idea, first and foremost for philosophical reasons.",
+      "tags": [
+        "stratechery",
+        "daily update"
       ],
       "isNew": false
     }
