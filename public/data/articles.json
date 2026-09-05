@@ -1,15 +1,36 @@
 {
-  "fetchedAt": "2026-09-04T00:31:56.693Z",
+  "fetchedAt": "2026-09-05T00:26:55.469Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhZCVlYiU4YyU4MC0lZWElYjAlODAlZWMlOWUlYTUtJWViJTk4JTkxJWViJTk4JTkxJWVkJTk1JTk4JWViJThiJWE0JWVjJTk4JWE0JWVkJTk0JTg4YWktcGMlYzIlYjclZWMlOWIlYjktJWViJTg0JTk4JWViJTgyJTk4JWViJTkzJTljJWViJThhJTk0LWdwdC02Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYiUyNTk4JTI1OTElMjVlYiUyNTk4JTI1OTElMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1wYyUyNWMyJTI1YjclMjVlYyUyNTliJTI1YjktJTI1ZWIlMjU4NCUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LWdwdC02",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3lvdXItcGVyY2VwdGlvbi1vZi10aW1lLWlzLWluLWZhY3Qtd2FycGVk",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMi8xMTQzMjgzL3RoZS1kb3dubG9hZC1haS1wdXp6bGVzLWFscGhhLWNlbnRhdXJpLW1pc3Npb24v",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mYWJsZS01LTEtZW50ZXJwcmlzZS1mcm9udGllci1zYWZlZ3VhcmRzLw",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzMxL2ltcG9ydC1haS00NzEtd2h5LWh1Z2dpbmctZmFjZS13b3JyaWVzLW1lLXNwYWNlLW1pbmluZy1maXZlLWV5ZXMtb24tYWkv"
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wNC8xMTQzNDU3L3RoZS1kb3dubG9hZC11a3JhaW5lLXNlbGxpbmctZHJvbmUtZGF0YS1haS1yZXNoYXBpbmctbGFuZ3VhZ2Uv",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTlkJWI4JWVkJTg1JTk0JWViJWE2JWFjJWViJWI5JTg1JWVjJThhJWE0LSVlYyViZCU5NCVlYyU4YSVhNCVlYiU4YiVhNS0lZWMlOTglODglZWMlOGIlYWMtJWVkJTg2JWI1JWVhJWIzJWJjJWMyJWI3JWVkJTgxJWFjLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTlkJTI1YjglMjVlZCUyNTg1JTI1OTQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNWI5JTI1ODUlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjViZCUyNTk0JTI1ZWMlMjU4YSUyNWE0JTI1ZWIlMjU4YiUyNWE1LSUyNWVjJTI1OTglMjU4OCUyNWVjJTI1OGIlMjVhYy0lMjVlZCUyNTg2JTI1YjUlMjVlYSUyNWIzJTI1YmMlMjVjMiUyNWI3JTI1ZWQlMjU4MSUyNWFj",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzMxL2ltcG9ydC1haS00NzEtd2h5LWh1Z2dpbmctZmFjZS13b3JyaWVzLW1lLXNwYWNlLW1pbmluZy1maXZlLWV5ZXMtb24tYWkv",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYWdlbmN5LWFuZC1hZ2VudHM"
   ],
   "sourceCount": 9,
   "articleCount": 300,
   "articles": [
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
+      "title": "An Interview with OpenAI President Greg Brockman About Astra and Alignment",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-openai-president-greg-brockman-about-astra-and-alignment/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Alignment",
+      "publishedAt": "2026-09-04T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 119,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An interview with OpenAI President and Co-Founder Greg Brockman about the history of OpenAI, Astra and alignment, and the weight of building the future.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw",
       "title": "Real AI Agents and Real Work",
@@ -1204,24 +1225,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhZCVlYiU4YyU4MC0lZWElYjAlODAlZWMlOWUlYTUtJWViJTk4JTkxJWViJTk4JTkxJWVkJTk1JTk4JWViJThiJWE0JWVjJTk4JWE0JWVkJTk0JTg4YWktcGMlYzIlYjclZWMlOWIlYjktJWViJTg0JTk4JWViJTgyJTk4JWViJTkzJTljJWViJThhJTk0LWdwdC02Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYiUyNTk4JTI1OTElMjVlYiUyNTk4JTI1OTElMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1wYyUyNWMyJTI1YjclMjVlYyUyNTliJTI1YjktJTI1ZWIlMjU4NCUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LWdwdC02",
-      "title": "“역대 가장 똑똑하다”…오픈AI, PC·웹 넘나드는 ‘GPT-6 아스트라’ 공개",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%97%ad%eb%8c%80-%ea%b0%80%ec%9e%a5-%eb%98%91%eb%98%91%ed%95%98%eb%8b%a4%ec%98%a4%ed%94%88ai-pc%c2%b7%ec%9b%b9-%eb%84%98%eb%82%98%eb%93%9c%eb%8a%94-gpt-6/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%25ad%25eb%258c%2580-%25ea%25b0%2580%25ec%259e%25a5-%25eb%2598%2591%25eb%2598%2591%25ed%2595%2598%25eb%258b%25a4%25ec%2598%25a4%25ed%2594%2588ai-pc%25c2%25b7%25ec%259b%25b9-%25eb%2584%2598%25eb%2582%2598%25eb%2593%259c%25eb%258a%2594-gpt-6",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mcmljdGlvbi1hbmQtZmVlZGJhY2sv",
+      "title": "2026.36: Friction and Feedback",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/friction-and-feedback/",
       "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-09-04T00:26:45.000Z",
+      "author": "Ben Thompson",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-04T17:55:39.000Z",
       "readingMinutes": 4,
       "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능(AI) 개발사 오픈AI(OpenAI)가 최신 플래그십 모델 ‘GPT-6 아스트라(Astra)’를 전격 공개했다. 지난 8월 보안 문제로 개발 속도를 조절하겠다고 발표한 이후 나온 신작으로, 당분간 회사가 선보이는 마지막 대형 모델이 될 전망이다.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of August 31, 2026, including the market speaking, Apple finding religion, and society losing friction.",
       "tags": [
-        "tech42",
-        "ai요약",
-        "gpt-6",
-        "오픈ai"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -1986,7 +2005,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNy8xMTQzMDMzL3RoZS1kb3dubG9hZC1vcGVuYWktaHVnZ2luZy1mYWNlLWhhY2stc2xhdGUtdHJ1Y2stZXYv",
@@ -2479,6 +2498,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wNC8xMTQzNDU3L3RoZS1kb3dubG9hZC11a3JhaW5lLXNlbGxpbmctZHJvbmUtZGF0YS1haS1yZXNoYXBpbmctbGFuZ3VhZ2Uv",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-04T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data from drones in Ukraine is fueling a new Wild West marketplace —Cory Alpert, a researcher at the U",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mYWJsZS01LTEtZW50ZXJwcmlzZS1mcm9udGllci1zYWZlZ3VhcmRzLw",
       "title": "Fable 5.1, Enterprise Frontier Safeguards",
       "source": "Stratechery",
@@ -2496,7 +2535,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wMS8xMTQzMTk5L3RoZS1kb3dubG9hZC1lbmdpbmVlcmVkLW1pY3JvYmVzLW9wZW5haS1zYWZldHktY3VsdHVyZS8",
@@ -2515,26 +2554,6 @@
       "tags": [
         "mit-technology-review",
         "the download"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9udmlkaWEtZWFybmluZ3MtZG9sbGFycy1wZXItZ2lnYXdhdHQtb3Blbi1hbmQtaHVnZ2luZy1mYWNlLw",
-      "title": "Nvidia Earnings, Dollars Per Gigawatt, Open and Hugging Face",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/nvidia-earnings-dollars-per-gigawatt-open-and-hugging-face/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-01T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Nvidia's earnings were remarking and boring — two sides of the same coin. Everything the company does is about avoiding a consolidated world.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -2760,6 +2779,28 @@
         "space",
         "app",
         "mit technology review explains"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wNC8xMTQzNDUyL2Ryb25lLWRhdGEtd2lsZC13ZXN0Lw",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/",
+      "thumbnailUrl": null,
+      "author": "Cory Alpert",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-04T09:25:19.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generat",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "opinion"
       ],
       "isNew": true
     },
@@ -3337,43 +3378,24 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhYSViOCVlYSViMCU5Mi0xNyVlYyVhMSViMC0lZWMlOWIlOTAtJWVjJTk3JTk0JWViJWI5JTg0JWViJTk0JTk0JWVjJTk1JTg0LSVlYyU4NCViOCVlYSViMyU4NC0lZWMlYjUlOWMlZWIlOGMlODAtYWktJWVkJTk0JThjJWViJTllJWFiJWVkJThmJWJjLSVlZCU5NyU4OCVlYSViOSU4NS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YWElMjViOCUyNWVhJTI1YjAlMjU5Mi0xNyUyNWVjJTI1YTElMjViMC0lMjVlYyUyNTliJTI1OTAtJTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0JTI1ZWMlMjU5NSUyNTg0LSUyNWVjJTI1ODQlMjViOCUyNWVhJTI1YjMlMjU4NC0lMjVlYyUyNWI1JTI1OWMlMjVlYiUyNThjJTI1ODAtYWktJTI1ZWQlMjU5NCUyNThjJTI1ZWIlMjU5ZSUyNWFiJTI1ZWQlMjU4ZiUyNWJjLSUyNWVkJTI1OTclMjU4OCUyNWVhJTI1YjklMjU4NQ",
-      "title": "“몸값 17조 원” 엔비디아, 세계 최대 AI 플랫폼 ‘허깅페이스’ 전격 인수",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhZCVlYiU4YyU4MC0lZWElYjAlODAlZWMlOWUlYTUtJWViJTk4JTkxJWViJTk4JTkxJWVkJTk1JTk4JWViJThiJWE0JWVjJTk4JWE0JWVkJTk0JTg4YWktcGMlYzIlYjclZWMlOWIlYjktJWViJTg0JTk4JWViJTgyJTk4JWViJTkzJTljJWViJThhJTk0LWdwdC02Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgwLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1OWUlMjVhNS0lMjVlYiUyNTk4JTI1OTElMjVlYiUyNTk4JTI1OTElMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQlMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1wYyUyNWMyJTI1YjclMjVlYyUyNTliJTI1YjktJTI1ZWIlMjU4NCUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjU4YSUyNTk0LWdwdC02",
+      "title": "“역대 가장 똑똑하다”…오픈AI, PC·웹 넘나드는 ‘GPT-6 아스트라’ 공개",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%aa%b8%ea%b0%92-17%ec%a1%b0-%ec%9b%90-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%ec%84%b8%ea%b3%84-%ec%b5%9c%eb%8c%80-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ed%97%88%ea%b9%85/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25aa%25b8%25ea%25b0%2592-17%25ec%25a1%25b0-%25ec%259b%2590-%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584-%25ec%2584%25b8%25ea%25b3%2584-%25ec%25b5%259c%25eb%258c%2580-ai-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ed%2597%2588%25ea%25b9%2585",
+      "articleUrl": "https://www.tech42.co.kr/%ec%97%ad%eb%8c%80-%ea%b0%80%ec%9e%a5-%eb%98%91%eb%98%91%ed%95%98%eb%8b%a4%ec%98%a4%ed%94%88ai-pc%c2%b7%ec%9b%b9-%eb%84%98%eb%82%98%eb%93%9c%eb%8a%94-gpt-6/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%25ad%25eb%258c%2580-%25ea%25b0%2580%25ec%259e%25a5-%25eb%2598%2591%25eb%2598%2591%25ed%2595%2598%25eb%258b%25a4%25ec%2598%25a4%25ed%2594%2588ai-pc%25c2%25b7%25ec%259b%25b9-%25eb%2584%2598%25eb%2582%2598%25eb%2593%259c%25eb%258a%2594-gpt-6",
       "thumbnailUrl": null,
-      "author": "앨리스",
+      "author": "버트",
       "category": "AI + Korea",
-      "publishedAt": "2026-09-04T00:05:50.000Z",
+      "publishedAt": "2026-09-04T00:26:45.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "세계 최대 인공지능(AI) 반도체 기업 엔비디아(Nvidia)가 AI 모델 공유 플랫폼 허깅페이스(Hugging Face)를 129억 3,000만 달러(약 17조 8,000억 원)에 전격 인수했다.",
+      "excerpt": "인공지능(AI) 개발사 오픈AI(OpenAI)가 최신 플래그십 모델 ‘GPT-6 아스트라(Astra)’를 전격 공개했다. 지난 8월 보안 문제로 개발 속도를 조절하겠다고 발표한 이후 나온 신작으로, 당분간 회사가 선보이는 마지막 대형 모델이 될 전망이다.",
       "tags": [
         "tech42",
         "ai요약",
-        "엔비디아",
-        "허깅 페이스"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3lvdXItcGVyY2VwdGlvbi1vZi10aW1lLWlzLWluLWZhY3Qtd2FycGVk",
-      "title": "Your Perception Of Time Is, In Fact, Warped",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
-      "thumbnailUrl": null,
-      "author": "Mike Mariani",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-03T16:29:42.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Your Perception Of Time Is, In Fact, Warped appeared first on NOEMA.",
-      "tags": [
-        "noema"
+        "gpt-6",
+        "오픈ai"
       ],
       "isNew": true
     },
@@ -6357,28 +6379,6 @@
         "ai요약",
         "ai 보안",
         "구글"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWViJThhJTk0LSVlYiViMCU5NCVlYiViMiVhOCVlZCU4MyU5MS0lZWElYjUlOTAlZWQlOTklYTktJWViJWEwJTg4JWVjJTk4JWE0LTE0JWVjJTg0JWI4LSVlYyU4MiVhYyVlYyU4MyU4MS0lZWMlYjIlYWItYWktJWVkJTg2JWI1JWVjJWEwJTljLSVlZCU5YSU4Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpJTI1ZWIlMjU4YSUyNTk0LSUyNWViJTI1YjAlMjU5NCUyNWViJTI1YjIlMjVhOCUyNWVkJTI1ODMlMjU5MS0lMjVlYSUyNWI1JTI1OTAlMjVlZCUyNTk5JTI1YTktJTI1ZWIlMjVhMCUyNTg4JTI1ZWMlMjU5OCUyNWE0LTE0JTI1ZWMlMjU4NCUyNWI4LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1ODMlMjU4MS0lMjVlYyUyNWIyJTI1YWItYWktJTI1ZWQlMjU4NiUyNWI1JTI1ZWMlMjVhMCUyNTljLSUyNWVkJTI1OWElMjU4Yw",
-      "title": "“AI는 바벨탑”… 교황 레오 14세, 사상 첫 ‘AI 통제’ 회칙 전격 발표",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai%eb%8a%94-%eb%b0%94%eb%b2%a8%ed%83%91-%ea%b5%90%ed%99%a9-%eb%a0%88%ec%98%a4-14%ec%84%b8-%ec%82%ac%ec%83%81-%ec%b2%ab-ai-%ed%86%b5%ec%a0%9c-%ed%9a%8c/?utm_source=rss&utm_medium=rss&utm_campaign=ai%25eb%258a%2594-%25eb%25b0%2594%25eb%25b2%25a8%25ed%2583%2591-%25ea%25b5%2590%25ed%2599%25a9-%25eb%25a0%2588%25ec%2598%25a4-14%25ec%2584%25b8-%25ec%2582%25ac%25ec%2583%2581-%25ec%25b2%25ab-ai-%25ed%2586%25b5%25ec%25a0%259c-%25ed%259a%258c",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-05-25T23:41:44.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "가톨릭교회의 수장인 교황 레오 14세가 급격히 부상하는 인공지능(AI) 기술에 대해 인류의 통제권 상실과 권력 집중을 비판하며 강력한 브레이크를 걸고 나섰다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "ai 통제",
-        "교황 레오"
       ],
       "isNew": true
     }
