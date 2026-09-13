@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-12T00:46:47.110Z",
+  "fetchedAt": "2026-09-13T00:28:22.598Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kdW8tdGhyZWF0cy8",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xMS8xMTQzOTM2L3JvdW5kdGFibGVzLXdpbGwtYWktcmVhbGx5LWtpbGwtdXMtYWxsLw",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1nZW4tei1yZXZvbHQtc3dlZXBpbmctc291dGgtYXNpYQ",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlODMlOWQlZWIlYWMlYmMlZWIlYWMlYjQlZWElYjglYjAtJWVhJWIwJTljJWViJWIwJTljLSVlYyU5NSU4NSVlYyU5YSVhOS0lZWElYjMlYmMlZWQlOTUlOTklZWMlOWUlOTAtJWViJThjJTgwJWVhJWIxJWIwLSVlYyVhMCU4MSVlYiViMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGElMjViOCUyNWViJTI1YTElMjU5YyUyNWVkJTI1OTQlMjViZC0lMjVlYyUyNTgzJTI1OWQlMjVlYiUyNWFjJTI1YmMlMjVlYiUyNWFjJTI1YjQlMjVlYSUyNWI4JTI1YjAtJTI1ZWElMjViMCUyNTljJTI1ZWIlMjViMCUyNTljLSUyNWVjJTI1OTUlMjU4NSUyNWVjJTI1OWElMjVhOS0lMjVlYSUyNWIzJTI1YmMlMjVlZCUyNTk1JTI1OTklMjVlYyUyNTllJTI1OTAtJTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViMSUyNWIwLSUyNWVjJTI1YTAlMjU4MSUyNWViJTI1YjAlMjU5Yw",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dob3NlLWFpLXdpbGwtcnVsZS10aGUtd29ybGQ",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzA3L2ltcG9ydC1haS00NzItZGVlcG1pbmRzLWNoZWF0aW5nLW1hdGgtYWdlbnRzLXBvcHVsaXN0LWFpLXBvbGljaWVzLWFuZC1mb3JldGhvdWdodC10aGVvcml6ZXMtYS1uaWdodHdhdGNobWFuLw"
   ],
   "sourceCount": 9,
@@ -163,26 +163,6 @@
       "score": 111,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
       "excerpt": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktZG9lcy1tYXRoLXJld2FyZC1oYWNraW5nLW1ldGEtbGF1bmNoZXMtcGVyc29uYWwtYWdlbnQv",
-      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-09T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 111,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
       "tags": [
         "stratechery",
         "daily update"
@@ -395,26 +375,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOS8xMTQzNzY3L3RoZS1kb3dubG9hZC1vcGVuYWktbWF0aC1mdXR1cmUtYmF0dGVyeS1yZWNvcmQv",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-09T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 108,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiViNSVlYyVhMCU5Yy0lZWIlYjYlODglZWIlOGElYTUtYWktJWVjJTk4JWE0JWVkJTk0JTg4YWktJWViJThmJTg1JWVjJTlkJWJjLSVlYyU5YyU4NCVlZCU4MiVhNC0lZWMlYTAlOTAlZWElYjElYjAtJWVjJTgyJWFjJWVhJWIxJWI0LSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5Yy0lMjVlYiUyNWI2JTI1ODglMjVlYiUyNThhJTI1YTUtYWktJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWIlMjU4ZiUyNTg1JTI1ZWMlMjU5ZCUyNWJjLSUyNWVjJTI1OWMlMjU4NCUyNWVkJTI1ODIlMjVhNC0lMjVlYyUyNWEwJTI1OTAlMjVlYSUyNWIxJTI1YjAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMSUyNWI0LSUyNWVhJTI1YjMlMjViNQ",
       "title": "“통제 불능 AI” … 오픈AI, ‘독일 위키 점거’ 사건 공식 인정",
       "source": "Tech42",
@@ -565,6 +525,26 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktZG9lcy1tYXRoLXJld2FyZC1oYWNraW5nLW1ldGEtbGF1bmNoZXMtcGVyc29uYWwtYWdlbnQv",
+      "title": "OpenAI Does Math, Reward-Hacking, Meta Launches Personal Agent",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/openai-does-math-reward-hacking-meta-launches-personal-agent/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-09T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "OpenAI solving one of the most famous math problems is extremely impressive, and of little impact to most people's lives; Meta's Muse agent launch has the potential to be the exact opposite.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
       "title": "수이, 싱가포르서 ‘베이스캠프 2026’ 개최…AI 에이전트 결제 인프라 전면에",
       "source": "Tech42",
@@ -711,26 +691,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kdW8tdGhyZWF0cy8",
-      "title": "2026.37: Duo Threats",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/duo-threats/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-11T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -1413,26 +1373,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xMS8xMTQzOTM2L3JvdW5kdGFibGVzLXdpbGwtYWktcmVhbGx5LWtpbGwtdXMtYWxsLw",
-      "title": "Roundtables: AI’s apocalypse crisis",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOS8xMTQzNzY3L3RoZS1kb3dubG9hZC1vcGVuYWktbWF0aC1mdXR1cmUtYmF0dGVyeS1yZWNvcmQv",
+      "title": "The Download: OpenAI’s turning point for math and a battery record",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "thumbnailUrl": null,
-      "author": "MIT Technology Review",
+      "author": "Thomas Macaulay",
       "category": "AI + Society",
-      "publishedAt": "2026-09-11T20:05:06.000Z",
+      "publishedAt": "2026-09-09T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 104,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a c",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What OpenAI’s latest controversy tells us about the future of math OpenAI says its agents have solved ",
       "tags": [
         "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "app"
+        "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5ZSVhNSVlYiViMyViNCVlYSViOCViMCVlYiViNiU4MCVlZCU4NCViMC0lZWElYjIlYjAlZWMlYTAlOWMlZWElYjklOGMlZWMlYTclODAtJWVjJWIyJTk5JWVjJWIyJTk5LSVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWQlYjglZWElYjAlODQtJWVjJTgyJWI2LSVlZCU4NiViNSVlYyVhNyViOCVlYiVhMSU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWUlMjVhNSUyNWViJTI1YjMlMjViNCUyNWVhJTI1YjglMjViMCUyNWViJTI1YjYlMjU4MCUyNWVkJTI1ODQlMjViMC0lMjVlYSUyNWIyJTI1YjAlMjVlYyUyNWEwJTI1OWMlMjVlYSUyNWI5JTI1OGMlMjVlYyUyNWE3JTI1ODAtJTI1ZWMlMjViMiUyNTk5JTI1ZWMlMjViMiUyNTk5LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTlkJTI1YjglMjVlYSUyNWIwJTI1ODQtJTI1ZWMlMjU4MiUyNWI2LSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTclMjViOCUyNWViJTI1YTElMjU5Yw",
@@ -2244,48 +2202,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xMS8xMTQzODc5L3RoZS1kb3dubG9hZC1iaW90ZWNoLWZ1dHVyZS1jaGVhcGVyLWNsZWFuZXItc3RlZWwv",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-11T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 3",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xMS8xMTQzODM0L21lZXQtdGhlLXVuZGVyLTM1cy1zaGFwaW5nLXRoZS1mdXR1cmUtb2YtYmlvdGVjaC8",
-      "title": "Meet the under-35s shaping the future of biotech",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-11T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to ",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4YyU5NCVlYiVhMSU5YyVlYyU5NSU4YyVlZCU4NiVhMC0lZWMlOGElYTQlZWQlODMlODAlZWQlOGElYjglZWMlOTclODUtJWVjJWJkJTk4JWVjJTg2JTk0LTUlZWMlOTYlYjUtJWViJThiJWFjJWViJTlmJWFjLSVlYyU4YiViOSVlYyU5MyViOCVlYyU5ZCViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OGMlMjU5NCUyNWViJTI1YTElMjU5YyUyNWVjJTI1OTUlMjU4YyUyNWVkJTI1ODYlMjVhMC0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjViZCUyNTk4JTI1ZWMlMjU4NiUyNTk0LTUlMjVlYyUyNTk2JTI1YjUtJTI1ZWIlMjU4YiUyNWFjJTI1ZWIlMjU5ZiUyNWFjLSUyNWVjJTI1OGIlMjViOSUyNWVjJTI1OTMlMjViOCUyNWVjJTI1OWQlMjViNA",
       "title": "팔로알토, 스타트업 '콘솔' 5억 달러 싹쓸이",
       "source": "Tech42",
@@ -2820,6 +2736,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kdW8tdGhyZWF0cy8",
+      "title": "2026.37: Duo Threats",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/duo-threats/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-11T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of September 7, 2026, including the arrival of the Duo, AI that benefits humanity, and closing the book on a catastrophe.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dob3NlLWFpLXdpbGwtcnVsZS10aGUtd29ybGQ",
       "title": "Whose AI Will Rule The World?",
       "source": "Noema",
@@ -2836,7 +2772,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi93cml0ZS10aGluZ3MtZG93bi8",
@@ -3677,21 +3613,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1nZW4tei1yZXZvbHQtc3dlZXBpbmctc291dGgtYXNpYQ",
-      "title": "The Gen Z Revolt Sweeping South Asia",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-gen-z-revolt-sweeping-south-asia",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xMS8xMTQzOTM2L3JvdW5kdGFibGVzLXdpbGwtYWktcmVhbGx5LWtpbGwtdXMtYWxsLw",
+      "title": "Roundtables: Could AI really kill us all?",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-11T16:31:14.000Z",
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-11T20:05:06.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Gen Z Revolt Sweeping South Asia appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a c",
       "tags": [
-        "noema"
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
       ],
       "isNew": true
     },
@@ -6371,6 +6310,64 @@
         "ai요약",
         "반도체",
         "스페이스x"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xMS8xMTQzODc5L3RoZS1kb3dubG9hZC1iaW90ZWNoLWZ1dHVyZS1jaGVhcGVyLWNsZWFuZXItc3RlZWwv",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-11T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 3",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     }
