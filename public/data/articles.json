@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-17T00:56:30.413Z",
+  "fetchedAt": "2026-09-18T00:51:58.784Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1lbmQtb2YtdXB3YXJkLW1vYmlsaXR5",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWMlODQlZWQlOTglOTElZWQlOTUlYTAtJWVjJWE3JTg0JWVjJWE3JTljLWFpLSVlYSViOCU4MCVlYiU5ZSU5OCVlYyU4YSVhNC0lZWIlODIlOTglZWMlOTklOTQlZWIlOGIlYTQtJWVjJThhJWE0JWViJTgzJTg1LSVlYiViOSU4NCVlYyU4NCU5Yy0lZWQlODMlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjU5YyUyNTg0JTI1ZWQlMjU5OCUyNTkxJTI1ZWQlMjU5NSUyNWEwLSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YTclMjU5Yy1haS0lMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTllJTI1OTglMjVlYyUyNThhJTI1YTQtJTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5OSUyNTk0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OGElMjVhNCUyNWViJTI1ODMlMjU4NS0lMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTg0JTI1OWMtJTI1ZWQlMjU4MyUyNTkx",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zYWxlc2ZvcmNlLWFpLWZvcmNlLWFnZW50cy1hcy11aS10aGUtcmFjZS10by1oZWFkbGVzcy8",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNi8xMTQ0MjA1L3RoZS1kb3dubG9hZC1haS10cmlsbGlvbi1kb2xsYXItYnVpbGQtb3BlbmFpLWJpb2xvZ2ljYWwtZGF0YS8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NvbmNlZGluZy1haS1kYW5nZXItcmFpc2VzLW5vdC1yZWR1Y2VzLXB1YmxpYy1hbnhpZXR5",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNS8xMTQ0MTI5L2FpLW1vZGVscy1uZWVkLW1vcmUtZGF0YS1hYm91dC1iaW9sb2d5LWFuZC1vcGVuYWktaXMtcGF5aW5nLXRvLWNyZWF0ZS1pdC8",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
@@ -150,26 +150,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zYWxlc2ZvcmNlLWFpLWZvcmNlLWFnZW50cy1hcy11aS10aGUtcmFjZS10by1oZWFkbGVzcy8",
-      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-16T10:18:04.000Z",
-      "readingMinutes": 4,
-      "score": 111,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
       "title": "Co-Existence and the End of Co-Intelligence",
       "source": "One Useful Thing",
@@ -266,7 +246,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
@@ -545,24 +525,24 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lLWR1by10aGUtaW50ZWxsaWdlbnQtcGVyc29uYWwtaHViLWFwcGxlLXdhdGNoLWF1ZGlvLWludGVsbGlnZW5jZS8",
-      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zYWxlc2ZvcmNlLWFpLWZvcmNlLWFnZW50cy1hcy11aS10aGUtcmFjZS10by1oZWFkbGVzcy8",
+      "title": "Salesforce AI Force, Agents as UI, The Race to Headless",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "articleUrl": "https://stratechery.com/2026/salesforce-ai-force-agents-as-ui-the-race-to-headless/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "publishedAt": "2026-09-16T10:18:04.000Z",
       "readingMinutes": 4,
       "score": 107,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Salesforce is abandoning UI as a moat, which is a very smart move because it's disappearing for everyone.",
       "tags": [
         "stratechery",
         "daily update"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
@@ -711,6 +691,27 @@
         "uncategorized"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-17T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -949,6 +950,26 @@
         "메타"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lLWR1by10aGUtaW50ZWxsaWdlbnQtcGVyc29uYWwtaHViLWFwcGxlLXdhdGNoLWF1ZGlvLWludGVsbGlnZW5jZS8",
+      "title": "The iPhone Duo, The Intelligent Personal Hub, Apple Watch Audio Intelligence",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-iphone-duo-the-intelligent-personal-hub-apple-watch-audio-intelligence/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-10T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Apple once again demonstrated the power of integrating hardware and software, but it's biggest AI blindspot might be its belief in the primacy of apps.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NSU5YyVlYSViNSVhZCVlYyU5NiViNC0lZWIlOTMlOWMlZWIlOTQlOTQlZWMlOTYlYjQtJWVkJTg2JWI1JWVkJTk2JTg4JWViJThiJWE0JWVjJTk1JWEwJWVkJTk0JThjLTEwJWVjJTliJTk0JWViJWI2JTgwJWVkJTg0JWIwLSVlYyU4YiU5YyVlYiVhNiVhYy1haS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OTUlMjU5YyUyNWVhJTI1YjUlMjVhZCUyNWVjJTI1OTYlMjViNC0lMjVlYiUyNTkzJTI1OWMlMjVlYiUyNTk0JTI1OTQlMjVlYyUyNTk2JTI1YjQtJTI1ZWQlMjU4NiUyNWI1JTI1ZWQlMjU5NiUyNTg4JTI1ZWIlMjU4YiUyNWE0JTI1ZWMlMjU5NSUyNWEwJTI1ZWQlMjU5NCUyNThjLTEwJTI1ZWMlMjU5YiUyNTk0JTI1ZWIlMjViNiUyNTgwJTI1ZWQlMjU4NCUyNWIwLSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1YTYlMjVhYy1haQ",
@@ -1433,28 +1454,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlOWIlOTAtJWVkJTgxJWI0JWViJWExJTljJWViJTkzJTljJWViJWExJTljLWFpLSVlYyU4MyU5ZCVlZCU4MyU5YyVlYSViMyU4NC0lZWQlOGMlOTAlZWIlOGYlODQtJWViJTkyJWE0JWVkJTlkJTk0JWViJTkzJWEwJWViJThiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMlMjVlYiUyNWExJTI1OWMtYWktJTI1ZWMlMjU4MyUyNTlkJTI1ZWQlMjU4MyUyNTljJTI1ZWElMjViMyUyNTg0LSUyNWVkJTI1OGMlMjU5MCUyNWViJTI1OGYlMjU4NC0lMjVlYiUyNTkyJTI1YTQlMjVlZCUyNTlkJTI1OTQlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQ",
-      "title": "앤트로픽, '원 클로드'로 AI 생태계 판도 뒤흔든다",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%9b%90-%ed%81%b4%eb%a1%9c%eb%93%9c%eb%a1%9c-ai-%ec%83%9d%ed%83%9c%ea%b3%84-%ed%8c%90%eb%8f%84-%eb%92%a4%ed%9d%94%eb%93%a0%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%259b%2590-%25ed%2581%25b4%25eb%25a1%259c%25eb%2593%259c%25eb%25a1%259c-ai-%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584-%25ed%258c%2590%25eb%258f%2584-%25eb%2592%25a4%25ed%259d%2594%25eb%2593%25a0%25eb%258b%25a4",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-09-17T00:12:35.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능(AI) 스타트업 앤트로픽(Anthropic)이 자사 AI 비서 '클로드(Claude)'의 기능을 대대적으로 개편하고, 대화창 내에서 편집 가능한 문서를 직접 만들어주는 '클로드 독스(Claude Docs)'를 전격 선보였다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "앤트로픽",
-        "원 클로드"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMCVhOSVlYyU4YiVhYyVlZCU5NSU5OCVlYiU4YiVhNC0lZWQlOTUlYTAlZWIlOGIlYjklZWIlOWYlODktJWVkJThmJWFkJWViJWE3JTlkLSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyViMCVhOCVlYyU4NCViOCVlYiU4YyU4MC1haS1ncHQtNi0lZWMlOTUlODQlZWMlOGElYTQlZWQlOGElYjglZWIlOWQlYmMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWIwJTI1YTklMjVlYyUyNThiJTI1YWMlMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQtJTI1ZWQlMjU5NSUyNWEwJTI1ZWIlMjU4YiUyNWI5JTI1ZWIlMjU5ZiUyNTg5LSUyNWVkJTI1OGYlMjVhZCUyNWViJTI1YTclMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNWIwJTI1YTglMjVlYyUyNTg0JTI1YjglMjVlYiUyNThjJTI1ODAtYWktZ3B0LTYtJTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjU5ZCUyNWJj",
@@ -2374,26 +2373,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNi8xMTQ0MjA1L3RoZS1kb3dubG9hZC1haS10cmlsbGlvbi1kb2xsYXItYnVpbGQtb3BlbmFpLWJpb2xvZ2ljYWwtZGF0YS8",
-      "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-16T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What’s at stake in AI’s trillion-dollar gamble When Jessica Wachter, a finance professor at the Univer",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpJWMyJWI3JWViJThkJWIwJWVjJTlkJWI0JWVkJTg0JWIwJWVhJWIwJTgwLSVlYiViMCU5NCVlYSViZSViYy0lZWQlOTQlOGMlZWIlOWUlYWIlZWQlOGYlYmMtJWVhJWIyJWJkJWVjJTlmJTgxJWVjJTgyJWIwJWVkJTk1JTk5JWVjJWEwJTk1LSVlYSViNyU5YyVlYyVhMCU5YyVlYyU5ZCU5OC0lZWIlYjAlYTkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haSUyNWMyJTI1YjclMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTg0JTI1YjAlMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjViMCUyNTk0JTI1ZWElMjViZSUyNWJjLSUyNWVkJTI1OTQlMjU4YyUyNWViJTI1OWUlMjVhYiUyNWVkJTI1OGYlMjViYy0lMjVlYSUyNWIyJTI1YmQlMjVlYyUyNTlmJTI1ODElMjVlYyUyNTgyJTI1YjAlMjVlZCUyNTk1JTI1OTklMjVlYyUyNWEwJTI1OTUtJTI1ZWElMjViNyUyNTljJTI1ZWMlMjVhMCUyNTljJTI1ZWMlMjU5ZCUyNTk4LSUyNWViJTI1YjAlMjVhOQ",
       "title": "AI·데이터가 바꾼 플랫폼 경쟁…산학정, ‘규제의 방향’ 다시 묻는다",
       "source": "Tech42",
@@ -2969,25 +2948,6 @@
         "app",
         "summary"
       ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2NvbmNlZGluZy1haS1kYW5nZXItcmFpc2VzLW5vdC1yZWR1Y2VzLXB1YmxpYy1hbnhpZXR5",
-      "title": "Conceding AI Danger Raises, Not Reduces, Public Anxiety",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/conceding-ai-danger-raises-not-reduces-public-anxiety",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-14T17:54:33.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Conceding AI Danger Raises, Not Reduces, Public Anxiety appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
       "isNew": false
     },
     {
@@ -3009,26 +2969,6 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wYWNpbmctdGhlLWZyb250aWVyLWFpcy1kaWdpdGFsLWxpbWl0cy1haS1jb21taXNzYXJzLw",
-      "title": "Pacing the Frontier, AI’s Digital Limits, AI Commissars",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/pacing-the-frontier-ais-digital-limits-ai-commissars/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-14T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Dario Amodei wants to pace the frontier; it's an unrealistic proposal that seems mostly geared to political control of AI.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -3895,6 +3835,47 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1lbmQtb2YtdXB3YXJkLW1vYmlsaXR5",
+      "title": "The End Of Upward Mobility",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-end-of-upward-mobility",
+      "thumbnailUrl": null,
+      "author": "Branko Milanović",
+      "category": "Philosophy",
+      "publishedAt": "2026-09-17T16:25:44.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The End Of Upward Mobility appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC0lZWMlOWIlOTAtJWVkJTgxJWI0JWViJWExJTljJWViJTkzJTljJWViJWExJTljLWFpLSVlYyU4MyU5ZCVlZCU4MyU5YyVlYSViMyU4NC0lZWQlOGMlOTAlZWIlOGYlODQtJWViJTkyJWE0JWVkJTlkJTk0JWViJTkzJWEwJWViJThiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJkLSUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTgxJTI1YjQlMjVlYiUyNWExJTI1OWMlMjVlYiUyNTkzJTI1OWMlMjVlYiUyNWExJTI1OWMtYWktJTI1ZWMlMjU4MyUyNTlkJTI1ZWQlMjU4MyUyNTljJTI1ZWElMjViMyUyNTg0LSUyNWVkJTI1OGMlMjU5MCUyNWViJTI1OGYlMjU4NC0lMjVlYiUyNTkyJTI1YTQlMjVlZCUyNTlkJTI1OTQlMjVlYiUyNTkzJTI1YTAlMjVlYiUyNThiJTI1YTQ",
+      "title": "앤트로픽, '원 클로드'로 AI 생태계 판도 뒤흔든다",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ec%9b%90-%ed%81%b4%eb%a1%9c%eb%93%9c%eb%a1%9c-ai-%ec%83%9d%ed%83%9c%ea%b3%84-%ed%8c%90%eb%8f%84-%eb%92%a4%ed%9d%94%eb%93%a0%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-%25ec%259b%2590-%25ed%2581%25b4%25eb%25a1%259c%25eb%2593%259c%25eb%25a1%259c-ai-%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584-%25ed%258c%2590%25eb%258f%2584-%25eb%2592%25a4%25ed%259d%2594%25eb%2593%25a0%25eb%258b%25a4",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-17T00:12:35.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능(AI) 스타트업 앤트로픽(Anthropic)이 자사 AI 비서 '클로드(Claude)'의 기능을 대대적으로 개편하고, 대화창 내에서 편집 가능한 문서를 직접 만들어주는 '클로드 독스(Claude Docs)'를 전격 선보였다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "앤트로픽",
+        "원 클로드"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YiU5NC02MCVlYiVhNyU4Yy0lZWMlOWIlOTAlZWMlYTclOWMlZWIlYTYlYWMtJWVjJTlkJWI4JWVjJThhJWE0JWVkJTgzJTgwJWVhJWI3JWI4JWViJTllJWE4LSVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYjUlOWMlZWElYjMlYTAlZWElYjAlODAtJWVjJTljJWEwJWViJWEzJThjLSVlYyU5YSU5NCVlYSViOCU4OCVlYyVhMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWIlMjU5NC02MCUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNTliJTI1OTAlMjVlYyUyNWE3JTI1OWMlMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjU5ZSUyNWE4LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWI1JTI1OWMlMjVlYSUyNWIzJTI1YTAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWIlMjVhMyUyNThjLSUyNWVjJTI1OWElMjU5NCUyNWVhJTI1YjglMjU4OCUyNWVjJTI1YTAlMjU5Yw",
       "title": "월 60만 원짜리 인스타그램? 메타, 최고가 유료 요금제 기습 출시",
       "source": "Tech42",
@@ -3934,7 +3915,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU4NiU4ZCVlYiU4ZiU4NC0lZWMlYTElYjAlZWMlYTAlODglZWMlOWQlODAtJWVjJTlkJThjJWViJWFhJWE4LSVlZCU4YSViOCVlYiU5ZiViYyVlZCU5NCU4NCVjMiViNyVlYyVhMCVhMCVlYyU4YSVhOC0lZWQlOTklYTktYWktJWViJWI4JThjJWViJWEwJTg4JWVjJTlkJWI0JWVkJTgxJWFjLSVlYyVhMyViYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVjJTI1ODYlMjU4ZCUyNWViJTI1OGYlMjU4NC0lMjVlYyUyNWExJTI1YjAlMjVlYyUyNWEwJTI1ODglMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjU5ZCUyNThjJTI1ZWIlMjVhYSUyNWE4LSUyNWVkJTI1OGElMjViOCUyNWViJTI1OWYlMjViYyUyNWVkJTI1OTQlMjU4NCUyNWMyJTI1YjclMjVlYyUyNWEwJTI1YTAlMjVlYyUyNThhJTI1YTgtJTI1ZWQlMjU5OSUyNWE5LWFpLSUyNWViJTI1YjglMjU4YyUyNWViJTI1YTAlMjU4OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYy0lMjVlYyUyNWEzJTI1YmM",
@@ -6370,6 +6351,25 @@
         "ai 의사"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
     }
   ]
 }
