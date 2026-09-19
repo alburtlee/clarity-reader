@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-18T00:51:58.784Z",
+  "fetchedAt": "2026-09-19T00:43:53.880Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1lbmQtb2YtdXB3YXJkLW1vYmlsaXR5",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xOC8xMTQ0NDM1L2NvdWxkLWFpLXJlYWxseS1raWxsLXVzLWFsbC15b3VyLXF1ZXN0aW9ucy1hbnN3ZXJlZC8",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb29tZm9yY2Uv",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWMlODQlZWQlOTglOTElZWQlOTUlYTAtJWVjJWE3JTg0JWVjJWE3JTljLWFpLSVlYSViOCU4MCVlYiU5ZSU5OCVlYyU4YSVhNC0lZWIlODIlOTglZWMlOTklOTQlZWIlOGIlYTQtJWVjJThhJWE0JWViJTgzJTg1LSVlYiViOSU4NCVlYyU4NCU5Yy0lZWQlODMlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjU5YyUyNTg0JTI1ZWQlMjU5OCUyNTkxJTI1ZWQlMjU5NSUyNWEwLSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YTclMjU5Yy1haS0lMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTllJTI1OTglMjVlYyUyNThhJTI1YTQtJTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5OSUyNTk0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OGElMjVhNCUyNWViJTI1ODMlMjU4NS0lMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTg0JTI1OWMtJTI1ZWQlMjU4MyUyNTkx",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNS8xMTQ0MTI5L2FpLW1vZGVscy1uZWVkLW1vcmUtZGF0YS1hYm91dC1iaW9sb2d5LWFuZC1vcGVuYWktaXMtcGF5aW5nLXRvLWNyZWF0ZS1pdC8",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
@@ -188,6 +188,25 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
+      "title": "The Overhang",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-overhang",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOC8xMTQzNzQ3L3doYXQtb3BlbmFpcy1sYXRlc3QtY29udHJvdmVyc3ktdGVsbHMtdXMtYWJvdXQtdGhlLWZ1dHVyZS1vZi1tYXRoLw",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "source": "MIT Technology Review",
@@ -225,26 +244,6 @@
       "excerpt": "With the right tools, AI can accomplish impressive things",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktYWRzLWFtYXpvbi1hZHMtaW4tY2hhdGdwdC13YWxtYXJ0LXRvLWFjY2VwdC1hcHBsZS1wYXkv",
-      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-09-15T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 109,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -542,7 +541,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
@@ -691,27 +690,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
-      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-17T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -950,6 +928,26 @@
         "메타"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktYWRzLWFtYXpvbi1hZHMtaW4tY2hhdGdwdC13YWxtYXJ0LXRvLWFjY2VwdC1hcHBsZS1wYXkv",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lLWR1by10aGUtaW50ZWxsaWdlbnQtcGVyc29uYWwtaHViLWFwcGxlLXdhdGNoLWF1ZGlvLWludGVsbGlnZW5jZS8",
@@ -1454,6 +1452,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xOC8xMTQ0NDM1L2NvdWxkLWFpLXJlYWxseS1raWxsLXVzLWFsbC15b3VyLXF1ZXN0aW9ucy1hbnN3ZXJlZC8",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
+      "thumbnailUrl": null,
+      "author": "Will Douglas Heaven, Grace Huckins",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-18T11:29:22.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMCVhOSVlYyU4YiVhYyVlZCU5NSU5OCVlYiU4YiVhNC0lZWQlOTUlYTAlZWIlOGIlYjklZWIlOWYlODktJWVkJThmJWFkJWViJWE3JTlkLSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyViMCVhOCVlYyU4NCViOCVlYiU4YyU4MC1haS1ncHQtNi0lZWMlOTUlODQlZWMlOGElYTQlZWQlOGElYjglZWIlOWQlYmMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWIwJTI1YTklMjVlYyUyNThiJTI1YWMlMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQtJTI1ZWQlMjU5NSUyNWEwJTI1ZWIlMjU4YiUyNWI5JTI1ZWIlMjU5ZiUyNTg5LSUyNWVkJTI1OGYlMjVhZCUyNWViJTI1YTclMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNWIwJTI1YTglMjVlYyUyNTg0JTI1YjglMjVlYiUyNThjJTI1ODAtYWktZ3B0LTYtJTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjU5ZCUyNWJj",
@@ -2929,6 +2949,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
+      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-17T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNS8xMTQ0MTI5L2FpLW1vZGVscy1uZWVkLW1vcmUtZGF0YS1hYm91dC1iaW9sb2d5LWFuZC1vcGVuYWktaXMtcGF5aW5nLXRvLWNyZWF0ZS1pdC8",
       "title": "AI models need more data about biology, and OpenAI is paying to create it",
       "source": "MIT Technology Review",
@@ -3835,21 +3876,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1lbmQtb2YtdXB3YXJkLW1vYmlsaXR5",
-      "title": "The End Of Upward Mobility",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-end-of-upward-mobility",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb29tZm9yY2Uv",
+      "title": "2026.38: Doomforce",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/doomforce/",
       "thumbnailUrl": null,
-      "author": "Branko Milanović",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-17T16:25:44.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-18T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The End Of Upward Mobility appeared first on NOEMA.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of September 14, 2026, including the view from anywhere but San Francisco, the limited potential for a pacing deal, and the Salesforce zag.",
       "tags": [
-        "noema"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -3873,7 +3915,7 @@
         "앤트로픽",
         "원 클로드"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YiU5NC02MCVlYiVhNyU4Yy0lZWMlOWIlOTAlZWMlYTclOWMlZWIlYTYlYWMtJWVjJTlkJWI4JWVjJThhJWE0JWVkJTgzJTgwJWVhJWI3JWI4JWViJTllJWE4LSVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYjUlOWMlZWElYjMlYTAlZWElYjAlODAtJWVjJTljJWEwJWViJWEzJThjLSVlYyU5YSU5NCVlYSViOCU4OCVlYyVhMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWIlMjU5NC02MCUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNTliJTI1OTAlMjVlYyUyNWE3JTI1OWMlMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjU5ZSUyNWE4LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWI1JTI1OWMlMjVlYSUyNWIzJTI1YTAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWIlMjVhMyUyNThjLSUyNWVjJTI1OWElMjU5NCUyNWVhJTI1YjglMjU4OCUyNWVjJTI1YTAlMjU5Yw",
@@ -3896,26 +3938,6 @@
         "유료 요금제"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNS8xMTQ0MTQxL3RoZS1kb3dubG9hZC1haS1leHRpbmN0aW9uLXdoaXN0bGVibG93aW5nLWFnZW50cy1kb25hdGVkLWxpdmVycy8",
-      "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-15T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The AI industry has taken a doomer turn. What now? AI chiefs Dario Amodei, Sam Altman, Elon Musk, and ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU4NiU4ZCVlYiU4ZiU4NC0lZWMlYTElYjAlZWMlYTAlODglZWMlOWQlODAtJWVjJTlkJThjJWViJWFhJWE4LSVlZCU4YSViOCVlYiU5ZiViYyVlZCU5NCU4NCVjMiViNyVlYyVhMCVhMCVlYyU4YSVhOC0lZWQlOTklYTktYWktJWViJWI4JThjJWViJWEwJTg4JWVjJTlkJWI0JWVkJTgxJWFjLSVlYyVhMyViYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVjJTI1ODYlMjU4ZCUyNWViJTI1OGYlMjU4NC0lMjVlYyUyNWExJTI1YjAlMjVlYyUyNWEwJTI1ODglMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjU5ZCUyNThjJTI1ZWIlMjVhYSUyNWE4LSUyNWVkJTI1OGElMjViOCUyNWViJTI1OWYlMjViYyUyNWVkJTI1OTQlMjU4NCUyNWMyJTI1YjclMjVlYyUyNWEwJTI1YTAlMjVlYyUyNThhJTI1YTgtJTI1ZWQlMjU5OSUyNWE5LWFpLSUyNWViJTI1YjglMjU4YyUyNWViJTI1YTAlMjU4OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODElMjVhYy0lMjVlYyUyNWEzJTI1YmM",
@@ -6351,25 +6373,6 @@
         "ai 의사"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
-      "title": "Choosing to Stay Human",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-05-26T19:56:01.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
     }
   ]
 }
