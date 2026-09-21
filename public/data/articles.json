@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-09-20T00:28:14.735Z",
+  "fetchedAt": "2026-09-21T00:36:01.589Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4MiVhYyVlYyVhNyU4NCVlYiVhNyU4Yy0lZWIlODQlYTMlZWMlOWMlYmMlZWIlYTklYjQtJWVjJThhJWE0JWVkJThiJWIwJWVjJWJiJWE0LSVlYyU5OSU4NCVlYyU4NCViMSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyViMSU5N2dwdC0lZWMlYTAlODQlZWMlOWElYTktJWVjJThhJWE0JWVkJThiJWIwJWVjJWJiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjVhNyUyNTg0JTI1ZWIlMjVhNyUyNThjLSUyNWViJTI1ODQlMjVhMyUyNWVjJTI1OWMlMjViYyUyNWViJTI1YTklMjViNC0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YTQtJTI1ZWMlMjU5OSUyNTg0JTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWMlMjViMSUyNTk3Z3B0LSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YTQ",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xOC8xMTQ0NDM1L2NvdWxkLWFpLXJlYWxseS1raWxsLXVzLWFsbC15b3VyLXF1ZXN0aW9ucy1hbnN3ZXJlZC8",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWMlODQlZWQlOTglOTElZWQlOTUlYTAtJWVjJWE3JTg0JWVjJWE3JTljLWFpLSVlYSViOCU4MCVlYiU5ZSU5OCVlYyU4YSVhNC0lZWIlODIlOTglZWMlOTklOTQlZWIlOGIlYTQtJWVjJThhJWE0JWViJTgzJTg1LSVlYiViOSU4NCVlYyU4NCU5Yy0lZWQlODMlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjU5YyUyNTg0JTI1ZWQlMjU5OCUyNTkxJTI1ZWQlMjU5NSUyNWEwLSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YTclMjU5Yy1haS0lMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTllJTI1OTglMjVlYyUyNThhJTI1YTQtJTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5OSUyNTk0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OGElMjVhNCUyNWViJTI1ODMlMjU4NS0lMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTg0JTI1OWMtJTI1ZWQlMjU4MyUyNTkx",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zYWxlc2ZvcmNlLWFpLWZvcmNlLWFnZW50cy1hcy11aS10aGUtcmFjZS10by1oZWFkbGVzcy8",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
@@ -669,7 +669,7 @@
       "tags": [
         "one-useful-thing"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -2927,27 +2927,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qb2FubmEtc3Rlcm4tYWJvdXQtdGhlLWlwaG9uZS1kdW8tYW5kLWFpLWZvci1ub3JtYWwtcGVvcGxlLw",
-      "title": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-joanna-stern-about-the-iphone-duo-and-ai-for-normal-people/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-17T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An Interview with Joanna Stern About the iPhone Duo and AI for Normal People",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xNS8xMTQ0MTI5L2FpLW1vZGVscy1uZWVkLW1vcmUtZGF0YS1hYm91dC1iaW9sb2d5LWFuZC1vcGVuYWktaXMtcGF5aW5nLXRvLWNyZWF0ZS1pdC8",
       "title": "AI models need more data about biology, and OpenAI is paying to create it",
       "source": "MIT Technology Review",
@@ -3854,6 +3833,94 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4MiVhYyVlYyVhNyU4NCVlYiVhNyU4Yy0lZWIlODQlYTMlZWMlOWMlYmMlZWIlYTklYjQtJWVjJThhJWE0JWVkJThiJWIwJWVjJWJiJWE0LSVlYyU5OSU4NCVlYyU4NCViMSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyViMSU5N2dwdC0lZWMlYTAlODQlZWMlOWElYTktJWVjJThhJWE0JWVkJThiJWIwJWVjJWJiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjVhNyUyNTg0JTI1ZWIlMjVhNyUyNThjLSUyNWViJTI1ODQlMjVhMyUyNWVjJTI1OWMlMjViYyUyNWViJTI1YTklMjViNC0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YTQtJTI1ZWMlMjU5OSUyNTg0JTI1ZWMlMjU4NCUyNWIxJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWMlMjViMSUyNTk3Z3B0LSUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNThiJTI1YjAlMjVlYyUyNWJiJTI1YTQ",
+      "title": "\"사진만 넣으면 스티커 완성\"…오픈AI, 챗GPT 전용 스티커 생성 기능 탑재",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%82%ac%ec%a7%84%eb%a7%8c-%eb%84%a3%ec%9c%bc%eb%a9%b4-%ec%8a%a4%ed%8b%b0%ec%bb%a4-%ec%99%84%ec%84%b1%ec%98%a4%ed%94%88ai-%ec%b1%97gpt-%ec%a0%84%ec%9a%a9-%ec%8a%a4%ed%8b%b0%ec%bb%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2582%25ac%25ec%25a7%2584%25eb%25a7%258c-%25eb%2584%25a3%25ec%259c%25bc%25eb%25a9%25b4-%25ec%258a%25a4%25ed%258b%25b0%25ec%25bb%25a4-%25ec%2599%2584%25ec%2584%25b1%25ec%2598%25a4%25ed%2594%2588ai-%25ec%25b1%2597gpt-%25ec%25a0%2584%25ec%259a%25a9-%25ec%258a%25a4%25ed%258b%25b0%25ec%25bb%25a4",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-21T00:12:02.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "오픈AI(OpenAI)가 챗GPT(ChatGPT) 모바일 앱의 이미지 서비스에 사용자가 간편하게 나만의 스티커를 제작할 수 있는 전용 워크플로를 새롭게 추가했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "스티커 생성",
+        "오픈ai"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4ZSU5OCVlYyU5ZCViNCVlYyU4YSVhNHhhaS0lZWMlOTclODUlZWIlYWMlYjQtJWViJThjJTgwJWVkJTk2JTg5LWFpLSVlYSViNyViOCVlYiVhMSU5ZCVlYiViNCU4Ny0lZWElYjglYjAlZWMlOGElYjUtJWVhJWIzJWI1JWVhJWIwJTljLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4ZSUyNTk4JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU4YSUyNWE0eGFpLSUyNWVjJTI1OTclMjU4NSUyNWViJTI1YWMlMjViNC0lMjVlYiUyNThjJTI1ODAlMjVlZCUyNTk2JTI1ODktYWktJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjVhMSUyNTlkJTI1ZWIlMjViNCUyNTg3LSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OGElMjViNS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWM",
+      "title": "스페이스XAI, 업무 대행 AI '그록봇' 기습 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4xai-%ec%97%85%eb%ac%b4-%eb%8c%80%ed%96%89-ai-%ea%b7%b8%eb%a1%9d%eb%b4%87-%ea%b8%b0%ec%8a%b5-%ea%b3%b5%ea%b0%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4xai-%25ec%2597%2585%25eb%25ac%25b4-%25eb%258c%2580%25ed%2596%2589-ai-%25ea%25b7%25b8%25eb%25a1%259d%25eb%25b4%2587-%25ea%25b8%25b0%25ec%258a%25b5-%25ea%25b3%25b5%25ea%25b0%259c",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-21T00:06:27.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "스페이스XAI가 자회사 커서(Cursor)와 함께 디지털 업무 에이전트 서비스 '그록봇(Grok Bot)'의 초기 공개 베타를 출시했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "그록봇",
+        "스페이스 xai"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSViNCVlYiVhOSU5NCVlYiU5ZCViYy0lZWIlYmElODAtJWVjJTk1JTg4JWVhJWIyJWJkLSVlYiU4MiU5OCVlYyU5OCVhYyVlYSViOSU4Yy0lZWIlYTklOTQlZWQlODMlODAtJWVjJTk3JWFkJWViJThjJTgwJWVhJWI4JTg5LWFpJWMyJWI3bXItJWViJThjJTgwJWVhJWIzJWI1Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViOSUyNWI0JTI1ZWIlMjVhOSUyNTk0JTI1ZWIlMjU5ZCUyNWJjLSUyNWViJTI1YmElMjU4MC0lMjVlYyUyNTk1JTI1ODglMjVlYSUyNWIyJTI1YmQtJTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5OCUyNWFjJTI1ZWElMjViOSUyNThjLSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTk3JTI1YWQlMjVlYiUyNThjJTI1ODAlMjVlYSUyNWI4JTI1ODktYWklMjVjMiUyNWI3bXItJTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViMyUyNWI1",
+      "title": "‘카메라 뺀 안경’ 나올까… 메타, 역대급 'AI·MR' 대공습",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%b9%b4%eb%a9%94%eb%9d%bc-%eb%ba%80-%ec%95%88%ea%b2%bd-%eb%82%98%ec%98%ac%ea%b9%8c-%eb%a9%94%ed%83%80-%ec%97%ad%eb%8c%80%ea%b8%89-ai%c2%b7mr-%eb%8c%80%ea%b3%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b9%25b4%25eb%25a9%2594%25eb%259d%25bc-%25eb%25ba%2580-%25ec%2595%2588%25ea%25b2%25bd-%25eb%2582%2598%25ec%2598%25ac%25ea%25b9%258c-%25eb%25a9%2594%25ed%2583%2580-%25ec%2597%25ad%25eb%258c%2580%25ea%25b8%2589-ai%25c2%25b7mr-%25eb%258c%2580%25ea%25b3%25b5",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-21T00:01:21.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "메타(Meta)가 오는 23일(현지시간) 연례 최대 행사 ‘메타 커넥트 2026’을 열고 차세대 하드웨어와 인공지능(AI) 신기술을 대거 공개한다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai",
+        "mr"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhMSU5YyVlYiViNCU4NyVlYyU5ZCU5OC1jaGF0Z3B0LSVlYiVhYSVhOCVlYiVhOSU5OCVlZCU4YSViOC0lZWIlODglODQlZWElYjAlODAtJWViJWE4JWJjJWVjJWEwJTgwLSVlYiU4ZiU4NCVlYiU4YiVhYyVlZCU5NSVhMCVlYSViOSU4Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YTElMjU5YyUyNWViJTI1YjQlMjU4NyUyNWVjJTI1OWQlMjU5OC1jaGF0Z3B0LSUyNWViJTI1YWElMjVhOCUyNWViJTI1YTklMjU5OCUyNWVkJTI1OGElMjViOC0lMjVlYiUyNTg4JTI1ODQlMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhOCUyNWJjJTI1ZWMlMjVhMCUyNTgwLSUyNWViJTI1OGYlMjU4NCUyNWViJTI1OGIlMjVhYyUyNWVkJTI1OTUlMjVhMCUyNWVhJTI1YjklMjU4Yw",
+      "title": "‘로봇의 ChatGPT 모멘트’ 누가 먼저 도달할까?",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%eb%a1%9c%eb%b4%87%ec%9d%98-chatgpt-%eb%aa%a8%eb%a9%98%ed%8a%b8-%eb%88%84%ea%b0%80-%eb%a8%bc%ec%a0%80-%eb%8f%84%eb%8b%ac%ed%95%a0%ea%b9%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%2598-chatgpt-%25eb%25aa%25a8%25eb%25a9%2598%25ed%258a%25b8-%25eb%2588%2584%25ea%25b0%2580-%25eb%25a8%25bc%25ec%25a0%2580-%25eb%258f%2584%25eb%258b%25ac%25ed%2595%25a0%25ea%25b9%258c",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-20T23:42:13.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능(AI)의 ‘화면 밖 진출’이 본격화되고 있다. 사람의 질문에 답하고 문서를 만드는 생성형 AI를 넘어, 주변 환경을 이해하고 직접 이동하며 물체를 다루는 ‘피지컬 AI(Physical AI)’를 두고 미국과 중국의 경쟁 구도가 격화되는 모양새다. 흥미로운 점은 이들이 집중하는 방향성의 차이다.",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "테크놀로지",
+        "ai"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8xOC8xMTQ0NDM1L2NvdWxkLWFpLXJlYWxseS1raWxsLXVzLWFsbC15b3VyLXF1ZXN0aW9ucy1hbnN3ZXJlZC8",
       "title": "Could AI really kill us all? Your questions, answered.",
       "source": "MIT Technology Review",
@@ -3873,7 +3940,7 @@
         "app",
         "summary"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YiU5NC02MCVlYiVhNyU4Yy0lZWMlOWIlOTAlZWMlYTclOWMlZWIlYTYlYWMtJWVjJTlkJWI4JWVjJThhJWE0JWVkJTgzJTgwJWVhJWI3JWI4JWViJTllJWE4LSVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYjUlOWMlZWElYjMlYTAlZWElYjAlODAtJWVjJTljJWEwJWViJWEzJThjLSVlYyU5YSU5NCVlYSViOCU4OCVlYyVhMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWIlMjU5NC02MCUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNTliJTI1OTAlMjVlYyUyNWE3JTI1OWMlMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjU5ZSUyNWE4LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWI1JTI1OWMlMjVlYSUyNWIzJTI1YTAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWIlMjVhMyUyNThjLSUyNWVjJTI1OWElMjU5NCUyNWVhJTI1YjglMjU4OCUyNWVjJTI1YTAlMjU5Yw",
@@ -6309,66 +6376,6 @@
         "데이터스페이스"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyVhYyVlYiViMyViNC0lZWMlODglOTglZWMlODglYTAtJWVjJTlkJWJjJWVjJWEwJTk1JWVjJTlkJWI0LSVlYyU5NSU4OCVlYiU4MiU5OCVlYyU5OCVhOCVlYiU4ZCViMGFpJWViJThhJTk0LSVlYyU5ZCU5OCVlYyU4MiVhYyVlYiVhNSViYy0lZWIlOGMlODAlZWMlYjIlYjQlZWQlOTUlYTAlZWElYjklOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk3JTI1YWMlMjVlYiUyNWIzJTI1YjQtJTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU4OCUyNWEwLSUyNWVjJTI1OWQlMjViYyUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1OWQlMjViNC0lMjVlYyUyNTk1JTI1ODglMjVlYiUyNTgyJTI1OTglMjVlYyUyNTk4JTI1YTglMjVlYiUyNThkJTI1YjBhaSUyNWViJTI1OGElMjU5NC0lMjVlYyUyNTlkJTI1OTglMjVlYyUyNTgyJTI1YWMlMjVlYiUyNWE1JTI1YmMtJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjViMiUyNWI0JTI1ZWQlMjU5NSUyNWEwJTI1ZWElMjViOSUyNThj",
-      "title": "\"여보, 수술 일정이 안나온데\"…AI는 의사를 대체할까, 아니면 시간을 되돌릴까",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%97%ac%eb%b3%b4-%ec%88%98%ec%88%a0-%ec%9d%bc%ec%a0%95%ec%9d%b4-%ec%95%88%eb%82%98%ec%98%a8%eb%8d%b0ai%eb%8a%94-%ec%9d%98%ec%82%ac%eb%a5%bc-%eb%8c%80%ec%b2%b4%ed%95%a0%ea%b9%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%25ac%25eb%25b3%25b4-%25ec%2588%2598%25ec%2588%25a0-%25ec%259d%25bc%25ec%25a0%2595%25ec%259d%25b4-%25ec%2595%2588%25eb%2582%2598%25ec%2598%25a8%25eb%258d%25b0ai%25eb%258a%2594-%25ec%259d%2598%25ec%2582%25ac%25eb%25a5%25bc-%25eb%258c%2580%25ec%25b2%25b4%25ed%2595%25a0%25ea%25b9%258c",
-      "thumbnailUrl": null,
-      "author": "김광우 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-06-23T23:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "얼마 전 의료계를 뒤흔든 집단 파업. 그 중심에는 의사 인력 부족이라는 뼈아픈 현실이 있었다. 환자는 수술대에 올라갈 수 없었고, 의사는 번아웃으로 쓰러졌다. 이 악순환 속에서 인공지능은 구원자가 될 수 있을 것인가? 아니면 또 다른 논쟁의 씨앗에 불과한 것일까?",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "ai 수술",
-        "ai 의사"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
-      "title": "Choosing to Stay Human",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-05-26T19:56:01.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
-      "title": "The Shape of the Thing",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-12T14:10:07.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Where we are right now, and what likely happens next",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
     }
   ]
 }
