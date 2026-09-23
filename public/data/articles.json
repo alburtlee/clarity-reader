@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-22T01:19:39.033Z",
+  "fetchedAt": "2026-09-23T00:59:39.526Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlZCU5OSU5NSVlYyU4MiViMCVlZCU5NSU5Yy1rLSVlYyViZCU5OCVlZCU4NSU5MCVlYyViOCVhMC0lZWMlYTAlOTUlZWMlYjElODUlZWMlOWQlODAtJWVjJTk2JWI0JWViJTk0JTk0JWViJWExJTljMjklZWMlOWQlYmMtJWVhJWI1JWFkJWVkJTlhJThjJWVjJTg0JTljLSVlYyU4MiViMCVlYyU5NyU4NSVjMiViNyVlYyViMCViZC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVkJTI1OTklMjU5NSUyNWVjJTI1ODIlMjViMCUyNWVkJTI1OTUlMjU5Yy1rLSUyNWVjJTI1YmQlMjU5OCUyNWVkJTI1ODUlMjU5MCUyNWVjJTI1YjglMjVhMC0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNWIxJTI1ODUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjU5NiUyNWI0JTI1ZWIlMjU5NCUyNTk0JTI1ZWIlMjVhMSUyNTljMjklMjVlYyUyNTlkJTI1YmMtJTI1ZWElMjViNSUyNWFkJTI1ZWQlMjU5YSUyNThjJTI1ZWMlMjU4NCUyNTljLSUyNWVjJTI1ODIlMjViMCUyNWVjJTI1OTclMjU4NSUyNWMyJTI1YjclMjVlYyUyNWIwJTI1YmQ",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTY0L2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLXBvbGljeS1yZWNvbW1lbmRhdGlvbnMv",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mcm9udGllci1vdmVyaGFuZ3Mv",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n"
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMi8xMTQ0ODY3L2RvbnQtYmUtZm9vbGVkLXN1bW1lci1haS1oeXBlLw",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2stYXglZWIlOGElOTQtJWVjJWE3JTgwJWVhJWI4JTg4LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haSVlYyU5ZCU5OC0lZWQlODYlYTAlZWMlOTYlOTElZWMlOWQlODAtJWVhJWIyJWIwJWVhJWI1JWFkLSVlYiU4ZCViMCVlYyU5ZCViNCVlZCU4NCViMCVlYyU5NiU5MSVlYyU4OCU5OC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWstYXglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjVhNyUyNTgwJTI1ZWElMjViOCUyNTg4LSUyNWVkJTI1OTQlMjViYyUyNWVjJTI1YTclMjU4MCUyNWVjJTI1YmIlMjVhYy1haSUyNWVjJTI1OWQlMjU5OC0lMjVlZCUyNTg2JTI1YTAlMjVlYyUyNTk2JTI1OTElMjVlYyUyNTlkJTI1ODAtJTI1ZWElMjViMiUyNWIwJTI1ZWElMjViNSUyNWFkLSUyNWViJTI1OGQlMjViMCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODQlMjViMCUyNWVjJTI1OTYlMjU5MSUyNWVjJTI1ODglMjU5OA",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1jaGluYS13aWxsLXJ1bGUtYWk",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tYmxvY2tzLW11c2UtYW1hem9ucy1tb2F0LWFnZ3JlZ2F0b3Itdi1hZ2dyZWdhdG9yLw",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -68,26 +68,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
-      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-L4yH52.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-09-21T12:31:04.000Z",
-      "readingMinutes": 4,
-      "score": 114,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8xMC8xMTQxNTExL3RoZXNlLXN0YXJ0dXBzLWFyZS1jaGFzaW5nLXRoZS1uZXh0LWJpZy10aGluZy1pbi1sbG1zLw",
       "title": "These startups are chasing the next big thing in LLMs",
       "source": "MIT Technology Review",
@@ -148,6 +128,28 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMi8xMTQ0ODY3L2RvbnQtYmUtZm9vbGVkLXN1bW1lci1haS1oeXBlLw",
+      "title": "Don’t be fooled by this summer of AI hype",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "thumbnailUrl": null,
+      "author": "Timnit Gebru, Emily M. Bender",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-22T11:04:51.000Z",
+      "readingMinutes": 4,
+      "score": 112,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, aft",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "opinion"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQyNjMwL2FpLXNjaG9vbC1jbGFzc3Jvb20tcG9saWNpZXMv",
       "title": "How to encourage smarter AI use in the classroom",
       "source": "MIT Technology Review",
@@ -206,6 +208,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-L4yH52.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-09-21T12:31:04.000Z",
+      "readingMinutes": 4,
+      "score": 110,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOC8xMTQzNzQ3L3doYXQtb3BlbmFpcy1sYXRlc3QtY29udHJvdmVyc3ktdGVsbHMtdXMtYWJvdXQtdGhlLWZ1dHVyZS1vZi1tYXRoLw",
@@ -673,6 +695,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1jaGluYS13aWxsLXJ1bGUtYWk",
+      "title": "Why China Will Rule AI",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/why-china-will-rule-ai",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-09-22T15:25:43.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Why China Will Rule AI appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tYmxvY2tzLW11c2UtYW1hem9ucy1tb2F0LWFnZ3JlZ2F0b3Itdi1hZ2dyZWdhdG9yLw",
+      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-22T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
       "title": "An opinionated guide to which AI to use to do stuff",
       "source": "One Useful Thing",
@@ -909,26 +970,6 @@
         "메타"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktYWRzLWFtYXpvbi1hZHMtaW4tY2hhdGdwdC13YWxtYXJ0LXRvLWFjY2VwdC1hcHBsZS1wYXkv",
-      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-09-15T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtaXBob25lLWR1by10aGUtaW50ZWxsaWdlbnQtcGVyc29uYWwtaHViLWFwcGxlLXdhdGNoLWF1ZGlvLWludGVsbGlnZW5jZS8",
@@ -1433,28 +1474,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTY0L2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLXBvbGljeS1yZWNvbW1lbmRhdGlvbnMv",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
-      "thumbnailUrl": null,
-      "author": "James O'Donnell",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undet",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "border towers"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViMCVhOSVlYyU4YiVhYyVlZCU5NSU5OCVlYiU4YiVhNC0lZWQlOTUlYTAlZWIlOGIlYjklZWIlOWYlODktJWVkJThmJWFkJWViJWE3JTlkLSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyViMCVhOCVlYyU4NCViOCVlYiU4YyU4MC1haS1ncHQtNi0lZWMlOTUlODQlZWMlOGElYTQlZWQlOGElYjglZWIlOWQlYmMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWIwJTI1YTklMjVlYyUyNThiJTI1YWMlMjVlZCUyNTk1JTI1OTglMjVlYiUyNThiJTI1YTQtJTI1ZWQlMjU5NSUyNWEwJTI1ZWIlMjU4YiUyNWI5JTI1ZWIlMjU5ZiUyNTg5LSUyNWVkJTI1OGYlMjVhZCUyNWViJTI1YTclMjU5ZC0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlYyUyNWIwJTI1YTglMjVlYyUyNTg0JTI1YjglMjVlYiUyNThjJTI1ODAtYWktZ3B0LTYtJTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjU5ZCUyNWJj",
@@ -2374,28 +2393,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlZCU5OSU5NSVlYyU4MiViMCVlZCU5NSU5Yy1rLSVlYyViZCU5OCVlZCU4NSU5MCVlYyViOCVhMC0lZWMlYTAlOTUlZWMlYjElODUlZWMlOWQlODAtJWVjJTk2JWI0JWViJTk0JTk0JWViJWExJTljMjklZWMlOWQlYmMtJWVhJWI1JWFkJWVkJTlhJThjJWVjJTg0JTljLSVlYyU4MiViMCVlYyU5NyU4NSVjMiViNyVlYyViMCViZC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVkJTI1OTklMjU5NSUyNWVjJTI1ODIlMjViMCUyNWVkJTI1OTUlMjU5Yy1rLSUyNWVjJTI1YmQlMjU5OCUyNWVkJTI1ODUlMjU5MCUyNWVjJTI1YjglMjVhMC0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNWIxJTI1ODUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjU5NiUyNWI0JTI1ZWIlMjU5NCUyNTk0JTI1ZWIlMjVhMSUyNTljMjklMjVlYyUyNTlkJTI1YmMtJTI1ZWElMjViNSUyNWFkJTI1ZWQlMjU5YSUyNThjJTI1ZWMlMjU4NCUyNTljLSUyNWVjJTI1ODIlMjViMCUyNWVjJTI1OTclMjU4NSUyNWMyJTI1YjclMjVlYyUyNWIwJTI1YmQ",
-      "title": "AI 확산한 K-콘텐츠, 정책은 어디로…29일 국회서 산업·창작자 과제 논의",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai-%ed%99%95%ec%82%b0%ed%95%9c-k-%ec%bd%98%ed%85%90%ec%b8%a0-%ec%a0%95%ec%b1%85%ec%9d%80-%ec%96%b4%eb%94%94%eb%a1%9c29%ec%9d%bc-%ea%b5%ad%ed%9a%8c%ec%84%9c-%ec%82%b0%ec%97%85%c2%b7%ec%b0%bd/?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ed%2599%2595%25ec%2582%25b0%25ed%2595%259c-k-%25ec%25bd%2598%25ed%2585%2590%25ec%25b8%25a0-%25ec%25a0%2595%25ec%25b1%2585%25ec%259d%2580-%25ec%2596%25b4%25eb%2594%2594%25eb%25a1%259c29%25ec%259d%25bc-%25ea%25b5%25ad%25ed%259a%258c%25ec%2584%259c-%25ec%2582%25b0%25ec%2597%2585%25c2%25b7%25ec%25b0%25bd",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-09-22T00:01:37.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "게임·웹툰·음악·OTT 등 장르별 AI 활용 현황과 향후 정책 방향 점검 이동규 동아대 교수·강승미 삼정KPMG 상무 발제…산업·법조·학계·공공기관 참여 AI 혁신과 창작자...",
-      "tags": [
-        "tech42",
-        "정책플러스",
-        "ai 시대",
-        "게임"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
       "title": "[현장] 기술만으론 부족하다…딥테크 투자부터 상장까지 ‘시장 검증’이 가른다",
       "source": "Tech42",
@@ -2414,26 +2411,6 @@
         "인사이트42",
         "비즈니스",
         "스타트업"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mcm9udGllci1vdmVyaGFuZ3Mv",
-      "title": "Frontier Overhangs",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/frontier-overhangs/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-21T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Pacing the frontier may be sincere, but it would also be strategically useful for the frontier labs to have time to reduce overhangs caused by model advancement.",
-      "tags": [
-        "stratechery",
-        "articles"
       ],
       "isNew": true
     },
@@ -2478,6 +2455,26 @@
         "한국인터넷기업협회"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktYWRzLWFtYXpvbi1hZHMtaW4tY2hhdGdwdC13YWxtYXJ0LXRvLWFjY2VwdC1hcHBsZS1wYXkv",
+      "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-09-15T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "ChatGPT ads are working, and solve Amazon's biggest problem with chatbots. Then, Walmart finally gives in to Apple Pay, because fighting the status quo is hard.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4YyU5NCVlYiVhMSU5YyVlYyU5NSU4YyVlZCU4NiVhMC0lZWMlOGElYTQlZWQlODMlODAlZWQlOGElYjglZWMlOTclODUtJWVjJWJkJTk4JWVjJTg2JTk0LTUlZWMlOTYlYjUtJWViJThiJWFjJWViJTlmJWFjLSVlYyU4YiViOSVlYyU5MyViOCVlYyU5ZCViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1OGMlMjU5NCUyNWViJTI1YTElMjU5YyUyNWVjJTI1OTUlMjU4YyUyNWVkJTI1ODYlMjVhMC0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjViZCUyNTk4JTI1ZWMlMjU4NiUyNTk0LTUlMjVlYyUyNTk2JTI1YjUtJTI1ZWIlMjU4YiUyNWFjJTI1ZWIlMjU5ZiUyNWFjLSUyNWVjJTI1OGIlMjViOSUyNWVjJTI1OTMlMjViOCUyNWVjJTI1OWQlMjViNA",
@@ -3364,46 +3361,46 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTY2L2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLWludmVzdGlnYXRpb24v",
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2stYXglZWIlOGElOTQtJWVjJWE3JTgwJWVhJWI4JTg4LSVlZCU5NCViYyVlYyVhNyU4MCVlYyViYiVhYy1haSVlYyU5ZCU5OC0lZWQlODYlYTAlZWMlOTYlOTElZWMlOWQlODAtJWVhJWIyJWIwJWVhJWI1JWFkLSVlYiU4ZCViMCVlYyU5ZCViNCVlZCU4NCViMCVlYyU5NiU5MSVlYyU4OCU5OC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWstYXglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjVhNyUyNTgwJTI1ZWElMjViOCUyNTg4LSUyNWVkJTI1OTQlMjViYyUyNWVjJTI1YTclMjU4MCUyNWVjJTI1YmIlMjVhYy1haSUyNWVjJTI1OWQlMjU5OC0lMjVlZCUyNTg2JTI1YTAlMjVlYyUyNTk2JTI1OTElMjVlYyUyNTlkJTI1ODAtJTI1ZWElMjViMiUyNWIwJTI1ZWElMjViNSUyNWFkLSUyNWViJTI1OGQlMjViMCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODQlMjViMCUyNWVjJTI1OTYlMjU5MSUyNWVjJTI1ODglMjU5OA",
+      "title": "[K-AX는 지금] “피지컬 AI의 토양은 결국 데이터”…양수열 크라우드웍스 CAIO가 보는 ‘2차 AI 혁명’",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/k-ax%eb%8a%94-%ec%a7%80%ea%b8%88-%ed%94%bc%ec%a7%80%ec%bb%ac-ai%ec%9d%98-%ed%86%a0%ec%96%91%ec%9d%80-%ea%b2%b0%ea%b5%ad-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%96%91%ec%88%98/?utm_source=rss&utm_medium=rss&utm_campaign=k-ax%25eb%258a%2594-%25ec%25a7%2580%25ea%25b8%2588-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai%25ec%259d%2598-%25ed%2586%25a0%25ec%2596%2591%25ec%259d%2580-%25ea%25b2%25b0%25ea%25b5%25ad-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2596%2591%25ec%2588%2598",
       "thumbnailUrl": null,
-      "author": "James O'Donnell, Eileen Guo",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-09-22T23:49:58.000Z",
       "readingMinutes": 4,
       "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern",
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "2017년 설립된 크라우드웍스는 AI 학습데이터 수집·가공 사업에서 출발해 현재는 기업용 에이전틱 AI(Agentic AI) 솔루션과 데이터 엔지니어링, 피지컬 AI(Physical AI)까지 사업 범위를 넓혔다. 최근 기준 크라우드웍스는 1200건 이상의 AI 프로젝트와 3억건 이상의 구축 데이터, 620곳 이상의 고객이 주요 레퍼런스로 제시돼 있다.",
       "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "border towers"
+        "tech42",
+        "인사이트42",
+        "테크놀로지",
+        "ai"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTcwL2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLWZlYXR1cmUv",
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMi8xMTQ0ODkwL3JvdW5kdGFibGVzLXRoZS1kZWFkbHktZmFpbHVyZXMtb2YtdGhlLXZpcnR1YWwtYm9yZGVyLXdhbGwv",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "thumbnailUrl": null,
-      "author": "Lillian Perlmutter",
+      "author": "MIT Technology Review",
       "category": "AI + Society",
-      "publishedAt": "2026-09-21T12:00:00.000Z",
+      "publishedAt": "2026-09-22T13:42:05.000Z",
       "readingMinutes": 4,
       "score": 101,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending v",
+      "excerpt": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by",
       "tags": [
         "mit-technology-review",
         "artificial intelligence",
-        "app",
-        "border towers"
+        "ai",
+        "artificial intelligence"
       ],
       "isNew": true
     },
@@ -3983,24 +3980,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk3JTkwJWVjJTlkJWI0JWViJTk0JTk0JWVjJThiJTljJWVjJThhJWE0JWVkJTg1JTljLTEzMCVlYyU5NiViNS0lZWMlOGIlOWMlZWIlYTYlYWMlZWMlYTYlODhhJWMyJWI3JWVkJThhJWI4JWViJTllJTk4JWViJWI4JTk0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNThhJTI1YTQlMjVlZCUyNTg1JTI1OWMtMTMwJTI1ZWMlMjU5NiUyNWI1LSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1YTYlMjVhYyUyNWVjJTI1YTYlMjU4OGElMjVjMiUyNWI3JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjU5ZSUyNTk4JTI1ZWIlMjViOCUyNTk0",
-      "title": "[스타트업 안테나] 에이디시스템 130억 시리즈A·트래블월렛 거래액 10조…튜링 GPAI 신기능·아킷 청담 쇼룸",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%97%90%ec%9d%b4%eb%94%94%ec%8b%9c%ec%8a%a4%ed%85%9c-130%ec%96%b5-%ec%8b%9c%eb%a6%ac%ec%a6%88a%c2%b7%ed%8a%b8%eb%9e%98%eb%b8%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%2597%2590%25ec%259d%25b4%25eb%2594%2594%25ec%258b%259c%25ec%258a%25a4%25ed%2585%259c-130%25ec%2596%25b5-%25ec%258b%259c%25eb%25a6%25ac%25ec%25a6%2588a%25c2%25b7%25ed%258a%25b8%25eb%259e%2598%25eb%25b8%2594",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTY0L2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLXBvbGljeS1yZWNvbW1lbmRhdGlvbnMv",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-09-22T00:16:43.000Z",
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-21T12:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "22일 스타트업·벤처 업계에서는 방산 무인기와 핀테크, 인공지능(AI) 교육 서비스 등 다양한 분야에서 투자와 사업 확장 소식이 이어졌다. 에이디시스템은 130억원 규모의 시리즈A 투자를 유치해 차세대 무인기 개발과 양산체계 구축에 나서고, 트래블월렛은 누적 거래액 10조원과 카드 발급 1000만장을 넘어섰다. 튜링과 위버스브레인은 각각 대학생과 기업 임직원을 겨냥한 AI 학습 기능을 확대했다. 아파트멘터리는 키친 브랜드 아킷",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undet",
       "tags": [
-        "tech42",
-        "스타트업",
-        "마이리얼트립",
-        "비즈플레이"
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "border towers"
       ],
       "isNew": true
     },
