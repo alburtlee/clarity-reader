@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-24T00:56:38.113Z",
+  "fetchedAt": "2026-09-25T00:58:37.364Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1jb2xvc3N1cy1laWMtamVyZW15LXN0ZXJuLWFib3V0LXByb2ZpbGluZy1tYXJrLXp1Y2tlcmJlcmcv",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL25vdy1lbnRlcmluZy10aGUtZXJhLW9mLWJsZWg",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tb3JlLW9uLW11c2UtYW1hem9uLWFuZC13YWxtYXJ0LW11c2UtYW5kLWV4cGVkaWEtd2hpdGhlci1nb29nbGUv",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1"
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -188,48 +188,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
-      "title": "The AI Hype Index: AI loves cheating",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-23T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ a",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "ai hype index"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
-      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-L4yH52.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-09-21T12:31:04.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOC8xMTQzNzQ3L3doYXQtb3BlbmFpcy1sYXRlc3QtY29udHJvdmVyc3ktdGVsbHMtdXMtYWJvdXQtdGhlLWZ1dHVyZS1vZi1tYXRoLw",
       "title": "What OpenAI’s latest controversy tells us about the future of math",
       "source": "MIT Technology Review",
@@ -396,7 +354,7 @@
         "app",
         "opinion"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiViNSVlYyVhMCU5Yy0lZWIlYjYlODglZWIlOGElYTUtYWktJWVjJTk4JWE0JWVkJTk0JTg4YWktJWViJThmJTg1JWVjJTlkJWJjLSVlYyU5YyU4NCVlZCU4MiVhNC0lZWMlYTAlOTAlZWElYjElYjAtJWVjJTgyJWFjJWVhJWIxJWI0LSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5Yy0lMjVlYiUyNWI2JTI1ODglMjVlYiUyNThhJTI1YTUtYWktJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWIlMjU4ZiUyNTg1JTI1ZWMlMjU5ZCUyNWJjLSUyNWVjJTI1OWMlMjU4NCUyNWVkJTI1ODIlMjVhNC0lMjVlYyUyNWEwJTI1OTAlMjVlYSUyNWIxJTI1YjAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWElMjViMSUyNWI0LSUyNWVhJTI1YjMlMjViNQ",
@@ -717,43 +675,67 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
-      "title": "Let The People Set The Pace Of Frontier AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1jb2xvc3N1cy1laWMtamVyZW15LXN0ZXJuLWFib3V0LXByb2ZpbGluZy1tYXJrLXp1Y2tlcmJlcmcv",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
       "thumbnailUrl": null,
-      "author": "Hélène Landemore",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-23T13:57:27.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Let The People Set The Pace Of Frontier AI appeared first on NOEMA.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
       "tags": [
-        "noema"
+        "stratechery",
+        "daily update",
+        "interviews"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tb3JlLW9uLW11c2UtYW1hem9uLWFuZC13YWxtYXJ0LW11c2UtYW5kLWV4cGVkaWEtd2hpdGhlci1nb29nbGUv",
-      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
+      "title": "The AI Hype Index: AI loves cheating",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "author": "Michelle Kim",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-23T09:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ a",
       "tags": [
-        "stratechery",
-        "daily update"
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "ai hype index"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
+      "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/09/21/import-ai-473-the-uss-superintelligence-strategy-human-brain-in-a-mouse-skull-and-machine-hermeneutics/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-L4yH52.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-09-21T12:31:04.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now RAND thinks the best AI strategy for the US is to keep all",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -3013,6 +2995,45 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
+      "title": "Let The People Set The Pace Of Frontier AI",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
+      "thumbnailUrl": null,
+      "author": "Hélène Landemore",
+      "category": "Philosophy",
+      "publishedAt": "2026-09-23T13:57:27.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Let The People Set The Pace Of Frontier AI appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tb3JlLW9uLW11c2UtYW1hem9uLWFuZC13YWxtYXJ0LW11c2UtYW5kLWV4cGVkaWEtd2hpdGhlci1nb29nbGUv",
+      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1jaGluYS13aWxsLXJ1bGUtYWk",
       "title": "Why China Will Rule AI",
       "source": "Noema",
@@ -3029,7 +3050,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tYmxvY2tzLW11c2UtYW1hem9ucy1tb2F0LWFnZ3JlZ2F0b3Itdi1hZ2dyZWdhdG9yLw",
@@ -3049,7 +3070,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
@@ -3995,6 +4016,25 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL25vdy1lbnRlcmluZy10aGUtZXJhLW9mLWJsZWg",
+      "title": "Now Entering: The Era Of Bleh",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/now-entering-the-era-of-bleh",
+      "thumbnailUrl": null,
+      "author": "Aaron Horwath",
+      "category": "Philosophy",
+      "publishedAt": "2026-09-24T16:27:40.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Now Entering: The Era Of Bleh appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTY0L2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLXBvbGljeS1yZWNvbW1lbmRhdGlvbnMv",
@@ -6324,49 +6364,6 @@
         "삼성전자"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4NCVlYyU5ZCViNCVlZCU4ZiViMCVlYiViMyViNCVlYiU4YiVhNC0lZWMlOTYlODclZWIlOGIlYTQlZWMlOGElYTQlZWQlOGUlOTglZWMlOWQlYjQlZWMlOGElYTR4LSVlYiViOSU4NCVlYiViMCU4MC1haS0lZWElYjglYjAlZWElYjglYjAtJWVjJThiJTljJWVjJTk3JWIwJWVjJTg0JWE0JWVjJTk3JTkwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4ZiUyNWIwJTI1ZWIlMjViMyUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OTYlMjU4NyUyNWViJTI1OGIlMjVhNCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OGElMjVhNHgtJTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjViMCUyNTgwLWFpLSUyNWVhJTI1YjglMjViMCUyNWVhJTI1YjglMjViMC0lMjVlYyUyNThiJTI1OWMlMjVlYyUyNTk3JTI1YjAlMjVlYyUyNTg0JTI1YTQlMjVlYyUyNTk3JTI1OTA",
-      "title": "\"아이폰보다 얇다\"…스페이스X 비밀 AI 기기 시연설에 머스크 전면 부인",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%95%84%ec%9d%b4%ed%8f%b0%eb%b3%b4%eb%8b%a4-%ec%96%87%eb%8b%a4%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4x-%eb%b9%84%eb%b0%80-ai-%ea%b8%b0%ea%b8%b0-%ec%8b%9c%ec%97%b0%ec%84%a4%ec%97%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%2584%25ec%259d%25b4%25ed%258f%25b0%25eb%25b3%25b4%25eb%258b%25a4-%25ec%2596%2587%25eb%258b%25a4%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4x-%25eb%25b9%2584%25eb%25b0%2580-ai-%25ea%25b8%25b0%25ea%25b8%25b0-%25ec%258b%259c%25ec%2597%25b0%25ec%2584%25a4%25ec%2597%2590",
-      "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-02T00:17:15.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "글로벌 우주 기업 스페이스X가 투자자들을 대상으로 스마트폰과 유사한 형태의 휴대용 인공지능(AI) 기기 시연회를 열었다는 주장이 제기되며 빅테크 업계가 격렬하게 요동치고 있다.",
-      "tags": [
-        "tech42",
-        "비즈니스",
-        "스페이스x"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWQlODElYjQlZWIlOWQlYmMlZWMlOWElYjAlZWIlOTMlOWMtJWVjJThiJTljJWVjJTllJWE1LSVlYyVhMCU4NCVlYSViMiVhOS0lZWMlYTclODQlZWMlYjYlOWMlZWQlOTUlOTglZWIlYTklYjAtJWVjJTk1JTg0JWViJWE3JTg4JWVjJWExJWI0JWMyJWI3JWVhJWI1JWFjJWVhJWI4JTgwJWVjJTk3JTkwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy0lMjVlYyUyNThiJTI1OWMlMjVlYyUyNTllJTI1YTUtJTI1ZWMlMjVhMCUyNTg0JTI1ZWElMjViMiUyNWE5LSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YjYlMjU5YyUyNWVkJTI1OTUlMjU5OCUyNWViJTI1YTklMjViMC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE3JTI1ODglMjVlYyUyNWExJTI1YjQlMjVjMiUyNWI3JTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwJTI1ZWMlMjU5NyUyNTkw",
-      "title": "메타, 클라우드 시장 전격 진출하며 아마존·구글에 도전장",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%a9%94%ed%83%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%8b%9c%ec%9e%a5-%ec%a0%84%ea%b2%a9-%ec%a7%84%ec%b6%9c%ed%95%98%eb%a9%b0-%ec%95%84%eb%a7%88%ec%a1%b4%c2%b7%ea%b5%ac%ea%b8%80%ec%97%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%2594%25ed%2583%2580-%25ed%2581%25b4%25eb%259d%25bc%25ec%259a%25b0%25eb%2593%259c-%25ec%258b%259c%25ec%259e%25a5-%25ec%25a0%2584%25ea%25b2%25a9-%25ec%25a7%2584%25ec%25b6%259c%25ed%2595%2598%25eb%25a9%25b0-%25ec%2595%2584%25eb%25a7%2588%25ec%25a1%25b4%25c2%25b7%25ea%25b5%25ac%25ea%25b8%2580%25ec%2597%2590",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-01T23:55:59.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "페이스북의 모기업 메타가 자체 인공지능(AI) 인프라를 활용해 클라우드 컴퓨팅 시장에 전격 진출할 전망이다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "구글",
-        "메타"
-      ],
-      "isNew": true
     }
   ]
 }
