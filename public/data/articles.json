@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-09-25T00:58:37.364Z",
+  "fetchedAt": "2026-09-26T01:00:41.467Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1jb2xvc3N1cy1laWMtamVyZW15LXN0ZXJuLWFib3V0LXByb2ZpbGluZy1tYXJrLXp1Y2tlcmJlcmcv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL25vdy1lbnRlcmluZy10aGUtZXJhLW9mLWJsZWg",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTQ0L3BlbnRhZ29uLWFpLWxpZS1kZXRlY3Rvci8",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9iZWd1bi10aGUtYWdncmVnYXRvci13YXJzLWhhdmUv",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8"
   ],
@@ -675,27 +675,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1jb2xvc3N1cy1laWMtamVyZW15LXN0ZXJuLWFib3V0LXByb2ZpbGluZy1tYXJrLXp1Y2tlcmJlcmcv",
-      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-24T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
       "title": "The AI Hype Index: AI loves cheating",
       "source": "MIT Technology Review",
@@ -715,7 +694,7 @@
         "ai",
         "ai hype index"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
@@ -952,6 +931,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTQ0L3BlbnRhZ29uLWFpLWxpZS1kZXRlY3Rvci8",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "thumbnailUrl": null,
+      "author": "Amit Katwala",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-25T09:16:25.000Z",
+      "readingMinutes": 4,
+      "score": 105,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algori",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWMlODQlZWQlOTglOTElZWQlOTUlYTAtJWVjJWE3JTg0JWVjJWE3JTljLWFpLSVlYSViOCU4MCVlYiU5ZSU5OCVlYyU4YSVhNC0lZWIlODIlOTglZWMlOTklOTQlZWIlOGIlYTQtJWVjJThhJWE0JWViJTgzJTg1LSVlYiViOSU4NCVlYyU4NCU5Yy0lZWQlODMlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjU5YyUyNTg0JTI1ZWQlMjU5OCUyNTkxJTI1ZWQlMjU5NSUyNWEwLSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YTclMjU5Yy1haS0lMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTllJTI1OTglMjVlYyUyNThhJTI1YTQtJTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5OSUyNTk0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OGElMjVhNCUyNWViJTI1ODMlMjU4NS0lMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTg0JTI1OWMtJTI1ZWQlMjU4MyUyNTkx",
@@ -2397,6 +2398,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTU3L3RoZS1kb3dubG9hZC1wZW50YWdvbi1haS1saWUtZGV0ZWN0b3IteW91bmctb3JnYW4tbGltaXRzLw",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-25T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $3",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
       "title": "[현장] 기술만으론 부족하다…딥테크 투자부터 상장까지 ‘시장 검증’이 가른다",
       "source": "Tech42",
@@ -2995,6 +3016,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1jb2xvc3N1cy1laWMtamVyZW15LXN0ZXJuLWFib3V0LXByb2ZpbGluZy1tYXJrLXp1Y2tlcmJlcmcv",
+      "title": "An Interview with Colossus EIC Jeremy Stern About Profiling Mark Zuckerberg",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-colossus-eic-jeremy-stern-about-profiling-mark-zuckerberg/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-24T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Colossus EIC Jeremy Stern about profiling Mark Zuckerberg and other prominent tech figures.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
       "title": "Let The People Set The Pace Of Frontier AI",
       "source": "Noema",
@@ -3011,7 +3053,7 @@
       "tags": [
         "noema"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tb3JlLW9uLW11c2UtYW1hem9uLWFuZC13YWxtYXJ0LW11c2UtYW5kLWV4cGVkaWEtd2hpdGhlci1nb29nbGUv",
@@ -3030,64 +3072,6 @@
       "tags": [
         "stratechery",
         "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doeS1jaGluYS13aWxsLXJ1bGUtYWk",
-      "title": "Why China Will Rule AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/why-china-will-rule-ai",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-22T15:25:43.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Why China Will Rule AI appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbWF6b24tYmxvY2tzLW11c2UtYW1hem9ucy1tb2F0LWFnZ3JlZ2F0b3Itdi1hZ2dyZWdhdG9yLw",
-      "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-22T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Amazon predictably blocked Muse, but there is room for a deal based on the reality that Amazon's physical world investments are an AI moat.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
-      "title": "The Overhang",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-overhang",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-09-18T17:54:32.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
-      "tags": [
-        "one-useful-thing"
       ],
       "isNew": false
     },
@@ -4018,21 +4002,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL25vdy1lbnRlcmluZy10aGUtZXJhLW9mLWJsZWg",
-      "title": "Now Entering: The Era Of Bleh",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/now-entering-the-era-of-bleh",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9iZWd1bi10aGUtYWdncmVnYXRvci13YXJzLWhhdmUv",
+      "title": "2026.39: Begun, the Aggregator Wars Have",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
       "thumbnailUrl": null,
-      "author": "Aaron Horwath",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-24T16:27:40.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-25T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Now Entering: The Era Of Bleh appeared first on NOEMA.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
       "tags": [
-        "noema"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -4145,6 +4130,25 @@
         "ai"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
+      "title": "The Overhang",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-overhang",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YiU5NC02MCVlYiVhNyU4Yy0lZWMlOWIlOTAlZWMlYTclOWMlZWIlYTYlYWMtJWVjJTlkJWI4JWVjJThhJWE0JWVkJTgzJTgwJWVhJWI3JWI4JWViJTllJWE4LSVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYjUlOWMlZWElYjMlYTAlZWElYjAlODAtJWVjJTljJWEwJWViJWEzJThjLSVlYyU5YSU5NCVlYSViOCU4OCVlYyVhMCU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWIlMjU5NC02MCUyNWViJTI1YTclMjU4Yy0lMjVlYyUyNTliJTI1OTAlMjVlYyUyNWE3JTI1OWMlMjVlYiUyNWE2JTI1YWMtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjU5ZSUyNWE4LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNWI1JTI1OWMlMjVlYSUyNWIzJTI1YTAlMjVlYSUyNWIwJTI1ODAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWIlMjVhMyUyNThjLSUyNWVjJTI1OWElMjU5NCUyNWVhJTI1YjglMjU4OCUyNWVjJTI1YTAlMjU5Yw",
