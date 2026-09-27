@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-26T01:00:41.467Z",
+  "fetchedAt": "2026-09-27T00:59:30.358Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTQ0L3BlbnRhZ29uLWFpLWxpZS1kZXRlY3Rvci8",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9iZWd1bi10aGUtYWdncmVnYXRvci13YXJzLWhhdmUv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1jb2xvc3N1cy1laWMtamVyZW15LXN0ZXJuLWFib3V0LXByb2ZpbGluZy1tYXJrLXp1Y2tlcmJlcmcv",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -675,28 +675,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
-      "title": "The AI Hype Index: AI loves cheating",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-      "thumbnailUrl": null,
-      "author": "Michelle Kim",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-23T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ a",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "ai hype index"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzIxL2ltcG9ydC1haS00NzMtdGhlLXVzcy1zdXBlcmludGVsbGlnZW5jZS1zdHJhdGVneS1odW1hbi1icmFpbi1pbi1hLW1vdXNlLXNrdWxsLWFuZC1tYWNoaW5lLWhlcm1lbmV1dGljcy8",
       "title": "Import AI 473: The US’s superintelligence strategy; human brain in a mouse skull; and machine hermeneutics",
       "source": "Import AI",
@@ -931,28 +909,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTQ0L3BlbnRhZ29uLWFpLWxpZS1kZXRlY3Rvci8",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "thumbnailUrl": null,
-      "author": "Amit Katwala",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-25T09:16:25.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algori",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "summary"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlOWMlODQlZWQlOTglOTElZWQlOTUlYTAtJWVjJWE3JTg0JWVjJWE3JTljLWFpLSVlYSViOCU4MCVlYiU5ZSU5OCVlYyU4YSVhNC0lZWIlODIlOTglZWMlOTklOTQlZWIlOGIlYTQtJWVjJThhJWE0JWViJTgzJTg1LSVlYiViOSU4NCVlYyU4NCU5Yy0lZWQlODMlOTEvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1OTQlMjVlZCUyNTgzJTI1ODAtJTI1ZWMlMjU5YyUyNTg0JTI1ZWQlMjU5OCUyNTkxJTI1ZWQlMjU5NSUyNWEwLSUyNWVjJTI1YTclMjU4NCUyNWVjJTI1YTclMjU5Yy1haS0lMjVlYSUyNWI4JTI1ODAlMjVlYiUyNTllJTI1OTglMjVlYyUyNThhJTI1YTQtJTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5OSUyNTk0JTI1ZWIlMjU4YiUyNWE0LSUyNWVjJTI1OGElMjVhNCUyNWViJTI1ODMlMjU4NS0lMjVlYiUyNWI5JTI1ODQlMjVlYyUyNTg0JTI1OWMtJTI1ZWQlMjU4MyUyNTkx",
@@ -2398,26 +2354,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTU3L3RoZS1kb3dubG9hZC1wZW50YWdvbi1haS1saWUtZGV0ZWN0b3IteW91bmctb3JnYW4tbGltaXRzLw",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-09-25T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $3",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
       "title": "[현장] 기술만으론 부족하다…딥테크 투자부터 상장까지 ‘시장 검증’이 가른다",
       "source": "Tech42",
@@ -3034,44 +2970,27 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2xldC10aGUtcGVvcGxlLWRlY2lkZS10aGUtcGFjZS1vZi1mcm9udGllci1haQ",
-      "title": "Let The People Set The Pace Of Frontier AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
-      "thumbnailUrl": null,
-      "author": "Hélène Landemore",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-23T13:57:27.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Let The People Set The Pace Of Frontier AI appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tb3JlLW9uLW11c2UtYW1hem9uLWFuZC13YWxtYXJ0LW11c2UtYW5kLWV4cGVkaWEtd2hpdGhlci1nb29nbGUv",
-      "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMy8xMTQ0OTQwL2FpLWh5cGUtaW5kZXgtYWktbG92ZXMtY2hlYXRpbmcv",
+      "title": "The AI Hype Index: AI loves cheating",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-23T10:00:00.000Z",
+      "author": "Michelle Kim",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-23T09:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Meta needs Walmart to wait out Amazon; Expedia seeks to keep its middleware position; meanwhile, where is Google?",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ a",
       "tags": [
-        "stratechery",
-        "daily update"
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "ai hype index"
       ],
       "isNew": false
     },
@@ -3403,6 +3322,28 @@
         "space",
         "app",
         "mit technology review explains"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTQ0L3BlbnRhZ29uLWFpLWxpZS1kZXRlY3Rvci8",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+      "thumbnailUrl": null,
+      "author": "Amit Katwala",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-25T09:16:25.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algori",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
       ],
       "isNew": true
     },
@@ -4000,26 +3941,6 @@
         "daily update"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9iZWd1bi10aGUtYWdncmVnYXRvci13YXJzLWhhdmUv",
-      "title": "2026.39: Begun, the Aggregator Wars Have",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-25T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of September 21, 2026, including Meta vs. Amazon, GM bending the knee to CarPlay, and profiling the profiler.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yMS8xMTQ0MTY0L2JvcmRlci10b3dlcnMtc3VydmVpbGxhbmNlLXBvbGljeS1yZWNvbW1lbmRhdGlvbnMv",
@@ -6366,6 +6287,84 @@
         "비즈니스",
         "반도체",
         "삼성전자"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8yNS8xMTQ1MTU3L3RoZS1kb3dubG9hZC1wZW50YWdvbi1haS1saWUtZGV0ZWN0b3IteW91bmctb3JnYW4tbGltaXRzLw",
+      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-09-25T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The Pentagon wants $30 million to build an AI-powered lie detector The US government wants to spend $3",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzMxL2ltcG9ydC1haS00NzEtd2h5LWh1Z2dpbmctZmFjZS13b3JyaWVzLW1lLXNwYWNlLW1pbmluZy1maXZlLWV5ZXMtb24tYWkv",
+      "title": "Import AI 471: Why Hugging Face worries me; space mining; FIve Eyes on AI",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/31/import-ai-471-why-hugging-face-worries-me-space-mining-five-eyes-on-ai/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-K1ytNB.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-31T13:31:06.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import AI reader giveaway! Upcoming event: Fiction and the",
+      "tags": [
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": false
     }
