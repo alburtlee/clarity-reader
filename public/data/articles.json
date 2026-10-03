@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-02T01:51:14.017Z",
+  "fetchedAt": "2026-10-03T01:30:27.410Z",
   "todayPickIds": [
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3RzLWFuZC1xdWVzdGlvbi1tYXJrcy8",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wMi8xMTQ1NjY2L3RoZS1kb3dubG9hZC1iaW9sb2dpY2FsLWRlLWFnaW5nLWFpLXJlYXNvbmluZy8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3JldHVybi1vZi10aGUtcmVwcmVzc2VkLWluLWdlcm1hbnk",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YSViMCVlYyVhMyViYy0lZWIlOGQlYjAlZWMlOWQlYjQlZWQlODQlYjAlZWMlODQlYmMlZWQlODQlYjAtJWViJTlkJTg0JWVjJTlhJWI0JWViJThiJWE0LSVlYSViNSVhYyVlYSViOCU4MC1haS0lZWMlYjklYTktJWVhJWI2JWE0JWViJThmJTg0LSVlYyU5NSU4OCVlYyViMCVhOSVlYyU4YiU5YyVlYyViYyViMC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWElMjViMCUyNWVjJTI1YTMlMjViYy0lMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTg0JTI1YjAlMjVlYyUyNTg0JTI1YmMlMjVlZCUyNTg0JTI1YjAtJTI1ZWIlMjU5ZCUyNTg0JTI1ZWMlMjU5YSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWVhJTI1YjUlMjVhYyUyNWVhJTI1YjglMjU4MC1haS0lMjVlYyUyNWI5JTI1YTktJTI1ZWElMjViNiUyNWE0JTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTUlMjU4OCUyNWVjJTI1YjAlMjVhOSUyNWVjJTI1OGIlMjU5YyUyNWVjJTI1YmMlMjViMA",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1haXMtYXJlLW5vdC1nb2luZy1yb2d1ZQ",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qYXNvbi1kZWwtcmV5LWFib3V0LW11c2UtYW1hem9uLWFuZC13YWxtYXJ0Lw",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8zMC8xMTQ1MzM5L3dlcmUtbm90LWdvaW5nLXRvLXNob290LW91cnNlbHZlcy1pbi10aGUtZm9vdC1vdmVyLWh1Z2dpbmctZmFjZS1zYXlzLW9wZW5haXMtY2hpZWYtcmVzZWFyY2gtb2ZmaWNlci8"
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViOSU4NCVlYyU5YSVhOS05OS0lZWMlYTAlODglZWElYjAlOTAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJThmJWFkJWVjJWEzJWJjJWVkJTk1JTk4JWViJThhJTk0LWFpLSVlZCU4NiViNSVlYyVhMCU5YyVlZCU5NSVhMC0lZWIlOTQlOTQlZWMlOGIlOWMlZWMlYTAlODQlZWMlOGElYTQtYXBpLSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS05OS0lMjVlYyUyNWEwJTI1ODglMjVlYSUyNWIwJTI1OTAtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LWFpLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjVhMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNWEwJTI1ODQlMjVlYyUyNThhJTI1YTQtYXBpLSUyNWVhJTI1YjMlMjViNQ"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -188,21 +188,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
-      "title": "The Dot and the Swarm",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3RzLWFuZC1xdWVzdGlvbi1tYXJrcy8",
+      "title": "2026.40: Dots and Question Marks",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/dots-and-question-marks/",
       "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-10-01T10:54:12.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 110,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Benefitting from the Bitter Lesson",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
       "tags": [
-        "one-useful-thing"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
@@ -266,7 +267,7 @@
         "artificial intelligence",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
@@ -567,26 +568,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vbmUtbW9yZS1ub3RlLW9uLWFnZW50cy1tZXRhLWNvbm5lY3QtbWV0YS1lbnRlcnByaXNlLXBsYXRmb3JtLw",
-      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-09-29T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
       "title": "수이, 싱가포르서 ‘베이스캠프 2026’ 개최…AI 에이전트 결제 인프라 전면에",
       "source": "Tech42",
@@ -735,42 +716,21 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1haXMtYXJlLW5vdC1nb2luZy1yb2d1ZQ",
-      "title": "The AIs Are Not Going Rogue",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-ais-are-not-going-rogue",
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
+      "title": "The Dot and the Swarm",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
       "thumbnailUrl": null,
-      "author": "Ken Archer",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-01T13:00:54.000Z",
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The AIs Are Not Going Rogue appeared first on NOEMA.",
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Benefitting from the Bitter Lesson",
       "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qYXNvbi1kZWwtcmV5LWFib3V0LW11c2UtYW1hem9uLWFuZC13YWxtYXJ0Lw",
-      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
+        "one-useful-thing"
       ],
       "isNew": true
     },
@@ -792,7 +752,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -1557,6 +1517,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wMi8xMTQ1NjY2L3RoZS1kb3dubG9hZC1iaW9sb2dpY2FsLWRlLWFnaW5nLWFpLXJlYXNvbmluZy8",
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-02T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViOSU4NCVlYyU5YSVhOS05OS0lZWMlYTAlODglZWElYjAlOTAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJThmJWFkJWVjJWEzJWJjJWVkJTk1JTk4JWViJThhJTk0LWFpLSVlZCU4NiViNSVlYyVhMCU5YyVlZCU5NSVhMC0lZWIlOTQlOTQlZWMlOGIlOWMlZWMlYTAlODQlZWMlOGElYTQtYXBpLSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS05OS0lMjVlYyUyNWEwJTI1ODglMjVlYSUyNWIwJTI1OTAtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LWFpLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjVhMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNWEwJTI1ODQlMjVlYyUyNThhJTI1YTQtYXBpLSUyNWVhJTI1YjMlMjViNQ",
@@ -2540,6 +2520,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vbmUtbW9yZS1ub3RlLW9uLWFnZW50cy1tZXRhLWNvbm5lY3QtbWV0YS1lbnRlcnByaXNlLXBsYXRmb3JtLw",
+      "title": "One More Note on Agents, Meta Connect, Meta Enterprise Platform",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/one-more-note-on-agents-meta-connect-meta-enterprise-platform/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-09-29T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Meta has the chance to own the consumer agentic space; going for enterprise is a big mistake.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS0lZWElYjglYjAlZWMlODglYTAlZWIlYTclOGMlZWMlOWMlYmMlZWIlYTElYTAtJWViJWI2JTgwJWVjJWExJWIxJWVkJTk1JTk4JWViJThiJWE0JWViJTk0JWE1JWVkJTg1JThjJWVkJTgxJWFjLSVlZCU4OCVhYyVlYyU5ZSU5MCVlYiViNiU4MCVlZCU4NCViMC0lZWMlODMlODElZWMlOWUlYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWIlMjVhNyUyNThjJTI1ZWMlMjU5YyUyNWJjJTI1ZWIlMjVhMSUyNWEwLSUyNWViJTI1YjYlMjU4MCUyNWVjJTI1YTElMjViMSUyNWVkJTI1OTUlMjU5OCUyNWViJTI1OGIlMjVhNCUyNWViJTI1OTQlMjVhNSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYy0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTg0JTI1YjAtJTI1ZWMlMjU4MyUyNTgxJTI1ZWMlMjU5ZSUyNWE1",
       "title": "[현장] 기술만으론 부족하다…딥테크 투자부터 상장까지 ‘시장 검증’이 가른다",
       "source": "Tech42",
@@ -3138,6 +3138,46 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1haXMtYXJlLW5vdC1nb2luZy1yb2d1ZQ",
+      "title": "The AIs Are Not Going Rogue",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-ais-are-not-going-rogue",
+      "thumbnailUrl": null,
+      "author": "Ken Archer",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-01T13:00:54.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The AIs Are Not Going Rogue appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qYXNvbi1kZWwtcmV5LWFib3V0LW11c2UtYW1hem9uLWFuZC13YWxtYXJ0Lw",
+      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-01T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8zMC8xMTQ1MzUwL3RoZS1kb3dubG9hZC1vcGVuYWktY2hpZWYtcmVzZWFyY2gtb2ZmaWNlci1oYWNraW5nLXJlc3BvbnNlLw",
       "title": "The Download: OpenAI’s chief research officer explains its hacking response",
       "source": "MIT Technology Review",
@@ -3154,25 +3194,6 @@
       "tags": [
         "mit-technology-review",
         "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL25vZW1hcy1haS1yZWFkaW5nLWxpc3Q",
-      "title": "Noema’s AI Reading List",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/noemas-ai-reading-list",
-      "thumbnailUrl": null,
-      "author": "Noema editors",
-      "category": "Philosophy",
-      "publishedAt": "2026-09-29T16:24:31.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Noema’s AI Reading List appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": false
     },
@@ -4145,112 +4166,43 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YSViMCVlYyVhMyViYy0lZWIlOGQlYjAlZWMlOWQlYjQlZWQlODQlYjAlZWMlODQlYmMlZWQlODQlYjAtJWViJTlkJTg0JWVjJTlhJWI0JWViJThiJWE0LSVlYSViNSVhYyVlYSViOCU4MC1haS0lZWMlYjklYTktJWVhJWI2JWE0JWViJThmJTg0LSVlYyU5NSU4OCVlYyViMCVhOSVlYyU4YiU5YyVlYyViYyViMC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OWElMjViMCUyNWVjJTI1YTMlMjViYy0lMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTg0JTI1YjAlMjVlYyUyNTg0JTI1YmMlMjVlZCUyNTg0JTI1YjAtJTI1ZWIlMjU5ZCUyNTg0JTI1ZWMlMjU5YSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWVhJTI1YjUlMjVhYyUyNWVhJTI1YjglMjU4MC1haS0lMjVlYyUyNWI5JTI1YTktJTI1ZWElMjViNiUyNWE0JTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTUlMjU4OCUyNWVjJTI1YjAlMjVhOSUyNWVjJTI1OGIlMjU5YyUyNWVjJTI1YmMlMjViMA",
-      "title": "\"우주 데이터센터 띄운다\"… 구글, AI 칩 궤도 안착시켰지만 난제 수두룩",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%9a%b0%ec%a3%bc-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%9d%84%ec%9a%b4%eb%8b%a4-%ea%b5%ac%ea%b8%80-ai-%ec%b9%a9-%ea%b6%a4%eb%8f%84-%ec%95%88%ec%b0%a9%ec%8b%9c%ec%bc%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259a%25b0%25ec%25a3%25bc-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0-%25eb%259d%2584%25ec%259a%25b4%25eb%258b%25a4-%25ea%25b5%25ac%25ea%25b8%2580-ai-%25ec%25b9%25a9-%25ea%25b6%25a4%25eb%258f%2584-%25ec%2595%2588%25ec%25b0%25a9%25ec%258b%259c%25ec%25bc%25b0",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3JldHVybi1vZi10aGUtcmVwcmVzc2VkLWluLWdlcm1hbnk",
+      "title": "Return Of The Repressed In Germany",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/return-of-the-repressed-in-germany",
       "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-02T00:58:42.000Z",
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-02T14:50:25.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "구글(Google)이 자체 개발한 인공지능(AI) 반도체를 탑재한 위성을 우주로 쏘아 올리며 궤도상 데이터센터 구축을 위한 첫 시험에 나섰다.",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Return Of The Repressed In Germany appeared first on NOEMA.",
       "tags": [
-        "tech42",
-        "ai요약",
-        "ai",
-        "구글"
+        "noema"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiViNC0lZWIlYWElYTklZWMlODYlOGMlZWIlYTYlYWMtJWVkJTk1JWE4JWViJWI2JTgwJWViJWExJTljLSVlYyU5MyViMCVlYyVhNyU4MC0lZWIlYTclODgtJWVjJTlkJWJjJWViJWIzJWI4LSVlYiViMiU5NSVlYyU5YiU5MC1haS0lZWMlOWQlOGMlZWMlODQlYjEtJWViJWFjJWI0JWViJThiJWE4LSVlYiViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1ODIlMjViNC0lMjVlYiUyNWFhJTI1YTklMjVlYyUyNTg2JTI1OGMlMjVlYiUyNWE2JTI1YWMtJTI1ZWQlMjU5NSUyNWE4JTI1ZWIlMjViNiUyNTgwJTI1ZWIlMjVhMSUyNTljLSUyNWVjJTI1OTMlMjViMCUyNWVjJTI1YTclMjU4MC0lMjVlYiUyNWE3JTI1ODgtJTI1ZWMlMjU5ZCUyNWJjJTI1ZWIlMjViMyUyNWI4LSUyNWViJTI1YjIlMjU5NSUyNWVjJTI1OWIlMjU5MC1haS0lMjVlYyUyNTlkJTI1OGMlMjVlYyUyNTg0JTI1YjEtJTI1ZWIlMjVhYyUyNWI0JTI1ZWIlMjU4YiUyNWE4LSUyNWViJTI1YjMlMjViNQ",
-      "title": "\"내 목소리 함부로 쓰지 마\"… 일본 법원, AI 음성 무단 복제에 '인격권' 첫 인정",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%82%b4-%eb%aa%a9%ec%86%8c%eb%a6%ac-%ed%95%a8%eb%b6%80%eb%a1%9c-%ec%93%b0%ec%a7%80-%eb%a7%88-%ec%9d%bc%eb%b3%b8-%eb%b2%95%ec%9b%90-ai-%ec%9d%8c%ec%84%b1-%eb%ac%b4%eb%8b%a8-%eb%b3%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%25b4-%25eb%25aa%25a9%25ec%2586%258c%25eb%25a6%25ac-%25ed%2595%25a8%25eb%25b6%2580%25eb%25a1%259c-%25ec%2593%25b0%25ec%25a7%2580-%25eb%25a7%2588-%25ec%259d%25bc%25eb%25b3%25b8-%25eb%25b2%2595%25ec%259b%2590-ai-%25ec%259d%258c%25ec%2584%25b1-%25eb%25ac%25b4%25eb%258b%25a8-%25eb%25b3%25b5",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wMi8xMTQ1NjM5L2RvbnQtYmUtZm9vbGVkLWxsbXMtZG9udC1yZWFzb24v",
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-02T00:44:06.000Z",
+      "author": "Thore Graepel",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-02T08:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "일본 도쿄지방재판소가 유명 성우의 음성을 인공지능(AI)으로 무단 복제해 영상 내레이션에 활용한 익명의 틱톡(TikTok) 계정 사건과 관련해 인간의 목소리도 법적 보호 대상이라고 판결했다.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some c",
       "tags": [
-        "tech42",
-        "ai요약",
-        "ai 음성",
-        "저작권"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlYyU5OCViNy0lZWMlOWUlODUlZWMlOTYlYjQlZWIlYjMlYjQlZWElYjglYjAlZWElYjklOGMlZWMlYTclODAtJWVjJWE3JTg0JWVjJWI2JTljLSVlYyViMSU5N2dwdC0lZWMlODclYmMlZWQlOTUlOTEtJWVjJTgzJTlkJWVkJTgzJTljJWVhJWIzJTg0LSVlYiViMyViOCVlYSViMiVhOS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpLSUyNWVjJTI1OTglMjViNy0lMjVlYyUyNTllJTI1ODUlMjVlYyUyNTk2JTI1YjQlMjVlYiUyNWIzJTI1YjQlMjVlYSUyNWI4JTI1YjAlMjVlYSUyNWI5JTI1OGMlMjVlYyUyNWE3JTI1ODAtJTI1ZWMlMjVhNyUyNTg0JTI1ZWMlMjViNiUyNTljLSUyNWVjJTI1YjElMjU5N2dwdC0lMjVlYyUyNTg3JTI1YmMlMjVlZCUyNTk1JTI1OTEtJTI1ZWMlMjU4MyUyNTlkJTI1ZWQlMjU4MyUyNTljJTI1ZWElMjViMyUyNTg0LSUyNWViJTI1YjMlMjViOCUyNWVhJTI1YjIlMjVhOQ",
-      "title": "오픈AI, '옷 입어보기'까지 진출… 챗GPT 쇼핑 생태계 본격 확장",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%98%a4%ed%94%88ai-%ec%98%b7-%ec%9e%85%ec%96%b4%eb%b3%b4%ea%b8%b0%ea%b9%8c%ec%a7%80-%ec%a7%84%ec%b6%9c-%ec%b1%97gpt-%ec%87%bc%ed%95%91-%ec%83%9d%ed%83%9c%ea%b3%84-%eb%b3%b8%ea%b2%a9/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-%25ec%2598%25b7-%25ec%259e%2585%25ec%2596%25b4%25eb%25b3%25b4%25ea%25b8%25b0%25ea%25b9%258c%25ec%25a7%2580-%25ec%25a7%2584%25ec%25b6%259c-%25ec%25b1%2597gpt-%25ec%2587%25bc%25ed%2595%2591-%25ec%2583%259d%25ed%2583%259c%25ea%25b3%2584-%25eb%25b3%25b8%25ea%25b2%25a9",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-02T00:31:26.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "오픈AI(OpenAI)가 사용자가 업로드한 인물 사진에 의류 이미지를 가상으로 입혀주는 신규 쇼핑 기능을 차트GPT에 추가했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "오픈ai",
-        "챗gpt"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTg0JWI4JWViJWFmJWI4JWVkJThjJThjJWVjJTlkJWI0JWViJWI4JThjJWMyJWI3JWViJWFhJWE4JWViJWI5JThjJWViJWE2JWIwJWVkJThhJWI4LSVlYiVhMSU5YyVlYiViNCU4Ny1haS0lZWIlYjAlOTgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1ODQlMjViOCUyNWViJTI1YWYlMjViOCUyNWVkJTI1OGMlMjU4YyUyNWVjJTI1OWQlMjViNCUyNWViJTI1YjglMjU4YyUyNWMyJTI1YjclMjVlYiUyNWFhJTI1YTglMjVlYiUyNWI5JTI1OGMlMjVlYiUyNWE2JTI1YjAlMjVlZCUyNThhJTI1YjgtJTI1ZWIlMjVhMSUyNTljJTI1ZWIlMjViNCUyNTg3LWFpLSUyNWViJTI1YjAlMjU5OA",
-      "title": "[스타트업 안테나] 세미파이브·모빌린트 ‘로봇 AI 반도체’ 맞손…KB인베는 GMI클라우드 투자",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%84%b8%eb%af%b8%ed%8c%8c%ec%9d%b4%eb%b8%8c%c2%b7%eb%aa%a8%eb%b9%8c%eb%a6%b0%ed%8a%b8-%eb%a1%9c%eb%b4%87-ai-%eb%b0%98/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%2584%25b8%25eb%25af%25b8%25ed%258c%258c%25ec%259d%25b4%25eb%25b8%258c%25c2%25b7%25eb%25aa%25a8%25eb%25b9%258c%25eb%25a6%25b0%25ed%258a%25b8-%25eb%25a1%259c%25eb%25b4%2587-ai-%25eb%25b0%2598",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-01T22:59:08.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "2일 AI 반도체와 클라우드 인프라부터 공간 AI, AI 에이전트, 커머스 숏폼까지 국내 스타트업·벤처 생태계가 기술 상용화와 해외 시장 확대에 속도를 내고 있다. 세미파이브는 모빌린트와 산업용 로봇에 적용할 AI 반도체 개발에 착수했고, KB인베스트먼트는 엔비디아 등과 미국 AI 클라우드 기업 GMI클라우드 투자에 참여했다. 딥핑소스는 태국 리테일 시장에서 공간 AI 실증을 확대하는 한편 카테노이드, 솔로몬텍·원더무브, 위버",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "kb인베스트먼트",
-        "딥핑소스"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2stYXglZWIlOGElOTQtJWVjJWE3JTgwJWVhJWI4JTg4LWFpJWViJWE1JWJjLSVlYiViMCViMCVlYyU5YSViMCVlYiU4YSU5NC0lZWIlOGIlYTglZWElYjMlODQlZWMlOTclOTAlZWMlODQlOWMtJWVjJTk3JTg1JWViJWFjJWI0JWVjJTk3JTkwLSVlYyU4YiVhYyVlYiU4YSU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWstYXglMjVlYiUyNThhJTI1OTQtJTI1ZWMlMjVhNyUyNTgwJTI1ZWElMjViOCUyNTg4LWFpJTI1ZWIlMjVhNSUyNWJjLSUyNWViJTI1YjAlMjViMCUyNWVjJTI1OWElMjViMCUyNWViJTI1OGElMjU5NC0lMjVlYiUyNThiJTI1YTglMjVlYSUyNWIzJTI1ODQlMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTg0JTI1OWMtJTI1ZWMlMjU5NyUyNTg1JTI1ZWIlMjVhYyUyNWI0JTI1ZWMlMjU5NyUyNTkwLSUyNWVjJTI1OGIlMjVhYyUyNWViJTI1OGElMjU5NA",
-      "title": "[K-AX는 지금] AI를 ‘배우는’ 단계에서 업무에 ‘심는’ 단계로…김도경 넥스트젠에이아이 대표가 말하는 AX",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/k-ax%eb%8a%94-%ec%a7%80%ea%b8%88-ai%eb%a5%bc-%eb%b0%b0%ec%9a%b0%eb%8a%94-%eb%8b%a8%ea%b3%84%ec%97%90%ec%84%9c-%ec%97%85%eb%ac%b4%ec%97%90-%ec%8b%ac%eb%8a%94/?utm_source=rss&utm_medium=rss&utm_campaign=k-ax%25eb%258a%2594-%25ec%25a7%2580%25ea%25b8%2588-ai%25eb%25a5%25bc-%25eb%25b0%25b0%25ec%259a%25b0%25eb%258a%2594-%25eb%258b%25a8%25ea%25b3%2584%25ec%2597%2590%25ec%2584%259c-%25ec%2597%2585%25eb%25ac%25b4%25ec%2597%2590-%25ec%258b%25ac%25eb%258a%2594",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-01T22:58:35.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "기업들의 인공지능 전환(AI Transformation, AX)이 빨라지면서 생성형 AI 교육이나 사내 챗봇 도입, 개념검증(Proof of Concept, PoC)은 더 이상 낯선 일이 아니다. 문제는 그 다음이다. 교육을 받은 직원이 실제 업무에서 AI를 계속 사용하는지, 실험 단계에서 만든 시스템이 기존 업무와 연결되는지, 프로젝트가 끝난 뒤에도 조직이 스스로 AI를 운영하고 확장할 수 있는지는 전혀 다른 문제다. 넥스트",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "스타트업",
-        "인터뷰"
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "opinion"
       ],
       "isNew": true
     },
@@ -6358,6 +6310,44 @@
         "테크놀로지"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
     }
   ]
 }
