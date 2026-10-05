@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-04T02:12:02.721Z",
+  "fetchedAt": "2026-10-05T01:20:51.923Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3RzLWFuZC1xdWVzdGlvbi1tYXJrcy8",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wMi8xMTQ1NjY2L3RoZS1kb3dubG9hZC1iaW9sb2dpY2FsLWRlLWFnaW5nLWFpLXJlYXNvbmluZy8",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1haXMtYXJlLW5vdC1nb2luZy1yb2d1ZQ",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViOSU4NCVlYyU5YSVhOS05OS0lZWMlYTAlODglZWElYjAlOTAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJThmJWFkJWVjJWEzJWJjJWVkJTk1JTk4JWViJThhJTk0LWFpLSVlZCU4NiViNSVlYyVhMCU5YyVlZCU5NSVhMC0lZWIlOTQlOTQlZWMlOGIlOWMlZWMlYTAlODQlZWMlOGElYTQtYXBpLSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS05OS0lMjVlYyUyNWEwJTI1ODglMjVlYSUyNWIwJTI1OTAtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LWFpLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjVhMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNWEwJTI1ODQlMjVlYyUyNThhJTI1YTQtYXBpLSUyNWVhJTI1YjMlMjViNQ"
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViOSU4NCVlYyU5YSVhOS05OS0lZWMlYTAlODglZWElYjAlOTAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJThmJWFkJWVjJWEzJWJjJWVkJTk1JTk4JWViJThhJTk0LWFpLSVlZCU4NiViNSVlYyVhMCU5YyVlZCU5NSVhMC0lZWIlOTQlOTQlZWMlOGIlOWMlZWMlYTAlODQlZWMlOGElYTQtYXBpLSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS05OS0lMjVlYyUyNWEwJTI1ODglMjVlYSUyNWIwJTI1OTAtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LWFpLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjVhMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNWEwJTI1ODQlMjVlYyUyNThhJTI1YTQtYXBpLSUyNWVhJTI1YjMlMjViNQ",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzI4L2ltcG9ydC1haS00NzQtcGxhdG9uaWMtbWluZHNwYWNlLXRwdXMtaW4tc3BhY2UtemhpcHUtc3RhcnRzLWFuLW91dGVyLXJzaS1sb29wLw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -691,25 +691,6 @@
       "tags": [
         "stratechery",
         "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
-      "title": "The Dot and the Swarm",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-10-01T10:54:12.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Benefitting from the Bitter Lesson",
-      "tags": [
-        "one-useful-thing"
       ],
       "isNew": false
     },
@@ -3098,42 +3079,21 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1haXMtYXJlLW5vdC1nb2luZy1yb2d1ZQ",
-      "title": "The AIs Are Not Going Rogue",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-ais-are-not-going-rogue",
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
+      "title": "The Dot and the Swarm",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
       "thumbnailUrl": null,
-      "author": "Ken Archer",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-01T13:00:54.000Z",
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The AIs Are Not Going Rogue appeared first on NOEMA.",
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Benefitting from the Bitter Lesson",
       "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1qYXNvbi1kZWwtcmV5LWFib3V0LW11c2UtYW1hem9uLWFuZC13YWxtYXJ0Lw",
-      "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-01T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Jason Del Rey about Amazon versus Meta, which is a continuation of the oldest battle in retail between Amazon and Walmart.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
+        "one-useful-thing"
       ],
       "isNew": false
     },
@@ -4143,7 +4103,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViOSViNCVlYyViOSViNCVlYyU5OCVhNC1haS0lZWIlYWElYTglZWIlOGQlYjgtJWViJTg0JTk4JWVjJTk2JWI0LSVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YSViOCVlYSViOSU4YyVlYyVhNyU4MC0lZWMlOTUlODglZWMlYTAlODQlZWMlODQlYjEtJWVhJWIyJTgwJWVjJWE2JTlkYWklZWMlOTUlODglZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWI5JTI1YjQlMjVlYyUyNWI5JTI1YjQlMjVlYyUyNTk4JTI1YTQtYWktJTI1ZWIlMjVhYSUyNWE4JTI1ZWIlMjU4ZCUyNWI4LSUyNWViJTI1ODQlMjU5OCUyNWVjJTI1OTYlMjViNC0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjglMjVlYSUyNWI5JTI1OGMlMjVlYyUyNWE3JTI1ODAtJTI1ZWMlMjU5NSUyNTg4JTI1ZWMlMjVhMCUyNTg0JTI1ZWMlMjU4NCUyNWIxLSUyNWVhJTI1YjIlMjU4MCUyNWVjJTI1YTYlMjU5ZGFpJTI1ZWMlMjU5NSUyNTg4JTI1ZWMlMjVhMCUyNTg0",
@@ -6342,6 +6302,46 @@
       "score": 99,
       "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
       "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now DiG-bench shows that Fable displays some creative intuitio",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzEwL2ltcG9ydC1haS00NjgtMjMtcnNpLWlkZWFzLXBvc3R0cmFpbmJlbmNoLWFuZC1ob3ctdHJ1c3QtYW5kLXRyYW5zcGFyZW5jeS1pbnRlcnBsYXktd2l0aC1haS1yYWNpbmcv",
+      "title": "Import AI 468: 23 RSI ideas; PostTrainBench+; and how trust and transparency interplay with AI racing",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/10/import-ai-468-23-rsi-ideas-posttrainbench-and-how-trust-and-transparency-interplay-with-ai-racing/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-VIkdsj.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-10T12:32:20.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Want to be able to deal with RSI? Here are 23 actionable p",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA4LzAzL2ltcG9ydC1haS00Njctc2VsZi1zdXN0YWluaW5nLWFpLXZpcnVzZXMtcGFjaW5nLWFpLXByb2dyZXNzLWNvbmZ1c2lvbi1hYm91dC1haS1hbmQtY3JlYXRpdml0eS8",
+      "title": "Import AI 467: Self-sustaining AI viruses; pacing AI progress; confusion about AI and creativity",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/08/03/import-ai-467-self-sustaining-ai-viruses-pacing-ai-progress-confusion-about-ai-and-creativity/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/08/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-2OSHWi.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-08-03T13:31:22.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Self-sustaining and self-replicating AI viruses are here:…",
       "tags": [
         "import-ai",
         "uncategorized"
