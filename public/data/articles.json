@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-08T02:19:42.657Z",
+  "fetchedAt": "2026-10-09T02:37:08.920Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtbGctdGhlLWhvdXNlLWZvci1ldmVyeW9uZS1lbHNlLWFnZW50LXN0YW5kYXJkcy1hbmQtYW1hem9uLw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTliJWE4JWVjJTlkJWI0JWViJWI5JTg0JWViJTgyJTk4LTIlZWMlOTYlYjUtJWVkJTg4JWFjJWVjJTllJTkwJWMyJWI3dGlwcy0lZWMlODQlYTAlZWMlYTAlOTUlZWMlYjklYjQlZWMlOWQlYjQlZWQlOTclYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OWIlMjVhOCUyNWVjJTI1OWQlMjViNCUyNWViJTI1YjklMjU4NCUyNWViJTI1ODIlMjU5OC0yJTI1ZWMlMjU5NiUyNWI1LSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MCUyNWMyJTI1Yjd0aXBzLSUyNWVjJTI1ODQlMjVhMCUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1YjklMjViNCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1OTclMjVhYw",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wNS8xMTQ1NjgyL3Blb3BsZS1yZWFsbHktaGF0ZS1haS1zby13aHktY2FudC10aGV5LWdldC1lbm91Z2gv",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt"
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2RvZXMtY2xhdWRlLWZlZWwtdGhlLXdoaXA",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1rYXRpZS1oYXJiYXRoLWFib3V0LWRpc3J1cHRpbmctcG9saXRpY3MtYXQtZmFjZWJvb2sv",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVjJTk3JTkxJWVjJThhJWE0JWMyJWI3JWViJTkxJTkwJWVjJTgyJWIwJWViJWExJTljJWViJWIzJWI0JWVkJThiJWIxJWVjJThhJWE0LWFpLSVlYyU5YSVhOSVlYyVhMCU5MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkxJTI1ZWMlMjU4YSUyNWE0JTI1YzIlMjViNyUyNWViJTI1OTElMjU5MCUyNWVjJTI1ODIlMjViMCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjMlMjViNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNC1haS0lMjVlYyUyNTlhJTI1YTklMjVlYyUyNWEwJTI1OTE",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -146,26 +146,6 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtbGctdGhlLWhvdXNlLWZvci1ldmVyeW9uZS1lbHNlLWFnZW50LXN0YW5kYXJkcy1hbmQtYW1hem9uLw",
-      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-07T10:01:39.000Z",
-      "readingMinutes": 4,
-      "score": 111,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": true
     },
@@ -589,6 +569,48 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ1OTIzL2FpLWJyZWFrdGhyb3VnaHMtaW4tcm9ib3RpY3Mtd29udC1jaGFuZ2UteW91ci1saWZlLWFueS10aW1lLXNvb24v",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "thumbnailUrl": null,
+      "author": "Jamie Condliffe",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white wit",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "intelligent machines"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtbGctdGhlLWhvdXNlLWZvci1ldmVyeW9uZS1lbHNlLWFnZW50LXN0YW5kYXJkcy1hbmQtYW1hem9uLw",
+      "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apple-and-lg-the-house-for-everyone-else-agent-standards-and-amazon/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-07T10:01:39.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Apple is taking a smarter approach to the home than I expected, leaning into integration (with partners); then, what Amazon should do about agents.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
       "title": "수이, 싱가포르서 ‘베이스캠프 2026’ 개최…AI 에이전트 결제 인프라 전면에",
       "source": "Tech42",
@@ -737,24 +759,25 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtYS1oYWNrZXJzLWZ1dHVyZS8",
-      "title": "Apple and a Hacker’s Future",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1rYXRpZS1oYXJiYXRoLWFib3V0LWRpc3J1cHRpbmctcG9saXRpY3MtYXQtZmFjZWJvb2sv",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "I was happy for years in Apple's walled garden; with AI, however, their protections feel like limitations.",
+      "excerpt": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
       "tags": [
         "stratechery",
-        "articles"
+        "daily update",
+        "interviews"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -969,26 +992,6 @@
       "excerpt": "Which AIs to use, and how to use them",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw",
-      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/10/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-icWL54.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-10-05T12:32:30.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How d",
-      "tags": [
-        "import-ai",
-        "uncategorized"
       ],
       "isNew": false
     },
@@ -1560,6 +1563,47 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "thumbnailUrl": null,
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-09T00:08:24.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2RvZXMtY2xhdWRlLWZlZWwtdGhlLXdoaXA",
+      "title": "Does Claude Feel The Whip?",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/does-claude-feel-the-whip",
+      "thumbnailUrl": null,
+      "author": "Yaniv Regev",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-08T13:25:15.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Does Claude Feel The Whip? appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViOSU4NCVlYyU5YSVhOS05OS0lZWMlYTAlODglZWElYjAlOTAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJThmJWFkJWVjJWEzJWJjJWVkJTk1JTk4JWViJThhJTk0LWFpLSVlZCU4NiViNSVlYyVhMCU5YyVlZCU5NSVhMC0lZWIlOTQlOTQlZWMlOGIlOWMlZWMlYTAlODQlZWMlOGElYTQtYXBpLSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS05OS0lMjVlYyUyNWEwJTI1ODglMjVlYSUyNWIwJTI1OTAtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LWFpLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjVhMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNWEwJTI1ODQlMjVlYyUyNThhJTI1YTQtYXBpLSUyNWVhJTI1YjMlMjViNQ",
@@ -3178,7 +3222,27 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtYS1oYWNrZXJzLWZ1dHVyZS8",
+      "title": "Apple and a Hacker’s Future",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-05T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "I was happy for years in Apple's walled garden; with AI, however, their protections feel like limitations.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3RzLWFuZC1xdWVzdGlvbi1tYXJrcy8",
@@ -3197,25 +3261,6 @@
       "tags": [
         "stratechery",
         "this week in stratechery"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
-      "title": "The Dot and the Swarm",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-10-01T10:54:12.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Benefitting from the Bitter Lesson",
-      "tags": [
-        "one-useful-thing"
       ],
       "isNew": false
     },
@@ -3571,6 +3616,26 @@
         "mit technology review explains"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw",
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/10/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-icWL54.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-10-05T12:32:30.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How d",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vbmUtbW9yZS1ub3RlLW9uLWFnZW50cy1tZXRhLWNvbm5lY3QtbWV0YS1lbnRlcnByaXNlLXBsYXRmb3JtLw",
@@ -4188,50 +4253,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTliJWE4JWVjJTlkJWI0JWViJWI5JTg0JWViJTgyJTk4LTIlZWMlOTYlYjUtJWVkJTg4JWFjJWVjJTllJTkwJWMyJWI3dGlwcy0lZWMlODQlYTAlZWMlYTAlOTUlZWMlYjklYjQlZWMlOWQlYjQlZWQlOTclYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OWIlMjVhOCUyNWVjJTI1OWQlMjViNCUyNWViJTI1YjklMjU4NCUyNWViJTI1ODIlMjU5OC0yJTI1ZWMlMjU5NiUyNWI1LSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MCUyNWMyJTI1Yjd0aXBzLSUyNWVjJTI1ODQlMjVhMCUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1YjklMjViNCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1OTclMjVhYw",
-      "title": "[스타트업 안테나] 웨이비나 2억 투자·TIPS 선정…카이헬스 IVF AI 협력, 엘리스 AI 데이터센터 확장",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%9b%a8%ec%9d%b4%eb%b9%84%eb%82%98-2%ec%96%b5-%ed%88%ac%ec%9e%90%c2%b7tips-%ec%84%a0%ec%a0%95%ec%b9%b4%ec%9d%b4%ed%97%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%259b%25a8%25ec%259d%25b4%25eb%25b9%2584%25eb%2582%2598-2%25ec%2596%25b5-%25ed%2588%25ac%25ec%259e%2590%25c2%25b7tips-%25ec%2584%25a0%25ec%25a0%2595%25ec%25b9%25b4%25ec%259d%25b4%25ed%2597%25ac",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-08T01:49:18.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "8일 스타트업 업계에서는 인공지능(AI)을 중심으로 투자 유치와 글로벌 협력, 인프라 확장, 산업 현장 적용 소식이 이어졌다. 웨이비나는 서울대학교기술지주에서 시드 투자를 유치하고 팁스(TIPS)에 선정됐으며, 카이헬스는 인도의 대형 난임 클리닉 네트워크와 AI 배아 분석 기술 검증에 나선다. 엘리스그룹은 모듈형 AI 데이터센터 사업의 브랜드 경쟁력을 강화했고, 파이온코퍼레이션과 뉴엔AI는 각각 AI 검색과 산업별 AX 시장에",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "뉴엔ai",
-        "마스오토"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU5NyU5MCVlYyU5ZCViNCVlYyVhMCU4NCVlZCU4YSViOC0lZWIlOTIlYTQlZWMlOTclOTAtJWViJTg4JTg0JWVhJWIwJTgwLSVlYyU5ZSU4OCVlYiU4MiU5OC0lZWMlOWIlOTQlZWIlOTMlOWMtJWVjJTlkJWI4JWVhJWIwJTg0LSVlYyVhNiU5ZCVlYiVhYSU4NSVlYyU5YyViYyVlYiVhMSU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU4NCUyNWVkJTI1OGElMjViOC0lMjVlYiUyNTkyJTI1YTQlMjVlYyUyNTk3JTI1OTAtJTI1ZWIlMjU4OCUyNTg0JTI1ZWElMjViMCUyNTgwLSUyNWVjJTI1OWUlMjU4OCUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTliJTI1OTQlMjVlYiUyNTkzJTI1OWMtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWElMjViMCUyNTg0LSUyNWVjJTI1YTYlMjU5ZCUyNWViJTI1YWElMjU4NSUyNWVjJTI1OWMlMjViYyUyNWViJTI1YTElMjU5Yw",
-      "title": "AI 에이전트 뒤에 누가 있나… 월드, ‘인간 증명’으로 신뢰 확보 나선다",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%92%a4%ec%97%90-%eb%88%84%ea%b0%80-%ec%9e%88%eb%82%98-%ec%9b%94%eb%93%9c-%ec%9d%b8%ea%b0%84-%ec%a6%9d%eb%aa%85%ec%9c%bc%eb%a1%9c/?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8-%25eb%2592%25a4%25ec%2597%2590-%25eb%2588%2584%25ea%25b0%2580-%25ec%259e%2588%25eb%2582%2598-%25ec%259b%2594%25eb%2593%259c-%25ec%259d%25b8%25ea%25b0%2584-%25ec%25a6%259d%25eb%25aa%2585%25ec%259c%25bc%25eb%25a1%259c",
-      "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-08T01:37:32.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "AI 에이전트가 수천 개여도 실제 이용자는 한 명… 월드 ID로 사용자 구분 영지식증명 기술로 개인정보 공개 없이 실제 사람의 요청...",
-      "tags": [
-        "tech42",
-        "테크놀로지",
-        "ai 에이전트",
-        "월드"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVjJTk3JTkxJWVjJThhJWE0JWMyJWI3JWViJTkxJTkwJWVjJTgyJWIwJWViJWExJTljJWViJWIzJWI0JWVkJThiJWIxJWVjJThhJWE0LWFpLSVlYyU5YSVhOSVlYyVhMCU5MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkxJTI1ZWMlMjU4YSUyNWE0JTI1YzIlMjViNyUyNWViJTI1OTElMjU5MCUyNWVjJTI1ODIlMjViMCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjMlMjViNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNC1haS0lMjVlYyUyNTlhJTI1YTklMjVlYyUyNWEwJTI1OTE",
       "title": "[스타트업 안테나] 딥엑스·두산로보틱스 ‘AI 용접’ 맞손…엠브릭스 투자 유치·스텝하우 폐쇄망 코딩 AI 출시",
       "source": "Tech42",
@@ -4251,7 +4272,7 @@
         "qai",
         "딥엑스"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJTk1JWI0JWVhJWI1JWIwLSVlZCU5NSVhOCVlYyVhMCU5NSVlYyU5NyU5MC1haS0lZWMlYjAlYjglZWIlYWElYTglYzIlYjclZWIlYjAlOTQlZWMlOWQlYjQlZWMlOTglYTQtY3hsLSVlYyU4YiVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWQlMjU5NSUyNWI0JTI1ZWElMjViNSUyNWIwLSUyNWVkJTI1OTUlMjVhOCUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1OTclMjU5MC1haS0lMjVlYyUyNWIwJTI1YjglMjVlYiUyNWFhJTI1YTglMjVjMiUyNWI3JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE0LWN4bC0lMjVlYyUyNThiJTI1YTQ",
@@ -4274,6 +4295,25 @@
         "더인벤션랩"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
+      "title": "The Dot and the Swarm",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Benefitting from the Bitter Lesson",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vcGVuYWktZGV2LWRheS1kb3QtYW5kLW9wZW5haXMtcHJvZHVjdC10cmFuc2l0aW9uLXNpZ24taW4td2l0aC1jaGF0Z3B0Lw",
@@ -6311,48 +6351,6 @@
         "ai요약",
         "마이크로소프트",
         "윈도우 11"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1zdWVzLW9wZW5haS1hcHBsZXMtcmVhbC1wcm9ibGVtLw",
-      "title": "Apple Sues OpenAI, Apple’s Real Problem",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-sues-openai-apples-real-problem/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-13T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Apple is suing AI for stealing trade secrets; there is one guilty employee, but this mostly feels like lashing out.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4NCU4OC0lZWMlODIlYWMlZWElYjglYjAlZWElYmUlYmMlZWMlOWQlYjQlZWMlYTclODAtdnMtJWViJWIzJWI0JWVkJTk4JWI4JWVhJWI0JTgwJWVjJWIwJWIwJWVjJTlkJWI0JWViJTgyJTk4LSVlYiViMCU5YiVlYyU5NSU4NCVlYiU5ZCViYyVlYiVhOCViOCVlYyU4YSVhNCVlZCU4MSVhYyVjMiViNy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1ODQlMjU4OC0lMjVlYyUyNTgyJTI1YWMlMjVlYSUyNWI4JTI1YjAlMjVlYSUyNWJlJTI1YmMlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWE3JTI1ODAtdnMtJTI1ZWIlMjViMyUyNWI0JTI1ZWQlMjU5OCUyNWI4JTI1ZWElMjViNCUyNTgwJTI1ZWMlMjViMCUyNWIwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjAlMjU5YiUyNWVjJTI1OTUlMjU4NCUyNWViJTI1OWQlMjViYyUyNWViJTI1YTglMjViOCUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODElMjVhYyUyNWMyJTI1Yjc",
-      "title": "\"너 사기꾼이지?\" vs \"보호관찰이나 받아라\"…머스크·알트만, X서 막말 난투극",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%84%88-%ec%82%ac%ea%b8%b0%ea%be%bc%ec%9d%b4%ec%a7%80-vs-%eb%b3%b4%ed%98%b8%ea%b4%80%ec%b0%b0%ec%9d%b4%eb%82%98-%eb%b0%9b%ec%95%84%eb%9d%bc%eb%a8%b8%ec%8a%a4%ed%81%ac%c2%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2584%2588-%25ec%2582%25ac%25ea%25b8%25b0%25ea%25be%25bc%25ec%259d%25b4%25ec%25a7%2580-vs-%25eb%25b3%25b4%25ed%2598%25b8%25ea%25b4%2580%25ec%25b0%25b0%25ec%259d%25b4%25eb%2582%2598-%25eb%25b0%259b%25ec%2595%2584%25eb%259d%25bc%25eb%25a8%25b8%25ec%258a%25a4%25ed%2581%25ac%25c2%25b7",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-13T00:37:05.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "애플이 오픈AI를 영업비밀 침해 혐의로 고소한 가운데, 인공지능(AI) 업계의 오랜 앙숙인 일론 머스크 스페이스X CEO와 샘 알트만 오픈AI CEO가 소셜미디어 X에서 거친 설전을 벌이며 정면충돌했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "샘 알트만",
-        "일론 머스크"
       ],
       "isNew": true
     }
