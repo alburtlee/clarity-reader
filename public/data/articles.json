@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-10-09T02:37:08.920Z",
+  "fetchedAt": "2026-10-10T01:57:34.767Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2RvZXMtY2xhdWRlLWZlZWwtdGhlLXdoaXA",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1rYXRpZS1oYXJiYXRoLWFib3V0LWRpc3J1cHRpbmctcG9saXRpY3MtYXQtZmFjZWJvb2sv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVjJTk3JTkxJWVjJThhJWE0JWMyJWI3JWViJTkxJTkwJWVjJTgyJWIwJWViJWExJTljJWViJWIzJWI0JWVkJThiJWIxJWVjJThhJWE0LWFpLSVlYyU5YSVhOSVlYyVhMCU5MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkxJTI1ZWMlMjU4YSUyNWE0JTI1YzIlMjViNyUyNWViJTI1OTElMjU5MCUyNWVjJTI1ODIlMjViMCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjMlMjViNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNC1haS0lMjVlYyUyNTlhJTI1YTklMjVlYyUyNWEwJTI1OTE",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pdHMtbm90LXlvdS1pdHMtbWUv",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOS8xMTQ1NzI4L3dlLWFyZS1wdXR0aW5nLXRvby1tdWNoLWZhaXRoLWluLWFpLXRvLXNheS1uby8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dlLWFyZS1hbHJlYWR5LXBvc3QtaHVtYW4",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJTk1JWI0JWVhJWI1JWIwLSVlZCU5NSVhOCVlYyVhMCU5NSVlYyU5NyU5MC1haS0lZWMlYjAlYjglZWIlYWElYTglYzIlYjclZWIlYjAlOTQlZWMlOWQlYjQlZWMlOTglYTQtY3hsLSVlYyU4YiVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWQlMjU5NSUyNWI0JTI1ZWElMjViNSUyNWIwLSUyNWVkJTI1OTUlMjVhOCUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1OTclMjU5MC1haS0lMjVlYyUyNWIwJTI1YjglMjVlYiUyNWFhJTI1YTglMjVjMiUyNWI3JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE0LWN4bC0lMjVlYyUyNThiJTI1YTQ",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw"
   ],
   "sourceCount": 9,
@@ -569,28 +569,6 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ1OTIzL2FpLWJyZWFrdGhyb3VnaHMtaW4tcm9ib3RpY3Mtd29udC1jaGFuZ2UteW91ci1saWZlLWFueS10aW1lLXNvb24v",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
-      "thumbnailUrl": null,
-      "author": "Jamie Condliffe",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-08T09:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white wit",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "intelligent machines"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtbGctdGhlLWhvdXNlLWZvci1ldmVyeW9uZS1lbHNlLWFnZW50LXN0YW5kYXJkcy1hbmQtYW1hem9uLw",
       "title": "Apple and LG, The House For Everyone Else, Agent Standards and Amazon",
       "source": "Stratechery",
@@ -608,7 +586,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
@@ -757,27 +735,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1rYXRpZS1oYXJiYXRoLWFib3V0LWRpc3J1cHRpbmctcG9saXRpY3MtYXQtZmFjZWJvb2sv",
-      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-08T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvYW4tb3BpbmlvbmF0ZWQtZ3VpZGUtdG8td2hpY2gtYWktYjIy",
@@ -1565,43 +1522,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOS8xMTQ1NzI4L3dlLWFyZS1wdXR0aW5nLXRvby1tdWNoLWZhaXRoLWluLWFpLXRvLXNheS1uby8",
+      "title": "We’re putting too much faith in AI’s ability to say no",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "thumbnailUrl": null,
-      "author": "MIT Technology Review",
+      "author": "Arthur Holland Michel",
       "category": "AI + Society",
-      "publishedAt": "2026-10-09T00:08:24.000Z",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
       "readingMinutes": 4,
       "score": 104,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t",
+      "excerpt": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. M",
       "tags": [
         "mit-technology-review",
         "artificial intelligence",
-        "ai",
-        "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2RvZXMtY2xhdWRlLWZlZWwtdGhlLXdoaXA",
-      "title": "Does Claude Feel The Whip?",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/does-claude-feel-the-whip",
-      "thumbnailUrl": null,
-      "author": "Yaniv Regev",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-08T13:25:15.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Does Claude Feel The Whip? appeared first on NOEMA.",
-      "tags": [
-        "noema"
+        "app",
+        "features and investigations"
       ],
       "isNew": true
     },
@@ -2587,6 +2525,49 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOS8xMTQ1NzM3L2pvYi10aXRsZXMtZGVsaXZlcnktZHJvbmUtYWlyLXRyYWZmaWMtY29udHJvbGxlci10cmV2b3Itd2lzY2huZXdza3kv",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "thumbnailUrl": null,
+      "author": "Eamon Whalen",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-09T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an ",
+      "tags": [
+        "mit-technology-review",
+        "culture",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ1OTIzL2FpLWJyZWFrdGhyb3VnaHMtaW4tcm9ib3RpY3Mtd29udC1jaGFuZ2UteW91ci1saWZlLWFueS10aW1lLXNvb24v",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "thumbnailUrl": null,
+      "author": "Jamie Condliffe",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-08T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white wit",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "intelligent machines"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wNS8xMTQ1NzExL3RoZS1kb3dubG9hZC1haS1wb3B1bGFyaXR5LXBhcmFkb3gtZW10ZWNoLWZ1dHVyZS0yMDI2Lw",
       "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
       "source": "MIT Technology Review",
@@ -3205,24 +3186,45 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9nYW1lLWRlY29tcGlsYXRpb24taXMtdGhpcy1sZWdhbC1hLXdlbGwtdHJvZGRlbi1wYXRoLw",
-      "title": "Game Decompilation, Is This Legal?, A Well-Trodden Path",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOS8xMTQ2MjUwL3RoZS1kb3dubG9hZC1haS1yZWZ1c2FsLXByb2JsZW0td2VpZ2h0LWxvc3MtZHJ1Zy1zaWRlLWVmZmVjdHMv",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-09T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast ",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1rYXRpZS1oYXJiYXRoLWFib3V0LWRpc3J1cHRpbmctcG9saXRpY3MtYXQtZmFjZWJvb2sv",
+      "title": "An Interview with Katie Harbath About Disrupting Politics at Facebook",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/game-decompilation-is-this-legal-a-well-trodden-path/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-katie-harbath-about-disrupting-politics-at-facebook/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-10-06T10:07:36.000Z",
+      "publishedAt": "2026-10-08T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Games are being decompiled, but the real risk to gaming is new games and increased personalization.",
+      "excerpt": "An interview with former Facebook Head of Global Elections Katie Harbath about her new book Disrupting Politics, and how things change for the company in the 2010s.",
       "tags": [
         "stratechery",
-        "daily update"
+        "daily update",
+        "interviews"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtYS1oYWNrZXJzLWZ1dHVyZS8",
@@ -3241,26 +3243,6 @@
       "tags": [
         "stratechery",
         "articles"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3RzLWFuZC1xdWVzdGlvbi1tYXJrcy8",
-      "title": "2026.40: Dots and Question Marks",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/dots-and-question-marks/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-02T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
       ],
       "isNew": false
     },
@@ -4253,26 +4235,84 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVjJTk3JTkxJWVjJThhJWE0JWMyJWI3JWViJTkxJTkwJWVjJTgyJWIwJWViJWExJTljJWViJWIzJWI0JWVkJThiJWIxJWVjJThhJWE0LWFpLSVlYyU5YSVhOSVlYyVhMCU5MS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWIlMjU5NCUyNWE1JTI1ZWMlMjU5NyUyNTkxJTI1ZWMlMjU4YSUyNWE0JTI1YzIlMjViNyUyNWViJTI1OTElMjU5MCUyNWVjJTI1ODIlMjViMCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjMlMjViNCUyNWVkJTI1OGIlMjViMSUyNWVjJTI1OGElMjVhNC1haS0lMjVlYyUyNTlhJTI1YTklMjVlYyUyNWEwJTI1OTE",
-      "title": "[스타트업 안테나] 딥엑스·두산로보틱스 ‘AI 용접’ 맞손…엠브릭스 투자 유치·스텝하우 폐쇄망 코딩 AI 출시",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%94%a5%ec%97%91%ec%8a%a4%c2%b7%eb%91%90%ec%82%b0%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-ai-%ec%9a%a9%ec%a0%91/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%2594%25a5%25ec%2597%2591%25ec%258a%25a4%25c2%25b7%25eb%2591%2590%25ec%2582%25b0%25eb%25a1%259c%25eb%25b3%25b4%25ed%258b%25b1%25ec%258a%25a4-ai-%25ec%259a%25a9%25ec%25a0%2591",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pdHMtbm90LXlvdS1pdHMtbWUv",
+      "title": "2026.41: It’s Not You, It’s Me",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/its-not-you-its-me/",
       "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-07T01:21:37.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-09T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "스타트업 업계가 인공지능(AI)을 제조·보안·코딩·물류·안전 등 실제 산업 현장에 접목하는 움직임을 확대하고 있다. 7일 딥엑스와 두산로보틱스는 원전 기자재 제조 현장의 용접 공정을 지능화하는 AI 로봇 솔루션 공동 개발에 나섰고, 스텝하우는 인터넷 연결이 차단된 사내망에서도 사용할 수 있는 AI 코딩 에이전트를 선보였다. 바이오 분야에서는 체내에서 면역세포를 치료 세포로 전환하는 기술을 개발하는 엠브릭스가 서울대학교기술지주로",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of October 5, 2026, including drifting apart from Apple, Facebook complications, and the delightful absurdity of U.S.-China dynamics.",
       "tags": [
-        "tech42",
-        "스타트업",
-        "qai",
-        "딥엑스"
+        "stratechery",
+        "this week in stratechery"
       ],
-      "isNew": false
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3dlLWFyZS1hbHJlYWR5LXBvc3QtaHVtYW4",
+      "title": "We Are Already Post-Human",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/we-are-already-post-human",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-09T15:32:21.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post We Are Already Post-Human appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8wOC8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+      "thumbnailUrl": null,
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-09T00:08:24.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2RvZXMtY2xhdWRlLWZlZWwtdGhlLXdoaXA",
+      "title": "Does Claude Feel The Whip?",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/does-claude-feel-the-whip",
+      "thumbnailUrl": null,
+      "author": "Yaniv Regev",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-08T13:25:15.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post Does Claude Feel The Whip? appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJTk1JWI0JWVhJWI1JWIwLSVlZCU5NSVhOCVlYyVhMCU5NSVlYyU5NyU5MC1haS0lZWMlYjAlYjglZWIlYWElYTglYzIlYjclZWIlYjAlOTQlZWMlOWQlYjQlZWMlOTglYTQtY3hsLSVlYyU4YiVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWQlMjU5NSUyNWI0JTI1ZWElMjViNSUyNWIwLSUyNWVkJTI1OTUlMjVhOCUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1OTclMjU5MC1haS0lMjVlYyUyNWIwJTI1YjglMjVlYiUyNWFhJTI1YTglMjVjMiUyNWI3JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE0LWN4bC0lMjVlYyUyNThiJTI1YTQ",
@@ -4295,6 +4335,26 @@
         "더인벤션랩"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3RzLWFuZC1xdWVzdGlvbi1tYXJrcy8",
+      "title": "2026.40: Dots and Question Marks",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/dots-and-question-marks/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-02T17:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of September 28, 2026, including Meta's focus, what OpenAI is doing, and Mao and NBA Media Day.",
+      "tags": [
+        "stratechery",
+        "this week in stratechery"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
@@ -6287,70 +6347,6 @@
         "인사이트42",
         "마이크로소프트",
         "사티아 나델라"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtb3BlbmFpLXN1cGVyLWFwcC1jaGF0Z3B0LWNvZGV4LXdoaXRoZXItY2hhdC8",
-      "title": "The OpenAI Super App, ChatGPT = Codex, Whither Chat",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-openai-super-app-chatgpt-codex-whither-chat/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-07-14T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "OpenAI has refashioned Codex as the new ChatGPT; is the company abandoning the chat category they pioneered?",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSViNCVlYyVhMCU5MS0lZWIlOTUlOGMtJWVjJTk1JTg0JWVjJTlkJWI0JWVkJThmJWIwLSVlYiViNiU4MCVlZCU5MiU4OC0lZWMlYjElOTklZWElYjIlYTglZWMlOTklODAlZWIlOWQlYmMtJWVjJTk1JWEwJWVkJTk0JThjLSVlYyU5OCVhNCVlZCU5NCU4OGFpLSVlZCU5NiVhNSVlZCU5NSViNC0lZWMlODYlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE5JTI1YjQlMjVlYyUyNWEwJTI1OTEtJTI1ZWIlMjU5NSUyNThjLSUyNWVjJTI1OTUlMjU4NCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1OGYlMjViMC0lMjVlYiUyNWI2JTI1ODAlMjVlZCUyNTkyJTI1ODgtJTI1ZWMlMjViMSUyNTk5JTI1ZWElMjViMiUyNWE4JTI1ZWMlMjU5OSUyNTgwJTI1ZWIlMjU5ZCUyNWJjLSUyNWVjJTI1OTUlMjVhMCUyNWVkJTI1OTQlMjU4Yy0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS0lMjVlZCUyNTk2JTI1YTUlMjVlZCUyNTk1JTI1YjQtJTI1ZWMlMjU4NiUyNThj",
-      "title": "\"면접 때 아이폰 부품 챙겨와라\"… 애플, 오픈AI 향해 소송 폭탄 '조직적 스파이 행위' 폭로",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%a9%b4%ec%a0%91-%eb%95%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-%eb%b6%80%ed%92%88-%ec%b1%99%ea%b2%a8%ec%99%80%eb%9d%bc-%ec%95%a0%ed%94%8c-%ec%98%a4%ed%94%88ai-%ed%96%a5%ed%95%b4-%ec%86%8c/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a9%25b4%25ec%25a0%2591-%25eb%2595%258c-%25ec%2595%2584%25ec%259d%25b4%25ed%258f%25b0-%25eb%25b6%2580%25ed%2592%2588-%25ec%25b1%2599%25ea%25b2%25a8%25ec%2599%2580%25eb%259d%25bc-%25ec%2595%25a0%25ed%2594%258c-%25ec%2598%25a4%25ed%2594%2588ai-%25ed%2596%25a5%25ed%2595%25b4-%25ec%2586%258c",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-14T01:51:28.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "애플이 인공지능(AI) 기업 오픈AI를 상대로 41페이지에 달하는 영업비밀 침해 소송을 제기하며, 오픈AI 수뇌부가 주도한 조직적인 기밀 탈취 전말을 폭로했다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "아이폰",
-        "애플"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyU4OCVlYyU5ZCViNCVlZCU4MSVhYyVlYiVhMSU5YyVlYyU4NiU4YyVlZCU5NCU4NCVlZCU4YSViOC0lZWMlYmQlOTQlZWQlOGMlOGMlZWMlOWQlYmMlZWIlOWYlYmYtJWVjJWE3JTkxJWVjJWIwJWE5LSVlYiViMiU4NCVlYiVhMCViOCVlYiU4YiVhNC0lZWElYjQlOTElZWElYjMlYTAtJWViJWI5JWEwJWVjJWE3JTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4MSUyNWFjJTI1ZWIlMjVhMSUyNTljJTI1ZWMlMjU4NiUyNThjJTI1ZWQlMjU5NCUyNTg0JTI1ZWQlMjU4YSUyNWI4LSUyNWVjJTI1YmQlMjU5NCUyNWVkJTI1OGMlMjU4YyUyNWVjJTI1OWQlMjViYyUyNWViJTI1OWYlMjViZi0lMjVlYyUyNWE3JTI1OTElMjVlYyUyNWIwJTI1YTktJTI1ZWIlMjViMiUyNTg0JTI1ZWIlMjVhMCUyNWI4JTI1ZWIlMjU4YiUyNWE0LSUyNWVhJTI1YjQlMjU5MSUyNWVhJTI1YjMlMjVhMC0lMjVlYiUyNWI5JTI1YTAlMjVlYyUyNWE3JTI1ODQ",
-      "title": "마이크로소프트, 코파일럿 집착 버렸다… '광고 빠진 검색창'으로 윈도우 11 심폐소생",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ec%a7%91%ec%b0%a9-%eb%b2%84%eb%a0%b8%eb%8b%a4-%ea%b4%91%ea%b3%a0-%eb%b9%a0%ec%a7%84/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%2588%25ec%259d%25b4%25ed%2581%25ac%25eb%25a1%259c%25ec%2586%258c%25ed%2594%2584%25ed%258a%25b8-%25ec%25bd%2594%25ed%258c%258c%25ec%259d%25bc%25eb%259f%25bf-%25ec%25a7%2591%25ec%25b0%25a9-%25eb%25b2%2584%25eb%25a0%25b8%25eb%258b%25a4-%25ea%25b4%2591%25ea%25b3%25a0-%25eb%25b9%25a0%25ec%25a7%2584",
-      "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-14T01:07:04.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "마이크로소프트(MS)가 인공지능(AI) 비서 '코파일럿' 중심의 정책에서 선회해 사용자 편의성을 높이는 실질적인 기능 개선에 나선다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "마이크로소프트",
-        "윈도우 11"
       ],
       "isNew": true
     }
