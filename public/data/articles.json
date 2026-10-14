@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-13T03:14:57.546Z",
+  "fetchedAt": "2026-10-14T01:27:09.369Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYiVhNyU4OCVlYyU4YSVhNC0lZWMlYmYlYTAlZWIlYTYlYWMlZWMlOTUlODgtJWVhJWI1JWFjJWVhJWI4JTgwLSVlZCU4MSViNCVlYiU5ZCViYyVlYyU5YSViMCVlYiU5MyU5Yy1jZW8lZWElYjAlODAtJWViJWE3JTkwJWVkJTk1JTk4JWViJThhJTk0LSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjVhMCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNWJmJTI1YTAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk1JTI1ODgtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy1jZW8lMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNTkwJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YWYlMjViOCUyNWViJTI1ODIlMjU5OCUyNWVjJTI1OWQlMjViNA",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzEyL2ltcG9ydC1haS00NzYtY3JlYXRpdml0eS1hbmQtcnNpLXdvcnNlLXRoYW4tY2hpbmEtb3Blbi13ZWlnaHQtbW9kZWxzLWFpLWdvZXMtdG8tc3BhY2Uv",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wZXJzb25hbC1kYXktNC8",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMi8xMTQ1NzQ1L2RhaXN5LWRlbnQtZWNvbG9naXN0LXJldmVhbGluZy1pbnZpc2libGUtbmV0d29ya3MtcmV2aXZlLXJhaW5mb3Jlc3RzLw",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FuLWluc2lkZS1sb29rLWF0LWhvdy10by10YW1lLXVuc3RvcHBhYmxlLWFp",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2dwdC02LSVlYyU5ZSVhMSVlYyU5YyViYyVlYiVhMCVhNC0zLTUtJWVhJWIxJWI0JWViJTg0JTg4JWViJTliJWIwJWVjJTk3JTg4JWViJThiJWE0JWVhJWI1JWFjJWVhJWI4JTgwLSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC00LSVlYyU5NSU4NCVlYiVhNSViNCVlYSViMyVhNC0lZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1ncHQtNi0lMjVlYyUyNTllJTI1YTElMjVlYyUyNTljJTI1YmMlMjVlYiUyNWEwJTI1YTQtMy01LSUyNWVhJTI1YjElMjViNCUyNWViJTI1ODQlMjU4OCUyNWViJTI1OWIlMjViMCUyNWVjJTI1OTclMjU4OCUyNWViJTI1OGIlMjVhNCUyNWVhJTI1YjUlMjVhYyUyNWVhJTI1YjglMjU4MC0lMjVlYyUyNWEwJTI1OWMlMjVlYiUyNWFmJTI1YjglMjVlYiUyNTgyJTI1OTglMjVlYyUyNTlkJTI1YjQtNC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE1JTI1YjQlMjVlYSUyNWIzJTI1YTQtJTI1ZWMlMjVhMCUyNTg0",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYnV5cy1tb3JlLXNwZWN0cnVtLW11c2stYW5kLW1hcmtldC1zdHJ1Y3R1cmUtZGlzdHJpYnV0ZWQtY2VsbHVsYXIv",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMy8xMTQ2MzgyL3RoZS1kb3dubG9hZC1vcGVuLW1vZGVscy10cmFkZS1vZmZzLWdlb3RoZXJtYWwtcG93ZXIv",
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzEyL2ltcG9ydC1haS00NzYtY3JlYXRpdml0eS1hbmQtcnNpLXdvcnNlLXRoYW4tY2hpbmEtb3Blbi13ZWlnaHQtbW9kZWxzLWFpLWdvZXMtdG8tc3BhY2Uv"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -128,26 +128,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzEyL2ltcG9ydC1haS00NzYtY3JlYXRpdml0eS1hbmQtcnNpLXdvcnNlLXRoYW4tY2hpbmEtb3Blbi13ZWlnaHQtbW9kZWxzLWFpLWdvZXMtdG8tc3BhY2Uv",
-      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
-      "thumbnailUrl": null,
-      "author": "Jack Clark",
-      "category": "Research",
-      "publishedAt": "2026-10-12T12:30:39.000Z",
-      "readingMinutes": 4,
-      "score": 112,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual re",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOC8yNC8xMTQyNjMwL2FpLXNjaG9vbC1jbGFzc3Jvb20tcG9saWNpZXMv",
       "title": "How to encourage smarter AI use in the classroom",
       "source": "MIT Technology Review",
@@ -247,6 +227,26 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYnV5cy1tb3JlLXNwZWN0cnVtLW11c2stYW5kLW1hcmtldC1zdHJ1Y3R1cmUtZGlzdHJpYnV0ZWQtY2VsbHVsYXIv",
+      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1vcGVuYWktcHJlc2lkZW50LWdyZWctYnJvY2ttYW4tYWJvdXQtYXN0cmEtYW5kLWFsaWdubWVudC8",
@@ -355,24 +355,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYiVhNyU4OCVlYyU4YSVhNC0lZWMlYmYlYTAlZWIlYTYlYWMlZWMlOTUlODgtJWVhJWI1JWFjJWVhJWI4JTgwLSVlZCU4MSViNCVlYiU5ZCViYyVlYyU5YSViMCVlYiU5MyU5Yy1jZW8lZWElYjAlODAtJWViJWE3JTkwJWVkJTk1JTk4JWViJThhJTk0LSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjVhMCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNWJmJTI1YTAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk1JTI1ODgtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy1jZW8lMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNTkwJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YWYlMjViOCUyNWViJTI1ODIlMjU5OCUyNWVjJTI1OWQlMjViNA",
-      "title": "토마스 쿠리안 구글 클라우드 CEO가 말하는 '제미나이 에이전트'는?",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%86%a0%eb%a7%88%ec%8a%a4-%ec%bf%a0%eb%a6%ac%ec%95%88-%ea%b5%ac%ea%b8%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-ceo%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2586%25a0%25eb%25a7%2588%25ec%258a%25a4-%25ec%25bf%25a0%25eb%25a6%25ac%25ec%2595%2588-%25ea%25b5%25ac%25ea%25b8%2580-%25ed%2581%25b4%25eb%259d%25bc%25ec%259a%25b0%25eb%2593%259c-ceo%25ea%25b0%2580-%25eb%25a7%2590%25ed%2595%2598%25eb%258a%2594-%25ec%25a0%259c%25eb%25af%25b8%25eb%2582%2598%25ec%259d%25b4",
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzEyL2ltcG9ydC1haS00NzYtY3JlYXRpdml0eS1hbmQtcnNpLXdvcnNlLXRoYW4tY2hpbmEtb3Blbi13ZWlnaHQtbW9kZWxzLWFpLWdvZXMtdG8tc3BhY2Uv",
+      "title": "Import AI 476: Creativity and RSI; worse-than-China open weight models; AI goes to space",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/10/12/import-ai-476-creativity-and-rsi-worse-than-china-open-weight-models-ai-goes-to-space/",
       "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Work",
-      "publishedAt": "2026-10-13T00:24:25.000Z",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-10-12T12:30:39.000Z",
       "readingMinutes": 4,
       "score": 108,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "구글 클라우드(Google Cloud)는 미국 현지시간 8일 열린 '제미나이 앳 워크 2026(Gemini at Work 2026)'에서 업무용 범용 AI 에이전트인 '제미나이 에이전트(Gemini agent)'를 공개했다.",
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now New benchmark shows how AI models lack intuitive visual re",
       "tags": [
-        "tech42",
-        "테크놀로지",
-        "구글 클라우드",
-        "제미나이 앳 워크 2026"
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": true
     },
@@ -633,6 +631,28 @@
       "isNew": true
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMy8xMTQ2MzY2L29wZW4tbW9kZWxzLWhhdmUtcmVhbC1iZW5lZml0cy1kby10aGV5LW91dHdlaWdoLXRoZS1yaXNrcy8",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+      "thumbnailUrl": null,
+      "author": "Grace Huckins",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 107,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic released a report argu",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
       "title": "수이, 싱가포르서 ‘베이스캠프 2026’ 개최…AI 에이전트 결제 인프라 전면에",
       "source": "Tech42",
@@ -781,22 +801,62 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wZXJzb25hbC1kYXktNC8",
-      "title": "Personal Day",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/personal-day-4/",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FuLWluc2lkZS1sb29rLWF0LWhvdy10by10YW1lLXVuc3RvcHBhYmxlLWFp",
+      "title": "An Inside Look At How To Tame Unstoppable AI",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-12T10:00:00.000Z",
+      "author": "Anna August",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-13T16:45:20.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Personal Day — No Update",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post An Inside Look At How To Tame Unstoppable AI appeared first on NOEMA.",
       "tags": [
-        "stratechery",
-        "daily update"
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMy8xMTQ2MzgyL3RoZS1kb3dubG9hZC1vcGVuLW1vZGVscy10cmFkZS1vZmZzLWdlb3RoZXJtYWwtcG93ZXIv",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-13T12:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Open models have real benefits. Do they outweigh the risks? Anthropic recently released a report argui",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMy8xMTQ1NzU1L2FpLWxhYnMtYnV5aW5nLWRhdGEtZnJvbS1kZWFkLXN0YXJ0dXBzLXRvLXRyYWluLW1vZGVscy8",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+      "thumbnailUrl": null,
+      "author": "Matthew King",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-13T09:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app"
       ],
       "isNew": true
     },
@@ -1584,6 +1644,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYiVhNyU4OCVlYyU4YSVhNC0lZWMlYmYlYTAlZWIlYTYlYWMlZWMlOTUlODgtJWVhJWI1JWFjJWVhJWI4JTgwLSVlZCU4MSViNCVlYiU5ZCViYyVlYyU5YSViMCVlYiU5MyU5Yy1jZW8lZWElYjAlODAtJWViJWE3JTkwJWVkJTk1JTk4JWViJThhJTk0LSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjVhMCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNWJmJTI1YTAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk1JTI1ODgtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy1jZW8lMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNTkwJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YWYlMjViOCUyNWViJTI1ODIlMjU5OCUyNWVjJTI1OWQlMjViNA",
+      "title": "토마스 쿠리안 구글 클라우드 CEO가 말하는 '제미나이 에이전트'는?",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%86%a0%eb%a7%88%ec%8a%a4-%ec%bf%a0%eb%a6%ac%ec%95%88-%ea%b5%ac%ea%b8%80-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-ceo%ea%b0%80-%eb%a7%90%ed%95%98%eb%8a%94-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2586%25a0%25eb%25a7%2588%25ec%258a%25a4-%25ec%25bf%25a0%25eb%25a6%25ac%25ec%2595%2588-%25ea%25b5%25ac%25ea%25b8%2580-%25ed%2581%25b4%25eb%259d%25bc%25ec%259a%25b0%25eb%2593%259c-ceo%25ea%25b0%2580-%25eb%25a7%2590%25ed%2595%2598%25eb%258a%2594-%25ec%25a0%259c%25eb%25af%25b8%25eb%2582%2598%25ec%259d%25b4",
+      "thumbnailUrl": null,
+      "author": "김한수 기자",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-13T00:24:25.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "구글 클라우드(Google Cloud)는 미국 현지시간 8일 열린 '제미나이 앳 워크 2026(Gemini at Work 2026)'에서 업무용 범용 AI 에이전트인 '제미나이 에이전트(Gemini agent)'를 공개했다.",
+      "tags": [
+        "tech42",
+        "테크놀로지",
+        "구글 클라우드",
+        "제미나이 앳 워크 2026"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiViOSU4NCVlYyU5YSVhOS05OS0lZWMlYTAlODglZWElYjAlOTAtJWVjJTk4JWE0JWVkJTk0JTg4YWktJWVkJThmJWFkJWVjJWEzJWJjJWVkJTk1JTk4JWViJThhJTk0LWFpLSVlZCU4NiViNSVlYyVhMCU5YyVlZCU5NSVhMC0lZWIlOTQlOTQlZWMlOGIlOWMlZWMlYTAlODQlZWMlOGElYTQtYXBpLSVlYSViMyViNS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS05OS0lMjVlYyUyNWEwJTI1ODglMjVlYSUyNWIwJTI1OTAtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWktJTI1ZWQlMjU4ZiUyNWFkJTI1ZWMlMjVhMyUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LWFpLSUyNWVkJTI1ODYlMjViNSUyNWVjJTI1YTAlMjU5YyUyNWVkJTI1OTUlMjVhMC0lMjVlYiUyNTk0JTI1OTQlMjVlYyUyNThiJTI1OWMlMjVlYyUyNWEwJTI1ODQlMjVlYyUyNThhJTI1YTQtYXBpLSUyNWVhJTI1YjMlMjViNQ",
@@ -3227,23 +3309,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMi8xMTQ1NzQ1L2RhaXN5LWRlbnQtZWNvbG9naXN0LXJldmVhbGluZy1pbnZpc2libGUtbmV0d29ya3MtcmV2aXZlLXJhaW5mb3Jlc3RzLw",
-      "title": "The ecologist revealing the invisible networks that revive rainforests",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/12/1145745/daisy-dent-ecologist-revealing-invisible-networks-revive-rainforests/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9wZXJzb25hbC1kYXktNC8",
+      "title": "Personal Day",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/personal-day-4/",
       "thumbnailUrl": null,
-      "author": "Matthew Ponsford",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-12T09:00:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-12T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "In a research station in central Panama, you can walk through a century of forest time, watching scrubby plots of adolescent trees give way to cathedral-­like canopies of mature growth. Forest ecologist Daisy Dent, a senior scientist at ETH",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Personal Day — No Update",
       "tags": [
-        "mit-technology-review",
-        "climate change and energy",
-        "app"
+        "stratechery",
+        "daily update"
       ],
       "isNew": true
     },
@@ -4214,6 +4295,28 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2dwdC02LSVlYyU5ZSVhMSVlYyU5YyViYyVlYiVhMCVhNC0zLTUtJWVhJWIxJWI0JWViJTg0JTg4JWViJTliJWIwJWVjJTk3JTg4JWViJThiJWE0JWVhJWI1JWFjJWVhJWI4JTgwLSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC00LSVlYyU5NSU4NCVlYiVhNSViNCVlYSViMyVhNC0lZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1ncHQtNi0lMjVlYyUyNTllJTI1YTElMjVlYyUyNTljJTI1YmMlMjVlYiUyNWEwJTI1YTQtMy01LSUyNWVhJTI1YjElMjViNCUyNWViJTI1ODQlMjU4OCUyNWViJTI1OWIlMjViMCUyNWVjJTI1OTclMjU4OCUyNWViJTI1OGIlMjVhNCUyNWVhJTI1YjUlMjVhYyUyNWVhJTI1YjglMjU4MC0lMjVlYyUyNWEwJTI1OWMlMjVlYiUyNWFmJTI1YjglMjVlYiUyNTgyJTI1OTglMjVlYyUyNTlkJTI1YjQtNC0lMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE1JTI1YjQlMjVlYSUyNWIzJTI1YTQtJTI1ZWMlMjVhMCUyNTg0",
+      "title": "\"GPT-6 잡으려 3.5 건너뛰었다\"…구글, '제미나이 4 아르곤' 전격 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/gpt-6-%ec%9e%a1%ec%9c%bc%eb%a0%a4-3-5-%ea%b1%b4%eb%84%88%eb%9b%b0%ec%97%88%eb%8b%a4%ea%b5%ac%ea%b8%80-%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4-4-%ec%95%84%eb%a5%b4%ea%b3%a4-%ec%a0%84/?utm_source=rss&utm_medium=rss&utm_campaign=gpt-6-%25ec%259e%25a1%25ec%259c%25bc%25eb%25a0%25a4-3-5-%25ea%25b1%25b4%25eb%2584%2588%25eb%259b%25b0%25ec%2597%2588%25eb%258b%25a4%25ea%25b5%25ac%25ea%25b8%2580-%25ec%25a0%259c%25eb%25af%25b8%25eb%2582%2598%25ec%259d%25b4-4-%25ec%2595%2584%25eb%25a5%25b4%25ea%25b3%25a4-%25ec%25a0%2584",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-10-14T01:10:39.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "구글(Google)이 최신 인공지능(AI) 모델 '지미나이 4 아르곤(Gemini 4 Argon)'을 유료 구독자와 개발자를 대상으로 공식 출시했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "gpt-6",
+        "구글"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJTk1JWI0JWVhJWI1JWIwLSVlZCU5NSVhOCVlYyVhMCU5NSVlYyU5NyU5MC1haS0lZWMlYjAlYjglZWIlYWElYTglYzIlYjclZWIlYjAlOTQlZWMlOWQlYjQlZWMlOTglYTQtY3hsLSVlYyU4YiVhNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWQlMjU5NSUyNWI0JTI1ZWElMjViNSUyNWIwLSUyNWVkJTI1OTUlMjVhOCUyNWVjJTI1YTAlMjU5NSUyNWVjJTI1OTclMjU5MC1haS0lMjVlYyUyNWIwJTI1YjglMjVlYiUyNWFhJTI1YTglMjVjMiUyNWI3JTI1ZWIlMjViMCUyNTk0JTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5OCUyNWE0LWN4bC0lMjVlYyUyNThiJTI1YTQ",
@@ -6246,108 +6349,6 @@
         "ai요약",
         "ai저승사자",
         "메타"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiU4MiU5OCVlYiU4ZCViOCVlYiU5ZCViYyVlYyU5ZCU5OC1haS0lZWElYjIlYmQlZWElYjMlYTAtJWVjJTk1JThjJWVhJWIzJWEwLSVlYiViMyViNCVlYiU4YiU4OC0lZWMlOTUlYTAlZWMlYTAlODAtJWVkJTk5JThkJWViJWIzJWI0JWVjJTk4JTgwJWViJThiJWE0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU4ZCUyNWI4JTI1ZWIlMjU5ZCUyNWJjJTI1ZWMlMjU5ZCUyNTk4LWFpLSUyNWVhJTI1YjIlMjViZCUyNWVhJTI1YjMlMjVhMC0lMjVlYyUyNTk1JTI1OGMlMjVlYSUyNWIzJTI1YTAtJTI1ZWIlMjViMyUyNWI0JTI1ZWIlMjU4YiUyNTg4LSUyNWVjJTI1OTUlMjVhMCUyNWVjJTI1YTAlMjU4MC0lMjVlZCUyNTk5JTI1OGQlMjVlYiUyNWIzJTI1YjQlMjVlYyUyNTk4JTI1ODAlMjVlYiUyNThiJTI1YTQ",
-      "title": "나델라의 AI 경고, 알고 보니 애저 홍보였다",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%82%98%eb%8d%b8%eb%9d%bc%ec%9d%98-ai-%ea%b2%bd%ea%b3%a0-%ec%95%8c%ea%b3%a0-%eb%b3%b4%eb%8b%88-%ec%95%a0%ec%a0%80-%ed%99%8d%eb%b3%b4%ec%98%80%eb%8b%a4/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2582%2598%25eb%258d%25b8%25eb%259d%25bc%25ec%259d%2598-ai-%25ea%25b2%25bd%25ea%25b3%25a0-%25ec%2595%258c%25ea%25b3%25a0-%25eb%25b3%25b4%25eb%258b%2588-%25ec%2595%25a0%25ec%25a0%2580-%25ed%2599%258d%25eb%25b3%25b4%25ec%2598%2580%25eb%258b%25a4",
-      "thumbnailUrl": null,
-      "author": "김광우 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-07-14T21:59:11.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "여러분은 사실상 인공지능에 두 번 비용을 지불하고 있는 셈이다. 한 번은 돈으로, 그리고 또 한 번은 그 지능을 유용하게 만들기 위해 반드시 밝혀야 하는 훨씬 더 가치 있는 자산인 '독점적 지식'으로 말이다.",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "마이크로소프트",
-        "사티아 나델라"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
-      "title": "Choosing to Stay Human",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-05-26T19:56:01.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
-      "title": "The Shape of the Thing",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-12T14:10:07.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Where we are right now, and what likely happens next",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMi8xMTQ2Mzc2L3RoZS1kb3dubG9hZC1tb29uLWNpdHktZHJvbmUtYWlyLXRyYWZmaWMtY29udHJvbGxlcnMv",
-      "title": "The Download: moon city problems and drone traffic controllers",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/12/1146376/the-download-moon-city-drone-air-traffic-controllers/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-12T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Mars may be a hellhole, but the moon is not far behind The US and China are racing to build bases on t",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtYTE2ei0lZWQlOTUlOWMlZWElYjUlYWQtYWktJWVhJWI4JWIwJWVjJTk3JTg1LSVlZCU5OCU5MSVlYiVhMCVhNS0lZWIlYWElYTglZWMlODMlODklZWIlYWElYTglZWIlYjklOGMlZWQlODUlOGMlZWQlODElYWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LWExNnotJTI1ZWQlMjU5NSUyNTljJTI1ZWElMjViNSUyNWFkLWFpLSUyNWVhJTI1YjglMjViMCUyNWVjJTI1OTclMjU4NS0lMjVlZCUyNTk4JTI1OTElMjVlYiUyNWEwJTI1YTUtJTI1ZWIlMjVhYSUyNWE4JTI1ZWMlMjU4MyUyNTg5JTI1ZWIlMjVhYSUyNWE4JTI1ZWIlMjViOSUyNThjJTI1ZWQlMjU4NSUyNThjJTI1ZWQlMjU4MSUyNWFj",
-      "title": "[스타트업 안테나] a16z, 한국 AI 기업 협력 모색…모빌테크 국방 AX·그렙 AI 채용평가 확대",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-a16z-%ed%95%9c%ea%b5%ad-ai-%ea%b8%b0%ec%97%85-%ed%98%91%eb%a0%a5-%eb%aa%a8%ec%83%89%eb%aa%a8%eb%b9%8c%ed%85%8c%ed%81%ac/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-a16z-%25ed%2595%259c%25ea%25b5%25ad-ai-%25ea%25b8%25b0%25ec%2597%2585-%25ed%2598%2591%25eb%25a0%25a5-%25eb%25aa%25a8%25ec%2583%2589%25eb%25aa%25a8%25eb%25b9%258c%25ed%2585%258c%25ed%2581%25ac",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-12T00:39:24.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "12일 글로벌 벤처캐피털의 인공지능(AI) 인프라 투자부터 국방·금융·채용 분야의 AI 기술 적용까지 국내 스타트업 생태계의 사업 확장 움직임이 이어지고 있다. 글로벌 벤처캐피털 앤드리슨 호로위츠(a16z)는 11억 달러 규모의 AI 하드웨어 전문 펀드 조성을 계기로 한국을 방문해 반도체·로보틱스 기업들과 협력 기회를 모색한다. 모빌테크는 국방과학연구소와 군용 무인자율차량의 가상 시험평가 플랫폼 구축에 나섰으며, 그렙은 AI ",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "고스트패스",
-        "구루이엔티"
       ],
       "isNew": true
     }
