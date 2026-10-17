@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-10-16T00:51:27.199Z",
+  "fetchedAt": "2026-10-17T00:52:16.966Z",
   "todayPickIds": [
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLWNvbnZlcnNhdGlvbi13aXRoLWFyaS1lbWFudWVsLWFib3V0LWVudGVydGFpbm1lbnQtYW5kLWFpLw",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLXByZXNlbnQtZWF0cy10aGUtZnV0dXJl",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9ob21lLWF0LWxhc3Qv",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhMCU5NSVlYiViNiU4MC0lZWMlODIlYWMlZWMlOWQlYjQlZWQlOGElYjgtJWVkJTk1JWI0JWVkJTgyJWI5JWVjJTk3JTkwLSVlZCU5NyU4OCVlYyU5YyU4NC0lZWMlODIlYjQlZWMlOWQlYjgtJWVjJWEwJTljJWViJWIzJWI0JWVhJWI5JThjJWVjJWE3JTgwLSVlNyViZSU4ZS1mdGMtJWVjJTk4JWE0JWVkJTk0JTg4YWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWEwJTI1OTUlMjVlYiUyNWI2JTI1ODAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YSUyNWI4LSUyNWVkJTI1OTUlMjViNCUyNWVkJTI1ODIlMjViOSUyNWVjJTI1OTclMjU5MC0lMjVlZCUyNTk3JTI1ODglMjVlYyUyNTljJTI1ODQtJTI1ZWMlMjU4MiUyNWI0JTI1ZWMlMjU5ZCUyNWI4LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YjMlMjViNCUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlNyUyNWJlJTI1OGUtZnRjLSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFp",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNS8xMTQ2NzU1L3RoZS1kb3dubG9hZC1yZXZpdmluZy1mcm96ZW4tcGlnLWtpZG5leXMtYm9vc3RpbmctbnVjbGVhci1wb3dlci8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtd2UtY2FuLXNhdmUtaW4tYS10aW1lLW9mLWVuZGluZ3M",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzEyL2ltcG9ydC1haS00NzYtY3JlYXRpdml0eS1hbmQtcnNpLXdvcnNlLXRoYW4tY2hpbmEtb3Blbi13ZWlnaHQtbW9kZWxzLWFpLWdvZXMtdG8tc3BhY2Uv"
   ],
   "sourceCount": 9,
@@ -28,27 +28,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLWNvbnZlcnNhdGlvbi13aXRoLWFyaS1lbWFudWVsLWFib3V0LWVudGVydGFpbm1lbnQtYW5kLWFpLw",
-      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-15T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 115,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvbWFuYWdlbWVudC1hcy1haS1zdXBlcnBvd2Vy",
@@ -167,6 +146,27 @@
         "artificial intelligence",
         "app",
         "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLWNvbnZlcnNhdGlvbi13aXRoLWFyaS1lbWFudWVsLWFib3V0LWVudGVydGFpbm1lbnQtYW5kLWFpLw",
+      "title": "A Conversation With Ari Emanuel About Entertainment and AI",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-15T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 111,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "A conversation with Hollywood super-agent Ari Emanuel about his memoir, the impact of AI on Hollywood, and the power of a phone call.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
       ],
       "isNew": true
     },
@@ -976,26 +976,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYnV5cy1tb3JlLXNwZWN0cnVtLW11c2stYW5kLW1hcmtldC1zdHJ1Y3R1cmUtZGlzdHJpYnV0ZWQtY2VsbHVsYXIv",
-      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-10-13T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8zMC8xMTQ1MzM5L3dlcmUtbm90LWdvaW5nLXRvLXNob290LW91cnNlbHZlcy1pbi10aGUtZm9vdC1vdmVyLWh1Z2dpbmctZmFjZS1zYXlzLW9wZW5haXMtY2hpZWYtcmVzZWFyY2gtb2ZmaWNlci8",
       "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
       "source": "MIT Technology Review",
@@ -1565,24 +1545,43 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhMCU5NSVlYiViNiU4MC0lZWMlODIlYWMlZWMlOWQlYjQlZWQlOGElYjgtJWVkJTk1JWI0JWVkJTgyJWI5JWVjJTk3JTkwLSVlZCU5NyU4OCVlYyU5YyU4NC0lZWMlODIlYjQlZWMlOWQlYjgtJWVjJWEwJTljJWViJWIzJWI0JWVhJWI5JThjJWVjJWE3JTgwLSVlNyViZSU4ZS1mdGMtJWVjJTk4JWE0JWVkJTk0JTg4YWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWEwJTI1OTUlMjVlYiUyNWI2JTI1ODAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YSUyNWI4LSUyNWVkJTI1OTUlMjViNCUyNWVkJTI1ODIlMjViOSUyNWVjJTI1OTclMjU5MC0lMjVlZCUyNTk3JTI1ODglMjVlYyUyNTljJTI1ODQtJTI1ZWMlMjU4MiUyNWI0JTI1ZWMlMjU5ZCUyNWI4LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YjMlMjViNCUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlNyUyNWJlJTI1OGUtZnRjLSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFp",
-      "title": "\"정부 사이트 해킹에 허위 살인 제보까지\"… 美 FTC, 오픈AI·앤트로픽 전격 조사",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%a0%95%eb%b6%80-%ec%82%ac%ec%9d%b4%ed%8a%b8-%ed%95%b4%ed%82%b9%ec%97%90-%ed%97%88%ec%9c%84-%ec%82%b4%ec%9d%b8-%ec%a0%9c%eb%b3%b4%ea%b9%8c%ec%a7%80-%e7%be%8e-ftc-%ec%98%a4%ed%94%88ai/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2595%25eb%25b6%2580-%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8-%25ed%2595%25b4%25ed%2582%25b9%25ec%2597%2590-%25ed%2597%2588%25ec%259c%2584-%25ec%2582%25b4%25ec%259d%25b8-%25ec%25a0%259c%25eb%25b3%25b4%25ea%25b9%258c%25ec%25a7%2580-%25e7%25be%258e-ftc-%25ec%2598%25a4%25ed%2594%2588ai",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-16T00:06:03.000Z",
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
       "readingMinutes": 4,
       "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "미국 연방거래위원회(FTC)가 최근 잇따른 인공지능(AI) 안전성 결함 사고와 관련해 오픈아이(OpenAI)와 앤트로픽(Anthropic)에 정보 제출을 요구하는 민사 소환장을 발부하고 본격적인 조사에 착수했다.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic virus",
       "tags": [
-        "tech42",
-        "ai요약",
-        "ftc",
-        "앤트로픽"
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLXByZXNlbnQtZWF0cy10aGUtZnV0dXJl",
+      "title": "When The Present Eats The Future",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/when-the-present-eats-the-future",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-16T15:50:05.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post When The Present Eats The Future appeared first on NOEMA.",
+      "tags": [
+        "noema"
       ],
       "isNew": true
     },
@@ -2610,26 +2609,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNS8xMTQ2NzU1L3RoZS1kb3dubG9hZC1yZXZpdmluZy1mcm96ZW4tcGlnLWtpZG5leXMtYm9vc3RpbmctbnVjbGVhci1wb3dlci8",
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-15T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled ",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMy8xMTQ2MzY2L29wZW4tbW9kZWxzLWhhdmUtcmVhbC1iZW5lZml0cy1kby10aGV5LW91dHdlaWdoLXRoZS1yaXNrcy8",
       "title": "Open models have real benefits. Do they outweigh the risks?",
       "source": "MIT Technology Review",
@@ -3292,28 +3271,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNS8xMTQ2MDkxL3BpZy1raWRuZXlzLXRoYXQtd2VyZS1mcm96ZW4tZm9yLWEteWVhci1oYXZlLWJlZW4tYnJvdWdodC1iYWNrLXRvLWxpZmUv",
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-15T08:43:24.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which ",
-      "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1ob21ldmlldy10aGUtbmV3LWFwcGxlLXR2LXRoZS1hcHAtc3Rvcnkv",
       "title": "Apple HomeView, The New Apple TV, The App Story",
       "source": "Stratechery",
@@ -3330,25 +3287,6 @@
       "tags": [
         "stratechery",
         "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2FuLWluc2lkZS1sb29rLWF0LWhvdy10by10YW1lLXVuc3RvcHBhYmxlLWFp",
-      "title": "An Inside Look At How To Tame Unstoppable AI",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
-      "thumbnailUrl": null,
-      "author": "Anna August",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-13T16:45:20.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post An Inside Look At How To Tame Unstoppable AI appeared first on NOEMA.",
-      "tags": [
-        "noema"
       ],
       "isNew": false
     },
@@ -3765,6 +3703,26 @@
         "mit technology review explains"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zcGFjZXgtYnV5cy1tb3JlLXNwZWN0cnVtLW11c2stYW5kLW1hcmtldC1zdHJ1Y3R1cmUtZGlzdHJpYnV0ZWQtY2VsbHVsYXIv",
+      "title": "SpaceX Buys More Spectrum, Musk and Market Structure, Distributed Cellular",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/spacex-buys-more-spectrum-musk-and-market-structure-distributed-cellular/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "SpaceX's mobile strategy is becoming clearly with its latest spectrum purchase, and it might work.",
+      "tags": [
+        "stratechery",
+        "daily update"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1hbmQtbGctdGhlLWhvdXNlLWZvci1ldmVyeW9uZS1lbHNlLWFnZW50LXN0YW5kYXJkcy1hbmQtYW1hem9uLw",
@@ -4402,65 +4360,44 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtYWktJWViJThkJWIwJWVjJTlkJWI0JWVkJTg0JWIwJWVjJTg0JWJjJWVkJTg0JWIwLSVlZCU5OCU5MSVlYiVhMCVhNSVjMiViNyVlYiVhMSU5YyVlYiViNCU4Ny0lZWIlYWElYTglZWQlODQlYjAtJWVhJWIzJWI1JWViJThmJTk5Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC1haS0lMjVlYiUyNThkJTI1YjAlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNTg0JTI1YjAlMjVlYyUyNTg0JTI1YmMlMjVlZCUyNTg0JTI1YjAtJTI1ZWQlMjU5OCUyNTkxJTI1ZWIlMjVhMCUyNWE1JTI1YzIlMjViNyUyNWViJTI1YTElMjU5YyUyNWViJTI1YjQlMjU4Ny0lMjVlYiUyNWFhJTI1YTglMjVlZCUyNTg0JTI1YjAtJTI1ZWElMjViMyUyNWI1JTI1ZWIlMjU4ZiUyNTk5",
-      "title": "[스타트업 안테나] AI 데이터센터 협력·로봇 모터 공동연구 확대…큐닷 거래액 100억원·두호 매출 268% 성장",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%ed%98%91%eb%a0%a5%c2%b7%eb%a1%9c%eb%b4%87-%eb%aa%a8%ed%84%b0-%ea%b3%b5%eb%8f%99/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-ai-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0-%25ed%2598%2591%25eb%25a0%25a5%25c2%25b7%25eb%25a1%259c%25eb%25b4%2587-%25eb%25aa%25a8%25ed%2584%25b0-%25ea%25b3%25b5%25eb%258f%2599",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9ob21lLWF0LWxhc3Qv",
+      "title": "2026.42: Home At Last",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/home-at-last/",
       "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-16T00:26:31.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-16T17:42:42.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "16일 국내 스타트업과 중소기업들이 인공지능(AI), 로봇, 바이오, 보안 등 다양한 분야에서 기술 경쟁력 확보와 사업화에 속도를 내고 있다. 대규모 AI 데이터센터 구축을 위한 협력부터 해외 연구기관과의 공동개발, 글로벌 시장을 겨냥한 제품 경쟁력 확보까지 성장 전략도 다양해지는 모습이다.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
       "tags": [
-        "tech42",
-        "스타트업",
-        "누빈다",
-        "바이옴에이츠"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhNyVhNS0yJWViJThjJTgwJWViJWExJTljLSVlYyU4YSU4OCVlZCU4ZCViYyVlYyViYiViNC0lZWElYjUlYWMlZWQlOTglODQtJWViJWE5JTk0JWVkJTgzJTgwLTF0Yi0lZWElYjQlYjQlZWIlYWMlYmMtYWktJWViJWFlJWE0JWVjJWE2JTg4LSVlYyU4YSVhNCVlZCU4YyU4YyVlZCU4MSVhYy0lZWElYjMlYjUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYiUyNWE3JTI1YTUtMiUyNWViJTI1OGMlMjU4MCUyNWViJTI1YTElMjU5Yy0lMjVlYyUyNThhJTI1ODglMjVlZCUyNThkJTI1YmMlMjVlYyUyNWJiJTI1YjQtJTI1ZWElMjViNSUyNWFjJTI1ZWQlMjU5OCUyNTg0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0xdGItJTI1ZWElMjViNCUyNWI0JTI1ZWIlMjVhYyUyNWJjLWFpLSUyNWViJTI1YWUlMjVhNCUyNWVjJTI1YTYlMjU4OC0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNThjJTI1OGMlMjVlZCUyNTgxJTI1YWMtJTI1ZWElMjViMyUyNWI1",
-      "title": "맥 2대로 슈퍼컴 구현?… 메타, 1TB 괴물 AI '뮤즈 스파크' 공개",
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhMCU5NSVlYiViNiU4MC0lZWMlODIlYWMlZWMlOWQlYjQlZWQlOGElYjgtJWVkJTk1JWI0JWVkJTgyJWI5JWVjJTk3JTkwLSVlZCU5NyU4OCVlYyU5YyU4NC0lZWMlODIlYjQlZWMlOWQlYjgtJWVjJWEwJTljJWViJWIzJWI0JWVhJWI5JThjJWVjJWE3JTgwLSVlNyViZSU4ZS1mdGMtJWVjJTk4JWE0JWVkJTk0JTg4YWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWEwJTI1OTUlMjVlYiUyNWI2JTI1ODAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YSUyNWI4LSUyNWVkJTI1OTUlMjViNCUyNWVkJTI1ODIlMjViOSUyNWVjJTI1OTclMjU5MC0lMjVlZCUyNTk3JTI1ODglMjVlYyUyNTljJTI1ODQtJTI1ZWMlMjU4MiUyNWI0JTI1ZWMlMjU5ZCUyNWI4LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YjMlMjViNCUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlNyUyNWJlJTI1OGUtZnRjLSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFp",
+      "title": "\"정부 사이트 해킹에 허위 살인 제보까지\"… 美 FTC, 오픈AI·앤트로픽 전격 조사",
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%eb%a7%a5-2%eb%8c%80%eb%a1%9c-%ec%8a%88%ed%8d%bc%ec%bb%b4-%ea%b5%ac%ed%98%84-%eb%a9%94%ed%83%80-1tb-%ea%b4%b4%eb%ac%bc-ai-%eb%ae%a4%ec%a6%88-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ea%b3%b5/?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%25a7%25a5-2%25eb%258c%2580%25eb%25a1%259c-%25ec%258a%2588%25ed%258d%25bc%25ec%25bb%25b4-%25ea%25b5%25ac%25ed%2598%2584-%25eb%25a9%2594%25ed%2583%2580-1tb-%25ea%25b4%25b4%25eb%25ac%25bc-ai-%25eb%25ae%25a4%25ec%25a6%2588-%25ec%258a%25a4%25ed%258c%258c%25ed%2581%25ac-%25ea%25b3%25b5",
+      "articleUrl": "https://www.tech42.co.kr/%ec%a0%95%eb%b6%80-%ec%82%ac%ec%9d%b4%ed%8a%b8-%ed%95%b4%ed%82%b9%ec%97%90-%ed%97%88%ec%9c%84-%ec%82%b4%ec%9d%b8-%ec%a0%9c%eb%b3%b4%ea%b9%8c%ec%a7%80-%e7%be%8e-ftc-%ec%98%a4%ed%94%88ai/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25a0%2595%25eb%25b6%2580-%25ec%2582%25ac%25ec%259d%25b4%25ed%258a%25b8-%25ed%2595%25b4%25ed%2582%25b9%25ec%2597%2590-%25ed%2597%2588%25ec%259c%2584-%25ec%2582%25b4%25ec%259d%25b8-%25ec%25a0%259c%25eb%25b3%25b4%25ea%25b9%258c%25ec%25a7%2580-%25e7%25be%258e-ftc-%25ec%2598%25a4%25ed%2594%2588ai",
       "thumbnailUrl": null,
-      "author": "앨리스",
+      "author": "버트",
       "category": "AI + Korea",
-      "publishedAt": "2026-10-16T00:18:20.000Z",
+      "publishedAt": "2026-10-16T00:06:03.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "메타(Meta)가 8000억 개(800B) 매개변수 규모의 초거대 오픈웨이트(가중치 공개) 인공지능(AI) 모델 '뮤즈 스파크 오픈'을 전격 공개했다.",
+      "excerpt": "미국 연방거래위원회(FTC)가 최근 잇따른 인공지능(AI) 안전성 결함 사고와 관련해 오픈아이(OpenAI)와 앤트로픽(Anthropic)에 정보 제출을 요구하는 민사 소환장을 발부하고 본격적인 조사에 착수했다.",
       "tags": [
         "tech42",
         "ai요약",
-        "1tb",
-        "맥"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doYXQtd2UtY2FuLXNhdmUtaW4tYS10aW1lLW9mLWVuZGluZ3M",
-      "title": "What We Can Save In A Time Of Endings",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
-      "thumbnailUrl": null,
-      "author": "Kat Hill",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-15T13:25:47.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post What We Can Save In A Time Of Endings appeared first on NOEMA.",
-      "tags": [
-        "noema"
+        "ftc",
+        "앤트로픽"
       ],
       "isNew": true
     },
@@ -6340,6 +6277,64 @@
         "스타트업",
         "글래서돔",
         "글래스돔"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2ODY0L3RoZS1kb3dubG9hZC1mYWlsZWQtc29jaWFsLW1lZGlhLWJhbnMtYW5kLWV4dGVuZGluZy1wZXRzLWxpdmVzLw",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "thumbnailUrl": null,
+      "author": "Charlotte Jee",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-16T12:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bh",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     }
