@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-10-17T00:52:16.966Z",
+  "fetchedAt": "2026-10-18T00:28:18.662Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLXByZXNlbnQtZWF0cy10aGUtZnV0dXJl",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9ob21lLWF0LWxhc3Qv",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLWNvbnZlcnNhdGlvbi13aXRoLWFyaS1lbWFudWVsLWFib3V0LWVudGVydGFpbm1lbnQtYW5kLWFpLw",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyVhMCU5NSVlYiViNiU4MC0lZWMlODIlYWMlZWMlOWQlYjQlZWQlOGElYjgtJWVkJTk1JWI0JWVkJTgyJWI5JWVjJTk3JTkwLSVlZCU5NyU4OCVlYyU5YyU4NC0lZWMlODIlYjQlZWMlOWQlYjgtJWVjJWEwJTljJWViJWIzJWI0JWVhJWI5JThjJWVjJWE3JTgwLSVlNyViZSU4ZS1mdGMtJWVjJTk4JWE0JWVkJTk0JTg4YWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNWEwJTI1OTUlMjVlYiUyNWI2JTI1ODAtJTI1ZWMlMjU4MiUyNWFjJTI1ZWMlMjU5ZCUyNWI0JTI1ZWQlMjU4YSUyNWI4LSUyNWVkJTI1OTUlMjViNCUyNWVkJTI1ODIlMjViOSUyNWVjJTI1OTclMjU5MC0lMjVlZCUyNTk3JTI1ODglMjVlYyUyNTljJTI1ODQtJTI1ZWMlMjU4MiUyNWI0JTI1ZWMlMjU5ZCUyNWI4LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YjMlMjViNCUyNWVhJTI1YjklMjU4YyUyNWVjJTI1YTclMjU4MC0lMjVlNyUyNWJlJTI1OGUtZnRjLSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFp",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzEyL2ltcG9ydC1haS00NzYtY3JlYXRpdml0eS1hbmQtcnNpLXdvcnNlLXRoYW4tY2hpbmEtb3Blbi13ZWlnaHQtbW9kZWxzLWFpLWdvZXMtdG8tc3BhY2Uv"
   ],
@@ -168,7 +168,7 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY28tZXhpc3RlbmNlLWFuZC10aGUtZW5kLW9mLWNvLWludGVsbGlnZW5jZQ",
@@ -1543,47 +1543,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-      "thumbnailUrl": null,
-      "author": "MIT Technology Review",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-16T18:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic virus",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "artificial intelligence"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLXByZXNlbnQtZWF0cy10aGUtZnV0dXJl",
-      "title": "When The Present Eats The Future",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/when-the-present-eats-the-future",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-16T15:50:05.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post When The Present Eats The Future appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU4NiVhMCVlYiVhNyU4OCVlYyU4YSVhNC0lZWMlYmYlYTAlZWIlYTYlYWMlZWMlOTUlODgtJWVhJWI1JWFjJWVhJWI4JTgwLSVlZCU4MSViNCVlYiU5ZCViYyVlYyU5YSViMCVlYiU5MyU5Yy1jZW8lZWElYjAlODAtJWViJWE3JTkwJWVkJTk1JTk4JWViJThhJTk0LSVlYyVhMCU5YyVlYiVhZiViOCVlYiU4MiU5OCVlYyU5ZCViNC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVkJTI1ODYlMjVhMCUyNWViJTI1YTclMjU4OCUyNWVjJTI1OGElMjVhNC0lMjVlYyUyNWJmJTI1YTAlMjVlYiUyNWE2JTI1YWMlMjVlYyUyNTk1JTI1ODgtJTI1ZWElMjViNSUyNWFjJTI1ZWElMjViOCUyNTgwLSUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWElMjViMCUyNWViJTI1OTMlMjU5Yy1jZW8lMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjVhNyUyNTkwJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1YTAlMjU5YyUyNWViJTI1YWYlMjViOCUyNWViJTI1ODIlMjU5OCUyNWVjJTI1OWQlMjViNA",
@@ -3271,26 +3230,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hcHBsZS1ob21ldmlldy10aGUtbmV3LWFwcGxlLXR2LXRoZS1hcHAtc3Rvcnkv",
-      "title": "Apple HomeView, The New Apple TV, The App Story",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/apple-homeview-the-new-apple-tv-the-app-story/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-14T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The Apple Homeview is official, and the question is how big is the addressable market for expensive devices based on subpar AI.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xMy8xMTQ2MzgyL3RoZS1kb3dubG9hZC1vcGVuLW1vZGVscy10cmFkZS1vZmZzLWdlb3RoZXJtYWwtcG93ZXIv",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "source": "MIT Technology Review",
@@ -4360,22 +4299,43 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9ob21lLWF0LWxhc3Qv",
-      "title": "2026.42: Home At Last",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/home-at-last/",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2MjI0L3JvdW5kdGFibGVzLWEtY29udmVyc2F0aW9uLXdpdGgtdGhlLWNyZWF0b3Itb2YtYWktZGVzaWduZWQtdmlydXNlcy8",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-16T17:42:42.000Z",
+      "author": "MIT Technology Review",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-16T18:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of October 12, 2026, including what Apple is doing, SpaceX's appetite, and the title, takes, and the Washington Wizards.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic virus",
       "tags": [
-        "stratechery",
-        "this week in stratechery"
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "artificial intelligence"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tdGhlLXByZXNlbnQtZWF0cy10aGUtZnV0dXJl",
+      "title": "When The Present Eats The Future",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/when-the-present-eats-the-future",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-16T15:50:05.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post When The Present Eats The Future appeared first on NOEMA.",
+      "tags": [
+        "noema"
       ],
       "isNew": true
     },
@@ -4399,7 +4359,7 @@
         "ftc",
         "앤트로픽"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVkJTljJWI0JWViJWExJTljJWVkJThiJWIxJWVjJThhJWE0LTI1MCVlYyU5NiViNS0lZWQlODglYWMlZWMlOWUlOTAtJWVjJTljJWEwJWVjJWI5JTk4JWMyJWI3JWVhJWI3JWI4JWViJWE2JWIwJWViJThiJWE0LSVlYyViNSU5Yy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWQlMjU5YyUyNWI0JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU4YiUyNWIxJTI1ZWMlMjU4YSUyNWE0LTI1MCUyNWVjJTI1OTYlMjViNS0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViOSUyNTk4JTI1YzIlMjViNyUyNWVhJTI1YjclMjViOCUyNWViJTI1YTYlMjViMCUyNWViJTI1OGIlMjVhNC0lMjVlYyUyNWI1JTI1OWM",
@@ -6319,24 +6279,64 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNi8xMTQ2ODY0L3RoZS1kb3dubG9hZC1mYWlsZWQtc29jaWFsLW1lZGlhLWJhbnMtYW5kLWV4dGVuZGluZy1wZXRzLWxpdmVzLw",
-      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xNS8xMTQ2NzU1L3RoZS1kb3dubG9hZC1yZXZpdmluZy1mcm96ZW4tcGlnLWtpZG5leXMtYm9vc3RpbmctbnVjbGVhci1wb3dlci8",
+      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
       "thumbnailUrl": null,
-      "author": "Charlotte Jee",
+      "author": "Thomas Macaulay",
       "category": "AI + Society",
-      "publishedAt": "2026-10-16T12:10:00.000Z",
+      "publishedAt": "2026-10-15T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 99,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Kids are outsmarting social media bans. That’s not a problem we need to solve. —Michal Luria, Aliya Bh",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled ",
       "tags": [
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw",
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/10/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-icWL54.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-10-05T12:32:30.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How d",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzA5LzI4L2ltcG9ydC1haS00NzQtcGxhdG9uaWMtbWluZHNwYWNlLXRwdXMtaW4tc3BhY2UtemhpcHUtc3RhcnRzLWFuLW91dGVyLXJzaS1sb29wLw",
+      "title": "Import AI 474: Platonic mindspace; TPUs in space; Zhipu starts an outer RSI loop",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/09/28/import-ai-474-platonic-mindspace-tpus-in-space-zhipu-starts-an-outer-rsi-loop/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-owL1ku.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-09-28T12:32:03.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Are minds patterns from a Platonic space, with bodies and ",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
     }
   ]
 }
