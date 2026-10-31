@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-10-30T02:12:33.669Z",
+  "fetchedAt": "2026-10-31T01:55:13.897Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTgyJTk4JWViJTg1JWI4JWVkJThmJWFjJWVjJWE3JTgwYWktMTQ2JWVjJTk2JWI1JWVjJTliJTkwLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOWMlYTAlZWMlYjklOTglYzIlYjclZWQlODUlOGMlZWQlODElYWMlZWQlODMlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1ODIlMjU5OCUyNWViJTI1ODUlMjViOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1YTclMjU4MGFpLTE0NiUyNWVjJTI1OTYlMjViNSUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViOSUyNTk4JTI1YzIlMjViNyUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYyUyNWVkJTI1ODMlMjU4MA",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zZWRpbWVudC1vZi1jdWx0dXJlLXNoYXBlcy1wb2xpdGljYWwtb3JkZXI",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWFudGhyb3BpY3Mtcy0xLWFuZC13aGF0LWl0LW1lYW5zLWZvci1tZXRhLWFuZC1tdXNlLXlvdS1jYW4tc2VlLWV2ZXJ5dGhpbmctYW5kLWJyZXdlcnMv",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1wYWxhbnRpci1jdG8tc2h5YW0tc2Fua2FyLWFib3V0LXRoZS1haS1yZWxpZ2lvdXMtd2FyLw",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2EtbmV3LWRhd24tZm9yLW1hdGhlbWF0aWNhbC1wcm9ncmVzcw",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWI4JTk0JWViJWEzJWE4JWVkJThmJWFjJWVjJTlkJWI4JWVkJThhJWI4LSVlYyU4NiU4YyVlYiU4NSViOCVlYyViYyU4MCVlYyU5NiViNCVlYiU5ZSVhOS0lZWMlOGIlOWMlZWIlOTMlOWMlZWQlODglYWMlZWMlOWUlOTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjglMjU5NCUyNWViJTI1YTMlMjVhOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1OWQlMjViOCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNTg2JTI1OGMlMjVlYiUyNTg1JTI1YjglMjVlYyUyNWJjJTI1ODAlMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTllJTI1YTktJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU5MyUyNTljJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkw",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzI2L2ltcG9ydC1haS00NzgtbWF0aC1mb3ItYWxpZ25tZW50LXByb2dyYW1iZW5jaC1hbmQtbWlyZW5kaWwtc2hvd3Mtd2hhdC1yc2ktbWVhbnMv"
   ],
   "sourceCount": 9,
@@ -208,28 +208,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
-      "thumbnailUrl": null,
-      "author": "Madhulika Srikumar, Claire Leibowicz",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-29T10:11:12.000Z",
-      "readingMinutes": 4,
-      "score": 110,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same t",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8wOS8wOC8xMTQzNzQ3L3doYXQtb3BlbmFpcy1sYXRlc3QtY29udHJvdmVyc3ktdGVsbHMtdXMtYWJvdXQtdGhlLWZ1dHVyZS1vZi1tYXRoLw",
@@ -804,23 +782,45 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1wYWxhbnRpci1jdG8tc2h5YW0tc2Fua2FyLWFib3V0LXRoZS1haS1yZWxpZ2lvdXMtd2FyLw",
-      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWFudGhyb3BpY3Mtcy0xLWFuZC13aGF0LWl0LW1lYW5zLWZvci1tZXRhLWFuZC1tdXNlLXlvdS1jYW4tc2VlLWV2ZXJ5dGhpbmctYW5kLWJyZXdlcnMv",
+      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
       "tags": [
         "stratechery",
         "daily update",
-        "interviews"
+        "sharp tech video"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+      "thumbnailUrl": null,
+      "author": "Madhulika Srikumar, Claire Leibowicz",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-29T10:11:12.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same t",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
       ],
       "isNew": true
     },
@@ -1671,26 +1671,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODMwL3RoZS1kb3dubG9hZC1tb25pdG9yaW5nLWFpLWFnZW50cy1jbGltYXRlLWZlZWRiYWNrLWxvb3BzLw",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-29T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Le",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4MiVhYyVlYyU5ZSVhNSVlYiU4ZiU4NC0lZWMlYTclODElZWMlOWIlOTAlZWIlOGYlODQtYWklZWIlYWYlYjgtJWViJThkJWI4JWViJTlkJWJjJWVjJTliJWE4JWVjJTk2JWI0LSVlYyU4NCViOCVlYSViMyU4NC0lZWMlYjUlOWMlZWMlYjQlODgtYWktJWViJWIyJTk1JWVjJTlkJWI4LSVlYyViNiU5NC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWUlMjVhNSUyNWViJTI1OGYlMjU4NC0lMjVlYyUyNWE3JTI1ODElMjVlYyUyNTliJTI1OTAlMjVlYiUyNThmJTI1ODQtYWklMjVlYiUyNWFmJTI1YjgtJTI1ZWIlMjU4ZCUyNWI4JTI1ZWIlMjU5ZCUyNWJjJTI1ZWMlMjU5YiUyNWE4JTI1ZWMlMjU5NiUyNWI0LSUyNWVjJTI1ODQlMjViOCUyNWVhJTI1YjMlMjU4NC0lMjVlYyUyNWI1JTI1OWMlMjVlYyUyNWI0JTI1ODgtYWktJTI1ZWIlMjViMiUyNTk1JTI1ZWMlMjU5ZCUyNWI4LSUyNWVjJTI1YjYlMjU5NA",
@@ -2782,24 +2762,21 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTgyJTk4JWViJTg1JWI4JWVkJThmJWFjJWVjJWE3JTgwYWktMTQ2JWVjJTk2JWI1JWVjJTliJTkwLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOWMlYTAlZWMlYjklOTglYzIlYjclZWQlODUlOGMlZWQlODElYWMlZWQlODMlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1ODIlMjU5OCUyNWViJTI1ODUlMjViOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1YTclMjU4MGFpLTE0NiUyNWVjJTI1OTYlMjViNSUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViOSUyNTk4JTI1YzIlMjViNyUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYyUyNWVkJTI1ODMlMjU4MA",
-      "title": "[스타트업 안테나] 나노포지AI 146억원 투자 유치·테크타카 네이버 물류 수주…한국딥러닝·아이넥스 기술 성과",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%82%98%eb%85%b8%ed%8f%ac%ec%a7%80ai-146%ec%96%b5%ec%9b%90-%ed%88%ac%ec%9e%90-%ec%9c%a0%ec%b9%98%c2%b7%ed%85%8c%ed%81%ac%ed%83%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%2582%2598%25eb%2585%25b8%25ed%258f%25ac%25ec%25a7%2580ai-146%25ec%2596%25b5%25ec%259b%2590-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598%25c2%25b7%25ed%2585%258c%25ed%2581%25ac%25ed%2583%2580",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zZWRpbWVudC1vZi1jdWx0dXJlLXNoYXBlcy1wb2xpdGljYWwtb3JkZXI",
+      "title": "The Sediment Of Culture Shapes Political Order",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-sediment-of-culture-shapes-political-order",
       "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-30T00:58:00.000Z",
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-30T16:53:38.000Z",
       "readingMinutes": 4,
       "score": 103,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "30일 국내 스타트업과 중소기업들이 인공지능(AI) 기술을 기반으로 투자 유치와 사업 수주, 해외시장 진출에 속도를 내고 있다. 소재 개발과 금융업무 자동화, 의료 AI 등 다양한 산업에서 기술의 상용화 가능성을 확인하는 성과가 이어지는 가운데, 주요 플랫폼과의 계약 및 글로벌 기업과의 협력도 확대되는 모습이다.",
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Sediment Of Culture Shapes Political Order appeared first on NOEMA.",
       "tags": [
-        "tech42",
-        "스타트업",
-        "qai",
-        "나노포지에이아이"
+        "noema"
       ],
       "isNew": true
     },
@@ -3510,6 +3487,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1wYWxhbnRpci1jdG8tc2h5YW0tc2Fua2FyLWFib3V0LXRoZS1haS1yZWxpZ2lvdXMtd2FyLw",
+      "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-palantir-cto-shyam-sankar-about-the-ai-religious-war/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-29T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An interview with Palantir CTO Shyam Sankar about AI diffusion and safety, forward-deployed engineer, and what the battle in tech is actually about.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tZXRhLWVhcm5pbmdzLW11c2UtYW5kLXRoZS1mcm9udGllci1tdXNlYm9vay8",
       "title": "Meta Earnings, Muse and the Frontier, Musebook",
       "source": "Stratechery",
@@ -3523,26 +3521,6 @@
       "score": 102,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
       "excerpt": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbnRocm9waWMtcy0xLXRoZS1jb3N0LW9mLWNvbXB1dGUtd2hvLWlzLXBheWluZy8",
-      "title": "Anthropic S-1, The Cost of Compute, Who Is Paying?",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/anthropic-s-1-the-cost-of-compute-who-is-paying/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-27T10:32:57.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Anthropic's IPO is finally here; the core business is very profitable, but competition may eat all of the profits, even as investors are set up for endless dilution.",
       "tags": [
         "stratechery",
         "daily update"
@@ -4663,65 +4641,42 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLzElZWMlYTElYjAtJWVkJThjJThjJWViJTlkJWJjJWViJWFmJWI4JWVkJTg0JWIwLWFpLSVlYSViMCU4MCVlYyVhNCU5MSVlYyViOSU5OC0lZWMlYTAlODQlZWElYjIlYTktJWVhJWIzJWI1JWVhJWIwJTljJWViJWFmJWI4JWVjJThhJWE0JWVkJThhJWI4JWViJTllJTg0LSVlYiViOSU4NSVlZCU4NSU4YyVlZCU4MSVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPTElMjVlYyUyNWExJTI1YjAtJTI1ZWQlMjU4YyUyNThjJTI1ZWIlMjU5ZCUyNWJjJTI1ZWIlMjVhZiUyNWI4JTI1ZWQlMjU4NCUyNWIwLWFpLSUyNWVhJTI1YjAlMjU4MCUyNWVjJTI1YTQlMjU5MSUyNWVjJTI1YjklMjU5OC0lMjVlYyUyNWEwJTI1ODQlMjVlYSUyNWIyJTI1YTktJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjU5ZSUyNTg0LSUyNWViJTI1YjklMjU4NSUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYw",
-      "title": "1조 파라미터 AI 가중치 전격 공개…미스트랄, '빅테크 독점'에 반기",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/1%ec%a1%b0-%ed%8c%8c%eb%9d%bc%eb%af%b8%ed%84%b0-ai-%ea%b0%80%ec%a4%91%ec%b9%98-%ec%a0%84%ea%b2%a9-%ea%b3%b5%ea%b0%9c%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84-%eb%b9%85%ed%85%8c%ed%81%ac/?utm_source=rss&utm_medium=rss&utm_campaign=1%25ec%25a1%25b0-%25ed%258c%258c%25eb%259d%25bc%25eb%25af%25b8%25ed%2584%25b0-ai-%25ea%25b0%2580%25ec%25a4%2591%25ec%25b9%2598-%25ec%25a0%2584%25ea%25b2%25a9-%25ea%25b3%25b5%25ea%25b0%259c%25eb%25af%25b8%25ec%258a%25a4%25ed%258a%25b8%25eb%259e%2584-%25eb%25b9%2585%25ed%2585%258c%25ed%2581%25ac",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hdC1sb25nLWxhc3Qv",
+      "title": "2026.44: At Long Last…",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/at-long-last/",
       "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-30T01:09:22.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-30T17:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "프랑스 인공지능 스타트업 미스트랄 AI(Mistral AI)가 1조 파라미터 규모의 초거대 오픈 AI 모델 '미스트랄 라지 4'의 가중치를 전격 공개했다.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
       "tags": [
-        "tech42",
-        "ai요약",
-        "ai",
-        "미스트랄"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOWMlYjUlZWIlOGIlYTglZWQlOGYlYWQlZWElYjIlYTklZWMlOTUlODQlZWIlYTclODglZWMlYTElYjQtJWVkJTk4JTg0JWVhJWI4JTg4LSVlYyVhNCU4NCVlYyU5NiViNC00MjQlZWMlOTYlYjUlZWIlOGIlYWMlZWIlOWYlYWMtJWVjJWEwJTgxJWVjJTllJTkwLSVlYiU4YSVhYS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPWFpLSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1OWUlMjU5MC0lMjVlYyUyNTljJTI1YjUlMjVlYiUyNThiJTI1YTglMjVlZCUyNThmJTI1YWQlMjVlYSUyNWIyJTI1YTklMjVlYyUyNTk1JTI1ODQlMjVlYiUyNWE3JTI1ODglMjVlYyUyNWExJTI1YjQtJTI1ZWQlMjU5OCUyNTg0JTI1ZWElMjViOCUyNTg4LSUyNWVjJTI1YTQlMjU4NCUyNWVjJTI1OTYlMjViNC00MjQlMjVlYyUyNTk2JTI1YjUlMjVlYiUyNThiJTI1YWMlMjVlYiUyNTlmJTI1YWMtJTI1ZWMlMjVhMCUyNTgxJTI1ZWMlMjU5ZSUyNTkwLSUyNWViJTI1OGElMjVhYQ",
-      "title": "AI 투자 융단폭격…아마존, 현금 줄어 424억달러 '적자 늪'",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/ai-%ed%88%ac%ec%9e%90-%ec%9c%b5%eb%8b%a8%ed%8f%ad%ea%b2%a9%ec%95%84%eb%a7%88%ec%a1%b4-%ed%98%84%ea%b8%88-%ec%a4%84%ec%96%b4-424%ec%96%b5%eb%8b%ac%eb%9f%ac-%ec%a0%81%ec%9e%90-%eb%8a%aa/?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25b5%25eb%258b%25a8%25ed%258f%25ad%25ea%25b2%25a9%25ec%2595%2584%25eb%25a7%2588%25ec%25a1%25b4-%25ed%2598%2584%25ea%25b8%2588-%25ec%25a4%2584%25ec%2596%25b4-424%25ec%2596%25b5%25eb%258b%25ac%25eb%259f%25ac-%25ec%25a0%2581%25ec%259e%2590-%25eb%258a%25aa",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODMwL3RoZS1kb3dubG9hZC1tb25pdG9yaW5nLWFpLWFnZW50cy1jbGltYXRlLWZlZWRiYWNrLWxvb3BzLw",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-10-29T23:47:46.000Z",
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-10-29T12:10:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "아마존이 인공지능 인프라 구축을 위한 막대한 설비투자로 3분기 잉여현금흐름 적자를 기록했다.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Le",
       "tags": [
-        "tech42",
-        "ai요약",
-        "ai 투자",
-        "아마존"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2EtbmV3LWRhd24tZm9yLW1hdGhlbWF0aWNhbC1wcm9ncmVzcw",
-      "title": "A New Dawn For Mathematical Progress",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/a-new-dawn-for-mathematical-progress",
-      "thumbnailUrl": null,
-      "author": "Atoosa Kasirzadeh",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-29T14:31:30.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post A New Dawn For Mathematical Progress appeared first on NOEMA.",
-      "tags": [
-        "noema"
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     },
@@ -4853,7 +4808,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTg0JTljJWVjJTlhJWI4JWViJThjJTgwJWVhJWI4JWIwJWVjJTg4JWEwJWVjJWE3JTgwJWVjJWEzJWJjJWMyJWI3JWVjJTk1JWE0JWVkJThiJTgwJWViJTlmJWFjJWVjJWJkJTk0JWViJWE2JWFjJWVjJTk1JTg0LSVlZCU4OCVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWMlMjU4NCUyNTljJTI1ZWMlMjU5YSUyNWI4JTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjVhMyUyNWJjJTI1YzIlMjViNyUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGIlMjU4MCUyNWViJTI1OWYlMjVhYyUyNWVjJTI1YmQlMjU5NCUyNWViJTI1YTYlMjVhYyUyNWVjJTI1OTUlMjU4NC0lMjVlZCUyNTg4JTI1YWM",
@@ -6347,6 +6302,44 @@
         "앤트로픽"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
     }
   ]
 }
