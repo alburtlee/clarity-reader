@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-10-31T01:55:13.897Z",
+  "fetchedAt": "2026-11-01T01:35:55.506Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zZWRpbWVudC1vZi1jdWx0dXJlLXNoYXBlcy1wb2xpdGljYWwtb3JkZXI",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWFudGhyb3BpY3Mtcy0xLWFuZC13aGF0LWl0LW1lYW5zLWZvci1tZXRhLWFuZC1tdXNlLXlvdS1jYW4tc2VlLWV2ZXJ5dGhpbmctYW5kLWJyZXdlcnMv",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTgyJTk4JWViJTg1JWI4JWVkJThmJWFjJWVjJWE3JTgwYWktMTQ2JWVjJTk2JWI1JWVjJTliJTkwLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOWMlYTAlZWMlYjklOTglYzIlYjclZWQlODUlOGMlZWQlODElYWMlZWQlODMlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1ODIlMjU5OCUyNWViJTI1ODUlMjViOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1YTclMjU4MGFpLTE0NiUyNWVjJTI1OTYlMjViNSUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViOSUyNTk4JTI1YzIlMjViNyUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYyUyNWVkJTI1ODMlMjU4MA",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWI4JTk0JWViJWEzJWE4JWVkJThmJWFjJWVjJTlkJWI4JWVkJThhJWI4LSVlYyU4NiU4YyVlYiU4NSViOCVlYyViYyU4MCVlYyU5NiViNCVlYiU5ZSVhOS0lZWMlOGIlOWMlZWIlOTMlOWMlZWQlODglYWMlZWMlOWUlOTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjglMjU5NCUyNWViJTI1YTMlMjVhOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1OWQlMjViOCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNTg2JTI1OGMlMjVlYiUyNTg1JTI1YjglMjVlYyUyNWJjJTI1ODAlMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTllJTI1YTktJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU5MyUyNTljJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkw",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzI2L2ltcG9ydC1haS00NzgtbWF0aC1mb3ItYWxpZ25tZW50LXByb2dyYW1iZW5jaC1hbmQtbWlyZW5kaWwtc2hvd3Mtd2hhdC1yc2ktbWVhbnMv"
   ],
   "sourceCount": 9,
@@ -782,27 +782,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWFudGhyb3BpY3Mtcy0xLWFuZC13aGF0LWl0LW1lYW5zLWZvci1tZXRhLWFuZC1tdXNlLXlvdS1jYW4tc2VlLWV2ZXJ5dGhpbmctYW5kLWJyZXdlcnMv",
-      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-30T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "sharp tech video"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "source": "MIT Technology Review",
@@ -822,7 +801,7 @@
         "app",
         "artificial intelligence"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzI2L2ltcG9ydC1haS00NzgtbWF0aC1mb3ItYWxpZ25tZW50LXByb2dyYW1iZW5jaC1hbmQtbWlyZW5kaWwtc2hvd3Mtd2hhdC1yc2ktbWVhbnMv",
@@ -2762,25 +2741,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zZWRpbWVudC1vZi1jdWx0dXJlLXNoYXBlcy1wb2xpdGljYWwtb3JkZXI",
-      "title": "The Sediment Of Culture Shapes Political Order",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-sediment-of-culture-shapes-political-order",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-10-30T16:53:38.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Sediment Of Culture Shapes Political Order appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk1JWEwJWViJThiJTg4JWViJWI4JThjJWViJWE2JWJmJWVjJWE3JTgwLSVlYyU4YiU5YyVlYiU5MyU5Yy0lZWQlODglYWMlZWMlOWUlOTAlYzIlYjclZWIlOGQlYjAlZWMlOWQlYjQlZWQlODQlYjAlZWIlYjklODgtYWkvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OTUlMjVhMCUyNWViJTI1OGIlMjU4OCUyNWViJTI1YjglMjU4YyUyNWViJTI1YTYlMjViZiUyNWVjJTI1YTclMjU4MC0lMjVlYyUyNThiJTI1OWMlMjVlYiUyNTkzJTI1OWMtJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkwJTI1YzIlMjViNyUyNWViJTI1OGQlMjViMCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODQlMjViMCUyNWViJTI1YjklMjU4OC1haQ",
       "title": "[스타트업 안테나] 애니브릿지 시드 투자·데이터빈 AI 데이터센터 개발…채널톡 AI 전화 출시·블루포인트 양자기업 美 진출 지원",
       "source": "Tech42",
@@ -3487,6 +3447,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWFudGhyb3BpY3Mtcy0xLWFuZC13aGF0LWl0LW1lYW5zLWZvci1tZXRhLWFuZC1tdXNlLXlvdS1jYW4tc2VlLWV2ZXJ5dGhpbmctYW5kLWJyZXdlcnMv",
+      "title": "Sharp Tech on Video: Anthropic’s S-1 and What It Means for Meta and Muse, You Can See Everything, and Brewers!",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-anthropics-s-1-and-what-it-means-for-meta-and-muse-you-can-see-everything-and-brewers/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-10-30T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "sharp tech video"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1wYWxhbnRpci1jdG8tc2h5YW0tc2Fua2FyLWFib3V0LXRoZS1haS1yZWxpZ2lvdXMtd2FyLw",
       "title": "An Interview with Palantir CTO Shyam Sankar About the AI Religious War",
       "source": "Stratechery",
@@ -3504,26 +3485,6 @@
         "stratechery",
         "daily update",
         "interviews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9tZXRhLWVhcm5pbmdzLW11c2UtYW5kLXRoZS1mcm9udGllci1tdXNlYm9vay8",
-      "title": "Meta Earnings, Muse and the Frontier, Musebook",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/meta-earnings-muse-and-the-frontier-musebook/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-28T10:06:13.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Meta's earnings come in the context of Zuckerberg delivering on his promise; if investors believe in Muse they must support Meta's spending on compute.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -4641,26 +4602,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hdC1sb25nLWxhc3Qv",
-      "title": "2026.44: At Long Last…",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/at-long-last/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-10-30T17:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of October 26, 2026 including Anthropic numbers, the end of the Internet as we know it, and autocracies then and now.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODMwL3RoZS1kb3dubG9hZC1tb25pdG9yaW5nLWFpLWFnZW50cy1jbGltYXRlLWZlZWRiYWNrLWxvb3BzLw",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "source": "MIT Technology Review",
@@ -4678,7 +4619,7 @@
         "mit-technology-review",
         "the download"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWI4JTk0JWViJWEzJWE4JWVkJThmJWFjJWVjJTlkJWI4JWVkJThhJWI4LSVlYyU4NiU4YyVlYiU4NSViOCVlYyViYyU4MCVlYyU5NiViNCVlYiU5ZSVhOS0lZWMlOGIlOWMlZWIlOTMlOWMlZWQlODglYWMlZWMlOWUlOTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1YjglMjU5NCUyNWViJTI1YTMlMjVhOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1OWQlMjViOCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNTg2JTI1OGMlMjVlYiUyNTg1JTI1YjglMjVlYyUyNWJjJTI1ODAlMjVlYyUyNTk2JTI1YjQlMjVlYiUyNTllJTI1YTktJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjU5MyUyNTljJTI1ZWQlMjU4OCUyNWFjJTI1ZWMlMjU5ZSUyNTkw",
@@ -4789,26 +4730,6 @@
         "ai 답변 유튜브 인용 리포트"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOC8xMTQ3NzY3L3RoZS1kb3dubG9hZC1kZWFkLXN0YXJ0dXBzLWZ1ZWxpbmctYWktaW50ZXJzcGVjaWVzLWNvbW11bmljYXRpb24v",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-10-28T12:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding dow",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTg0JTljJWVjJTlhJWI4JWViJThjJTgwJWVhJWI4JWIwJWVjJTg4JWEwJWVjJWE3JTgwJWVjJWEzJWJjJWMyJWI3JWVjJTk1JWE0JWVkJThiJTgwJWViJTlmJWFjJWVjJWJkJTk0JWViJWE2JWFjJWVjJTk1JTg0LSVlZCU4OCVhYy8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWMlMjU4NCUyNTljJTI1ZWMlMjU5YSUyNWI4JTI1ZWIlMjU4YyUyNTgwJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4OCUyNWEwJTI1ZWMlMjVhNyUyNTgwJTI1ZWMlMjVhMyUyNWJjJTI1YzIlMjViNyUyNWVjJTI1OTUlMjVhNCUyNWVkJTI1OGIlMjU4MCUyNWViJTI1OWYlMjVhYyUyNWVjJTI1YmQlMjU5NCUyNWViJTI1YTYlMjVhYyUyNWVjJTI1OTUlMjU4NC0lMjVlZCUyNTg4JTI1YWM",
@@ -6338,6 +6259,87 @@
       "excerpt": "Where we are right now, and what likely happens next",
       "tags": [
         "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zZWRpbWVudC1vZi1jdWx0dXJlLXNoYXBlcy1wb2xpdGljYWwtb3JkZXI",
+      "title": "The Sediment Of Culture Shapes Political Order",
+      "source": "Noema",
+      "sourceUrl": "https://www.noemamag.com/feed/",
+      "articleUrl": "https://www.noemamag.com/the-sediment-of-culture-shapes-political-order",
+      "thumbnailUrl": null,
+      "author": "Nathan Gardels",
+      "category": "Philosophy",
+      "publishedAt": "2026-10-30T16:53:38.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
+      "excerpt": "The post The Sediment Of Culture Shapes Political Order appeared first on NOEMA.",
+      "tags": [
+        "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTgyJTk4JWViJTg1JWI4JWVkJThmJWFjJWVjJWE3JTgwYWktMTQ2JWVjJTk2JWI1JWVjJTliJTkwLSVlZCU4OCVhYyVlYyU5ZSU5MC0lZWMlOWMlYTAlZWMlYjklOTglYzIlYjclZWQlODUlOGMlZWQlODElYWMlZWQlODMlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWViJTI1ODIlMjU5OCUyNWViJTI1ODUlMjViOCUyNWVkJTI1OGYlMjVhYyUyNWVjJTI1YTclMjU4MGFpLTE0NiUyNWVjJTI1OTYlMjViNSUyNWVjJTI1OWIlMjU5MC0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAtJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViOSUyNTk4JTI1YzIlMjViNyUyNWVkJTI1ODUlMjU4YyUyNWVkJTI1ODElMjVhYyUyNWVkJTI1ODMlMjU4MA",
+      "title": "[스타트업 안테나] 나노포지AI 146억원 투자 유치·테크타카 네이버 물류 수주…한국딥러닝·아이넥스 기술 성과",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%82%98%eb%85%b8%ed%8f%ac%ec%a7%80ai-146%ec%96%b5%ec%9b%90-%ed%88%ac%ec%9e%90-%ec%9c%a0%ec%b9%98%c2%b7%ed%85%8c%ed%81%ac%ed%83%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%2582%2598%25eb%2585%25b8%25ed%258f%25ac%25ec%25a7%2580ai-146%25ec%2596%25b5%25ec%259b%2590-%25ed%2588%25ac%25ec%259e%2590-%25ec%259c%25a0%25ec%25b9%2598%25c2%25b7%25ed%2585%258c%25ed%2581%25ac%25ed%2583%2580",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-10-30T00:58:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "30일 국내 스타트업과 중소기업들이 인공지능(AI) 기술을 기반으로 투자 유치와 사업 수주, 해외시장 진출에 속도를 내고 있다. 소재 개발과 금융업무 자동화, 의료 AI 등 다양한 산업에서 기술의 상용화 가능성을 확인하는 성과가 이어지는 가운데, 주요 플랫폼과의 계약 및 글로벌 기업과의 협력도 확대되는 모습이다.",
+      "tags": [
+        "tech42",
+        "스타트업",
+        "qai",
+        "나노포지에이아이"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzE5L2ltcG9ydC1haS00NzctaW4td2hpY2gtaS10ZWxsLXRoZS1pbWYtdGhlLXNpbmd1bGFyaXR5LWhhcy1iZWd1bi8",
+      "title": "Import AI 477: In which I tell the IMF the Singularity has begun",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/10/19/import-ai-477-in-which-i-tell-the-imf-the-singularity-has-begun/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/10/bab50107-8241-4342-a473-f546f17cf9a4_1826x1084-cJNAZg.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-10-19T12:31:37.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Here’s a speech I gave on Saturday the 17th of October at ",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzEwLzA1L2ltcG9ydC1haS00NzUtc3dhcm0tc2NhbGluZy1nb29nbGUtZGVlcG1pbmQtd2F0ZXJtYXJrcy1iaW9sb2d5LWFuZC10aGUtYWktc2NpZW5jZS1lY29ub215Lw",
+      "title": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science economy",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/10/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-icWL54.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-10-05T12:32:30.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now When should you use swarms? When you are in a hurry:…How d",
+      "tags": [
+        "import-ai",
+        "uncategorized"
       ],
       "isNew": false
     }
