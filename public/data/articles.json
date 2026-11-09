@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-08T01:56:05.453Z",
+  "fetchedAt": "2026-11-09T02:09:53.157Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4ZSU5OCVlYyU5ZCViNCVlYyU4YSVhNHgtYWktJWVhJWI3JWI4JWViJWExJTlkJWViJWI0JTg3LSVlYyVhMCU4MSVlYyU5YSVhOS0lZWMlOWElOTQlZWElYjglODglZWMlYTAlOWMtJWViJThjJTgwJWVkJThmJWFkLSVlZCU5OSU5NSVlYiU4YyU4MC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OGElMjVhNHgtYWktJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjVhMSUyNTlkJTI1ZWIlMjViNCUyNTg3LSUyNWVjJTI1YTAlMjU4MSUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNTlhJTI1OTQlMjVlYSUyNWI4JTI1ODglMjVlYyUyNWEwJTI1OWMtJTI1ZWIlMjU4YyUyNTgwJTI1ZWQlMjU4ZiUyNWFkLSUyNWVkJTI1OTklMjU5NSUyNWViJTI1OGMlMjU4MA",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9mYWxsaW5nLWxlYXZlcy1hbmQtc3RvY2tzLw",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8wNi8xMTQ4MTU0L3RoZS1kb3dubG9hZC1odW1hbm9pZC1yb2JvdC1jbGVhbmVyLXNhbXN1bmctYWktY2hpcC1ib29tLw",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWI5JTg1JWVjJThiJTljJWVkJTk0JTg0JWVkJThhJWI4LSVlYSViMyViNSVlYSViMyViNS1haS0lZWElYjUlYWMlZWMlYjYlOTUlYzIlYjclZWMlYmYlYTAlZWMlYmQlOTgtJWVjJTk4JWE4JWVjJWIyJWI0JWVjJTlkJWI4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYiUyNWI5JTI1ODUlMjVlYyUyNThiJTI1OWMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1LWFpLSUyNWVhJTI1YjUlMjVhYyUyNWVjJTI1YjYlMjU5NSUyNWMyJTI1YjclMjVlYyUyNWJmJTI1YTAlMjVlYyUyNWJkJTI1OTgtJTI1ZWMlMjU5OCUyNWE4JTI1ZWMlMjViMiUyNWI0JTI1ZWMlMjU5ZCUyNWI4",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8wMy8xMTQ3OTM0L3JldmVyc2UtZ2FtZS10aGVvcnktbWVjaGFuaXNtLWRlc2lnbi1haS1hbGlnbm1lbnQv",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzAyL2ltcG9ydC1haS00Nzktc3BhY2V3YXItbG93LWxhdGVuY3ktdGFza3MtdmVyc3VzLWxsbXMtZ2VuaWUtNC8",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
@@ -1062,27 +1062,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1pbnR1aXQtY2VvLXNhc2FuLWdvb2RhcnppLWFib3V0LWFjY291bnRpbmctYW5kLWFpLw",
-      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLWNvbnZlcnNhdGlvbi13aXRoLWFyaS1lbWFudWVsLWFib3V0LWVudGVydGFpbm1lbnQtYW5kLWFpLw",
       "title": "A Conversation With Ari Emanuel About Entertainment and AI",
       "source": "Stratechery",
@@ -1671,6 +1650,28 @@
         "one-useful-thing"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4ZSU5OCVlYyU5ZCViNCVlYyU4YSVhNHgtYWktJWVhJWI3JWI4JWViJWExJTlkJWViJWI0JTg3LSVlYyVhMCU4MSVlYyU5YSVhOS0lZWMlOWElOTQlZWElYjglODglZWMlYTAlOWMtJWViJThjJTgwJWVkJThmJWFkLSVlZCU5OSU5NSVlYiU4YyU4MC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1OGUlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OGElMjVhNHgtYWktJTI1ZWElMjViNyUyNWI4JTI1ZWIlMjVhMSUyNTlkJTI1ZWIlMjViNCUyNTg3LSUyNWVjJTI1YTAlMjU4MSUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNTlhJTI1OTQlMjVlYSUyNWI4JTI1ODglMjVlYyUyNWEwJTI1OWMtJTI1ZWIlMjU4YyUyNTgwJTI1ZWQlMjU4ZiUyNWFkLSUyNWVkJTI1OTklMjU5NSUyNWViJTI1OGMlMjU4MA",
+      "title": "스페이스X AI, '그록봇' 적용 요금제 대폭 확대",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%8e%98%ec%9d%b4%ec%8a%a4x-ai-%ea%b7%b8%eb%a1%9d%eb%b4%87-%ec%a0%81%ec%9a%a9-%ec%9a%94%ea%b8%88%ec%a0%9c-%eb%8c%80%ed%8f%ad-%ed%99%95%eb%8c%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%258e%2598%25ec%259d%25b4%25ec%258a%25a4x-ai-%25ea%25b7%25b8%25eb%25a1%259d%25eb%25b4%2587-%25ec%25a0%2581%25ec%259a%25a9-%25ec%259a%2594%25ea%25b8%2588%25ec%25a0%259c-%25eb%258c%2580%25ed%258f%25ad-%25ed%2599%2595%25eb%258c%2580",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-08T23:58:32.000Z",
+      "readingMinutes": 4,
+      "score": 104,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "스페이스X AI가 자사 인공지능 에이전트 서비스인 '그록봇(Grok Bot)'의 이용 접근성을 크게 낮추고 적용 요금제를 전면 확대했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "그록봇",
+        "스페이스x ai"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWMlYmQlOTQlZWIlOTQlYTktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0JWVkJThhJWI4LWNvbmR1Y3Rvci0lZWMlYTAlODQlZWElYjIlYTktJWVjJTlkJWI4JWVjJTg4JTk4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWVjJTI1YmQlMjU5NCUyNWViJTI1OTQlMjVhOS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQlMjVlZCUyNThhJTI1YjgtY29uZHVjdG9yLSUyNWVjJTI1YTAlMjU4NCUyNWVhJTI1YjIlMjVhOS0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNTg4JTI1OTg",
@@ -3569,7 +3570,7 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLXRoZS11LXMtdm90ZXMtb24tZGF0YS1jZW50ZXJzLWltcGxpY2F0aW9ucy1mb3ItYmlnLXRlY2gtZ29vZ2xlcy1yZXNwb25zZS10by1haS8",
@@ -3589,7 +3590,7 @@
         "stratechery",
         "daily update"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
@@ -4046,6 +4047,27 @@
         "mit technology review explains"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1pbnR1aXQtY2VvLXNhc2FuLWdvb2RhcnppLWFib3V0LWFjY291bnRpbmctYW5kLWFpLw",
+      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "AI + Work",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8wMy8xMTQ3OTQwL3RoZS1kb3dubG9hZC1jb250cm9sbGluZy1haS1hZ2VudHMtdHJ1bXAtc3VwZXItaW50ZWxsaWdlbmNlLw",
@@ -4745,6 +4767,50 @@
         "daily update"
       ],
       "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtYWktJWVkJTk0JThjJWViJTllJWFiJWVkJThmJWJjLSVlYyViNiU5YyVlYyU4YiU5YyVlYiViNiU4MCVlZCU4NCViMC0lZWIlYjAlOTQlZWMlOWQlYjQlZWMlOTglYTQtJWVkJTg4JWFjJWVjJTllJTkwJWMyJWI3JWVkJTk1JWI0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC1haS0lMjVlZCUyNTk0JTI1OGMlMjVlYiUyNTllJTI1YWIlMjVlZCUyNThmJTI1YmMtJTI1ZWMlMjViNiUyNTljJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjViNiUyNTgwJTI1ZWQlMjU4NCUyNWIwLSUyNWViJTI1YjAlMjU5NCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OTglMjVhNC0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVjMiUyNWI3JTI1ZWQlMjU5NSUyNWI0",
+      "title": "[스타트업 안테나] AI 플랫폼 출시부터 바이오 투자·해외 실증·창업교육까지",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-ai-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c%ec%8b%9c%eb%b6%80%ed%84%b0-%eb%b0%94%ec%9d%b4%ec%98%a4-%ed%88%ac%ec%9e%90%c2%b7%ed%95%b4/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-ai-%25ed%2594%258c%25eb%259e%25ab%25ed%258f%25bc-%25ec%25b6%259c%25ec%258b%259c%25eb%25b6%2580%25ed%2584%25b0-%25eb%25b0%2594%25ec%259d%25b4%25ec%2598%25a4-%25ed%2588%25ac%25ec%259e%2590%25c2%25b7%25ed%2595%25b4",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-09T00:49:47.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "９일 국내 스타트업들이 인공지능(AI) 기술을 기반으로 서비스 출시와 사업 확장에 속도를 내고 있다. 기업용 AI 서비스부터 신약개발 연구 플랫폼, 피지컬 AI, 에너지 운영 기술까지 활용 분야도 다양해지는 모습이다. 기술을 실제 산업 현장에 적용하고 해외 시장에서 사업 기회를 발굴하려는 움직임 역시 이어지고 있다.",
+      "tags": [
+        "tech42",
+        "스타트업",
+        "뉴엔ａｉ",
+        "디노티시아"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL2FpLSVlYyU4NiU4ZCVlYiU4ZiU4NCVlYyVhMCU4NC0lZWIlODElOWQlZWIlODIlOTglZWIlODIlOTglZWIlYWYlYmMlZWMlYTMlYmMlZWIlOGIlYjktJWVjJTk1JTk1JWVjJThhJWI5JWVjJTk3JTkwLSVlZCU5ZCU5NCVlYiU5MyVhNCVlYiVhNiVhYyVlYiU4YSU5NC0lZWIlYjklODUlZWQlODUlOGMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj1haS0lMjVlYyUyNTg2JTI1OGQlMjVlYiUyNThmJTI1ODQlMjVlYyUyNWEwJTI1ODQtJTI1ZWIlMjU4MSUyNTlkJTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjU4MiUyNTk4JTI1ZWIlMjVhZiUyNWJjJTI1ZWMlMjVhMyUyNWJjJTI1ZWIlMjU4YiUyNWI5LSUyNWVjJTI1OTUlMjU5NSUyNWVjJTI1OGElMjViOSUyNWVjJTI1OTclMjU5MC0lMjVlZCUyNTlkJTI1OTQlMjVlYiUyNTkzJTI1YTQlMjVlYiUyNWE2JTI1YWMlMjVlYiUyNThhJTI1OTQtJTI1ZWIlMjViOSUyNTg1JTI1ZWQlMjU4NSUyNThj",
+      "title": "“AI 속도전 끝나나”…민주당 압승에 흔들리는 빅테크, 삼성·SK하이닉스 HBM까지 충격파",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/ai-%ec%86%8d%eb%8f%84%ec%a0%84-%eb%81%9d%eb%82%98%eb%82%98%eb%af%bc%ec%a3%bc%eb%8b%b9-%ec%95%95%ec%8a%b9%ec%97%90-%ed%9d%94%eb%93%a4%eb%a6%ac%eb%8a%94-%eb%b9%85%ed%85%8c/?utm_source=rss&utm_medium=rss&utm_campaign=ai-%25ec%2586%258d%25eb%258f%2584%25ec%25a0%2584-%25eb%2581%259d%25eb%2582%2598%25eb%2582%2598%25eb%25af%25bc%25ec%25a3%25bc%25eb%258b%25b9-%25ec%2595%2595%25ec%258a%25b9%25ec%2597%2590-%25ed%259d%2594%25eb%2593%25a4%25eb%25a6%25ac%25eb%258a%2594-%25eb%25b9%2585%25ed%2585%258c",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-08T23:26:40.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "미국 중간선거에서 민주당이 상·하원을 모두 장악하면서 글로벌 인공지능(AI) 산업이 정치적 격변의 영향권에 들어섰다. 이번 충격의 근원은 단순한 정권 견제가 아니다. AI 개발과 인프라 확장을 우선해 온 도널드 트럼프 행정부에 맞서 민주당이 AI 안전성 검증과 기업 책임, 데이터센터 전력비용 규제를 본격 추진할 가능성이 커졌기 때문이다.",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "정책플러스",
+        "ai 속도전"
+      ],
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLWFpJWVkJThjJTkwLSVlYiU4OSViNCVlYiU5NCU5Yy0lZWMlYTAlOTUlZWMlYjElODUtJWVjJTg0JWEwJWVjJWEwJTljLSVlZCU4OCVhYyVlYyViMiU5OS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OTglMjVhNCUyNWVkJTI1OTQlMjU4OGFpLWFpJTI1ZWQlMjU4YyUyNTkwLSUyNWViJTI1ODklMjViNCUyNWViJTI1OTQlMjU5Yy0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNWIxJTI1ODUtJTI1ZWMlMjU4NCUyNWEwJTI1ZWMlMjVhMCUyNTljLSUyNWVkJTI1ODglMjVhYyUyNWVjJTI1YjIlMjU5OQ",
@@ -6275,67 +6341,6 @@
       "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
-      "title": "The Shape of the Thing",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-12T14:10:07.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Where we are right now, and what likely happens next",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8wNi8xMTQ4MTU0L3RoZS1kb3dubG9hZC1odW1hbm9pZC1yb2JvdC1jbGVhbmVyLXNhbXN1bmctYWktY2hpcC1ib29tLw",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-06T13:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJWI5JTg1JWVjJThiJTljJWVkJTk0JTg0JWVkJThhJWI4LSVlYSViMyViNSVlYSViMyViNS1haS0lZWElYjUlYWMlZWMlYjYlOTUlYzIlYjclZWMlYmYlYTAlZWMlYmQlOTgtJWVjJTk4JWE4JWVjJWIyJWI0JWVjJTlkJWI4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYiUyNWI5JTI1ODUlMjVlYyUyNThiJTI1OWMlMjVlZCUyNTk0JTI1ODQlMjVlZCUyNThhJTI1YjgtJTI1ZWElMjViMyUyNWI1JTI1ZWElMjViMyUyNWI1LWFpLSUyNWVhJTI1YjUlMjVhYyUyNWVjJTI1YjYlMjU5NSUyNWMyJTI1YjclMjVlYyUyNWJmJTI1YTAlMjVlYyUyNWJkJTI1OTgtJTI1ZWMlMjU5OCUyNWE4JTI1ZWMlMjViMiUyNWI0JTI1ZWMlMjU5ZCUyNWI4",
-      "title": "[스타트업 안테나] 빅시프트 공공 AI 구축·쿠콘 온체인 금융 협력·의식주컴퍼니 사업 확장 나서",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%eb%b9%85%ec%8b%9c%ed%94%84%ed%8a%b8-%ea%b3%b5%ea%b3%b5-ai-%ea%b5%ac%ec%b6%95%c2%b7%ec%bf%a0%ec%bd%98-%ec%98%a8%ec%b2%b4%ec%9d%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25eb%25b9%2585%25ec%258b%259c%25ed%2594%2584%25ed%258a%25b8-%25ea%25b3%25b5%25ea%25b3%25b5-ai-%25ea%25b5%25ac%25ec%25b6%2595%25c2%25b7%25ec%25bf%25a0%25ec%25bd%2598-%25ec%2598%25a8%25ec%25b2%25b4%25ec%259d%25b8",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-11-06T01:04:57.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "6일 국내 스타트업과 기술기업들이 인공지능(AI)을 기반으로 공공서비스와 금융, 보안, 헬스케어 등 다양한 산업 분야에서 사업 기회를 확대하고 있다. 공공기관의 AI 서비스 구축부터 블록체인 기반 결제 기술 협력, 스마트홈을 활용한 정신건강 관리까지 기술의 실제 활용 범위가 넓어지는 모습이다.",
-      "tags": [
-        "tech42",
-        "스타트업",
-        "mj플렉스",
-        "zep"
       ],
       "isNew": false
     }
