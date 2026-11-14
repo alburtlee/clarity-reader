@@ -1,10 +1,10 @@
 {
-  "fetchedAt": "2026-11-13T03:00:32.958Z",
+  "fetchedAt": "2026-11-14T02:46:28.048Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZW5kLW9mLWplbnNlbi8",
+    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3NlcmJpYXMtZXhwZXJpbWVudC1jb21iaW5pbmctZGVtb2NyYWN5LW1lcml0b2NyYWN5",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNyU4MCVlYyViMCVhZSVlYyU5ZCU4MC0lZWMlYTAlODQlZWQlOTklOTQtYWktJWViJWI5JTg0JWVjJTg0JTljJWVhJWIwJTgwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWElYjElYjQlZWIlOGIlYTQtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyU5YyVhMCVlYiVhMyU4Yy1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI3JTI1ODAlMjVlYyUyNWIwJTI1YWUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU5OSUyNTk0LWFpLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODQlMjU5YyUyNWVhJTI1YjAlMjU4MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWElMjViMSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTljJTI1YTAlMjVlYiUyNWEzJTI1OGMtYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMi8xMTQ4NDgzL252aWRpYS1jaGlwLXRyYWNraW5nLw",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1yb2Jsb3gtY2VvLWRhdmlkLWJhc3p1Y2tpLWFib3V0LWFnZ3JlZ2F0aW5nLXBsYXkv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2EtZ2VuZXJhdGlvbi1yZXZvbHRz",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8"
   ],
   "sourceCount": 9,
@@ -824,23 +824,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1yb2Jsb3gtY2VvLWRhdmlkLWJhc3p1Y2tpLWFib3V0LWFnZ3JlZ2F0aW5nLXBsYXkv",
-      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLW52aWRpYS1hZnRlci1qZW5zZW4taHVhbmctb21pbm91cy1uZXdzLWZvci1hbWVyaWNhbi1haS1kLWMtZ2V0cy1pdHMtcmV2ZW5nZS8",
+      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-11-12T11:00:00.000Z",
+      "publishedAt": "2026-11-13T03:47:52.000Z",
       "readingMinutes": 4,
       "score": 106,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
       "tags": [
         "stratechery",
         "daily update",
-        "interviews"
+        "sharp tech video"
       ],
       "isNew": true
     },
@@ -1673,44 +1673,22 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNyU4MCVlYyViMCVhZSVlYyU5ZCU4MC0lZWMlYTAlODQlZWQlOTklOTQtYWktJWViJWI5JTg0JWVjJTg0JTljJWVhJWIwJTgwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWElYjElYjQlZWIlOGIlYTQtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyU5YyVhMCVlYiVhMyU4Yy1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI3JTI1ODAlMjVlYyUyNWIwJTI1YWUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU5OSUyNTk0LWFpLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODQlMjU5YyUyNWVhJTI1YjAlMjU4MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWElMjViMSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTljJTI1YTAlMjVlYiUyNWEzJTI1OGMtYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4",
-      "title": "\"귀찮은 전화, AI 비서가 대신 건다\" 메타, 유료 AI 에이전트 '뮤즈'에 전화 통화 기능 탑재",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ea%b7%80%ec%b0%ae%ec%9d%80-%ec%a0%84%ed%99%94-ai-%eb%b9%84%ec%84%9c%ea%b0%80-%eb%8c%80%ec%8b%a0-%ea%b1%b4%eb%8b%a4-%eb%a9%94%ed%83%80-%ec%9c%a0%eb%a3%8c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b7%2580%25ec%25b0%25ae%25ec%259d%2580-%25ec%25a0%2584%25ed%2599%2594-ai-%25eb%25b9%2584%25ec%2584%259c%25ea%25b0%2580-%25eb%258c%2580%25ec%258b%25a0-%25ea%25b1%25b4%25eb%258b%25a4-%25eb%25a9%2594%25ed%2583%2580-%25ec%259c%25a0%25eb%25a3%258c-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8",
-      "thumbnailUrl": null,
-      "author": "김한수 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-11-13T00:10:14.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "메타가 자사의 인공지능 에이전트 '뮤즈(Muse)'에 이용자를 대신해 직접 전화를 걸고 업무를 처리해 주는 음성 통화 기능을 새롭게 도입했다.",
-      "tags": [
-        "tech42",
-        "비즈니스",
-        "메타",
-        "뮤즈"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMi8xMTQ4NDgzL252aWRpYS1jaGlwLXRyYWNraW5nLw",
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NDk4L3NpbGljb24tdmFsbGV5LWNsYWltcy10by1rbm93LXRoZS1mdXR1cmUtc28td2h5LWRpZC1pdC1nZXQtdGhlLW1pZHRlcm1zLXNvLXdyb25nLw",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
       "source": "MIT Technology Review",
       "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
       "thumbnailUrl": null,
-      "author": "James O'Donnell",
+      "author": "Aaron Zamost",
       "category": "AI + Society",
-      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 104,
       "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Th",
+      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year roa",
       "tags": [
         "mit-technology-review",
-        "artificial intelligence",
+        "business",
         "ai",
         "app"
       ],
@@ -2978,6 +2956,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-13T13:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a te",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJThhJTg4JWVkJThkJWJjJWViJWI4JThjJWVjJTk3JTkwJWVjJTlkJWI0JWVjJTk1JTg0JWVjJTlkJWI0JWMyJWI3JWVkJTgxJWI0JWViJTlkJWJjJWVjJTlkJWI0JWVjJTk4JWE4LSVlYSViMyViNSVlYSViMyViNS1haS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWMlMjU4YSUyNTg4JTI1ZWQlMjU4ZCUyNWJjJTI1ZWIlMjViOCUyNThjJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU5ZCUyNWI0JTI1YzIlMjViNyUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OTglMjVhOC0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIzJTI1YjUtYWk",
       "title": "[스타트업 안테나] 슈퍼브에이아이·클라이온 공공 AI 사업 확대…팀이지 팁스 선정·콜즈다이나믹스 인재 영입",
       "source": "Tech42",
@@ -3706,6 +3704,49 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NDc0L21vcmUtYXV0b25vbXktZmV3ZXItbmRhcy12b2x1bnRlZXJzLWhhdmUtbmV3LXJlcXVlc3RzLWZvci1icmFpbi1pbXBsYW50LXRyaWFscy8",
+      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "thumbnailUrl": null,
+      "author": "Jessica Hamzelou",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those device",
+      "tags": [
+        "mit-technology-review",
+        "biotechnology and health",
+        "app",
+        "summary"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1yb2Jsb3gtY2VvLWRhdmlkLWJhc3p1Y2tpLWFib3V0LWFnZ3JlZ2F0aW5nLXBsYXkv",
+      "title": "An Interview With Roblox CEO David Baszucki About Aggregating Play",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-roblox-ceo-david-baszucki-about-aggregating-play/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-12T11:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 102,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Roblox CEO David Baszucki about how AI is transforming game creation, and why that opens up huge opportunities to both enable developers and make Roblox both an Aggregator and a platform.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pbnRlbC1lYXJuaW5ncy1hbWQtZWFybmluZ3MtaW50ZWwtYW5kLWFtZHMtZGl2ZXJnZW5jZS8",
       "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
       "source": "Stratechery",
@@ -3719,45 +3760,6 @@
       "score": 102,
       "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
       "excerpt": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
-      "tags": [
-        "stratechery",
-        "daily update"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3doZW4tYWlzLWJlY29tZS11bnJ1bHktc3dhcm1z",
-      "title": "When AIs Become Unruly Swarms",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/when-ais-become-unruly-swarms",
-      "thumbnailUrl": null,
-      "author": "Ben Bariach",
-      "category": "Philosophy",
-      "publishedAt": "2026-11-10T17:39:53.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post When AIs Become Unruly Swarms appeared first on NOEMA.",
-      "tags": [
-        "noema"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtamVuc2VuLWh1YW5nLXN0b3J5LWdldHMtd29yc2Utd2FzaGluZ3Rvbi12cy1uZXcteW9yay1zaWxpY29uLXZhbGxleS8",
-      "title": "The Jensen Huang Story Gets Worse, Washington vs. New York, Silicon Valley",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-jensen-huang-story-gets-worse-washington-vs-new-york-silicon-valley/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-10T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The Jensen Huang story got worse for him on Monday; the real risk for Huang is governance, even more than national security. Who benefits?",
       "tags": [
         "stratechery",
         "daily update"
@@ -4959,87 +4961,85 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViMyViNSVlYiVhYSVhOC0lZWIlYWMlYmMlZWIlOWYlODktNiVlYiViMCViMC0lZWMlYjIlYWQlZWMlOTUlYmQtJWVkJThmJWFkJWViJWIwJTljLSVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC1pcG8tJWVkJTlkJWE1JWVkJTk2JTg5LSVlYiU4ZiU4YyVlZCU5MiU4ZC0lZWMlOTclYWQlZWIlOGMlODAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWIzJTI1YjUlMjVlYiUyNWFhJTI1YTgtJTI1ZWIlMjVhYyUyNWJjJTI1ZWIlMjU5ZiUyNTg5LTYlMjVlYiUyNWIwJTI1YjAtJTI1ZWMlMjViMiUyNWFkJTI1ZWMlMjU5NSUyNWJkLSUyNWVkJTI1OGYlMjVhZCUyNWViJTI1YjAlMjU5Yy0lMjVlYyUyNTk1JTI1YTQlMjVlZCUyNThhJTI1YjglMjVlYiUyNWExJTI1OWMlMjVlZCUyNTk0JTI1YmQtaXBvLSUyNWVkJTI1OWQlMjVhNSUyNWVkJTI1OTYlMjU4OS0lMjVlYiUyNThmJTI1OGMlMjVlZCUyNTkyJTI1OGQtJTI1ZWMlMjU5NyUyNWFkJTI1ZWIlMjU4YyUyNTgw",
-      "title": "\"공모 물량 6배 청약 폭발\" 앤트로픽 IPO 흥행 돌풍… 역대 최대 상장 기록 정조준",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ea%b3%b5%eb%aa%a8-%eb%ac%bc%eb%9f%89-6%eb%b0%b0-%ec%b2%ad%ec%95%bd-%ed%8f%ad%eb%b0%9c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ed%9d%a5%ed%96%89-%eb%8f%8c%ed%92%8d-%ec%97%ad%eb%8c%80/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b3%25b5%25eb%25aa%25a8-%25eb%25ac%25bc%25eb%259f%2589-6%25eb%25b0%25b0-%25ec%25b2%25ad%25ec%2595%25bd-%25ed%258f%25ad%25eb%25b0%259c-%25ec%2595%25a4%25ed%258a%25b8%25eb%25a1%259c%25ed%2594%25bd-ipo-%25ed%259d%25a5%25ed%2596%2589-%25eb%258f%258c%25ed%2592%258d-%25ec%2597%25ad%25eb%258c%2580",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZW5kLW9mLWplbnNlbi8",
+      "title": "2026.46: The End of Jensen",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/the-end-of-jensen/",
       "thumbnailUrl": null,
-      "author": "앨리스",
-      "category": "AI + Korea",
-      "publishedAt": "2026-11-13T01:15:26.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-13T18:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "인공지능 개발 기업 앤트로픽의 기업공개(IPO)에 공모 예정 물량의 약 6배에 달하는 매수 주문이 몰리며 글로벌 자본시장에서 폭발적인 흥행 돌풍을 일으키고 있다.",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
       "tags": [
-        "tech42",
-        "ai요약",
-        "ipo",
-        "앤트로픽"
+        "stratechery",
+        "this week in stratechery"
       ],
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NyU5NCVlYiViOSU4NCVlYiU5NCU5NCVlYyU5NSU4NCVlYyU5ZCU5OC0lZWMlOWUlODUtJWVjJTllJTgzJWVjJTk3JTg4JWViJThiJWE0LSVlYyVhMCVhMCVlYyU4YSVhOC0lZWQlOTklYTktJWVjJWI2JTk1JWVjJWI2JTljLSVlYyU5NyVhYyVlZCU4YyU4Yy0lZWElYjglODAlZWIlYTElOWMlZWIlYjIlOGMtYWktJWVjJTgyJWIwLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0JTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU5ZCUyNTk4LSUyNWVjJTI1OWUlMjU4NS0lMjVlYyUyNTllJTI1ODMlMjVlYyUyNTk3JTI1ODglMjVlYiUyNThiJTI1YTQtJTI1ZWMlMjVhMCUyNWEwJTI1ZWMlMjU4YSUyNWE4LSUyNWVkJTI1OTklMjVhOS0lMjVlYyUyNWI2JTI1OTUlMjVlYyUyNWI2JTI1OWMtJTI1ZWMlMjU5NyUyNWFjJTI1ZWQlMjU4YyUyNThjLSUyNWVhJTI1YjglMjU4MCUyNWViJTI1YTElMjU5YyUyNWViJTI1YjIlMjU4Yy1haS0lMjVlYyUyNTgyJTI1YjA",
-      "title": "\"엔비디아의 입 잃었다\" 젠슨 황 축출 여파, 글로벌 AI 산업 5대 핵심 동력 흔들",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%9e%85-%ec%9e%83%ec%97%88%eb%8b%a4-%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%b6%95%ec%b6%9c-%ec%97%ac%ed%8c%8c-%ea%b8%80%eb%a1%9c%eb%b2%8c-ai-%ec%82%b0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594%25ec%2595%2584%25ec%259d%2598-%25ec%259e%2585-%25ec%259e%2583%25ec%2597%2588%25eb%258b%25a4-%25ec%25a0%25a0%25ec%258a%25a8-%25ed%2599%25a9-%25ec%25b6%2595%25ec%25b6%259c-%25ec%2597%25ac%25ed%258c%258c-%25ea%25b8%2580%25eb%25a1%259c%25eb%25b2%258c-ai-%25ec%2582%25b0",
-      "thumbnailUrl": null,
-      "author": "버트",
-      "category": "AI + Korea",
-      "publishedAt": "2026-11-13T00:55:22.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "엔비디아의 창업자 젠슨 황 최고경영자(CEO)가 사생활 및 중국 스파이 연루 스캔들로 이사회에서 전격 축출되면서, 글로벌 인공지능 산업 전반의 성장 동력이 약화할 수 있다는 우려가 커지고 있다.",
-      "tags": [
-        "tech42",
-        "ai요약",
-        "엔비디아",
-        "오픈소스 ai"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5NCViYyVlZCU4MSViNCVlYyU5ZCU4MC0lZWIlYTclODklZWQlOWUlODglZWElYjMlYTAtJWVjJTljJWEwJWViJTgyJTk4JWVjJTlkJWI0JWVkJThiJWIwJWViJTkzJTljJWViJThhJTk0LSVlYSViOCU4OCVlYyVhNyU4MCVlZCU5NiU4OCVlYiU4YiVhNCVlYiU4MiViNC0lZWIlOGMlODAlZWMlOGIlYTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk0JTI1YmMlMjVlZCUyNTgxJTI1YjQlMjVlYyUyNTlkJTI1ODAtJTI1ZWIlMjVhNyUyNTg5JTI1ZWQlMjU5ZSUyNTg4JTI1ZWElMjViMyUyNWEwLSUyNWVjJTI1OWMlMjVhMCUyNWViJTI1ODIlMjU5OCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1OGIlMjViMCUyNWViJTI1OTMlMjU5YyUyNWViJTI1OGElMjU5NC0lMjVlYSUyNWI4JTI1ODglMjVlYyUyNWE3JTI1ODAlMjVlZCUyNTk2JTI1ODglMjVlYiUyNThiJTI1YTQlMjVlYiUyNTgyJTI1YjQtJTI1ZWIlMjU4YyUyNTgwJTI1ZWMlMjU4YiUyNWEw",
-      "title": "피클은 막히고, 유나이티드는 금지했다…’내 대신 일하는 AI’ 문은 누가 여나",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%94%bc%ed%81%b4%ec%9d%80-%eb%a7%89%ed%9e%88%ea%b3%a0-%ec%9c%a0%eb%82%98%ec%9d%b4%ed%8b%b0%eb%93%9c%eb%8a%94-%ea%b8%88%ec%a7%80%ed%96%88%eb%8b%a4%eb%82%b4-%eb%8c%80%ec%8b%a0/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2594%25bc%25ed%2581%25b4%25ec%259d%2580-%25eb%25a7%2589%25ed%259e%2588%25ea%25b3%25a0-%25ec%259c%25a0%25eb%2582%2598%25ec%259d%25b4%25ed%258b%25b0%25eb%2593%259c%25eb%258a%2594-%25ea%25b8%2588%25ec%25a7%2580%25ed%2596%2588%25eb%258b%25a4%25eb%2582%25b4-%25eb%258c%2580%25ec%258b%25a0",
-      "thumbnailUrl": null,
-      "author": "정재엽 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-11-12T23:56:14.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "AI 비서 피클이 카톡 연동을 하루 만에 멈췄고, 미국 유나이티드항공은 AI 에이전트 예약을 금지했다. 네이버·카카오의 자체 에이전트 전략과 해외 사례를 짚고, 계정을 AI에 맡기기 전 확인할 점을 정리했다.",
-      "tags": [
-        "tech42",
-        "디지털라이프",
-        "비즈니스",
-        "스타트업"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL2EtZ2VuZXJhdGlvbi1yZXZvbHRz",
-      "title": "A Generation Revolts",
+      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3NlcmJpYXMtZXhwZXJpbWVudC1jb21iaW5pbmctZGVtb2NyYWN5LW1lcml0b2NyYWN5",
+      "title": "Serbia’s Experiment: Combining Democracy & Meritocracy",
       "source": "Noema",
       "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/a-generation-revolts",
+      "articleUrl": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy",
       "thumbnailUrl": null,
-      "author": "John Last",
+      "author": "Nathan Gardels",
       "category": "Philosophy",
-      "publishedAt": "2026-11-12T17:38:28.000Z",
+      "publishedAt": "2026-11-13T17:50:07.000Z",
       "readingMinutes": 4,
       "score": 100,
       "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post A Generation Revolts appeared first on NOEMA.",
+      "excerpt": "The post Serbia’s Experiment: Combining Democracy & Meritocracy appeared first on NOEMA.",
       "tags": [
         "noema"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNyU4MCVlYyViMCVhZSVlYyU5ZCU4MC0lZWMlYTAlODQlZWQlOTklOTQtYWktJWViJWI5JTg0JWVjJTg0JTljJWVhJWIwJTgwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWElYjElYjQlZWIlOGIlYTQtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyU5YyVhMCVlYiVhMyU4Yy1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI3JTI1ODAlMjVlYyUyNWIwJTI1YWUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU5OSUyNTk0LWFpLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODQlMjU5YyUyNWVhJTI1YjAlMjU4MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWElMjViMSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTljJTI1YTAlMjVlYiUyNWEzJTI1OGMtYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4",
+      "title": "\"귀찮은 전화, AI 비서가 대신 건다\" 메타, 유료 AI 에이전트 '뮤즈'에 전화 통화 기능 탑재",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ea%b7%80%ec%b0%ae%ec%9d%80-%ec%a0%84%ed%99%94-ai-%eb%b9%84%ec%84%9c%ea%b0%80-%eb%8c%80%ec%8b%a0-%ea%b1%b4%eb%8b%a4-%eb%a9%94%ed%83%80-%ec%9c%a0%eb%a3%8c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8/?utm_source=rss&utm_medium=rss&utm_campaign=%25ea%25b7%2580%25ec%25b0%25ae%25ec%259d%2580-%25ec%25a0%2584%25ed%2599%2594-ai-%25eb%25b9%2584%25ec%2584%259c%25ea%25b0%2580-%25eb%258c%2580%25ec%258b%25a0-%25ea%25b1%25b4%25eb%258b%25a4-%25eb%25a9%2594%25ed%2583%2580-%25ec%259c%25a0%25eb%25a3%258c-ai-%25ec%2597%2590%25ec%259d%25b4%25ec%25a0%2584%25ed%258a%25b8",
+      "thumbnailUrl": null,
+      "author": "김한수 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-13T00:10:14.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "메타가 자사의 인공지능 에이전트 '뮤즈(Muse)'에 이용자를 대신해 직접 전화를 걸고 업무를 처리해 주는 음성 통화 기능을 새롭게 도입했다.",
+      "tags": [
+        "tech42",
+        "비즈니스",
+        "메타",
+        "뮤즈"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMi8xMTQ4NDgzL252aWRpYS1jaGlwLXRyYWNraW5nLw",
+      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+      "thumbnailUrl": null,
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Th",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "ai",
+        "app"
       ],
       "isNew": true
     },
