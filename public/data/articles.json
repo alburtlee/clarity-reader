@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-14T02:46:28.048Z",
+  "fetchedAt": "2026-11-15T02:13:49.278Z",
   "todayPickIds": [
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZW5kLW9mLWplbnNlbi8",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3NlcmJpYXMtZXhwZXJpbWVudC1jb21iaW5pbmctZGVtb2NyYWN5LW1lcml0b2NyYWN5",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLW52aWRpYS1hZnRlci1qZW5zZW4taHVhbmctb21pbm91cy1uZXdzLWZvci1hbWVyaWNhbi1haS1kLWMtZ2V0cy1pdHMtcmV2ZW5nZS8",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNyU4MCVlYyViMCVhZSVlYyU5ZCU4MC0lZWMlYTAlODQlZWQlOTklOTQtYWktJWViJWI5JTg0JWVjJTg0JTljJWVhJWIwJTgwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWElYjElYjQlZWIlOGIlYTQtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyU5YyVhMCVlYiVhMyU4Yy1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI3JTI1ODAlMjVlYyUyNWIwJTI1YWUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU5OSUyNTk0LWFpLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODQlMjU5YyUyNWVhJTI1YjAlMjU4MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWElMjViMSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTljJTI1YTAlMjVlYiUyNWEzJTI1OGMtYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvZmFibGUtNTItYW5kLWphZ2dlZC1hZ2k"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -822,27 +822,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLW52aWRpYS1hZnRlci1qZW5zZW4taHVhbmctb21pbm91cy1uZXdzLWZvci1hbWVyaWNhbi1haS1kLWMtZ2V0cy1pdHMtcmV2ZW5nZS8",
-      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-13T03:47:52.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "sharp tech video"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xOS8xMTQ3MTg2L21ha2luZy10aGUtaW50ZXJuZXQtYmV0dGVyLWZvci1haS1hZ2VudHMtbWlnaHQtbWFrZS1pdC13b3JzZS1mb3ItZXZlcnlvbmUtZWxzZS8",
@@ -1671,28 +1650,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NDk4L3NpbGljb24tdmFsbGV5LWNsYWltcy10by1rbm93LXRoZS1mdXR1cmUtc28td2h5LWRpZC1pdC1nZXQtdGhlLW1pZHRlcm1zLXNvLXdyb25nLw",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "thumbnailUrl": null,
-      "author": "Aaron Zamost",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year roa",
-      "tags": [
-        "mit-technology-review",
-        "business",
-        "ai",
-        "app"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYiVhOSU5NCVlZCU4MyU4MC0lZWIlYWUlYTQlZWMlYTYlODgtJWVjJWEwJTk1JWVjJWExJWIwJWVjJWE0JTgwJWViJWIwJTk0JWVjJTlkJWI0JWVkJThhJWI4JWViJThjJTg0JWVjJThhJWE0LSVlYyU5ZSU5MCVlYyViMiViNC1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgtJWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWIlMjVhOSUyNTk0JTI1ZWQlMjU4MyUyNTgwLSUyNWViJTI1YWUlMjVhNCUyNWVjJTI1YTYlMjU4OC0lMjVlYyUyNWEwJTI1OTUlMjVlYyUyNWExJTI1YjAlMjVlYyUyNWE0JTI1ODAlMjVlYiUyNWIwJTI1OTQlMjVlYyUyNTlkJTI1YjQlMjVlZCUyNThhJTI1YjglMjVlYiUyNThjJTI1ODQlMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU5ZSUyNTkwJTI1ZWMlMjViMiUyNWI0LWFpLSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1YTAlMjU4NCUyNWVkJTI1OGElMjViOC0lMjVlYyUyNWEwJTI1ODQ",
@@ -2956,26 +2913,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-13T13:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 103,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a te",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": true
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJThhJTg4JWVkJThkJWJjJWViJWI4JThjJWVjJTk3JTkwJWVjJTlkJWI0JWVjJTk1JTg0JWVjJTlkJWI0JWMyJWI3JWVkJTgxJWI0JWViJTlkJWJjJWVjJTlkJWI0JWVjJTk4JWE4LSVlYSViMyViNSVlYSViMyViNS1haS8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPSUyNWVjJTI1OGElMjVhNCUyNWVkJTI1ODMlMjU4MCUyNWVkJTI1OGElMjViOCUyNWVjJTI1OTclMjU4NS0lMjVlYyUyNTk1JTI1ODglMjVlZCUyNTg1JTI1OGMlMjVlYiUyNTgyJTI1OTgtJTI1ZWMlMjU4YSUyNTg4JTI1ZWQlMjU4ZCUyNWJjJTI1ZWIlMjViOCUyNThjJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjU5NSUyNTg0JTI1ZWMlMjU5ZCUyNWI0JTI1YzIlMjViNyUyNWVkJTI1ODElMjViNCUyNWViJTI1OWQlMjViYyUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OTglMjVhOC0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIzJTI1YjUtYWk",
       "title": "[스타트업 안테나] 슈퍼브에이아이·클라이온 공공 AI 사업 확대…팀이지 팁스 선정·콜즈다이나믹스 인재 영입",
       "source": "Tech42",
@@ -3704,24 +3641,23 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NDc0L21vcmUtYXV0b25vbXktZmV3ZXItbmRhcy12b2x1bnRlZXJzLWhhdmUtbmV3LXJlcXVlc3RzLWZvci1icmFpbi1pbXBsYW50LXRyaWFscy8",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLW52aWRpYS1hZnRlci1qZW5zZW4taHVhbmctb21pbm91cy1uZXdzLWZvci1hbWVyaWNhbi1haS1kLWMtZ2V0cy1pdHMtcmV2ZW5nZS8",
+      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
       "thumbnailUrl": null,
-      "author": "Jessica Hamzelou",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-13T03:47:52.000Z",
       "readingMinutes": 4,
       "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Scientists have been working on ways to decode brain activity for decades. Teams have developed brain implants that can be used to control robotic limbs and computers, and even to “speak.” The people who volunteer for trials of those device",
+      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
       "tags": [
-        "mit-technology-review",
-        "biotechnology and health",
-        "app",
-        "summary"
+        "stratechery",
+        "daily update",
+        "sharp tech video"
       ],
       "isNew": true
     },
@@ -3743,26 +3679,6 @@
         "stratechery",
         "daily update",
         "interviews"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9pbnRlbC1lYXJuaW5ncy1hbWQtZWFybmluZ3MtaW50ZWwtYW5kLWFtZHMtZGl2ZXJnZW5jZS8",
-      "title": "Intel Earnings, AMD Earnings, Intel and AMD’s Divergence",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/intel-earnings-amd-earnings-intel-and-amds-divergence/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-11T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "Intel and AMD's diverging earnings point to fundamental historical differences, and make me wonder if Intel needs to find a new (old) path.",
-      "tags": [
-        "stratechery",
-        "daily update"
       ],
       "isNew": false
     },
@@ -4961,41 +4877,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi90aGUtZW5kLW9mLWplbnNlbi8",
-      "title": "2026.46: The End of Jensen",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/the-end-of-jensen/",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NDk4L3NpbGljb24tdmFsbGV5LWNsYWltcy10by1rbm93LXRoZS1mdXR1cmUtc28td2h5LWRpZC1pdC1nZXQtdGhlLW1pZHRlcm1zLXNvLXdyb25nLw",
+      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
       "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-13T18:00:00.000Z",
+      "author": "Aaron Zamost",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of November 9, 2026, including the shocking demise of Jensen Huang; enterprise, consumer and Intel; and professional basketbal.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year roa",
       "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3NlcmJpYXMtZXhwZXJpbWVudC1jb21iaW5pbmctZGVtb2NyYWN5LW1lcml0b2NyYWN5",
-      "title": "Serbia’s Experiment: Combining Democracy & Meritocracy",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy",
-      "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-11-13T17:50:07.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post Serbia’s Experiment: Combining Democracy & Meritocracy appeared first on NOEMA.",
-      "tags": [
-        "noema"
+        "mit-technology-review",
+        "business",
+        "ai",
+        "app"
       ],
       "isNew": true
     },
@@ -5019,7 +4918,7 @@
         "메타",
         "뮤즈"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMi8xMTQ4NDgzL252aWRpYS1jaGlwLXRyYWNraW5nLw",
@@ -5041,7 +4940,7 @@
         "ai",
         "app"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTlkJWI4JWVkJTk1JWI4JWVjJThhJWE0LWFpLSVlYiVhNyU4OCVlYyViYyU4MCVlZCU4YyU4NS0lZWQlOTQlOGMlZWIlOWUlYWIlZWQlOGYlYmMtJWVhJWIzJWI1JWVhJWIwJTljJWMyJWI3JWViJThkJTk0JWVkJTk0JWJkLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTlkJTI1YjglMjVlZCUyNTk1JTI1YjglMjVlYyUyNThhJTI1YTQtYWktJTI1ZWIlMjVhNyUyNTg4JTI1ZWMlMjViYyUyNTgwJTI1ZWQlMjU4YyUyNTg1LSUyNWVkJTI1OTQlMjU4YyUyNWViJTI1OWUlMjVhYiUyNWVkJTI1OGYlMjViYy0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWMlMjVjMiUyNWI3JTI1ZWIlMjU4ZCUyNTk0JTI1ZWQlMjU5NCUyNWJk",
@@ -6350,6 +6249,102 @@
         "ai요약",
         "ai 부정론",
         "앤트로픽"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLWRvdC1hbmQtdGhlLXN3YXJt",
+      "title": "The Dot and the Swarm",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-10-01T10:54:12.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Benefitting from the Bitter Lesson",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
+      "title": "The Overhang",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-overhang",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
+      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-13T13:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a te",
+      "tags": [
+        "mit-technology-review",
+        "the download"
       ],
       "isNew": true
     }
