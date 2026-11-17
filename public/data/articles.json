@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-16T02:26:39.543Z",
+  "fetchedAt": "2026-11-17T04:50:46.441Z",
   "todayPickIds": [
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVjJTk3JTkxJWVjJThhJWE0LSVlYyU5ZCViOCVlZCU4NSU5NCVlYSViMyViYy1haS0lZWIlYjAlOTglZWIlOGYlODQlZWMlYjIlYjQtJWVkJTk4JTkxJWViJWEwJWE1JWVjJTg0JWI4JWViJWFmJWI4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYiUyNTk0JTI1YTUlMjVlYyUyNTk3JTI1OTElMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU4NSUyNTk0JTI1ZWElMjViMyUyNWJjLWFpLSUyNWViJTI1YjAlMjU5OCUyNWViJTI1OGYlMjU4NCUyNWVjJTI1YjIlMjViNC0lMjVlZCUyNTk4JTI1OTElMjVlYiUyNWEwJTI1YTUlMjVlYyUyNTg0JTI1YjglMjVlYiUyNWFmJTI1Yjg",
-    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
-    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLW52aWRpYS1hZnRlci1qZW5zZW4taHVhbmctb21pbm91cy1uZXdzLWZvci1hbWVyaWNhbi1haS1kLWMtZ2V0cy1pdHMtcmV2ZW5nZS8",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8",
-    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvZmFibGUtNTItYW5kLWphZ2dlZC1hZ2k"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw",
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk1JTg0JWVjJTlkJWI0JWViJWIyJWExJWVjJThhJWE0LSVlYyU4YiU5ZCVlZCU5MiU4OCVlYSViMyViNSVlYyVhMCU5NS0lZWQlOTQlYmMlZWMlYTclODAlZWMlYmIlYWMtYWktJWVjJWEwJTgxJWVjJTlhJWE5JWMyJWI3Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTk1JTI1ODQlMjVlYyUyNTlkJTI1YjQlMjVlYiUyNWIyJTI1YTElMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4YiUyNTlkJTI1ZWQlMjU5MiUyNTg4JTI1ZWElMjViMyUyNWI1JTI1ZWMlMjVhMCUyNTk1LSUyNWVkJTI1OTQlMjViYyUyNWVjJTI1YTclMjU4MCUyNWVjJTI1YmIlMjVhYy1haS0lMjVlYyUyNWEwJTI1ODElMjVlYyUyNTlhJTI1YTklMjVjMiUyNWI3",
+    "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vYml0dWFyaWVzLw",
+    "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xNi8xMTQ4NjI0L3RoZS1vcGVuLXNvdXJjZS1tb3ZlbWVudC13YW50cy1qZW5zZW4taHVhbmctYmFjay8",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -273,6 +273,26 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw",
+      "title": "Import AI 481: AI sub-contractors; a wet lab for AI; and subterfuge during development",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/11/16/import-ai-481-ai-sub-contractors-a-wet-lab-for-ai-and-subterfuge-during-development/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/11/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-a9vils.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Research",
+      "publishedAt": "2026-11-16T14:01:15.000Z",
+      "readingMinutes": 4,
+      "score": 109,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI systems are getting good at sub-contracting to make the",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8xOS8xMTQ3MTQ5L3dlLXdlcmUtbG9va2luZy1hdC1pdC13cm9uZy10aGUtZXhwbG9zaXZlLWNsYWltLXRoYXRzLXVwZW5kZWQtdGhlLWFpLXdvcmxkLw",
       "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
       "source": "MIT Technology Review",
@@ -393,26 +413,6 @@
       "score": 109,
       "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
       "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. Subscribe now Import A-IdeaAn occasional essay series: My agents are working. Are your",
-      "tags": [
-        "import-ai",
-        "uncategorized"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8",
-      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
-      "source": "Import AI",
-      "sourceUrl": "https://jack-clark.net/feed/",
-      "articleUrl": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
-      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/11/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-sNOLmO.png?resize=150%2C150&amp;ssl=1",
-      "author": "Jack Clark",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-09T13:31:34.000Z",
-      "readingMinutes": 4,
-      "score": 108,
-      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
-      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a th",
       "tags": [
         "import-ai",
         "uncategorized"
@@ -817,6 +817,46 @@
       "score": 107,
       "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
       "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv and feedback from readers. If you’d like to support this, please subscribe. A somewhat shorter issue than usual as I had to do a lot of child wrangling this weeke",
+      "tags": [
+        "import-ai",
+        "uncategorized"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9vYml0dWFyaWVzLw",
+      "title": "Obituaries",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/obituaries/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-16T11:02:49.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The demise of Jensen Huang was the end of a great many things, including Nvidia's long-term prospects, the AI bubble, and the exceptional way in which the U.S. viewed itself in the world.",
+      "tags": [
+        "stratechery",
+        "articles"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8",
+      "title": "Import AI 480: Self-sustaining space economies; AI for science progress, and Meta builds perfect hands for a superintelligence",
+      "source": "Import AI",
+      "sourceUrl": "https://jack-clark.net/feed/",
+      "articleUrl": "https://jack-clark.net/2026/11/09/import-ai-480-self-sustaining-space-economies-ai-for-science-progress-and-meta-builds-perfect-hands-for-a-superintelligence/",
+      "thumbnailUrl": "https://i0.wp.com/jack-clark.net/wp-content/uploads/2026/11/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258-sNOLmO.png?resize=150%2C150&amp;ssl=1",
+      "author": "Jack Clark",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-09T13:31:34.000Z",
+      "readingMinutes": 4,
+      "score": 106,
+      "whyItMatters": "AI 연구의 실전 감도와 산업 변화의 속도를 동시에 잡게 해준다.",
+      "excerpt": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. If you’d like to support this, please subscribe. Subscribe now AI Science startup converts a quantum conjecture into a th",
       "tags": [
         "import-ai",
         "uncategorized"
@@ -3641,46 +3681,6 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLW52aWRpYS1hZnRlci1qZW5zZW4taHVhbmctb21pbm91cy1uZXdzLWZvci1hbWVyaWNhbi1haS1kLWMtZ2V0cy1pdHMtcmV2ZW5nZS8",
-      "title": "Sharp Tech on Video: Nvidia After Jensen Huang, Ominous News for American AI, D.C. Gets Its Revenge",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-nvidia-after-jensen-huang-ominous-news-for-american-ai-d-c-gets-its-revenge/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-13T03:47:52.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "sharp tech video"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvZmFibGUtNTItYW5kLWphZ2dlZC1hZ2k",
-      "title": "Fable 5.2 and Jagged AGI",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-11-09T19:04:26.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "General, often expert, and sometimes jagged",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "source": "MIT Technology Review",
@@ -4133,6 +4133,28 @@
         "space",
         "app",
         "mit technology review explains"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xNi8xMTQ4NjI0L3RoZS1vcGVuLXNvdXJjZS1tb3ZlbWVudC13YW50cy1qZW5zZW4taHVhbmctYmFjay8",
+      "title": "The open-source movement wants Jensen Huang back",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+      "thumbnailUrl": null,
+      "author": "James O'Donnell",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-16T18:38:47.000Z",
+      "readingMinutes": 4,
+      "score": 101,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, an",
+      "tags": [
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "artificial intelligence"
       ],
       "isNew": true
     },
@@ -4856,6 +4878,72 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk1JTg0JWVjJTlkJWI0JWViJWIyJWExJWVjJThhJWE0LSVlYyU4YiU5ZCVlZCU5MiU4OCVlYSViMyViNSVlYyVhMCU5NS0lZWQlOTQlYmMlZWMlYTclODAlZWMlYmIlYWMtYWktJWVjJWEwJTgxJWVjJTlhJWE5JWMyJWI3Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTk1JTI1ODQlMjVlYyUyNTlkJTI1YjQlMjVlYiUyNWIyJTI1YTElMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU4YiUyNTlkJTI1ZWQlMjU5MiUyNTg4JTI1ZWElMjViMyUyNWI1JTI1ZWMlMjVhMCUyNTk1LSUyNWVkJTI1OTQlMjViYyUyNWVjJTI1YTclMjU4MCUyNWVjJTI1YmIlMjVhYy1haS0lMjVlYyUyNWEwJTI1ODElMjVlYyUyNTlhJTI1YTklMjVjMiUyNWI3",
+      "title": "[스타트업 안테나] 아이벡스 식품공정 피지컬 AI 적용·에어빌리티 재난 드론 개발·세미파이브 3D 반도체 공개",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85-%ec%95%88%ed%85%8c%eb%82%98-%ec%95%84%ec%9d%b4%eb%b2%a1%ec%8a%a4-%ec%8b%9d%ed%92%88%ea%b3%b5%ec%a0%95-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%a0%81%ec%9a%a9%c2%b7/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%258a%25a4%25ed%2583%2580%25ed%258a%25b8%25ec%2597%2585-%25ec%2595%2588%25ed%2585%258c%25eb%2582%2598-%25ec%2595%2584%25ec%259d%25b4%25eb%25b2%25a1%25ec%258a%25a4-%25ec%258b%259d%25ed%2592%2588%25ea%25b3%25b5%25ec%25a0%2595-%25ed%2594%25bc%25ec%25a7%2580%25ec%25bb%25ac-ai-%25ec%25a0%2581%25ec%259a%25a9%25c2%25b7",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-17T01:24:47.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "17일 국내 스타트업들이 인공지능(AI)을 실제 산업 현장에 적용하는 한편, 차세대 반도체와 신약 연구, 기업용 AI 서비스 등으로 사업 영역을 넓히고 있다. 제조공정 자동화부터 재난 수색, 소재 개발에 이르기까지 기술 실증과 사업화 움직임이 이어지는 모습이다.",
+      "tags": [
+        "tech42",
+        "스타트업",
+        "ct(클래스팅)",
+        "sbva"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5NSU4YyVlZCU4YSViOCVlYiVhNyU4Yy0lZWMlYTAlYTAlZWMlOGElYTgtJWVkJTk5JWE5LSVlYyU4MiVhYyVlYyU5ZSU4NCVlYyU5NyU5MCVlYiU4ZiU4NC1haS0lZWMlOTclODUlZWElYjMlODQtJWVhJWI0JTljJWVjJWIwJWFlJWVjJTlkJTg0LSVlYSViMiU4My0lZWMlOTclOTQlZWIlYjklODQlZWIlOTQlOTQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk1JTI1OGMlMjVlZCUyNThhJTI1YjglMjVlYiUyNWE3JTI1OGMtJTI1ZWMlMjVhMCUyNWEwJTI1ZWMlMjU4YSUyNWE4LSUyNWVkJTI1OTklMjVhOS0lMjVlYyUyNTgyJTI1YWMlMjVlYyUyNTllJTI1ODQlMjVlYyUyNTk3JTI1OTAlMjVlYiUyNThmJTI1ODQtYWktJTI1ZWMlMjU5NyUyNTg1JTI1ZWElMjViMyUyNTg0LSUyNWVhJTI1YjQlMjU5YyUyNWVjJTI1YjAlMjVhZSUyNWVjJTI1OWQlMjU4NC0lMjVlYSUyNWIyJTI1ODMtJTI1ZWMlMjU5NyUyNTk0JTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5NCUyNTk0",
+      "title": "\"알트만, 젠슨 황 사임에도 AI 업계 괜찮을 것\"… 엔비디아 자금 지원 신뢰 재확인",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%95%8c%ed%8a%b8%eb%a7%8c-%ec%a0%a0%ec%8a%a8-%ed%99%a9-%ec%82%ac%ec%9e%84%ec%97%90%eb%8f%84-ai-%ec%97%85%ea%b3%84-%ea%b4%9c%ec%b0%ae%ec%9d%84-%ea%b2%83-%ec%97%94%eb%b9%84%eb%94%94/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2595%258c%25ed%258a%25b8%25eb%25a7%258c-%25ec%25a0%25a0%25ec%258a%25a8-%25ed%2599%25a9-%25ec%2582%25ac%25ec%259e%2584%25ec%2597%2590%25eb%258f%2584-ai-%25ec%2597%2585%25ea%25b3%2584-%25ea%25b4%259c%25ec%25b0%25ae%25ec%259d%2584-%25ea%25b2%2583-%25ec%2597%2594%25eb%25b9%2584%25eb%2594%2594",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-16T23:43:12.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "오픈AI 최고경영자 샘 알트만이 중국 스파이 혐의 인물과의 불륜 스캔들로 사임한 젠슨 황 엔비디아 전 최고경영자의 퇴진 이후에도 인공지능 산업의 성장세는 흔들리지 않을 것이라는 입장을 밝혔다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "샘 알트만",
+        "엔비디아"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5YSViMCVlYiViMiU4NC0lZWMlOWElYjQlZWMlYTAlODQlZWElYjglYjAlZWMlODIlYWMtJWVjJTk1JWJkLTE1JWViJWE3JThjLSVlYiVhYSU4NS0lZWMlOWElYjQlZWMlYTAlODQlZWIlYTklYjQlZWQlOTclODgtJWVjJWEwJTk1JWViJWIzJWI0LSVlZCU5NSViNCVlZCU4MiViOS0lZWMlOWMlYTAlZWMlYjYlOWMvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTlhJTI1YjAlMjVlYiUyNWIyJTI1ODQtJTI1ZWMlMjU5YSUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWElMjViOCUyNWIwJTI1ZWMlMjU4MiUyNWFjLSUyNWVjJTI1OTUlMjViZC0xNSUyNWViJTI1YTclMjU4Yy0lMjVlYiUyNWFhJTI1ODUtJTI1ZWMlMjU5YSUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWIlMjVhOSUyNWI0JTI1ZWQlMjU5NyUyNTg4LSUyNWVjJTI1YTAlMjU5NSUyNWViJTI1YjMlMjViNC0lMjVlZCUyNTk1JTI1YjQlMjVlZCUyNTgyJTI1YjktJTI1ZWMlMjU5YyUyNWEwJTI1ZWMlMjViNiUyNTlj",
+      "title": "\"우버 운전기사 약 15만 명 운전면허 정보 해킹 유출\"",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%9a%b0%eb%b2%84-%ec%9a%b4%ec%a0%84%ea%b8%b0%ec%82%ac-%ec%95%bd-15%eb%a7%8c-%eb%aa%85-%ec%9a%b4%ec%a0%84%eb%a9%b4%ed%97%88-%ec%a0%95%eb%b3%b4-%ed%95%b4%ed%82%b9-%ec%9c%a0%ec%b6%9c/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%259a%25b0%25eb%25b2%2584-%25ec%259a%25b4%25ec%25a0%2584%25ea%25b8%25b0%25ec%2582%25ac-%25ec%2595%25bd-15%25eb%25a7%258c-%25eb%25aa%2585-%25ec%259a%25b4%25ec%25a0%2584%25eb%25a9%25b4%25ed%2597%2588-%25ec%25a0%2595%25eb%25b3%25b4-%25ed%2595%25b4%25ed%2582%25b9-%25ec%259c%25a0%25ec%25b6%259c",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-16T23:30:13.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "글로벌 차량 호출 서비스 기업 우버가 자사의 인공지능 기술 협력사인 파이어웍스 AI의 해킹 사고로 인해 소속 운전기사 14만 9,346명의 개인정보를 유출당했다.",
+      "tags": [
+        "tech42",
+        "ai요약",
+        "ai 해킹",
+        "개인정보유출"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWViJTk0JWE1JWVjJTk3JTkxJWVjJThhJWE0LSVlYyU5ZCViOCVlZCU4NSU5NCVlYSViMyViYy1haS0lZWIlYjAlOTglZWIlOGYlODQlZWMlYjIlYjQtJWVkJTk4JTkxJWViJWEwJWE1JWVjJTg0JWI4JWViJWFmJWI4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYiUyNTk0JTI1YTUlMjVlYyUyNTk3JTI1OTElMjVlYyUyNThhJTI1YTQtJTI1ZWMlMjU5ZCUyNWI4JTI1ZWQlMjU4NSUyNTk0JTI1ZWElMjViMyUyNWJjLWFpLSUyNWViJTI1YjAlMjU5OCUyNWViJTI1OGYlMjU4NCUyNWVjJTI1YjIlMjViNC0lMjVlZCUyNTk4JTI1OTElMjVlYiUyNWEwJTI1YTUlMjVlYyUyNTg0JTI1YjglMjVlYiUyNWFmJTI1Yjg",
       "title": "[스타트업 안테나] 딥엑스, 인텔과 AI 반도체 협력…세미파이브 수주 확대·마키나락스 매출 성장",
       "source": "Tech42",
@@ -4876,28 +4964,6 @@
         "뉴엔ai"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NDk4L3NpbGljb24tdmFsbGV5LWNsYWltcy10by1rbm93LXRoZS1mdXR1cmUtc28td2h5LWRpZC1pdC1nZXQtdGhlLW1pZHRlcm1zLXNvLXdyb25nLw",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "thumbnailUrl": null,
-      "author": "Aaron Zamost",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-13T10:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year roa",
-      "tags": [
-        "mit-technology-review",
-        "business",
-        "ai",
-        "app"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNyU4MCVlYyViMCVhZSVlYyU5ZCU4MC0lZWMlYTAlODQlZWQlOTklOTQtYWktJWViJWI5JTg0JWVjJTg0JTljJWVhJWIwJTgwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWElYjElYjQlZWIlOGIlYTQtJWViJWE5JTk0JWVkJTgzJTgwLSVlYyU5YyVhMCVlYiVhMyU4Yy1haS0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQlZWQlOGElYjgvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI3JTI1ODAlMjVlYyUyNWIwJTI1YWUlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU5OSUyNTk0LWFpLSUyNWViJTI1YjklMjU4NCUyNWVjJTI1ODQlMjU5YyUyNWVhJTI1YjAlMjU4MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWElMjViMSUyNWI0JTI1ZWIlMjU4YiUyNWE0LSUyNWViJTI1YTklMjU5NCUyNWVkJTI1ODMlMjU4MC0lMjVlYyUyNTljJTI1YTAlMjVlYiUyNWEzJTI1OGMtYWktJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0JTI1ZWQlMjU4YSUyNWI4",
@@ -5162,6 +5228,25 @@
         "k-팔란티어"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvZmFibGUtNTItYW5kLWphZ2dlZC1hZ2k",
+      "title": "Fable 5.2 and Jagged AGI",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/fable-52-and-jagged-agi",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-11-09T19:04:26.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "General, often expert, and sometimes jagged",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtYWktJWVkJTk0JThjJWViJTllJWFiJWVkJThmJWJjLSVlYyViNiU5YyVlYyU4YiU5YyVlYiViNiU4MCVlZCU4NCViMC0lZWIlYjAlOTQlZWMlOWQlYjQlZWMlOTglYTQtJWVkJTg4JWFjJWVjJTllJTkwJWMyJWI3JWVkJTk1JWI0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC1haS0lMjVlZCUyNTk0JTI1OGMlMjVlYiUyNTllJTI1YWIlMjVlZCUyNThmJTI1YmMtJTI1ZWMlMjViNiUyNTljJTI1ZWMlMjU4YiUyNTljJTI1ZWIlMjViNiUyNTgwJTI1ZWQlMjU4NCUyNWIwLSUyNWViJTI1YjAlMjU5NCUyNWVjJTI1OWQlMjViNCUyNWVjJTI1OTglMjVhNC0lMjVlZCUyNTg4JTI1YWMlMjVlYyUyNTllJTI1OTAlMjVjMiUyNWI3JTI1ZWQlMjU5NSUyNWI0",
@@ -6266,85 +6351,6 @@
       "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
-      "title": "Choosing to Stay Human",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-05-26T19:56:01.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
-      "title": "The Shape of the Thing",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-12T14:10:07.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Where we are right now, and what likely happens next",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xMy8xMTQ4NTUxL3RoZS1kb3dubG9hZC1zaWxpY29uLXZhbGxleS1taWR0ZXJtcy1udmlkaWEtY2hpcC10cmFja2luZy8",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-13T13:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Silicon Valley claims to know the future. So why did it get the midterms so wrong? —Aaron Zamost, a te",
-      "tags": [
-        "mit-technology-review",
-        "the download"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1pbnR1aXQtY2VvLXNhc2FuLWdvb2RhcnppLWFib3V0LWFjY291bnRpbmctYW5kLWFpLw",
-      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "AI + Work",
-      "publishedAt": "2026-11-05T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
       ],
       "isNew": false
     }
