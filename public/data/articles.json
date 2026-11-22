@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-21T03:36:53.700Z",
+  "fetchedAt": "2026-11-22T02:43:31.583Z",
   "todayPickIds": [
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3duLWluLWRjLw",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8yMC8xMTQ5Mzk5L3RoZS1tb3N0LW1pc3VuZGVyc3Rvb2QtZ3JhcGgtaW4tYWktanVzdC1nb3QtYS1tYWpvci11cGRhdGUv",
-    "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zaGVuemhlbi1zdW1taXQtc3VwcGxhbnRzLXlhbHRh",
     "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWIlYTclYTUtJWVjJWE3JTgxJWVjJWEwJTkxLSVlYyVhMCU5YyVlYyU5NiViNC0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWIlMjVhNyUyNWE1LSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1YTAlMjU5MS0lMjVlYyUyNWEwJTI1OWMlMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0",
-    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw"
+    "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw",
+    "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
   "sourceCount": 9,
   "articleCount": 300,
@@ -674,7 +674,7 @@
         "daily update",
         "interviews"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
@@ -823,27 +823,6 @@
         "uncategorized"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWplbnNlbnMtbm90LWNvbWluZy1iYWNrLWFpLXNob3BwaW5nLXRoZS1pcGhvbmUtZHVvLw",
-      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-20T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 106,
-      "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "sharp tech video"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzA5L2ltcG9ydC1haS00ODAtc2VsZi1zdXN0YWluaW5nLXNwYWNlLWVjb25vbWllcy1haS1mb3Itc2NpZW5jZS1wcm9ncmVzcy1hbmQtbWV0YS1idWlsZHMtcGVyZmVjdC1oYW5kcy1mb3ItYS1zdXBlcmludGVsbGlnZW5jZS8",
@@ -1102,26 +1081,6 @@
         "one-useful-thing"
       ],
       "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3duLWluLWRjLw",
-      "title": "2026.47: Down in DC",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/down-in-dc/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-20T19:09:57.000Z",
-      "readingMinutes": 4,
-      "score": 105,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
-      "tags": [
-        "stratechery",
-        "this week in stratechery"
-      ],
-      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hLWNvbnZlcnNhdGlvbi13aXRoLWFyaS1lbWFudWVsLWFib3V0LWVudGVydGFpbm1lbnQtYW5kLWFpLw",
@@ -1710,48 +1669,6 @@
       "excerpt": "From chatbots to agents",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8yMC8xMTQ5Mzk5L3RoZS1tb3N0LW1pc3VuZGVyc3Rvb2QtZ3JhcGgtaW4tYWktanVzdC1nb3QtYS1tYWpvci11cGRhdGUv",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
-      "thumbnailUrl": null,
-      "author": "Grace Huckins",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-20T18:15:15.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are a",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "summary"
-      ],
-      "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xOC8xMTQ4ODQ1L3RoZS1kb3dubG9hZC1haS1sZWFybnMtdG8tc21lbGwtaHlkcm9wb3dlci1zdHJ1Z2dsZXMv",
-      "title": "The Download: AI learns to smell and hydropower struggles",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
-      "thumbnailUrl": null,
-      "author": "Thomas Macaulay",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-18T13:10:00.000Z",
-      "readingMinutes": 4,
-      "score": 104,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are tryin",
-      "tags": [
-        "mit-technology-review",
-        "the download"
       ],
       "isNew": false
     },
@@ -3809,46 +3726,25 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9udmlkaWEtZWFybmluZ3Mtb2ZmaWNlLWNvbnZlcmdlbmNlLW9zLXdhcnMtYWktZWRpdGlvbi8",
-      "title": "Nvidia Earnings; Office Convergence; OS Wars, AI Edition",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9zaGFycC10ZWNoLW9uLXZpZGVvLWplbnNlbnMtbm90LWNvbWluZy1iYWNrLWFpLXNob3BwaW5nLXRoZS1pcGhvbmUtZHVvLw",
+      "title": "Sharp Tech on Video: Jensen’s Not Coming Back, AI Shopping, The iPhone Duo",
       "source": "Stratechery",
       "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/nvidia-earnings-office-convergence-os-wars-ai-edition/",
+      "articleUrl": "https://stratechery.com/2026/sharp-tech-on-video-jensens-not-coming-back-ai-shopping-the-iphone-duo/",
       "thumbnailUrl": null,
       "author": "Ben Thompson",
       "category": "Business Strategy",
-      "publishedAt": "2026-11-18T11:00:00.000Z",
+      "publishedAt": "2026-11-20T11:00:00.000Z",
       "readingMinutes": 4,
       "score": 102,
       "whyItMatters": "AI 변화가 사회와 일에 어떤 파장을 만드는지 읽게 해준다.",
-      "excerpt": "Nvidia's earnings were boring, and also a statement as to why Jensen Huang probably isn't coming back; then, Microsoft and Anthropic ship dueling operating system updates.",
+      "excerpt": "Sharp Tech is, for the first time, available on video. You have three ways to consume it: YouTube, Spotify, and here on Stratechery",
       "tags": [
         "stratechery",
-        "daily update"
+        "daily update",
+        "sharp tech video"
       ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xOC8xMTQ4ODE2L3NtZWxsLXN0YXJ0dXAtb3Ntby1haS1ub3NlLWdvb2QtYXMtaHVtYW5zLw",
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "thumbnailUrl": null,
-      "author": "Amit Katwala",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-18T10:20:30.000Z",
-      "readingMinutes": 4,
-      "score": 102,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analys",
-      "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "app",
-        "artificial intelligence"
-      ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
@@ -4307,26 +4203,24 @@
       "isNew": true
     },
     {
-      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xOC8xMTQ4NjUwL2FpLWh5cGUtaW5kZXgtYWktaXMtZXZlcnl3aGVyZS8",
-      "title": "The AI Hype Index: AI is everywhere",
-      "source": "MIT Technology Review",
-      "sourceUrl": "https://www.technologyreview.com/feed/",
-      "articleUrl": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3duLWluLWRjLw",
+      "title": "2026.47: Down in DC",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/down-in-dc/",
       "thumbnailUrl": null,
-      "author": "Amit Katwala",
-      "category": "AI + Society",
-      "publishedAt": "2026-11-18T14:42:44.000Z",
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-20T19:09:57.000Z",
       "readingMinutes": 4,
       "score": 101,
-      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
-      "excerpt": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people heaving an AI-powered ",
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "The best Stratechery content from the week of November 16, 2026, including obituaries and exceptionalism, arguments about agents, and Ben gets a Duo.",
       "tags": [
-        "mit-technology-review",
-        "artificial intelligence",
-        "ai",
-        "ai hype index"
+        "stratechery",
+        "this week in stratechery"
       ],
-      "isNew": false
+      "isNew": true
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw",
@@ -5068,21 +4962,24 @@
       "isNew": false
     },
     {
-      "id": "aHR0cHM6Ly93d3cubm9lbWFtYWcuY29tL3RoZS1zaGVuemhlbi1zdW1taXQtc3VwcGxhbnRzLXlhbHRh",
-      "title": "The Shenzhen Summit Supplants Yalta",
-      "source": "Noema",
-      "sourceUrl": "https://www.noemamag.com/feed/",
-      "articleUrl": "https://www.noemamag.com/the-shenzhen-summit-supplants-yalta",
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8yMC8xMTQ5Mzk5L3RoZS1tb3N0LW1pc3VuZGVyc3Rvb2QtZ3JhcGgtaW4tYWktanVzdC1nb3QtYS1tYWpvci11cGRhdGUv",
+      "title": "The most misunderstood graph in AI just got a major update",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "thumbnailUrl": null,
-      "author": "Nathan Gardels",
-      "category": "Philosophy",
-      "publishedAt": "2026-11-20T15:51:40.000Z",
+      "author": "Grace Huckins",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-20T18:15:15.000Z",
       "readingMinutes": 4,
       "score": 100,
-      "whyItMatters": "기술 변화의 의미를 문명·인간 관점에서 깊게 해석한다.",
-      "excerpt": "The post The Shenzhen Summit Supplants Yalta appeared first on NOEMA.",
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are a",
       "tags": [
-        "noema"
+        "mit-technology-review",
+        "artificial intelligence",
+        "app",
+        "summary"
       ],
       "isNew": true
     },
@@ -5106,7 +5003,7 @@
         "ai 에이전트",
         "맥"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTk3JTkwJWVjJTllJTg0JWVjJTlkJWI4JWVkJTg1JTk0JWViJWE2JWFjJWVjJWEwJTg0JWVjJThhJWE0LSVlYSViNSVhZCVlYyVhMCU5YyVlZCU5NSU5OSVlZCU5YSU4Yy0lZWMlODQlYjElZWElYjMlYmMlYzIlYjcvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNThhJTI1YTQlMjVlZCUyNTgzJTI1ODAlMjVlZCUyNThhJTI1YjglMjVlYyUyNTk3JTI1ODUtJTI1ZWMlMjU5NSUyNTg4JTI1ZWQlMjU4NSUyNThjJTI1ZWIlMjU4MiUyNTk4LSUyNWVjJTI1OTclMjU5MCUyNWVjJTI1OWUlMjU4NCUyNWVjJTI1OWQlMjViOCUyNWVkJTI1ODUlMjU5NCUyNWViJTI1YTYlMjVhYyUyNWVjJTI1YTAlMjU4NCUyNWVjJTI1OGElMjVhNC0lMjVlYSUyNWI1JTI1YWQlMjVlYyUyNWEwJTI1OWMlMjVlZCUyNTk1JTI1OTklMjVlZCUyNTlhJTI1OGMtJTI1ZWMlMjU4NCUyNWIxJTI1ZWElMjViMyUyNWJjJTI1YzIlMjViNw",
@@ -5151,6 +5048,26 @@
         "앤트로픽"
       ],
       "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8xOC8xMTQ4ODQ1L3RoZS1kb3dubG9hZC1haS1sZWFybnMtdG8tc21lbGwtaHlkcm9wb3dlci1zdHJ1Z2dsZXMv",
+      "title": "The Download: AI learns to smell and hydropower struggles",
+      "source": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/feed/",
+      "articleUrl": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
+      "thumbnailUrl": null,
+      "author": "Thomas Macaulay",
+      "category": "AI + Society",
+      "publishedAt": "2026-11-18T13:10:00.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "시의성과 사회적 함의를 함께 읽게 해주는 좋은 균형점이다.",
+      "excerpt": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This smell startup says its AI nose is as good as a human’s In a New Jersey lab, researchers are tryin",
+      "tags": [
+        "mit-technology-review",
+        "the download"
+      ],
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyL21zLSVlYyViNCU4OCVlYyVhMCU4MCVlYiViOSU4NCVlYyU5YSVhOS0lZWMlYmQlOTQlZWIlOTQlYTklYzIlYjclZWIlYjMlYjQlZWMlOTUlODgtYWktJWVjJWEwJTg0JWVhJWIyJWE5LSVlYSViMyViNSVlYSViMCU5Yy0lZWMlOTglYTQlZWQlOTQlODhhaSVjMiViNyVlYyU5NSVhNCVlZCU4YSViOCVlYiVhMSU5YyVlZCU5NCViZC8/dXRtX3NvdXJjZT1yc3MmdXRtX21lZGl1bT1yc3MmdXRtX2NhbXBhaWduPW1zLSUyNWVjJTI1YjQlMjU4OCUyNWVjJTI1YTAlMjU4MCUyNWViJTI1YjklMjU4NCUyNWVjJTI1OWElMjVhOS0lMjVlYyUyNWJkJTI1OTQlMjVlYiUyNTk0JTI1YTklMjVjMiUyNWI3JTI1ZWIlMjViMyUyNWI0JTI1ZWMlMjU5NSUyNTg4LWFpLSUyNWVjJTI1YTAlMjU4NCUyNWVhJTI1YjIlMjVhOS0lMjVlYSUyNWIzJTI1YjUlMjVlYSUyNWIwJTI1OWMtJTI1ZWMlMjU5OCUyNWE0JTI1ZWQlMjU5NCUyNTg4YWklMjVjMiUyNWI3JTI1ZWMlMjU5NSUyNWE0JTI1ZWQlMjU4YSUyNWI4JTI1ZWIlMjVhMSUyNTljJTI1ZWQlMjU5NCUyNWJk",
@@ -6345,6 +6262,85 @@
       "excerpt": "Benefitting from the Bitter Lesson",
       "tags": [
         "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLW92ZXJoYW5n",
+      "title": "The Overhang",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-overhang",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-09-18T17:54:32.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Using your deep knowledge, wide knowledge, taste, and agency",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvY2hvb3NpbmctdG8tc3RheS1odW1hbg",
+      "title": "Choosing to Stay Human",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/choosing-to-stay-human",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-05-26T19:56:01.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
+      "title": "The Shape of the Thing",
+      "source": "One Useful Thing",
+      "sourceUrl": "https://www.oneusefulthing.org/feed",
+      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
+      "thumbnailUrl": null,
+      "author": "Ethan Mollick",
+      "category": "AI + Work",
+      "publishedAt": "2026-03-12T14:10:07.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
+      "excerpt": "Where we are right now, and what likely happens next",
+      "tags": [
+        "one-useful-thing"
+      ],
+      "isNew": false
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS1haSVlYSViMCU4MC0lZWIlOGYlODgtJWVjJTkzJWIwJWVhJWIzJWEwLSVlYiVhMSU5YyVlYiViNCU4NyVlYyU5ZCViNC0lZWMlOWQlYmMlZWQlOTUlOTglZWIlOGElOTQtJWVjJThiJTljJWViJThjJTgwLSVlZCU5NSU5YyVlYSViNSVhZCVlYyU5ZCU4MC0lZWMlYTQlODAlZWIlYjklODQlZWIlOTAlOTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtYWklMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjU4ZiUyNTg4LSUyNWVjJTI1OTMlMjViMCUyNWVhJTI1YjMlMjVhMC0lMjVlYiUyNWExJTI1OWMlMjVlYiUyNWI0JTI1ODclMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5ZCUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1OGMlMjU4MC0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhNCUyNTgwJTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5MCUyNTkw",
+      "title": "[현장] AI가 돈 쓰고 로봇이 일하는 시대, 한국은 준비됐나…AI 정책 포럼에서 바라본 국가 전략부터 법·제도까지",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-ai%ea%b0%80-%eb%8f%88-%ec%93%b0%ea%b3%a0-%eb%a1%9c%eb%b4%87%ec%9d%b4-%ec%9d%bc%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%ed%95%9c%ea%b5%ad%ec%9d%80-%ec%a4%80%eb%b9%84%eb%90%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-ai%25ea%25b0%2580-%25eb%258f%2588-%25ec%2593%25b0%25ea%25b3%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%259d%25bc%25ed%2595%2598%25eb%258a%2594-%25ec%258b%259c%25eb%258c%2580-%25ed%2595%259c%25ea%25b5%25ad%25ec%259d%2580-%25ec%25a4%2580%25eb%25b9%2584%25eb%2590%2590",
+      "thumbnailUrl": null,
+      "author": "황정호 기자",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-19T23:43:09.000Z",
+      "readingMinutes": 4,
+      "score": 99,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "지난 18일 국회 의원회관 제3간담회실에서 'AI와 인간, 공존을 넘어 평화로: AI기본법과 윤리적 미래'를 주제로 '2026 국회 AI 정책포럼'이 열렸다. 이날 행사에서는 'AI 반도체 2막, 한국의 전략경제 방향'을 주제로 기조연설에 나선 박영선 전 장관(재경부 전략경제자문단 위원장, 오른쪽 상단), 김동환 AI휴먼소사이어티 이사장 등을 비롯해 각계 전문가들이 AI 국가 전략과 관련한 의견을 공유했다.",
+      "tags": [
+        "tech42",
+        "인사이트42",
+        "정책플러스",
+        "ai"
       ],
       "isNew": false
     }
