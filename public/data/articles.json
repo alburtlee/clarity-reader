@@ -1,9 +1,9 @@
 {
-  "fetchedAt": "2026-11-22T02:43:31.583Z",
+  "fetchedAt": "2026-11-23T03:19:01.718Z",
   "todayPickIds": [
+    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLWFpLSVlYyVhNyU4MCVlYiU4YSVhNS0lZWQlOTUlOWMlZWIlOGYlODQtJWVjJTk3JTg1JWVhJWIzJTg0LSVlYSViMyViNSVlZCU4NiViNS0lZWElYjglYjAlZWMlYTQlODAtJWVjJWEwJTljJWVjJTk1JTg4LSVlZCU4NiViNSVlYyVhMCU5Yy0lZWIlYjYlODglZWIlOGElYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1haS0lMjVlYyUyNWE3JTI1ODAlMjVlYiUyNThhJTI1YTUtJTI1ZWQlMjU5NSUyNTljJTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTclMjU4NSUyNWVhJTI1YjMlMjU4NC0lMjVlYSUyNWIzJTI1YjUlMjVlZCUyNTg2JTI1YjUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjVhNCUyNTgwLSUyNWVjJTI1YTAlMjU5YyUyNWVjJTI1OTUlMjU4OC0lMjVlZCUyNTg2JTI1YjUlMjVlYyUyNWEwJTI1OWMtJTI1ZWIlMjViNiUyNTg4JTI1ZWIlMjU4YSUyNWE1",
     "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9kb3duLWluLWRjLw",
     "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8yMC8xMTQ5Mzk5L3RoZS1tb3N0LW1pc3VuZGVyc3Rvb2QtZ3JhcGgtaW4tYWktanVzdC1nb3QtYS1tYWpvci11cGRhdGUv",
-    "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWIlYTclYTUtJWVjJWE3JTgxJWVjJWEwJTkxLSVlYyVhMCU5YyVlYyU5NiViNC0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWIlMjVhNyUyNWE1LSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1YTAlMjU5MS0lMjVlYyUyNWEwJTI1OWMlMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0",
     "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw",
     "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvcmVhbC1haS1hZ2VudHMtYW5kLXJlYWwtd29yaw"
   ],
@@ -654,27 +654,6 @@
         "ai hype index"
       ],
       "isNew": true
-    },
-    {
-      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1lcmljLXNldWZlcnQtYWJvdXQtYWdlbnRpYy1jb21tZXJjZS8",
-      "title": "An Interview With Eric Seufert About Agentic Commerce",
-      "source": "Stratechery",
-      "sourceUrl": "https://stratechery.com/feed/",
-      "articleUrl": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
-      "thumbnailUrl": null,
-      "author": "Ben Thompson",
-      "category": "Business Strategy",
-      "publishedAt": "2026-11-19T11:00:00.000Z",
-      "readingMinutes": 4,
-      "score": 107,
-      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
-      "excerpt": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
-      "tags": [
-        "stratechery",
-        "daily update",
-        "interviews"
-      ],
-      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4OCU5OCVlYyU5ZCViNC0lZWMlOGIlYjElZWElYjAlODAlZWQlOGYlYWMlZWIlYTUlYjQlZWMlODQlOWMtJWViJWIyJWEwJWVjJTlkJWI0JWVjJThhJWE0JWVjJWJhJWEwJWVkJTk0JTg0LTIwMjYtJWVhJWIwJTljJWVjJWI1JTljYWktJWVjJTk3JTkwJWVjJTlkJWI0JWVjJWEwJTg0Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4OCUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1OGIlMjViMSUyNWVhJTI1YjAlMjU4MCUyNWVkJTI1OGYlMjVhYyUyNWViJTI1YTUlMjViNCUyNWVjJTI1ODQlMjU5Yy0lMjVlYiUyNWIyJTI1YTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQlMjVlYyUyNWJhJTI1YTAlMjVlZCUyNTk0JTI1ODQtMjAyNi0lMjVlYSUyNWIwJTI1OWMlMjVlYyUyNWI1JTI1OWNhaS0lMjVlYyUyNTk3JTI1OTAlMjVlYyUyNTlkJTI1YjQlMjVlYyUyNWEwJTI1ODQ",
@@ -2956,6 +2935,27 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly9zdHJhdGVjaGVyeS5jb20vMjAyNi9hbi1pbnRlcnZpZXctd2l0aC1lcmljLXNldWZlcnQtYWJvdXQtYWdlbnRpYy1jb21tZXJjZS8",
+      "title": "An Interview With Eric Seufert About Agentic Commerce",
+      "source": "Stratechery",
+      "sourceUrl": "https://stratechery.com/feed/",
+      "articleUrl": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+      "thumbnailUrl": null,
+      "author": "Ben Thompson",
+      "category": "Business Strategy",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "readingMinutes": 4,
+      "score": 103,
+      "whyItMatters": "정보보다 해석, 속보보다 관점을 남기는 글에 가깝다.",
+      "excerpt": "An interview with Eric Seufert about agentic commerce, including why he thinks ads will be the answer, and why I want retailers who cater to agents.",
+      "tags": [
+        "stratechery",
+        "daily update",
+        "interviews"
+      ],
+      "isNew": false
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU4YSVhNCVlZCU4MyU4MCVlZCU4YSViOCVlYyU5NyU4NS0lZWMlOTUlODglZWQlODUlOGMlZWIlODIlOTgtJWVjJTlkJWI4JWVjJThhJWE0JWVkJThlJTk4JWVjJTlkJWI0JWVjJThhJWE0LWFpLSVlYiU5MyU5YyVlYiVhMSVhMC0lZWElYjUlYWMlZWMlYjYlOTUlYzIlYjclZWMlOWMlOGMlZWIlYTElOWMlZWElYjclYjgtJWVjJTg0JWI4Lz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjU4YSUyNWE0JTI1ZWQlMjU4MyUyNTgwJTI1ZWQlMjU4YSUyNWI4JTI1ZWMlMjU5NyUyNTg1LSUyNWVjJTI1OTUlMjU4OCUyNWVkJTI1ODUlMjU4YyUyNWViJTI1ODIlMjU5OC0lMjVlYyUyNTlkJTI1YjglMjVlYyUyNThhJTI1YTQlMjVlZCUyNThlJTI1OTglMjVlYyUyNTlkJTI1YjQlMjVlYyUyNThhJTI1YTQtYWktJTI1ZWIlMjU5MyUyNTljJTI1ZWIlMjVhMSUyNWEwLSUyNWVhJTI1YjUlMjVhYyUyNWVjJTI1YjYlMjU5NSUyNWMyJTI1YjclMjVlYyUyNTljJTI1OGMlMjVlYiUyNWExJTI1OWMlMjVlYSUyNWI3JTI1YjgtJTI1ZWMlMjU4NCUyNWI4",
       "title": "[스타트업 안테나] 인스페이스 AI 드론 구축·윌로그 세계일류상품 선정·PFCT 금융 AI 연구 성과",
       "source": "Tech42",
@@ -3744,7 +3744,7 @@
         "daily update",
         "sharp tech video"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMC8yOS8xMTQ3ODI0L21vbml0b3ItYWktYWdlbnRzLWFjdGlvbnMtcmVhbC10aW1lLw",
@@ -4220,7 +4220,7 @@
         "stratechery",
         "this week in stratechery"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly9qYWNrLWNsYXJrLm5ldC8yMDI2LzExLzE2L2ltcG9ydC1haS00ODEtYWktc3ViLWNvbnRyYWN0b3JzLWEtd2V0LWxhYi1mb3ItYWktYW5kLXN1YnRlcmZ1Z2UtZHVyaW5nLWRldmVsb3BtZW50Lw",
@@ -4962,6 +4962,49 @@
       "isNew": false
     },
     {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyU5OCVhNCVlZCU5NCU4OGFpLWFpLSVlYyVhNyU4MCVlYiU4YSVhNS0lZWQlOTUlOWMlZWIlOGYlODQtJWVjJTk3JTg1JWVhJWIzJTg0LSVlYSViMyViNSVlZCU4NiViNS0lZWElYjglYjAlZWMlYTQlODAtJWVjJWEwJTljJWVjJTk1JTg4LSVlZCU4NiViNSVlYyVhMCU5Yy0lZWIlYjYlODglZWIlOGElYTUvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYyUyNTk4JTI1YTQlMjVlZCUyNTk0JTI1ODhhaS1haS0lMjVlYyUyNWE3JTI1ODAlMjVlYiUyNThhJTI1YTUtJTI1ZWQlMjU5NSUyNTljJTI1ZWIlMjU4ZiUyNTg0LSUyNWVjJTI1OTclMjU4NSUyNWVhJTI1YjMlMjU4NC0lMjVlYSUyNWIzJTI1YjUlMjVlZCUyNTg2JTI1YjUtJTI1ZWElMjViOCUyNWIwJTI1ZWMlMjVhNCUyNTgwLSUyNWVjJTI1YTAlMjU5YyUyNWVjJTI1OTUlMjU4OC0lMjVlZCUyNTg2JTI1YjUlMjVlYyUyNWEwJTI1OWMtJTI1ZWIlMjViNiUyNTg4JTI1ZWIlMjU4YSUyNWE1",
+      "title": "\"오픈AI, 'AI 지능 한도' 업계 공통 기준 제안\"… 통제 불능 위기 선제 차단",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%98%a4%ed%94%88ai-ai-%ec%a7%80%eb%8a%a5-%ed%95%9c%eb%8f%84-%ec%97%85%ea%b3%84-%ea%b3%b5%ed%86%b5-%ea%b8%b0%ec%a4%80-%ec%a0%9c%ec%95%88-%ed%86%b5%ec%a0%9c-%eb%b6%88%eb%8a%a5/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%2598%25a4%25ed%2594%2588ai-ai-%25ec%25a7%2580%25eb%258a%25a5-%25ed%2595%259c%25eb%258f%2584-%25ec%2597%2585%25ea%25b3%2584-%25ea%25b3%25b5%25ed%2586%25b5-%25ea%25b8%25b0%25ec%25a4%2580-%25ec%25a0%259c%25ec%2595%2588-%25ed%2586%25b5%25ec%25a0%259c-%25eb%25b6%2588%25eb%258a%25a5",
+      "thumbnailUrl": null,
+      "author": "버트",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-23T00:27:17.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "미국 인공지능 기업 오픈AI가 급속도로 진화하는 인공지능 모델의 잠재적 위험을 통제하기 위해 모델 지능 측정 지표인 '퍼플렉시티(perplexity)'를 기준으로 업계 공통의 개발 한도를 설정하자고 제안했다.",
+      "tags": [
+        "tech42",
+        "테크요약",
+        "오픈ai",
+        "퍼플렉시티"
+      ],
+      "isNew": true
+    },
+    {
+      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYyViNCU4OCVlYSViMSViMCVlYiU4YyU4MC0lZWIlOGQlYjAlZWMlOWQlYjQlZWQlODQlYjAlZWMlODQlYmMlZWQlODQlYjAtJWViJWFmJWI4JWVhJWI1JWFkLSVlYyVhMCU5NSVlYyViOSU5OCVlYSViNiU4YyVjMiViNyVlYyVhNyU4MCVlYyU5NyVhZCVlYyU4MiVhYyVlZCU5YSU4Yy0lZWIlYjAlOTglZWIlYjAlOWMtJWVjJWE3JTgxLz91dG1fc291cmNlPXJzcyZ1dG1fbWVkaXVtPXJzcyZ1dG1fY2FtcGFpZ249JTI1ZWMlMjViNCUyNTg4JTI1ZWElMjViMSUyNWIwJTI1ZWIlMjU4YyUyNTgwLSUyNWViJTI1OGQlMjViMCUyNWVjJTI1OWQlMjViNCUyNWVkJTI1ODQlMjViMCUyNWVjJTI1ODQlMjViYyUyNWVkJTI1ODQlMjViMC0lMjVlYiUyNWFmJTI1YjglMjVlYSUyNWI1JTI1YWQtJTI1ZWMlMjVhMCUyNTk1JTI1ZWMlMjViOSUyNTk4JTI1ZWElMjViNiUyNThjJTI1YzIlMjViNyUyNWVjJTI1YTclMjU4MCUyNWVjJTI1OTclMjVhZCUyNWVjJTI1ODIlMjVhYyUyNWVkJTI1OWElMjU4Yy0lMjVlYiUyNWIwJTI1OTglMjVlYiUyNWIwJTI1OWMtJTI1ZWMlMjVhNyUyNTgx",
+      "title": "초거대 데이터센터, 미국 정치권·지역사회 반발 직면",
+      "source": "Tech42",
+      "sourceUrl": "https://www.tech42.co.kr/feed/",
+      "articleUrl": "https://www.tech42.co.kr/%ec%b4%88%ea%b1%b0%eb%8c%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0-%eb%af%b8%ea%b5%ad-%ec%a0%95%ec%b9%98%ea%b6%8c%c2%b7%ec%a7%80%ec%97%ad%ec%82%ac%ed%9a%8c-%eb%b0%98%eb%b0%9c-%ec%a7%81/?utm_source=rss&utm_medium=rss&utm_campaign=%25ec%25b4%2588%25ea%25b1%25b0%25eb%258c%2580-%25eb%258d%25b0%25ec%259d%25b4%25ed%2584%25b0%25ec%2584%25bc%25ed%2584%25b0-%25eb%25af%25b8%25ea%25b5%25ad-%25ec%25a0%2595%25ec%25b9%2598%25ea%25b6%258c%25c2%25b7%25ec%25a7%2580%25ec%2597%25ad%25ec%2582%25ac%25ed%259a%258c-%25eb%25b0%2598%25eb%25b0%259c-%25ec%25a7%2581",
+      "thumbnailUrl": null,
+      "author": "앨리스",
+      "category": "AI + Korea",
+      "publishedAt": "2026-11-22T23:51:55.000Z",
+      "readingMinutes": 4,
+      "score": 100,
+      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
+      "excerpt": "인공지능 열풍을 타고 구글과 마이크로소프트, 아마존, 오픈AI 등 미국 빅테크 기업들이 경쟁적으로 건립 중인 초거대 데이터센터가 전력망 과부하와 수자원 고갈, 소음 공해를 유발하며 지역사회와 정치권의 거센 반발을 불러일으키고 있다.",
+      "tags": [
+        "tech42",
+        "테크요약",
+        "데이터센터"
+      ],
+      "isNew": true
+    },
+    {
       "id": "aHR0cHM6Ly93d3cudGVjaG5vbG9neXJldmlldy5jb20vMjAyNi8xMS8yMC8xMTQ5Mzk5L3RoZS1tb3N0LW1pc3VuZGVyc3Rvb2QtZ3JhcGgtaW4tYWktanVzdC1nb3QtYS1tYWpvci11cGRhdGUv",
       "title": "The most misunderstood graph in AI just got a major update",
       "source": "MIT Technology Review",
@@ -4981,7 +5024,7 @@
         "app",
         "summary"
       ],
-      "isNew": true
+      "isNew": false
     },
     {
       "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlYSViNSVhYyVlYSViOCU4MC0lZWMlYTAlOWMlZWIlYWYlYjglZWIlODIlOTglZWMlOWQlYjQtJWVjJTgyJWFjJWVjJTlhJWE5JWVjJTllJTkwLSVlYiU4YyU4MCVlYyU4YiVhMC0lZWIlYTclYTUtJWVjJWE3JTgxJWVjJWEwJTkxLSVlYyVhMCU5YyVlYyU5NiViNC0lZWMlOTclOTAlZWMlOWQlYjQlZWMlYTAlODQvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlYSUyNWI1JTI1YWMlMjVlYSUyNWI4JTI1ODAtJTI1ZWMlMjVhMCUyNTljJTI1ZWIlMjVhZiUyNWI4JTI1ZWIlMjU4MiUyNTk4JTI1ZWMlMjU5ZCUyNWI0LSUyNWVjJTI1ODIlMjVhYyUyNWVjJTI1OWElMjVhOSUyNWVjJTI1OWUlMjU5MC0lMjVlYiUyNThjJTI1ODAlMjVlYyUyNThiJTI1YTAtJTI1ZWIlMjVhNyUyNWE1LSUyNWVjJTI1YTclMjU4MSUyNWVjJTI1YTAlMjU5MS0lMjVlYyUyNWEwJTI1OWMlMjVlYyUyNTk2JTI1YjQtJTI1ZWMlMjU5NyUyNTkwJTI1ZWMlMjU5ZCUyNWI0JTI1ZWMlMjVhMCUyNTg0",
@@ -6300,47 +6343,6 @@
       "excerpt": "If you go to your favorite social media site, you will find it full of posts that start to look suspiciously similar to each other:",
       "tags": [
         "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cub25ldXNlZnVsdGhpbmcub3JnL3AvdGhlLXNoYXBlLW9mLXRoZS10aGluZw",
-      "title": "The Shape of the Thing",
-      "source": "One Useful Thing",
-      "sourceUrl": "https://www.oneusefulthing.org/feed",
-      "articleUrl": "https://www.oneusefulthing.org/p/the-shape-of-the-thing",
-      "thumbnailUrl": null,
-      "author": "Ethan Mollick",
-      "category": "AI + Work",
-      "publishedAt": "2026-03-12T14:10:07.000Z",
-      "readingMinutes": 4,
-      "score": 100,
-      "whyItMatters": "AI를 실제 업무 판단으로 연결해주는 현실 감각이 있다.",
-      "excerpt": "Where we are right now, and what likely happens next",
-      "tags": [
-        "one-useful-thing"
-      ],
-      "isNew": false
-    },
-    {
-      "id": "aHR0cHM6Ly93d3cudGVjaDQyLmNvLmtyLyVlZCU5OCU4NCVlYyU5ZSVhNS1haSVlYSViMCU4MC0lZWIlOGYlODgtJWVjJTkzJWIwJWVhJWIzJWEwLSVlYiVhMSU5YyVlYiViNCU4NyVlYyU5ZCViNC0lZWMlOWQlYmMlZWQlOTUlOTglZWIlOGElOTQtJWVjJThiJTljJWViJThjJTgwLSVlZCU5NSU5YyVlYSViNSVhZCVlYyU5ZCU4MC0lZWMlYTQlODAlZWIlYjklODQlZWIlOTAlOTAvP3V0bV9zb3VyY2U9cnNzJnV0bV9tZWRpdW09cnNzJnV0bV9jYW1wYWlnbj0lMjVlZCUyNTk4JTI1ODQlMjVlYyUyNTllJTI1YTUtYWklMjVlYSUyNWIwJTI1ODAtJTI1ZWIlMjU4ZiUyNTg4LSUyNWVjJTI1OTMlMjViMCUyNWVhJTI1YjMlMjVhMC0lMjVlYiUyNWExJTI1OWMlMjVlYiUyNWI0JTI1ODclMjVlYyUyNTlkJTI1YjQtJTI1ZWMlMjU5ZCUyNWJjJTI1ZWQlMjU5NSUyNTk4JTI1ZWIlMjU4YSUyNTk0LSUyNWVjJTI1OGIlMjU5YyUyNWViJTI1OGMlMjU4MC0lMjVlZCUyNTk1JTI1OWMlMjVlYSUyNWI1JTI1YWQlMjVlYyUyNTlkJTI1ODAtJTI1ZWMlMjVhNCUyNTgwJTI1ZWIlMjViOSUyNTg0JTI1ZWIlMjU5MCUyNTkw",
-      "title": "[현장] AI가 돈 쓰고 로봇이 일하는 시대, 한국은 준비됐나…AI 정책 포럼에서 바라본 국가 전략부터 법·제도까지",
-      "source": "Tech42",
-      "sourceUrl": "https://www.tech42.co.kr/feed/",
-      "articleUrl": "https://www.tech42.co.kr/%ed%98%84%ec%9e%a5-ai%ea%b0%80-%eb%8f%88-%ec%93%b0%ea%b3%a0-%eb%a1%9c%eb%b4%87%ec%9d%b4-%ec%9d%bc%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%ed%95%9c%ea%b5%ad%ec%9d%80-%ec%a4%80%eb%b9%84%eb%90%90/?utm_source=rss&utm_medium=rss&utm_campaign=%25ed%2598%2584%25ec%259e%25a5-ai%25ea%25b0%2580-%25eb%258f%2588-%25ec%2593%25b0%25ea%25b3%25a0-%25eb%25a1%259c%25eb%25b4%2587%25ec%259d%25b4-%25ec%259d%25bc%25ed%2595%2598%25eb%258a%2594-%25ec%258b%259c%25eb%258c%2580-%25ed%2595%259c%25ea%25b5%25ad%25ec%259d%2580-%25ec%25a4%2580%25eb%25b9%2584%25eb%2590%2590",
-      "thumbnailUrl": null,
-      "author": "황정호 기자",
-      "category": "AI + Korea",
-      "publishedAt": "2026-11-19T23:43:09.000Z",
-      "readingMinutes": 4,
-      "score": 99,
-      "whyItMatters": "한국어 기반으로 AI 산업과 정책 흐름을 빠르게 정리해준다.",
-      "excerpt": "지난 18일 국회 의원회관 제3간담회실에서 'AI와 인간, 공존을 넘어 평화로: AI기본법과 윤리적 미래'를 주제로 '2026 국회 AI 정책포럼'이 열렸다. 이날 행사에서는 'AI 반도체 2막, 한국의 전략경제 방향'을 주제로 기조연설에 나선 박영선 전 장관(재경부 전략경제자문단 위원장, 오른쪽 상단), 김동환 AI휴먼소사이어티 이사장 등을 비롯해 각계 전문가들이 AI 국가 전략과 관련한 의견을 공유했다.",
-      "tags": [
-        "tech42",
-        "인사이트42",
-        "정책플러스",
-        "ai"
       ],
       "isNew": false
     }
